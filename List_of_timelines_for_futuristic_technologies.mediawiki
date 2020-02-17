@@ -6,3 +6,9 @@ what are all of the "default timelines" of various technologies?
 * [[iterated embryo selection]]
 * [[genome synthesis]] + other stuff mentioned in https://www.gwern.net/Embryo-selection#overview-of-major-approaches
 * anti-aging
+
+there are also various kinds of timelines:
+
+* "default timeline"
+* timeline given lots of additional funding
+* timeline given current levels of interest in the thing
