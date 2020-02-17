@@ -5,3 +5,4 @@ what are all of the "default timelines" of various technologies?
 * [[nanotechnology]]
 * [[iterated embryo selection]]
 * [[genome synthesis]] + other stuff mentioned in https://www.gwern.net/Embryo-selection#overview-of-major-approaches
+* anti-aging
