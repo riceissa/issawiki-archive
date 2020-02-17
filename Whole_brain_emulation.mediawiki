@@ -1,0 +1,86 @@
+==questions==
+
+* what is the best point estimate or range of estimates for the "default timeline" of WBE?
+* how much "advance warning" do we get for WBE? (with de novo AGI, we already know that we don't know when it's going to come)
+* my understanding is that MIRI people/other smart people have prioritized technical AI alignment over WBEs because while WBEs would be safer if they came first, pushing on WBE is likely to produce algorithmic insights and will end up creating UFAI instead. is this basic picture right? are there any nuances missing from it?
+* is a manhattan project-like thing for WBE possible, and if so, how likely is that to happen? are there ways to make such a thing more likely to happen, and if so, what are those things?
+* is there anything about lo-fi/hi-fi emulation distinction i should know about/that is important to strategy?
+* is there anything else relevant to AI strategy that i should know about?
+
+==Different kinds of WBE==
+
+* hi-fi
+* lo-fi
+
+i'm not sure if hi-fi/lo-fi is about the resolution at which the brain is emulated, or if it's about something else.
+
+==Distinction between magically obtaining and the expected ways of obtaining==
+
+bostrom calls this "technology coupling" p. 236
+
+==Computer speed vs thinking speed==
+
+https://www.greaterwrong.com/posts/AWZ7butnGwwqyeCuc/the-importance-of-self-doubt/comment/Jri6mr6WzdysbyaTH the same idea is also discussed at https://youtu.be/Cul4-p7joDk?t=494
+
+==Timelines==
+
+* how many years to WBE under a "default timeline"?
+** "The Roadmap concluded that a human brain emulation would be possible before mid-century, providing that current technology trends kept up and providing that there would be sufficient investments." [https://wiki.lesswrong.com/wiki/Whole_brain_emulation]
+* how much can this timeline be accelerated?
+* different ways to accelerate timelines
+* i wonder if point estimates between different people have the same ordering of WBE vs de novo AGI (e.g. people might disagree about when WBE happens, but might be consistent about WBE not coming sooner than de novo AGI)
+* the amount of "advance warning" we get: for WBE, depends on what the bottleneck/last piece is
+
+https://www.greaterwrong.com/posts/dokw8bHND9ujPrSAT/discussion-yudkowsky-s-actual-accomplishments-besides/comment/3u5994Lm72rTtfTMN
+
+https://www.greaterwrong.com/posts/xgr8sDtQEEs7zfTLH/update-on-kim-suozzi-cancer-patient-in-want-of-cryonics/comment/2pZPLguNk58xtf9hu
+
+https://www.greaterwrong.com/posts/xgr8sDtQEEs7zfTLH/update-on-kim-suozzi-cancer-patient-in-want-of-cryonics/comment/h2wFFDDGgboFDqviF
+
+"The Singularity is still more likely than not, but these days, I tend to look towards emulation of human brains via scanning of plastinated brains as the cause. Whole brain emulation is not likely for many decades, given the extreme computational demands (even if we are optimistic and take the Whole Brain Emulation Roadmap figures, one would not expect a upload until the 2030s) and it’s not clear how useful an upload would be in the first place. It seems entirely possible that the mind will run slowly, be able to self-modify only in trivial ways, and in general be a curiosity akin to the Space Shuttle than a pivotal moment in human history deserving of the title Singularity." https://www.gwern.net/Mistakes#near-singularity (not sure when this was written, probably before recent advances in AI?)
+
+==References==
+
+Superintelligence -- WBE discussion is scattered across the book. The book actually covers most (all?) the points that carl brings up in LW comments (see links below), but the problem is that bostrom writes in his characteristic style where he lays out the considerations without actually stating his opinions.
+
+age of em? my impression is that this book just talks about the implications ''if'' WBEs happened to come first, but doesn't talk about the strategy of WBEs before they happen (comparing them to de novo AGI, intelligence amplification, etc.) which is what i care about most.
+
+https://youtu.be/EUjc1WuyPT8?t=4286
+
+nate: https://forum.effectivealtruism.org/posts/cuB3GApHqLFXG36C6/i-am-nate-soares-ama#KFvaoWBKdLchFHDw8
+
+"A risk-mitigating technology. On our current view of the technological landscape, there are a number of plausible future technologies that could be leveraged to end the acute risk period." https://intelligence.org/2017/12/01/miris-2017-fundraiser/#3 I'm guessing WBE is included as a candidate for this.
+
+https://www.greaterwrong.com/posts/v5AJZyEY7YFthkzax/hedging-our-bets-the-case-for-pursuing-whole-brain-emulation/comment/3zCweNgDiP9bvvJZa
+
+https://www.greaterwrong.com/posts/QqZcdAGDJFLnqpsmG/will-the-ems-save-us-from-the-robots/comment/jSAHbffFBiRxrcsx5
+
+https://www.greaterwrong.com/posts/dc9ehbHh6YA63ZyeS/genetically-engineered-intelligence/comment/5ywLzrcnGPHqnCmh3
+
+https://www.greaterwrong.com/posts/v5AJZyEY7YFthkzax/hedging-our-bets-the-case-for-pursuing-whole-brain-emulation/comment/8PudjfJmLXGMSGzbu
+
+https://www.greaterwrong.com/posts/QqZcdAGDJFLnqpsmG/will-the-ems-save-us-from-the-robots/comment/oDRdAWnpygymvJdtP
+
+https://intelligence.org/files/SS11Workshop.pdf
+
+https://www.fhi.ox.ac.uk/brain-emulation-roadmap-report.pdf
+
+https://www.greaterwrong.com/posts/jMKZKc2GiFGegRXvN/superintelligence-via-whole-brain-emulation
+
+http://intelligence.org/files/WBE-Superorgs.pdf
+
+https://www.greaterwrong.com/posts/QqZcdAGDJFLnqpsmG/will-the-ems-save-us-from-the-robots
+
+http://blog.ciphergoth.org/blog/2010/02/20/david-matthewman-whole-brain-emulation-roadmap/
+
+http://blog.ciphergoth.org/blog/2010/02/24/doug-clow-whole-brain-emulation-roadmap/
+
+https://www.greaterwrong.com/posts/v5AJZyEY7YFthkzax/hedging-our-bets-the-case-for-pursuing-whole-brain-emulation/comment/q5asyrQSPbNkhJyHg
+
+https://www.greaterwrong.com/posts/kiaDpaGAs4DZ5HKib/call-for-new-siai-visiting-fellows-on-a-rolling-basis/comment/Tz83otixS6BSwj4vo
+
+https://link.springer.com/chapter/10.1007/978-3-642-31674-6_19
+
+https://content.sciendo.com/configurable/contentpage/journals$002fjagi$002f4$002f3$002farticle-p170.xml
+
+https://www.youtube.com/results?search_query=carl+shulman&page=&utm_source=opensearch
