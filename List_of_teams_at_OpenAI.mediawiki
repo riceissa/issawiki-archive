@@ -5,3 +5,4 @@ why has nobody made a list like this?
 * Safety
 * Policy
 * Clarity (the one Chris Olah is on/leads)
+* Language [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/]
