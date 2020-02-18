@@ -15,5 +15,6 @@ there are also various kinds of timelines:
 * "default timeline"
 * timeline given lots of additional funding
 * timeline given current levels of interest in the thing
+* timeline after EA intervention
 
 there's also the question of relative vs absolute timelines. given all the "game-changing technologies", it makes sense to focus on the one that relatively speaking will come first. but also, if all of them are far off, we can do more strategizing/indirect stuff.
