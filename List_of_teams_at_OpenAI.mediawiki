@@ -1,0 +1,7 @@
+why has nobody made a list like this?
+
+* Foresight [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/]
+* Reflection-Humans [https://lw2.issarice.com/posts.php?id=Br4xDbYu4Frwrb64a] -- is this different from safety?
+* Safety
+* Policy
+* Clarity (the one Chris Olah is on/leads)
