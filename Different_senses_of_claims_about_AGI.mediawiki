@@ -1,0 +1,5 @@
+when making claims about AGI like "how much compute will AGI use?" or "will AGI be clean or messy?" there are several senses/scenarios of AGI we could be talking about: 
+
+* claims about the first AGI that will probably appear
+* claims about an ideal aligned AGI
+* claims about a theoretically possible "optimal" AGI
