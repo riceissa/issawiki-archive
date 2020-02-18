@@ -7,3 +7,5 @@ why has nobody made a list like this?
 * Clarity (the one Chris Olah is on/leads)
 * Language [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/]
 * Robotics [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/]
+
+"Over time, as different bets rise above others, they will attract more intense efforts. Then they will cross-pollinate and combine. The goal is to have fewer and fewer teams that ultimately collapse into a single technical direction for AGI. This is the exact process that OpenAI’s latest top-secret project has supposedly already begun." [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/]
