@@ -1,1 +1,3 @@
 test
+
+<math>\sin x</math>
