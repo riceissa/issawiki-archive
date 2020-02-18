@@ -1,0 +1,6 @@
+
+"A team called “Foresight” runs experiments to test how far they can push AI capabilities forward by training existing algorithms with increasingly large amounts of data and computing power. For the leadership, the results of these experiments have confirmed its instincts that the lab’s all-in, compute-driven strategy is the best approach." [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/]
+
+==See also==
+
+* [[secret sauce for intelligence]]
