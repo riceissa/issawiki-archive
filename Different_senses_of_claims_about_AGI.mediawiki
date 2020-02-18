@@ -3,3 +3,5 @@ when making claims about AGI like "how much compute will AGI use?" or "will AGI 
 * claims about the first AGI that will probably appear
 * claims about an ideal aligned AGI
 * claims about a theoretically possible "optimal" AGI
+
+an example is [https://agentfoundations.org/item?id=1228 this comment] by [[Nate]]: "Indeed, if I thought one ''had'' to understand good consequentialist reasoning in order to design a highly capable AI system, I’d be less worried by a decent margin." the general MIRI view that you can get to the first AGI without really understanding anything, whereas to get an aligned AGI you do need to understand things.
