@@ -1,0 +1,11 @@
+a scenario i've been wondering about recently is where there is a stereotypical "soft takeoff" until around the point where the AI has somewhat-infra-human level general intelligence, and then once it crosses some threshold, a stereotypical "hard takeoff" happens.
+
+the only places where i've found any discussion of this:
+
+eric drexler [https://sideways-view.com/2018/02/24/takeoff-speeds/#comment-355 says]: """What I find extremely implausible are scenarios in which humanity confronts high-level AI without the prior emergence of potentially-strategically-decisive AI — that is, AI capabilities that are potentially decisive when employed by some group of ingenious, well-resourced human actors.
+
+If we see something like “fast takeoff”, it is likely to occur in a world that is already far up the slope of a slow takeoff trajectory; if so, then many (though not all) of the key strategic considerations resemble those you’ve discussed in the context of slow-takeoff models.
+
+The continued popularity of scenarios that posit fast takeoff with weak precursors is, I think, the result of a failure to update on the actual trajectory of AI development, or a failure of imagination in considering how intermediate levels of AI technology could be exploited."""
+
+In [https://gist.github.com/bshlgrs/a46f3fa25e2f9a8fbd07026de354fc22 this gist], buck asks "It seems like there might be various ways that the world could be radically transformed by narrow AI before it's transformed by AGI; why don't people talk about that? (Maybe CAIS is people talking about this?)"
