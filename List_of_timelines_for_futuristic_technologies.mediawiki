@@ -3,8 +3,11 @@ what are all of the "default timelines" of various technologies?
 * de novo AGI
 * [[whole brain emulation]]
 * [[nanotechnology]]
-* [[iterated embryo selection]]
-* [[genome synthesis]] + other stuff mentioned in https://www.gwern.net/Embryo-selection#overview-of-major-approaches
+* human intelligence enhancement
+** [[iterated embryo selection]]
+** [[genome synthesis]] + other stuff mentioned in https://www.gwern.net/Embryo-selection#overview-of-major-approaches
+** drugs that can make people smart??
+** brain implants??
 * anti-aging
 
 there are also various kinds of timelines:
