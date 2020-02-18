@@ -1,6 +1,6 @@
 a scenario i've been wondering about recently is where there is a stereotypical "soft takeoff" until around the point where the AI has somewhat-infra-human level general intelligence, and then once it crosses some threshold, a stereotypical "hard takeoff" happens.
 
-the only places where i've found any discussion of this:
+the only places where i've found any discussion of anything similar to this:
 
 * eric drexler [https://sideways-view.com/2018/02/24/takeoff-speeds/#comment-355 says]: """What I find extremely implausible are scenarios in which humanity confronts high-level AI without the prior emergence of potentially-strategically-decisive AI — that is, AI capabilities that are potentially decisive when employed by some group of ingenious, well-resourced human actors.
 
