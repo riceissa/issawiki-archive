@@ -11,3 +11,13 @@ the only places where i've found any discussion of anything similar to this:
 * In [https://gist.github.com/bshlgrs/a46f3fa25e2f9a8fbd07026de354fc22 this gist], buck asks "It seems like there might be various ways that the world could be radically transformed by narrow AI before it's transformed by AGI; why don't people talk about that? (Maybe CAIS is people talking about this?)"
 
 I thought [https://www.greaterwrong.com/posts/ZFtesgbY9XwtqqyZ5/human-psycholinguists-a-critical-appraisal this post] about GPT-2 was pretty interesting: "But even this would be an important discovery – the discovery that huge swaths of what we consider most essential about language can be done “non-linguistically.” For every easy test that children pass and GPT-2 fails, there are hard tests GPT-2 passes which the scholars of 2001 would have thought far beyond the reach of any near-future machine. If this is the conclusion we’re drawing, it would imply a kind of paranoia about true linguistic ability, an insistence that one can do so much of it so well, can learn to write like spookily like Nabokov (or like me) given 12 books and 6 hours to chew on them … and yet still not be “the real thing,” not even a little bit. It would imply that there are language-like behaviors out there in logical space which aren’t language and which are nonetheless so much like it, non-trivially, beautifully, spine-chillingly like it." -- if many other things that humans can do are like language in this sense, we could start seeing crazy things happening in the world even though the AI "doesn't really understand" anything.
+
+==implications==
+
+let's look at paul's "Why does this matter?" section in his [https://sideways-view.com/2018/02/24/takeoff-speeds/ takeoff speeds] post.
+
+* "it will become quite obvious that AI is going to transform the world well before we kill ourselves" -- yes, this is true for soft-hard
+* "we will have some time to experiment with different approaches to safety" -- not necessarily? AGI could still be very different from the narrow kinds of AI, so that the same safety tricks won't work. or AGI is just much harder to align (because it understands things or whatever).
+* "policy-makers will have time to understand and respond to AI" -- i guess this is true
+* "whoever develops AGI first has a massive advantage over the rest of the world and hence great freedom in choosing what to do with their invention" -- i think this is true
+* "in slow takeoff scenarios, other actors will already have nearly-as-good-AGI, and a group that tries to use AGI in a very restricted or handicapped way won’t be able to take any pivotal action" -- not necessarily true; in soft-hard takeoff, AGI could still be much better than the narrow predecessors.
