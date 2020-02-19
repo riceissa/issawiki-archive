@@ -6,6 +6,8 @@ i guess this is about the same sort of thing (but maybe not exactly the same): h
 
 saying there is a simple core of agency/consequentialist reasoning/rationality is not the same thing as saying that AGI will be simple (rather than messy), i think. there could be modules of the AGI (like for image recognition, language) that can be very messy, but where the core agency module is still simple.
 
+see also discussions in https://arbital.com/p/general_intelligence/ about how there is a spectrum you can be on between "everything will need super specialized algorithms" vs "there is such a thing as 'general intelligence', that once you have it, you can basically do a bunch of things you weren't specifically programmed for".
+
 ==See also==
 
 * [[Hardware-driven vs software-driven progress]]
