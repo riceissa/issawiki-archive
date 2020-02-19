@@ -3,3 +3,17 @@ a [[cognitive reduction]] doesn't ask "why do i have free will?" but instead ask
 i want to ask similar questions about disagreements, particularly disagreements in ai safety about [[AI timelines]], [[takeoff speed]], [[simple core algorithm of agency]], and so forth. why do people disagree? is it reasonable to have disagreements about this sort of thing? would we have expected these disagreements to arise prior to seeing the discussion?
 
 one step forward in this kind of thinking is [[eliezer]]'s [http://lesswrong.com/lw/gz/policy_debates_should_not_appear_onesided/ "Policy Debates Should Not Appear One-Sided"], which gives a kind of rule of thumb about ''when'' we should expect debates to be one-sided vs multi-sided. (namely, if it's a simple question of fact, it should appear one-sided, but if it's a policy question with multiple parties who have different stakes and each policy affects people in complicated ways, then we should expect strong arguments on multiple sides)
+
+see also https://www.greaterwrong.com/posts/TGux5Fhcd7GmTfNGC/is-that-your-true-rejection which has the following list:
+
+<blockquote>I suspect that, in general, if two rationalists set out to resolve a disagreement that persisted past the first exchange, they should expect to find that the true sources of the disagreement are either hard to communicate, or hard to expose. E.g.:
+
+* Uncommon, but well-supported, scientific knowledge or math;
+* Long inferential distances;
+* Hard-to-verbalize intuitions, perhaps stemming from specific visualizations;
+* Zeitgeists inherited from a profession (that may have good reason for it);
+* Patterns perceptually recognized from experience;
+* Sheer habits of thought;
+* Emotional commitments to believing in a particular outcome;
+* Fear that a past mistake could be disproved;
+* Deep self-deception for the sake of pride or other personal benefits.</blockquote>
