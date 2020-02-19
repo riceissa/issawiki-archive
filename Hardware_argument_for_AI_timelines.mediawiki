@@ -1,3 +1,3 @@
 The '''hardware argument''' is a common argument structure for estimating when AGI will be created.
 
-see http://www.aleph.se/andart/archives/2010/10/why_early_singularities_are_softer.html and https://aiimpacts.org/how-ai-timelines-are-estimated/
+see https://intelligence.org/files/SoftwareLimited.pdf and http://www.aleph.se/andart/archives/2010/10/why_early_singularities_are_softer.html and https://aiimpacts.org/how-ai-timelines-are-estimated/
