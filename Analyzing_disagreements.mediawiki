@@ -17,3 +17,11 @@ see also https://www.greaterwrong.com/posts/TGux5Fhcd7GmTfNGC/is-that-your-true-
 * Emotional commitments to believing in a particular outcome;
 * Fear that a past mistake could be disproved;
 * Deep self-deception for the sake of pride or other personal benefits.</blockquote>
+
+also see [https://intelligence.org/files/IEM.pdf IEM], which has:
+
+<blockquote>These differently behaving cases are not competing arguments about how a single grand curve of cognitive investment has previously operated. They are all simultaneously true, and hence they must be telling us ''different'' facts about growth curves—telling us about different domains of a multivariate growth function—advising us of many compatible truths about how intelligence and real-world power vary with different kinds of cognitive investments.</blockquote>
+
+with the footnote:
+
+<blockquote>Reality itself is always perfectly consistent—only maps can be in conflict, not the territory. Under the Bayesian definition of evidence, “strong evidence” is just that sort of evidence that we almost never see on more than one side of an argument. Unless you’ve made a mistake somewhere, you should almost never see extreme likelihood ratios pointing in different directions. Thus it’s not possible that the facts listed are all “strong” arguments, about the ''same'' variable, pointing in ''different'' directions.</blockquote>
