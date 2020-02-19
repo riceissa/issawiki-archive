@@ -1,0 +1,7 @@
+/* CSS placed here will be applied to all skins */
+blockquote {
+  border-left: 2px solid #369;
+  padding-left: 10px;
+  margin-right: 15px;
+  margin-left: 0px;
+}
