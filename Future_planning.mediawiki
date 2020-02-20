@@ -17,3 +17,4 @@ things to talk about:
 ** something-like-realism-about-rationality
 ** whether MIRI-type work can be done in time
 ** whether ML-based approaches are doomed
+** whether "weird recursions" are a good idea
