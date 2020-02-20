@@ -12,7 +12,7 @@
 
 ==Analysis==
 
-The important point is that we meet all three of the following criteria: (1) the whole process is mostly aligned/doing things that are "good for Hugh" in some sense; (2) the resulting AI is competitive; (3) Hugh doesn't have a clue what is going on.
+The important point is that we meet all three of the following criteria: (1) the whole process is mostly aligned/doing things that are "good for Hugh" in some sense; (2) the resulting AI is competitive; (3) Hugh doesn't have a clue what is going on. Many explanations of IDA don't emphasize (3), so they make it seem like Hugh is always at the "root node" overseeing everything that's going on (which would conflict with (2), hence my confusion).
 
 The overseer is always much more capable than the agent it is trying to train. So we won't have something like the agent pushing the overseer over so that it can press to "i approve" button.
 
