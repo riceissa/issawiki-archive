@@ -19,3 +19,7 @@ paul: 'As far as I can tell, the MIRI view is that my work is aimed at problem w
 rob's [http://benjaminrosshoffman.com/openai-makes-humanity-less-safe/#comment-128636 comment] has more details but it doesn't ''seem'' like there is some sort of super strong argument.
 
 [[eliezer]]: https://www.greaterwrong.com/posts/Djs38EWYZG8o7JMWY/paul-s-research-agenda-faq/comment/79jM2ecef73zupPR4 "You can’t just assume you can train for X in a robust way when you have a loss function that targets X." -- again, this sounds more like (2) above than the stuff in (3).
+
+==See also==
+
+* [[Analyzing disagreements]]
