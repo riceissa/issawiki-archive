@@ -17,3 +17,5 @@ The important point is that we meet all three of the following criteria: (1) the
 The overseer is always much more capable than the agent it is trying to train. So we won't have something like the agent pushing the overseer over so that it can press to "i approve" button.
 
 The above does not explain how corrigibility, adversarial training, verification, transparency, and other measures to keep the AI aligned fit into the scheme. This is a separate confusion I (and [https://www.lesswrong.com/posts/FdfzFcRvqLf4k5eoQ/list-of-resolved-confusions-about-ida#GEakRRgKZbrMJg82w others]) have had about [[IDA]] that I think imitation-based exposition could improve on. But above I've just focused on the "how does IDA get arbitrarily capable at all?" part of my confusion, leaving the other parts for some other time. I'd like to improve the above explanation by adding the stuff about corrigibility, optimizing worst case performance, etc.
+
+[[Category:Iterated amplification]]
