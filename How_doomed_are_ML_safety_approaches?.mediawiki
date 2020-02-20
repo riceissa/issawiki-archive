@@ -8,4 +8,4 @@ in particular, which one of the following is the case closest to?
 ## a really good argument for why ML-based approaches are doomed, but it's really hard to write down / too long to write down / we don't have enough time to write it down / there's too much inferential distance to cover
 ## a really strong intuition that the problems in (1) and (2) really will actually be problems, but it's super hard to articulate this intuition.
 
-https://intelligence.org/2015/07/27/miris-approach/ -- this article, in particular the section "Creating a powerful AI system without understanding why it works is dangerous", seems to point to (1) being the thing.
+https://intelligence.org/2015/07/27/miris-approach/ -- this article, in particular the section "Creating a powerful AI system without understanding why it works is dangerous", gives a basic case for (1).
