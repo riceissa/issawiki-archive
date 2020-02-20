@@ -1,0 +1,11 @@
+I want to understand better the MIRI case for thinking that ML-based safety approaches (like [[paul christiano]]'s agenda) are so hopeless as to not be worth working on (or something like that).
+
+in particular, which one of the following is the case closest to?
+
+# a highly intelligent AI would see things humans cannot see, can arrive at unanticipated solutions, etc. therefore it seems pretty imprudent/careless/whatever to go ahead and try to build an AGI via ML without really understanding what is going on.
+# in addition to (1), we have some sketchy ideas of why things could be bad by default. for instance, optimization daemons could be a thing (humans are an existence proof that this isn't impossible). we cannot tell if any of these sketchy ideas are ''likely'', but they are theoretically possible.
+# in addition to the stuff in (1) and (2), we actually additionally have one of the following:
+## a really good argument for why ML-based approaches are doomed, but it's really hard to write down / too long to write down / we don't have enough time to write it down / there's too much inferential distance to cover
+## a really strong intuition that the problems in (1) and (2) really will actually be problems, but it's super hard to articulate this intuition.
+
+https://intelligence.org/2015/07/27/miris-approach/ -- this article, in particular the section "Creating a powerful AI system without understanding why it works is dangerous", seems to point to (1) being the thing.
