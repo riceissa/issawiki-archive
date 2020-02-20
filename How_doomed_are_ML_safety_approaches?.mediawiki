@@ -9,3 +9,5 @@ in particular, which one of the following is the case closest to?
 ## a really strong intuition that the problems in (1) and (2) really will actually be problems, but it's super hard to articulate this intuition.
 
 https://intelligence.org/2015/07/27/miris-approach/ -- this article, in particular the section "Creating a powerful AI system without understanding why it works is dangerous", gives a basic case for (1).
+
+https://agentfoundations.org/item?id=1220 -- this is somewhere between (1) and (3.1) i think? like, it's more detailed than just (1), but i wouldn't call this a super watertight argument. specifically, point (4) in the argument seems sketchy; it's basically just saying "advanced ML systems cannot be aligned".
