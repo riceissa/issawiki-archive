@@ -1,4 +1,4 @@
-==explanation==
+==Explanation==
 
 '''Stage 0''': In the beginning, Hugh directly rates actions to provide the initial training data on what Hugh approves of. This is used to train <math>A_0</math>. At this point, <math>A_0</math> is superhuman in some ways and subhuman in others, just like current-day ML systems.
 
@@ -9,3 +9,11 @@
 '''Stage n''': In the previous stage, <math>A_{n-1}</math> was trained. Unlike previous versions of Arthur, <math>A_{n-1}</math> is superhuman in basically all ways: it can answer sub-questions better, it can break questions into sub-questions better, it makes fewer "mistakes" about what rating to give to an action than Hugh, and so on. We might still want Hugh around, because <math>A_{n-1}</math> isn't the "ground truth" (it doesn't have access to Hugh's "actual preferences"). But for the purpose of training <math>A_n</math>, Hugh is basically obsolete. So now a team of <math>A_{n-1}</math>s, coordinating with each other (with an <math>A_{n-1}</math> at the "root node") tries to put together a training data for "how do you rate this action?" Hopefully, if nothing has gone horribly wrong, this training data is basically training data for "how would Hugh rate this action, if he was given a huge amount of time, given access to error-correcting tools and a team of human philosophical advisors?" The team of <math>A_{n-1}</math>s might still ask Hugh some questions like "So uh, Hugh, we're 99.9% sure what the answer is, but you ''do'' like chocolate, right?" -- the important point is that the questions do not assume Hugh has a holistic/"big picture strategy" understanding (because by this point Hugh is relaxing on the beach while his assistants take over the world and acquire flexible resources).
 
 '''Stage N''': Similar to stage <math>n</math>, but now Hugh is even less involved in the whole process.
+
+==Analysis==
+
+The important point is that we meet all three of the following criteria: (1) the whole process is mostly aligned/doing things that are "good for Hugh" in some sense; (2) the resulting AI is competitive; (3) Hugh doesn't have a clue what is going on.
+
+The overseer is always much more capable than the agent it is trying to train. So we won't have something like the agent pushing the overseer over so that it can press to "i approve" button.
+
+The above does not explain how corrigibility, adversarial training, verification, transparency, and other measures to keep the AI aligned fit into the scheme. This is a separate confusion I (and [ https://www.lesswrong.com/posts/FdfzFcRvqLf4k5eoQ/list-of-resolved-confusions-about-ida#GEakRRgKZbrMJg82wothers]) have had about [[IDA]] that I think imitation-based exposition could improve on. But above I've just focused on the "how does IDA get arbitrarily capable at all?" part of my confusion, leaving the other parts for some other time. I'd like to improve the above explanation by adding the stuff about corrigibility, optimizing worst case performance, etc.
