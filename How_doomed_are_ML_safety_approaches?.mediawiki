@@ -24,6 +24,8 @@ https://www.greaterwrong.com/posts/S7csET9CgBtpi7sCh/challenges-to-christiano-s-
 
 https://intelligence.org/2013/08/25/transparency-in-safety-critical-systems/ -- this is also just (1), or part of the input into an argument for (1).
 
+an important question for me is something like, if paul's approach doesn't work, how would we find that out? it seems like the more effort you put into ML-based alignment, the less obvious your failures become.
+
 ==See also==
 
 * [[Analyzing disagreements]]
