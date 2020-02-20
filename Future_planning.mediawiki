@@ -4,3 +4,16 @@ things to talk about:
 ** there's the sort of opposite question of, how doomed is MIRI's approach? i.e. if there turns out to be no [[simple core algorithm for agency]], or if understanding agency better doesn't help us build an AGI, then we might not be in a better place wrt aligning AI.
 * can MIRI-type research be done in time to help with AGI? see [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-Dk5LmWMEL55ufkTB5 this comment]
 * prior on difficulty of alignment, and ideas like "if ML-based safety were to have any shot at working, wouldn't we just go all the way and expect the default (no EA intervention) approach to AGI to just produce basically ok outcomes?"
+* list of things people disagree about:
+** probability of doom
+** shape of takeoff
+** what precursors/narrow systems we will see prior to AGI
+** AI timelines
+** what the first AGI will look like
+** how big of a problem collusion between subsystems of an AI will be
+** how likely optimization daemons are or what they will look like
+** whether there is a basic of attraction for corrigibility
+** whether an AGI will look like a utility maximizer?
+** something-like-realism-about-rationality
+** whether MIRI-type work can be done in time
+** whether ML-based approaches are doomed
