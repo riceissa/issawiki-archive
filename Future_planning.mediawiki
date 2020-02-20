@@ -6,6 +6,7 @@ things to talk about:
 * prior on difficulty of alignment, and ideas like "if ML-based safety were to have any shot at working, wouldn't we just go all the way and expect the default (no EA intervention) approach to AGI to just produce basically ok outcomes?"
 * list of things people disagree about:
 ** probability of doom
+** probability of doom without any special EA intervention
 ** shape of takeoff
 ** what precursors/narrow systems we will see prior to AGI
 ** AI timelines
@@ -18,3 +19,4 @@ things to talk about:
 ** whether MIRI-type work can be done in time
 ** whether ML-based approaches are doomed
 ** whether "weird recursions" are a good idea
+** whether we can correct mistakes when deploying AI systems as they come up (i.e. how catastrophic the initial problems will be)
