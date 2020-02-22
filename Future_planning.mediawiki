@@ -20,3 +20,5 @@ things to talk about:
 ** whether ML-based approaches are doomed
 ** whether "weird recursions" are a good idea
 ** whether we can correct mistakes when deploying AI systems as they come up (i.e. how catastrophic the initial problems will be)
+** how many/how "lumpy" insights are for creating an AGI
+** how much sharing/trading there will be between different AI companies (eliezer vs [[Robin Hanson]])
