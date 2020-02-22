@@ -15,6 +15,8 @@ I thought [https://www.greaterwrong.com/posts/ZFtesgbY9XwtqqyZ5/human-psycholing
 
 "Continuous takeoff is a statement about what happens before we reach the point where a fast takeoff is supposed to happen, and is perfectly consistent with the claim that given the stated preconditions for fast takeoff, fast takeoff will happen. It’s a statement that serious problems, possibly serious enough to pose an existential threat, will show up before the window where we expect fast takeoff scenarios to occur." [https://lw2.issarice.com/posts/5WECpYABCT62TJrhY/will-ai-undergo-discontinuous-progress#The_Outside_View] -- i guess this is the same sort of thing as what i am describing here. if so, then i agree that talking about "soft" vs "hard" takeoff is pretty misleading, and we should be talking about "shape prior to takeoff" (business as usual vs crazy shit happens), and then ''separately'' about the speed of takeoff (where it doesn't seem like paul and MIRI even disagree?). Also if this is the case, i don't see how anything [[eliezer]] writes actually contradicts what paul writes. like, i think eliezer is consistently only talking about the speed of takeoff, ''not'' the shape of progress prior to takeoff?
 
+so what is paul's argument that once we reach a "takeoff level capability", we won't get a unipolar/[[decisive strategic advantage]] outcome? i think it's something like: because the runner-ups will have almost-as-capable AI, they can fight back somewhat effectively, and in a short time they will reach the current winner's capability (even while the current winner will be even ahead by then).
+
 ==implications==
 
 let's look at paul's "Why does this matter?" section in his [https://sideways-view.com/2018/02/24/takeoff-speeds/ takeoff speeds] post.
