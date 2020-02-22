@@ -9,4 +9,6 @@
 | [[Daniel Kokotajlo]] || Yes || Yes || Yes
 |-
 | [[Hansonian]] slow takeoff || Yes || No || No
+|-
+| [[Eric Drexler]]'s CAIS || Yes || ? || No?
 |}
