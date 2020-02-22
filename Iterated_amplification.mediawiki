@@ -3,3 +3,5 @@
 ==See also==
 
 * [[My understanding of how IDA works]]
+
+[[Category:Iterated amplification]]
