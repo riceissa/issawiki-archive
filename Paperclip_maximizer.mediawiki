@@ -4,3 +4,5 @@ my understanding is that the paperclip maximizer example was intended to illustr
 * [[instrumental convergence]]: even if an AI isn't deliberately trying to hurt us (as a terminal value), it will still probably kill us because it is instrumentally valuable to acquire resources, disarm other agents that could interfere, etc.
 
 However, the paperclip maximizer is sometimes also mentioned when talking about more realistic AI designs, and how a "random" goal that an unaligned AI would have is as valuable as paperclipping.
+
+many discussions about the paperclip maximizer don't seem to realize which concepts the example is designed to illustrate, so they get derailed by comments like "but programming your AI to maximize paperclips is so stupid lol"
