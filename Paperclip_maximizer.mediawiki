@@ -1,0 +1,6 @@
+my understanding is that the paperclip maximizer example was intended to illustrate the following two concepts:
+
+* [[orthogonality thesis]]: intelligence/capability and values can vary orthogonally; a superintelligent AI need not realize that "making paperclips is stupid" and decide to maximize happiness instead
+* [[instrumental convergence]]: even if an AI isn't deliberately trying to hurt us (as a terminal value), it will still probably kill us because it is instrumentally valuable to acquire resources, disarm other agents that could interfere, etc.
+
+However, the paperclip maximizer is sometimes also mentioned when talking about more realistic AI designs, and how a "random" goal that an unaligned AI would have is as valuable as paperclipping.
