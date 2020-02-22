@@ -10,5 +10,5 @@
 |-
 | [[Hansonian]] slow takeoff || Yes || No || No
 |-
-| [[Eric Drexler]]'s CAIS || Yes || ? || No?
+| [[Eric Drexler]]'s CAIS || Yes || ? doesn't he says something weird, like all of the AI systems together recursively self-improving, without a single agent-like AI that self-improves? || No?
 |}
