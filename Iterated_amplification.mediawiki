@@ -1,0 +1,5 @@
+'''Iterated amplification''' (also called '''iterated distillation and amplification''', and abbreviated '''IDA''') is the technical alignment agenda that [[Paul Christiano]] works on.
+
+==See also==
+
+* [[My understanding of how IDA works]]
