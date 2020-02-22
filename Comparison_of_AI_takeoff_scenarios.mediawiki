@@ -1,0 +1,12 @@
+{| class="wikitable"
+|-
+! Scenario !! Significant changes to the world prior to critical AI capability threshold being reached? !! Intelligence explosion? !! Decisive strategic advantage?
+|-
+| [[Yudkowskian]] hard takeoff || No || Yes || Yes
+|-
+| [[Paul]]'s slow takeoff || Yes || Yes || No
+|-
+| [[Daniel Kokotajlo]] || Yes || Yes || Yes
+|-
+| [[Hansonian]] slow takeoff || Yes || No || No
+|}
