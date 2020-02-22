@@ -1,0 +1,5 @@
+In discussions of AI risk, evolution is often used as an analogy for the development of AGI. here are some examples:
+
+* chimpanzee vs human intelligence
+* [[optimization daemon]]s/inner optimizers/mesa-optimization
+* the plausibility of AGI
