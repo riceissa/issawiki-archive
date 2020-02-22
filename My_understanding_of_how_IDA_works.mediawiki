@@ -1,3 +1,5 @@
+My understanding of how [[iterated amplification]] works:
+
 ==Explanation==
 
 '''Stage 0''': In the beginning, Hugh directly rates actions to provide the initial training data on what Hugh approves of. This is used to train <math>A_0</math>. At this point, <math>A_0</math> is superhuman in some ways and subhuman in others, just like current-day ML systems.
