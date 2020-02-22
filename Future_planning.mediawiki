@@ -21,4 +21,4 @@ things to talk about:
 ** whether "weird recursions" are a good idea
 ** whether we can correct mistakes when deploying AI systems as they come up (i.e. how catastrophic the initial problems will be)
 ** how many/how "lumpy" insights are for creating an AGI
-** how much sharing/trading there will be between different AI companies (eliezer vs [[Robin Hanson]])
+** how much sharing/trading there will be between different AI companies (eliezer vs [[Robin Hanson]]) -- this one is downstream of lumpiness of insights, because hanson expects that if there are very few insights needed to get to AGI, then there won't be any need for sharing (so in that case even hanson would agree with eliezer).
