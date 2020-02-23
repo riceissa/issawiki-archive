@@ -28,5 +28,5 @@ things to talk about:
 ** whether "weird recursions" are a good idea
 ** whether we can correct mistakes when deploying AI systems as they come up (i.e. how catastrophic the initial problems will be)
 ** how many/how "lumpy" insights are for creating an AGI
+*** "the degree of complexity of useful combination, and the degree to which a simple general architecture search and generation process can find such useful combinations for particular tasks" [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155848951264228&reply_comment_id=10155849315174228]
 ** how much sharing/trading there will be between different AI companies (eliezer vs [[Robin Hanson]]) -- this one is downstream of lumpiness of insights, because hanson expects that if there are very few insights needed to get to AGI, then there won't be any need for sharing (so in that case even hanson would agree with eliezer).
-** "the degree of complexity of useful combination, and the degree to which a simple general architecture search and generation process can find such useful combinations for particular tasks" [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155848951264228&reply_comment_id=10155849315174228]
