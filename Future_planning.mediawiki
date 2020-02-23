@@ -43,6 +43,9 @@ things to talk about:
 ** what will failure look like? yudkowskian takeover vs paul's "we get what we measure, and our ability to get what we specify outstrips our ability to measure what we truly want" vs paul's influence-seeking optimizers/daemons vs ...
 ** how strong of a guarantee do we need for the safety of AI? proof-level (does anyone actually argue this?) vs security mindset vs whatever ML safety people believe
 ** deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one.
+** how useful is each kind of research e.g. Paul's vs MIRI's?
+** what lessons can we learn by looking at the [[Evolution|evolutionary history]] of chimps vs humans?
+** what lessons can we learn from [[AlphaGo]]?
 
 ==References==
 
