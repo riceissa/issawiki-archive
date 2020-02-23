@@ -1,0 +1,4 @@
+what are the possibilities for prosaic AI? i.e. if prosaic AI happened, then what are some possible reasons for why this happened? some ideas:
+
+* optimizing hard enough produced a [[mesa-optimizer]] inside the neural network (or whatever)
+* all of the things we humans do with our general intelligence turns out to be possible to do without actually "understanding" anything. i.e. in the same way that [[AlphaGo]] can play Go "without understanding" what it is doing, and how [[GPT-2]] can write an essay "without understanding" its meaning, it turns out that all of the things humans do (including AI research) is possible without such understanding.
