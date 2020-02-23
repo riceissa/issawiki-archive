@@ -8,7 +8,11 @@
 |-
 | [[Daniel Kokotajlo]] || Yes || Yes || Yes
 |-
-| [[Hansonian]] slow takeoff || Yes || No?<ref>In some places Hanson says things like "You may recall that I did not dispute that an AI based economy would grow faster than does our economy today. The issue is the relative rate of growth of one AI system, across a broad range of tasks, relative to the entire rest of the world at that time." [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155848990064228&reply_comment_id=10155849018834228] This sounds more like Paul's takeoff scenario. I'm not clear on how the Paul and Hanson scenarios differ.</ref> || No
+| [[Hansonian]] slow takeoff || Yes || No?<ref group=notes>In some places Hanson says things like "You may recall that I did not dispute that an AI based economy would grow faster than does our economy today. The issue is the relative rate of growth of one AI system, across a broad range of tasks, relative to the entire rest of the world at that time." [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155848990064228&reply_comment_id=10155849018834228] This sounds more like Paul's takeoff scenario. I'm not clear on how the Paul and Hanson scenarios differ.</ref> || No
 |-
 | [[Eric Drexler]]'s CAIS || Yes || No? I think he says something weird, like all of the AI systems together recursively self-improving at the all-AI-services-combined level, without a single agent-like AI that self-improves. || No?
 |}
+
+==Notes==
+
+<references group=notes/>
