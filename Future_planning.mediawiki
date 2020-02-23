@@ -15,6 +15,7 @@ things to talk about:
 ** civilizational adequacy
 ** probability of doom without any special EA intervention
 ** shape of takeoff
+*** [[Will there be significant changes to the world prior to some critical AI capability threshold being reached?]]
 ** what precursors/narrow systems we will see prior to AGI
 ** AI timelines
 ** what the first AGI will look like
