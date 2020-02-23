@@ -1,0 +1,6 @@
+kinds of value learning:
+
+* ambitious value learning
+* narrow value learning
+** paul's definition
+** rohin's definition
