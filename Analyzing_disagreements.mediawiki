@@ -30,3 +30,7 @@ I think one of the interesting things about the disagreements in AI safety is ho
 
 * the [[gap between chimpanzee and human intelligence]]: [[Eliezer]] sees this as supporting FOOM, i.e. you can make a small tweak to a brain to get much more general intelligence. [[Paul]] sees this as an argument against FOOM, because evolution wasn't optimizing for general intelligence (so that it isn't an example of discontinuous improvement). See [https://lw2.issarice.com/posts.php?id=CjW4axQDqLd2oDCGG#YPodaAtRhN4qJefxb this comment] for more.
 * [[AlphaGo Zero]]: Eliezer sees this as supporting FOOM because a single project got ahead of everyone else and suddenly shot past human performance, and because a "simple" algorithm that generalizes to many settings was able to achieve this performance. Paul sees this as evidence against because Go isn't an economically valuable task, so there wasn't enough incentive to get superhuman performance, and because he sees AlphaGo Zero as being impressive in implementation (rather than basic insights).<ref>https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155849474514228</ref>
+
+==References==
+
+<references/>
