@@ -40,6 +40,7 @@ things to talk about:
 ** will failure be conspicuous?
 ** how likely is a treacherous turn/context change type of failure?
 ** how much overlap is there between AI capabilities work and safety work? (e.g. is it reasonable to say things like "making progress on safety requires advancing capabilities"?)
+** what will failure look like? yudkowskian takeover vs paul's "we get what we measure, and our ability to get what we specify outstrips our ability to measure what we truly want" vs paul's influence-seeking optimizers/daemons vs ...
 
 ==References==
 
