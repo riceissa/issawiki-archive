@@ -2,7 +2,7 @@ things to talk about:
 
 * the most decision-relevant questions for me right now (everything else should feed into one of these questions):
 ** AI safety vs something else? right now AI safety seems like the best candidate for the biggest/soonest change, but i want to investigate some other things.
-** if AI safety, then what technical agenda seems best? this matters for (1) deciding what to do technical research on, if at all; (2) what technical research to follow/promote/give money to.
+** if AI safety, then what technical agenda seems best? this matters for (1) deciding what to do technical research on, if at all; (2) what technical research to pay attention to/support.
 ** if AI safety, then what will the end of the world look like? (this matters for prepping)
 ** how likely is the end of the world?
 ** when will AGI come?
