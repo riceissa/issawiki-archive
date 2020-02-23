@@ -37,6 +37,10 @@ Interesting common disagreements:
 * Wei vs Paul
 * Eliezer vs Hanson
 
+==See also==
+
+* [[List of disagreements in AI safety]]
+
 ==References==
 
 <references/>
