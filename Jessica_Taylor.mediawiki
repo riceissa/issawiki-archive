@@ -1,0 +1,4 @@
+The most important posts for AI strategy are:
+
+* [https://agentfoundations.org/item?id=1220 On motivations for MIRI's highly reliable agent design research]
+* [https://agentfoundations.org/item?id=1129 My current take on the Paul-MIRI disagreement on alignability of messy AI]
