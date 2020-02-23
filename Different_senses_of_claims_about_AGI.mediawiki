@@ -5,3 +5,5 @@ when making claims about AGI like "how much compute will AGI use?" or "will AGI 
 * claims about a theoretically possible "optimal" AGI
 
 an example is [https://agentfoundations.org/item?id=1228 this comment] by [[Nate]]: "Indeed, if I thought one ''had'' to understand good consequentialist reasoning in order to design a highly capable AI system, I’d be less worried by a decent margin." the general MIRI view that you can get to the first AGI without really understanding anything, whereas to get an aligned AGI you do need to understand things.
+
+another example is: will understanding the rationality of "ideal" agents help us build AI systems that we understand well? (question is (2) in [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-Dk5LmWMEL55ufkTB5]) one could believe this for aligned AI systems, but not believe it for unaligned/arbitrary AI systems.
