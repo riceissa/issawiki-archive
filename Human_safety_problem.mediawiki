@@ -1,2 +1,5 @@
+'''Human safety problem'''
+
+the most canonical-seeming post is https://www.greaterwrong.com/posts/vbtvgNXkufFRSrx4j/three-ai-safety-related-ideas
 
 e.g. "Think of the human as a really badly designed AI with a convoluted architecture that nobody understands, spaghetti code, full of security holes, has no idea what its terminal values are and is really confused even about its "interim" values, has all kinds of potential safety problems like not being robust to distributional shifts, and is only "safe" in the sense of having passed certain tests for a very narrow distribution of inputs." [https://www.greaterwrong.com/posts/ZeE7EKHTFMBs8eMxn/clarifying-ai-alignment/comment/QxouKWsKHiHRMKyQB]
