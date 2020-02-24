@@ -16,12 +16,13 @@ also, organize this list so there is more structure.
 * what precursors/narrow systems we will see prior to AGI
 * AI timelines
 * what the first AGI will look like
-* how big of a problem collusion between subsystems of an AI will be
 * how likely optimization daemons/mesa-optimizers are or what they will look like
 * whether there is a basin of attraction for corrigibility
 * something-like-realism-about-rationality, e.g. "Is there a theory of rationality that is sufficiently precise to build hierarchies of abstraction?" [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-YMNwHcPNPd4pDK7MR]
 * whether MIRI-type work can be done in time
 * whether ML-based approaches / messy approaches to alignment are doomed
+* how big of a problem collusion between subsystems of an AI will be
+* to what extent paul's approach involves "corralling hostile superintelligences"
 * whether "weird recursions" are a good idea
 * whether we can correct mistakes when deploying AI systems as they come up (i.e. how catastrophic the initial problems will be)
 * how many/how "lumpy" insights are for creating an AGI
