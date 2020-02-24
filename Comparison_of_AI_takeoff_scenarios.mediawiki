@@ -15,6 +15,8 @@
 
 DSA without discontinuity is a little weird to think about/unstable situation i think: if you achieve DSA without a large lead in AI capabilities, well then you can probably achieve a discontinuity soon afterwards anyway. Maybe the questions should be "DSA?" and "If DSA, achieved via discontinuity?"
 
+This comment suggests more columns for the table: https://www.greaterwrong.com/posts/AfGmsjGPXN97kNp57/arguments-about-fast-takeoff#comment-JEkP5AmXmi4dHHpqo
+
 ==See also==
 
 * [[Will there be significant changes to the world prior to some critical AI capability threshold being reached?]]
