@@ -6,3 +6,13 @@ things to talk about:
 ** if AI safety, then what will the end of the world look like (basically this is takeoff speeds + what the most likely failure mode looks like)? (this matters for prepping)
 ** how likely is the end of the world?
 ** when will AGI come?
+
+Example scenarios:
+
+{| class="wikitable"
+! Name of scenario !! Next big thing? !! AI safety technical agenda !! What will end of the world look like? !! How likely is the world to end? !! When will the world end/reach a singularity/cure aging?
+|-
+| Eliezerian end of world || AGI || MIRI || FOOM/AI takeover || Highly likely? || 10-20 years?
+|-
+|
+|}
