@@ -23,7 +23,7 @@ also, organize this list so there is more structure.
 * whether ML-based approaches / messy approaches to alignment are doomed
 * how big of a problem collusion between subsystems of an AI will be
 * to what extent paul's approach involves "corralling hostile superintelligences"
-* to what extent paul's approach looks like humans trying to align arbitrarily large black boxes vs humans+pretty smart aligned AIs trying to align slightly large black boxes
+* to what extent paul's approach looks like humans trying to align arbitrarily large black boxes vs humans+pretty smart aligned AIs trying to align slightly large black boxes (this is actually somewhat analogous to [[Rapid capability gain vs AGI progress]], where again eliezer is imagining some big leap/going from just humans to suddenly superhuman AI, whereas paul is imagining a more smooth transition that powers his optimism)
 * whether "weird recursions" / "inductive invariants" are a good idea
 * whether we can correct mistakes when deploying AI systems as they come up (i.e. how catastrophic the initial problems will be)
 * how many/how "lumpy" insights are for creating an AGI
