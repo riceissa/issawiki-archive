@@ -1,6 +1,6 @@
 {| class="wikitable"
 |-
-! Scenario !! Significant changes to the world prior to critical AI capability threshold being reached? !! Intelligence explosion? !! Decisive strategic advantage? / Unipolar outcome? (i.e. not distributed)
+! Scenario !! Significant changes to the world prior to critical AI capability threshold being reached? !! Intelligence explosion? !! Decisive strategic advantage? / Unipolar outcome? (i.e. not distributed) Can a single AI project get massively ahead (either by investing way more effort into building AGI or by converting a small lead into a large lead)?
 |-
 | [[Yudkowskian]] hard takeoff || No || Yes || Yes
 |-
