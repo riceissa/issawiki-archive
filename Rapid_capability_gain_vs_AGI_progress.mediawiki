@@ -3,6 +3,10 @@
 
 these two notions might eventually coincide, if the AI is the one doing AI research (so the state of the art is pushed upward as the AI system itself improves over time)
 
+==See also==
+
+* [[Counterfactual of dropping a seed AI into a world without other capable AI]]
+
 ==External links==
 
 * https://www.greaterwrong.com/posts/PzAnWgqvfESgQEvdg/any-rebuttals-of-christiano-and-ai-impacts-on-takeoff-speeds/answer/TCqBaYgoJYhbayqFp
