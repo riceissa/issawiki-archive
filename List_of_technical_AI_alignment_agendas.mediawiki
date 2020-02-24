@@ -1,0 +1,3 @@
+This is a '''list of technical AI alignment agendas'''.
+
+https://aiwatch.issarice.com/#agendas
