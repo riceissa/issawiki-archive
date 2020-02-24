@@ -22,9 +22,9 @@ The above does not explain how corrigibility, adversarial training, verification
 
 One confusion I have is that in some places Paul says things like:<ref>https://arbital.com/p/task_agi/?l=6w#subpage-1gj</ref>
 
-<blockquote>If the distinguishing characteristic of a genie is "primarily relying on the human ability to discern short-term strategies that achieve long-term value," then I guess that includes all act-based agents. I don't especially like this terminology.<br><br>
+<blockquote><p>If the distinguishing characteristic of a genie is "primarily relying on the human ability to discern short-term strategies that achieve long-term value," then I guess that includes all act-based agents. I don't especially like this terminology.</p>
 
-Note that, logically speaking, "human ability" in the above sentence should refer to the ability of humans working in concert with other genies. This really seems like a key fact to me (it also doesn't seem like it should be controversial).</blockquote>
+<p>Note that, logically speaking, "human ability" in the above sentence should refer to the ability of humans working in concert with other genies. This really seems like a key fact to me (it also doesn't seem like it should be controversial).</p></blockquote>
 
 The precise details of "human ability" seems important here. As I see it, IDA can only remain competitive if the AIs are running the show eventually (and humans are only "running the show" to the extent that they seeded the whole recursive process).
 
