@@ -1,6 +1,6 @@
 {| class="wikitable"
 |-
-! Scenario !! Significant changes to the world prior to critical AI capability threshold being reached? !! Intelligence explosion? !! Decisive strategic advantage? / Unipolar outcome?
+! Scenario !! Significant changes to the world prior to critical AI capability threshold being reached? !! Intelligence explosion? !! Decisive strategic advantage? / Unipolar outcome? (i.e. not distributed)
 |-
 | [[Yudkowskian]] hard takeoff || No || Yes || Yes
 |-
