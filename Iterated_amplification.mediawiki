@@ -29,6 +29,7 @@ Terminology (not necessarily about IDA, but these are some terms frequently used
 * [[security amplification]]
 * [[universality]]
 * [[narrow value learning]] vs [[ambitious value learning]]
+* [[learning with catastrophes]], [[optimizing worst-case performance]]
 
 ==See also==
 
