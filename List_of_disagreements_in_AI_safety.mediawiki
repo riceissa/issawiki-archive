@@ -36,7 +36,7 @@ also, organize this list so there is more structure.
 * will AGI appear rational to humans? (efficient relative to humans)
 * will current ML techniques scale to AGI?
 * will there be small-scale AI failures prior to the end of the world?
-* will failure be conspicuous?
+* will failure be conspicuous/obvious to detect? e.g. see [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-B3KmoTqRYs97RyLv4] for one scenario where even under a continuous takeoff, failure might not be obvious until the world ends.
 * how likely is a treacherous turn/context change type of failure?
 * how much overlap is there between AI capabilities work and safety work? (e.g. is it reasonable to say things like "making progress on safety requires advancing capabilities"?)
 * what will failure look like? yudkowskian takeover vs paul's "we get what we measure, and our ability to get what we specify outstrips our ability to measure what we truly want" vs paul's influence-seeking optimizers/daemons vs ...
