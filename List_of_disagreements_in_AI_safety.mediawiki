@@ -23,7 +23,7 @@ also, organize this list so there is more structure.
 * whether ML-based approaches / messy approaches to alignment are doomed
 * how big of a problem collusion between subsystems of an AI will be
 * to what extent paul's approach involves "corralling hostile superintelligences"
-* whether "weird recursions" are a good idea
+* whether "weird recursions" / "inductive invariants" are a good idea
 * whether we can correct mistakes when deploying AI systems as they come up (i.e. how catastrophic the initial problems will be)
 * how many/how "lumpy" insights are for creating an AGI
 ** "the degree of complexity of useful combination, and the degree to which a simple general architecture search and generation process can find such useful combinations for particular tasks" [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155848951264228&reply_comment_id=10155849315174228]
