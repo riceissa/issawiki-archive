@@ -49,6 +49,7 @@ also, organize this list so there is more structure.
 * whether hardware or software progress is more important for getting to AGI. see [[hardware-driven vs software-driven progress]]
 * unipolarity/locality/decisive strategic advantage
 * speed of improvement/discontinuities/recursive self-improvement once the AI reaches some critical threshold (like human baseline)
+* importance of X and only X problem (can we get a system to do X, without also doing a bunch of other dangerous Y?)
 
 ==See also==
 
