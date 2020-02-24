@@ -1,5 +1,35 @@
 '''Iterated amplification''' (also called '''iterated distillation and amplification''', and abbreviated '''IDA''') is the technical alignment agenda that [[Paul Christiano]] works on.
 
+Terminology (not necessarily about IDA, but these are some terms frequently used by Paul):
+
+* [[informed oversight]]
+* [[adequate oversight]]
+* [[overseer]]
+* [[bandwidth of the overseer]]
+* [[reward engineering]]
+* [[HCH]], [[Strong HCH]], [[Weak HCH]], [[Humans consulting HCH]]
+* [[amplification]]
+* [[capability amplification]]
+* [[distillation]]
+* [[factored cognition]], [[factored evaluation]], [[factored generation]]
+* [[corrigibility]]
+* [[benign]]
+* [[aligned]]
+* [[robustness]]
+* [[red teaming]]
+* [[ALBA]]
+* [[optimization daemon]]s
+* [[act-based agent]] vs [[goal-directed agent]]
+* [[approval-directed agent]]
+* [[steering problem]]
+* [[prosaic AI]]
+* [[bootstrapping]]
+* [[catastrophe]]
+* [[reliability amplification]]
+* [[security amplification]]
+* [[universality]]
+* [[narrow value learning]] vs [[ambitious value learning]]
+
 ==See also==
 
 * [[My understanding of how IDA works]]
