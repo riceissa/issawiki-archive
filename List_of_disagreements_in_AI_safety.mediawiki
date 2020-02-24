@@ -6,7 +6,7 @@ also, organize this list so there is more structure.
 
 * how doomed ML safety approaches are e.g. see discussion [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-32dCL2u6p8L8td9BA here] -- [[How doomed are ML safety approaches?]]
 ** there's the sort of opposite question of, how doomed is MIRI's approach? i.e. if there turns out to be no [[simple core algorithm for agency]], or if understanding agency better doesn't help us build an AGI, then we might not be in a better place wrt aligning AI.
-* can MIRI-type research be done in time to help with AGI? see [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-Dk5LmWMEL55ufkTB5 this comment]
+* can MIRI-type research be done in time to help with AGI? see [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-Dk5LmWMEL55ufkTB5 this comment] and [https://www.facebook.com/groups/aisafety/permalink/920154224815359/?comment_id=920167711480677]
 * prior on difficulty of alignment, and ideas like "if ML-based safety were to have any shot at working, wouldn't we just go all the way and expect the default (no EA intervention) approach to AGI to just produce basically ok outcomes?"
 * probability of doom
 * civilizational adequacy
