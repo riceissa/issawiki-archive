@@ -1,0 +1,5 @@
+'''The Uncertain Future''' is a future modeling web applet created by [[MIRI]].
+
+Instructions for running it in 2020: https://gist.github.com/riceissa/6e239e8828cceeed5a0bd656d3eeb697
+
+LW discussion: https://www.greaterwrong.com/posts/yMb34LxmfCytKJ8gB/link-the-uncertain-future-the-future-according-to-you
