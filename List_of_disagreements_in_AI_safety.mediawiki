@@ -45,6 +45,7 @@ also, organize this list so there is more structure.
 * what lessons can we learn from [[AlphaGo]]?
 * is [[prosaic AI]] possible? see [https://srconstantin.wordpress.com/2017/02/21/strong-ai-isnt-here-yet/] for a post arguing against.
 * how short is the window between "clearly infrahuman" and "clearly superhuman" for important real-world tasks like "doing AI research"?
+* whether we are already in hardware overhang
 
 ==See also==
 
