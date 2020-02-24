@@ -10,9 +10,9 @@ things to talk about:
 Example scenarios:
 
 {| class="wikitable"
-! Name of scenario !! Next big thing? !! AI safety technical agenda !! What will end of the world look like? !! How likely is the world to end? !! When will the world end/reach a singularity/cure aging?
+! Name of scenario !! Next big thing? !! AI safety technical agenda !! What will end of the world look like? !! How likely is the world to end? !! When will the world end/reach a singularity/cure aging? || What I should do
 |-
-| Eliezerian end of world || AGI || MIRI || FOOM/AI takeover || Highly likely? || 10-20 years?
+| Eliezerian end of world || AGI || MIRI || FOOM/AI takeover || Highly likely? || 10-20 years? || Don't have kids. Probably don't even bother with wife search. Focus on AI safety research, either field building or figuring out how to contribute to MIRI-like technical work.
 |-
 |
 |}
