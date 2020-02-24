@@ -20,4 +20,12 @@ The overseer is always much more capable than the agent it is trying to train. S
 
 The above does not explain how corrigibility, adversarial training, verification, transparency, and other measures to keep the AI aligned fit into the scheme. This is a separate confusion I (and [https://www.lesswrong.com/posts/FdfzFcRvqLf4k5eoQ/list-of-resolved-confusions-about-ida#GEakRRgKZbrMJg82w others]) have had about [[IDA]] that I think imitation-based exposition could improve on. But above I've just focused on the "how does IDA get arbitrarily capable at all?" part of my confusion, leaving the other parts for some other time. I'd like to improve the above explanation by adding the stuff about corrigibility, optimizing worst case performance, etc.
 
+One confusion I have is that in some places Paul says things like:<ref>https://arbital.com/p/task_agi/?l=6w#subpage-1gj</ref>
+
+<blockquote>If the distinguishing characteristic of a genie is "primarily relying on the human ability to discern short-term strategies that achieve long-term value," then I guess that includes all act-based agents. I don't especially like this terminology.<br><br>
+
+Note that, logically speaking, "human ability" in the above sentence should refer to the ability of humans working in concert with other genies. This really seems like a key fact to me (it also doesn't seem like it should be controversial).</blockquote>
+
+The precise details of "human ability" seems important here. As I see it, IDA can only remain competitive if the AIs are running the show eventually (and humans are only "running the show" to the extent that they seeded the whole recursive process).
+
 [[Category:Iterated amplification]]
