@@ -26,6 +26,6 @@ One confusion I have is that in some places Paul says things like:<ref>https://a
 
 <p>Note that, logically speaking, "human ability" in the above sentence should refer to the ability of humans working in concert with other genies. This really seems like a key fact to me (it also doesn't seem like it should be controversial).</p></blockquote>
 
-The precise details of "human ability" seems important here. As I see it, IDA can only remain competitive if the AIs are running the show eventually (and humans are only "running the show" to the extent that they seeded the whole recursive process).
+The precise details of "human ability" seems important here. As I see it, IDA can only remain competitive if the AIs are running the show eventually (and humans are only "running the show" to the extent that they seeded the whole recursive process). In other words, it seems like Sovereigns would also be described as "primarily relying on humans working in concert with AIs".
 
 [[Category:Iterated amplification]]
