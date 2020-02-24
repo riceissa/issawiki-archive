@@ -1,0 +1,4 @@
+* [[rapid capability gain]] seems to refer to how well a ''single'' AI system improves over time, e.g. [[AlphaGo]] going from "no knowledge of anything" to "superhuman at Go" in a short span of time as it trained.
+* AGI progress refers to progress of AI systems in general, i.e. if you plot the state of the art over time
+
+these two notions might eventually coincide, if the AI is the one doing AI research (so the state of the art is pushed upward as the AI system itself improves over time)
