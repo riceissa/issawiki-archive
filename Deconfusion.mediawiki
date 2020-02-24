@@ -1,0 +1,5 @@
+'''Deconfusion''' is a type of research aimed at making ourselves less confused about fundamental things.
+
+==History===
+
+The term was invented/popularized by MIRI. It was originally used as a way to explain MIRI's approach to technical AI alignment. The term has since been used in contexts outside of AI alignment as well.
