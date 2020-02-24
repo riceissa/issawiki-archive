@@ -50,6 +50,7 @@ also, organize this list so there is more structure.
 * unipolarity/locality/decisive strategic advantage
 * speed of improvement/discontinuities/recursive self-improvement once the AI reaches some critical threshold (like human baseline)
 * importance of X and only X problem (can we get a system to do X, without also doing a bunch of other dangerous Y?)
+* to what extend "recursive self-improvement" is a distinct thing, as compared with just "AIs getting better and better at doing AI research" [https://arbital.com/p/KANSI/?l=1fy#subpage-1gp]
 
 ==See also==
 
