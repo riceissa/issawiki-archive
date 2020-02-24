@@ -20,7 +20,7 @@ Example scenarios:
 |-
 | Paul's end of world || AGI || ? || || || 20 years? || AI prepping???
 |-
-| Great Stagnation? ||
+| Great Stagnation (world stays basically the same for the next 100 years) ||
 |-
 | Super long AI timelines (AI won't come for 100 years) ||
 |}
