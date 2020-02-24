@@ -60,6 +60,7 @@ also, organize this list so there is more structure.
 * how expensive will it be to run the first AGI?
 * under continuous takeoff, if we had misaligned AGIs (but the world hasn't ended yet) and could easily tell they were misaligned, how easy would it be to create an aligned AGI? [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-fxSY7P7wdeptKoANw]
 * in a situation where AI algorithms are creating other AI algorithms (this includes recursive self-improvement, but is also more general/relaxed), to what extent will the AI be helping with alignment (rather than just pushing forward capabilities)? how big will the "competence gap" be? [https://arbital.com/p/KANSI/?l=1fy#subpage-1h6] [https://agentfoundations.org/item?id=64]
+* how much safety you gain by having the human programmers specify short-term tasks, rather than the AI predicting what short-term tasks the programmers would have specified if they had more time to think about it. [https://arbital.com/p/task_agi/]
 
 ==See also==
 
