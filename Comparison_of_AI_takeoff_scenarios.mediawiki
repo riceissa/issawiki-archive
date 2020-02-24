@@ -1,16 +1,16 @@
 {| class="wikitable"
 |-
-! Scenario !! Significant changes to the world prior to critical AI capability threshold being reached? !! Intelligence explosion? !! Decisive strategic advantage? / Unipolar outcome? (i.e. not distributed) Can a single AI project get massively ahead (either by investing way more effort into building AGI or by converting a small lead into a large lead)?
+! Scenario !! Significant changes to the world prior to critical AI capability threshold being reached? !! Intelligence explosion? !! Discontinuity in AI development? (i.e. one project suddenly has much more advanced AI than everyone else in the world combined) !! Decisive strategic advantage? / Unipolar outcome? (i.e. not distributed) Can a single AI project get massively ahead (either by investing way more effort into building AGI or by converting a small lead into a large lead)?
 |-
-| [[Yudkowskian]] hard takeoff || No || Yes || Yes
+| [[Yudkowskian]] hard takeoff || No || Yes || Yes || Yes
 |-
-| [[Paul]]'s slow takeoff || Yes || Yes<ref group=notes>Paul: "Note: this is ''not'' a post about whether an intelligence explosion will occur. That seems very likely to me. Quantitatively I expect it to go [https://sideways-view.com/2017/10/04/hyperbolic-growth/ along these lines]. So e.g. while I disagree with many of the claims and assumptions in [https://intelligence.org/files/IEM.pdf Intelligence Explosion Microeconomics], I don’t disagree with the central thesis or with most of the arguments." [https://sideways-view.com/2018/02/24/takeoff-speeds/]</ref> || No
+| [[Paul]]'s slow takeoff || Yes || Yes<ref group=notes>Paul: "Note: this is ''not'' a post about whether an intelligence explosion will occur. That seems very likely to me. Quantitatively I expect it to go [https://sideways-view.com/2017/10/04/hyperbolic-growth/ along these lines]. So e.g. while I disagree with many of the claims and assumptions in [https://intelligence.org/files/IEM.pdf Intelligence Explosion Microeconomics], I don’t disagree with the central thesis or with most of the arguments." [https://sideways-view.com/2018/02/24/takeoff-speeds/]</ref> || No || No
 |-
-| [[Daniel Kokotajlo]] || Yes || Yes || Yes
+| [[Daniel Kokotajlo]] || Yes || Yes || No || Yes
 |-
-| [[Hansonian]] slow takeoff || Yes || No?<ref group=notes>In some places Hanson says things like "You may recall that I did not dispute that an AI based economy would grow faster than does our economy today. The issue is the relative rate of growth of one AI system, across a broad range of tasks, relative to the entire rest of the world at that time." [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155848990064228&reply_comment_id=10155849018834228] This sounds more like Paul's takeoff scenario. I'm not clear on how the Paul and Hanson scenarios differ.</ref> || No
+| [[Hansonian]] slow takeoff || Yes || No?<ref group=notes>In some places Hanson says things like "You may recall that I did not dispute that an AI based economy would grow faster than does our economy today. The issue is the relative rate of growth of one AI system, across a broad range of tasks, relative to the entire rest of the world at that time." [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155848990064228&reply_comment_id=10155849018834228] This sounds more like Paul's takeoff scenario. I'm not clear on how the Paul and Hanson scenarios differ.</ref> || No || No
 |-
-| [[Eric Drexler]]'s CAIS || Yes || No? I think he says something weird, like all of the AI systems together recursively self-improving at the all-AI-services-combined level, without a single agent-like AI that self-improves. || No?
+| [[Eric Drexler]]'s CAIS || Yes || No? I think he says something weird, like all of the AI systems together recursively self-improving at the all-AI-services-combined level, without a single agent-like AI that self-improves. || No || No?
 |}
 
 ==See also==
