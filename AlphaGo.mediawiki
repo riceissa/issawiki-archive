@@ -2,3 +2,7 @@
 
 * [[Rapid capability gain]]
 * (for AlphaGo Zero) comparison to [[Paul Christiano]]'s [[iterated amplification]]
+
+==Eliezer's commentary==
+
+* Alpha Zero: https://www.facebook.com/yudkowsky/posts/10155992246384228
