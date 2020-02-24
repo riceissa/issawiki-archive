@@ -12,7 +12,17 @@ Example scenarios:
 {| class="wikitable"
 ! Name of scenario !! Next big thing? !! AI safety technical agenda !! What will end of the world look like? !! How likely is the world to end? !! When will the world end/reach a singularity/cure aging? || What I should do
 |-
-| Eliezerian end of world || AGI || MIRI || FOOM/AI takeover || Highly likely? || 10-20 years? || Don't have kids. Probably don't even bother with wife search. Focus on AI safety research, either field building or figuring out how to contribute to MIRI-like technical work.
+| Eliezerian end of world || AGI || MIRI? || FOOM/AI takeover || Highly likely? || 10-20 years? || Don't have kids. Probably don't even bother with wife search. Focus on AI safety research, either field building or figuring out how to contribute to MIRI-like technical work.
 |-
-|
+| Eliezerian end of world, but longer timelines || AGI || MIRI? || FOOM/AI takeover || Highly likely? || 40 years ||
+|-
+| Eliezerian end of world, but even longer timelines || AGI || MIRI? || FOOM/AI takeover || Highly likely? || 60 years ||
+|-
+| Age of em || WBE ||
+|-
+| Paul's end of world || AGI || ? ||
+|-
+| Great Stagnation? ||
+|-
+| Super long AI timelines (AI won't come for 100 years) ||
 |}
