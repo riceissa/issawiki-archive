@@ -4,7 +4,7 @@
 |-
 | [[Yudkowskian]] hard takeoff || No || Yes || Yes
 |-
-| [[Paul]]'s slow takeoff || Yes || Yes || No
+| [[Paul]]'s slow takeoff || Yes || Yes<ref group=notes>Paul: "Note: this is ''not'' a post about whether an intelligence explosion will occur. That seems very likely to me. Quantitatively I expect it to go [https://sideways-view.com/2017/10/04/hyperbolic-growth/ along these lines]. So e.g. while I disagree with many of the claims and assumptions in [https://intelligence.org/files/IEM.pdf Intelligence Explosion Microeconomics], I don’t disagree with the central thesis or with most of the arguments." [https://sideways-view.com/2018/02/24/takeoff-speeds/]</ref> || No
 |-
 | [[Daniel Kokotajlo]] || Yes || Yes || Yes
 |-
