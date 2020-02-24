@@ -55,6 +55,8 @@ also, organize this list so there is more structure.
 * to what extend "recursive self-improvement" is a distinct thing, as compared with just "AIs getting better and better at doing AI research" [https://arbital.com/p/KANSI/?l=1fy#subpage-1gp]
 * how solvable are coordination problems? e.g. how avoidable is a "[[race to the bottom]]" on safety?
 * how much weight to put on [[asymmetry of risks]]?
+* how expensive will the development of the first AGI be? e.g. "a small team of researchers can create AGI" vs "the first AGI project will need to raise a huge amount of money, because training will be so expensive"
+* how expensive will it be to run the first AGI?
 
 ==See also==
 
