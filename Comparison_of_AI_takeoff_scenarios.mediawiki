@@ -13,6 +13,8 @@
 | [[Eric Drexler]]'s CAIS || Yes || No? I think he says something weird, like all of the AI systems together recursively self-improving at the all-AI-services-combined level, without a single agent-like AI that self-improves. || No || No?
 |}
 
+DSA without discontinuity is a little weird to think about/unstable situation i think: if you achieve DSA without a large lead in AI capabilities, well then you can probably achieve a discontinuity soon anyway. Maybe the questions should be "DSA?" and "If DSA, achieved via discontinuity?"
+
 ==See also==
 
 * [[Will there be significant changes to the world prior to some critical AI capability threshold being reached?]]
