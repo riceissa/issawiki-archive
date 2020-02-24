@@ -59,7 +59,7 @@ also, organize this list so there is more structure.
 * how expensive will the training of the first AGI be? "you can run AGI on a modern desktop computer" vs "the first AGI project will need to raise a huge amount of money, because training will be so expensive"
 * how expensive will it be to run the first AGI?
 * under continuous takeoff, if we had misaligned AGIs (but the world hasn't ended yet) and could easily tell they were misaligned, how easy would it be to create an aligned AGI? [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-fxSY7P7wdeptKoANw]
-* in a situation where AI algorithms are creating other AI algorithms, to what extent will the AI be helping with alignment (rather than just pushing forward capabilities)? [https://arbital.com/p/KANSI/?l=1fy#subpage-1h6]
+* in a situation where AI algorithms are creating other AI algorithms (this includes recursive self-improvement, but is also more general/relaxed), to what extent will the AI be helping with alignment (rather than just pushing forward capabilities)? [https://arbital.com/p/KANSI/?l=1fy#subpage-1h6]
 
 ==See also==
 
