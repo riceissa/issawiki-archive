@@ -54,6 +54,7 @@ also, organize this list so there is more structure.
 * importance of X and only X problem (can we get a system to do X, without also doing a bunch of other dangerous Y?)
 * to what extend "recursive self-improvement" is a distinct thing, as compared with just "AIs getting better and better at doing AI research" [https://arbital.com/p/KANSI/?l=1fy#subpage-1gp]
 * how solvable are coordination problems? e.g. how avoidable is a "[[race to the bottom]]" on safety?
+* how much weight to put on [[asymmetry of risks]]?
 
 ==See also==
 
