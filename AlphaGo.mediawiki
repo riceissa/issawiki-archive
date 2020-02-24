@@ -1,6 +1,8 @@
 '''AlphaGo''' and its successor '''AlphaGo Zero''' are used to make various points in [[AI safety]].
 
 * [[Rapid capability gain]]
+* single group pulling ahead
+* a single architecture / basic AI technique working for many different games
 * (for AlphaGo Zero) comparison to [[Paul Christiano]]'s [[iterated amplification]]
 
 ==Eliezer's commentary==
