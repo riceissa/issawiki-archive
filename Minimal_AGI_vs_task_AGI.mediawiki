@@ -1,7 +1,11 @@
 * I'm not clear on what the difference is here
-* See MIRI's strategic plan from end of 2017 where they make this distinction
+* See MIRI's strategic plan from end of 2017<ref>https://intelligence.org/2017/12/01/miris-2017-fundraiser/#3</ref> where they make this distinction
 * It seems like MIRI went from:
 ** a one-step view: just build a [[Sovereign]]
 ** to a two-step view: build a [[task-directed AGI]] first, then go for Sovereign
 ** to a three-step view: build a [[minimal aligned AGI]], then task AGI, then Sovereign
 * I'm not sure why "three" is the right number of phases (why not two or four?), and I don't think MIRI has explained this
+
+==References==
+
+<references/>
