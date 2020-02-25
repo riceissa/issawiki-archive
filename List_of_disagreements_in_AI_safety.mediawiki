@@ -17,6 +17,8 @@ also, organize this list so there is more structure.
 * prior on difficulty of alignment, and ideas like "if ML-based safety were to have any shot at working, wouldn't we just go all the way and expect the default (no EA intervention) approach to AGI to just produce basically ok outcomes?"
 * how likely optimization daemons/mesa-optimizers are or what they will look like
 * how solvable are coordination problems? e.g. how avoidable is a "[[race to the bottom]]" on safety?
+* how strong of a guarantee do we need for the safety of AI? proof-level (does anyone actually argue this?) vs security mindset vs whatever ML safety people believe
+* how much weight to put on [[asymmetry of risks]]?
 
 ==Takeoff dynamics==
 
@@ -34,6 +36,9 @@ also, organize this list so there is more structure.
 * how expensive will the development of the first AGI be? e.g. "a small team of researchers can create AGI" vs "a large company/many teams of researcher will be needed"
 * how expensive will the training of the first AGI be? "you can run AGI on a modern desktop computer" vs "the first AGI project will need to raise a huge amount of money, because training will be so expensive"
 * how expensive will it be to run the first AGI?
+* what will failure look like? yudkowskian takeover vs paul's "we get what we measure, and our ability to get what we specify outstrips our ability to measure what we truly want" vs paul's influence-seeking optimizers/daemons vs ...
+* speed of improvement/discontinuities/recursive self-improvement once the AI reaches some critical threshold (like human baseline)
+* how short is the window between "clearly infrahuman" and "clearly superhuman" for important real-world tasks like "doing AI research"?
 
 ==Specific technical alignment agendas==
 
@@ -76,13 +81,8 @@ also, organize this list so there is more structure.
 * will failure be conspicuous/obvious to detect? e.g. see [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-B3KmoTqRYs97RyLv4] for one scenario where even under a continuous takeoff, failure might not be obvious until the world ends.
 * how likely is a treacherous turn/context change type of failure?
 * how much overlap is there between AI capabilities work and safety work? (e.g. is it reasonable to say things like "making progress on safety requires advancing capabilities"?)
-* what will failure look like? yudkowskian takeover vs paul's "we get what we measure, and our ability to get what we specify outstrips our ability to measure what we truly want" vs paul's influence-seeking optimizers/daemons vs ...
-* how strong of a guarantee do we need for the safety of AI? proof-level (does anyone actually argue this?) vs security mindset vs whatever ML safety people believe
 * deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one.
-* how short is the window between "clearly infrahuman" and "clearly superhuman" for important real-world tasks like "doing AI research"?
 * whether hardware or software progress is more important for getting to AGI. see [[hardware-driven vs software-driven progress]]
-* speed of improvement/discontinuities/recursive self-improvement once the AI reaches some critical threshold (like human baseline)
-* how much weight to put on [[asymmetry of risks]]?
 * under continuous takeoff, if we had misaligned AGIs (but the world hasn't ended yet) and could easily tell they were misaligned, how easy would it be to create an aligned AGI? [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-fxSY7P7wdeptKoANw]
 * in a situation where AI algorithms are creating other AI algorithms (this includes recursive self-improvement, but is also more general/relaxed), to what extent will the AI be helping with alignment (rather than just pushing forward capabilities)? how big will the "competence gap" be? [https://arbital.com/p/KANSI/?l=1fy#subpage-1h6] [https://agentfoundations.org/item?id=64]
 
