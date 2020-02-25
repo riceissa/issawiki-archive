@@ -69,9 +69,9 @@ How promising is MIRI-style work (HRAD, agent foundations, embedded agency)?
 * deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one.
 * will early advanced AI systems be understandable in terms of HRAD's formalisms? [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#3__What_do_I_think_about_HRAD_]
 
-===ML-safety===
+===Machine learning safety===
 
-How promising is ML-safety work (including Paul's agenda)?
+How promising is ML safety work (including Paul's agenda)?
 
 * whether ML-based approaches / messy approaches to alignment are doomed
 * how doomed ML safety approaches are e.g. see discussion [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-32dCL2u6p8L8td9BA here] -- [[How doomed are ML safety approaches?]]
