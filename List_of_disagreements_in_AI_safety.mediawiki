@@ -9,6 +9,7 @@ also, organize this list so there is more structure.
 ** civilizational adequacy
 ** probability of doom without any special EA intervention
 ** prior on difficulty of alignment, and ideas like "if ML-based safety were to have any shot at working, wouldn't we just go all the way and expect the default (no EA intervention) approach to AGI to just produce basically ok outcomes?"
+** how likely optimization daemons/mesa-optimizers are or what they will look like
 * Takeoff dynamics (shape and speed of takeoff, what the world looks like prior to takeoff)
 ** [[Will there be significant changes to the world prior to some critical AI capability threshold being reached?]]
 ** what precursors/narrow systems we will see prior to AGI
@@ -19,7 +20,6 @@ also, organize this list so there is more structure.
 * how doomed ML safety approaches are e.g. see discussion [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-32dCL2u6p8L8td9BA here] -- [[How doomed are ML safety approaches?]]
 ** there's the sort of opposite question of, how doomed is MIRI's approach? i.e. if there turns out to be no [[simple core algorithm for agency]], or if understanding agency better doesn't help us build an AGI, then we might not be in a better place wrt aligning AI.
 * what the first AGI will look like
-* how likely optimization daemons/mesa-optimizers are or what they will look like
 * whether there is a basin of attraction for corrigibility
 * something-like-realism-about-rationality, e.g. "Is there a theory of rationality that is sufficiently precise to build hierarchies of abstraction?" [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-YMNwHcPNPd4pDK7MR]
 * whether ML-based approaches / messy approaches to alignment are doomed
