@@ -74,7 +74,7 @@ How promising is MIRI-style work (HRAD, agent foundations, embedded agency)?
 ** lack of historical precedent at applying "complete axiomatic descriptions of AI systems" to help design AI systems [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#3a__Low_credence_that_HRAD_will_be_applicable__25___]
 ** lack of success so far at using complete axiomatic descriptions for modern ML systems [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#3a__Low_credence_that_HRAD_will_be_applicable__25___]
 ** what will early advanced AI systems look like?
-* how convincing historical examples are (e.g. Turing, Kolmogorov, null-terminated strings in C [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#Z6TbXivpjxWyc8NYM])
+* how convincing historical examples are (e.g. Turing, Kolmogorov, null-terminated strings in C [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#Z6TbXivpjxWyc8NYM], [https://www.facebook.com/danielfilan/posts/10212534556141446] [https://www.facebook.com/robbensinger/posts/10160644236785447])
 
 ===Machine learning safety===
 
