@@ -1,0 +1,9 @@
+==Terminology==
+
+There are many different terms used to describe MIRI's research, and it's a little unclear how careful people are when using these terms.
+
+* agent foundations
+* embedded agency
+* naturalized induction
+* highly reliable agent designs (HRAD)
+* the relation of all of the above to MIRI's new research agenda (which hasn't been released publicly)
