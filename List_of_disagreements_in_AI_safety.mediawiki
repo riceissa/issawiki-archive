@@ -74,10 +74,8 @@ How promising is MIRI-style work (HRAD, agent foundations, embedded agency)?
 
 ===Machine learning safety===
 
-How promising is ML safety work (including Paul's agenda)?
+How promising/doomed is ML safety work / messy approaches to alignment (including Paul's agenda)? e.g. see discussion [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-32dCL2u6p8L8td9BA here] -- [[How doomed are ML safety approaches?]]
 
-* whether ML-based approaches / messy approaches to alignment are doomed
-* how doomed ML safety approaches are e.g. see discussion [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-32dCL2u6p8L8td9BA here] -- [[How doomed are ML safety approaches?]]
 * whether "weird recursions" / "inductive invariants" are a good idea
 * something like, if paul's approach can work, then why can't we stop at some intermediate stage to do WBE or make an aligned AGI via MIRI-like stuff instead? (i guess there isn't enough time?) -- eliezer raises this or a similar question "but then why can't we just use this scheme to align a powerful AGI in the first place?" [https://intelligence.org/2018/05/19/challenges-to-christianos-capability-amplification-proposal/]
 * to what extent are act-based agents even a thing? (i.e. do they just turn into goal-directed thingies?)
