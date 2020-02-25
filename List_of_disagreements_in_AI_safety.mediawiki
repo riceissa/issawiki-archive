@@ -16,7 +16,7 @@ an alternative organization for these disagreements (which this page doesn't fol
 ==Probability of doom==
 
 * civilizational adequacy
-* probability of doom without any special EA intervention
+* probability of doom without any special EA/longtermist intervention
 * prior on difficulty of alignment, and ideas like "if ML-based safety were to have any shot at working, wouldn't we just go all the way and expect the default (no EA intervention) approach to AGI to just produce basically ok outcomes?"
 * how likely optimization daemons/mesa-optimizers are or what they will look like
 * how solvable are coordination problems? e.g. how avoidable is a "[[race to the bottom]]" on safety?
