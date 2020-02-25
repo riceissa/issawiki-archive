@@ -60,7 +60,6 @@ How promising is MIRI-style work (HRAD, agent foundations, embedded agency)?
 
 (I think Paul's view is something like "this is fine to work on, but there isn't enough time and my agenda seems promising" whereas other people are more like "I don't see how MIRI's work even helps us build an AGI")
 
-* whether MIRI-type work can be done in time
 * can MIRI-type research be done in time to help with AGI? see [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-Dk5LmWMEL55ufkTB5 this comment] and [https://www.facebook.com/groups/aisafety/permalink/920154224815359/?comment_id=920167711480677]
 * how doomed is MIRI's approach? i.e. if there turns out to be no [[simple core algorithm for agency]], or if understanding agency better doesn't help us build an AGI, then we might not be in a better place wrt aligning AI.
 * will AGI be agent-like?
@@ -68,6 +67,7 @@ How promising is MIRI-style work (HRAD, agent foundations, embedded agency)?
 * will AGI appear rational to humans? (efficient relative to humans)
 * something-like-realism-about-rationality, e.g. "Is there a theory of rationality that is sufficiently precise to build hierarchies of abstraction?" [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-YMNwHcPNPd4pDK7MR]
 * deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one.
+* will early advanced AI systems be understandable in terms of HRAD's formalisms? [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#3__What_do_I_think_about_HRAD_]
 
 ===ML-safety===
 
