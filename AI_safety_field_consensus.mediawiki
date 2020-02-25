@@ -4,6 +4,6 @@ People in [[AI safety]] tend to [[List of disagreements in AI safety|disagree ab
 * [[Instrumental convergence]]
 * Edge instantiation / patch resistance
 * Goodhart problems
-* AGI possible in principle
+* AGI possible in principle (as in, it is virtually certain that humans can create AGI)
 
 one operationalization might be something like: what are the things relevant to AI safety that all of [[Eliezer Yudkowsky]], [[Paul Christiano]], [[Robin Hanson]], [[Rohin Shah]], [[Dario Amodei]], and [[Wei Dai]] agree on?
