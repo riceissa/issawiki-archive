@@ -9,6 +9,7 @@ also, organize this list so there is more structure.
 * will current ML techniques scale to AGI?
 * how expensive will it be to run the first AGI?
 * is [[prosaic AI]] possible? see [https://srconstantin.wordpress.com/2017/02/21/strong-ai-isnt-here-yet/] for a post arguing against.
+* what the first AGI will look like
 
 ==Probability of doom==
 
@@ -24,6 +25,8 @@ also, organize this list so there is more structure.
 * how much overlap is there between AI capabilities work and safety work? (e.g. is it reasonable to say things like "making progress on safety requires advancing capabilities"?)
 * whether we can correct mistakes when deploying AI systems as they come up (i.e. how catastrophic the initial problems will be)
 * will failure be conspicuous/obvious to detect? e.g. see [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-B3KmoTqRYs97RyLv4] for one scenario where even under a continuous takeoff, failure might not be obvious until the world ends.
+* under continuous takeoff, if we had misaligned AGIs (but the world hasn't ended yet) and could easily tell they were misaligned, how easy would it be to create an aligned AGI? [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-fxSY7P7wdeptKoANw]
+* what the first AGI will look like
 
 ==Takeoff dynamics==
 
@@ -61,9 +64,12 @@ also, organize this list so there is more structure.
 * will AGI be agent-like?
 * whether an AGI will look like a utility maximizer?
 * will AGI appear rational to humans? (efficient relative to humans)
+* something-like-realism-about-rationality, e.g. "Is there a theory of rationality that is sufficiently precise to build hierarchies of abstraction?" [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-YMNwHcPNPd4pDK7MR]
+* deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one.
 
 ===How promising is ML-safety work (including Paul's agenda)?===
 
+* whether ML-based approaches / messy approaches to alignment are doomed
 * how doomed ML safety approaches are e.g. see discussion [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-32dCL2u6p8L8td9BA here] -- [[How doomed are ML safety approaches?]]
 * whether "weird recursions" / "inductive invariants" are a good idea
 * something like, if paul's approach can work, then why can't we stop at some intermediate stage to do WBE or make an aligned AGI via MIRI-like stuff instead? (i guess there isn't enough time?) -- eliezer raises this or a similar question "but then why can't we just use this scheme to align a powerful AGI in the first place?" [https://intelligence.org/2018/05/19/challenges-to-christianos-capability-amplification-proposal/]
@@ -72,19 +78,14 @@ also, organize this list so there is more structure.
 * how much safety you gain by having the human programmers specify short-term tasks, rather than the AI predicting what short-term tasks the programmers would have specified if they had more time to think about it. [https://arbital.com/p/task_agi/]
 * whether there is a basin of attraction for corrigibility
 * importance of X and only X problem (can we get a system to do X, without also doing a bunch of other dangerous Y?)
+* how big of a problem collusion between subsystems of an AI will be
+* to what extent paul's approach involves "corralling hostile superintelligences"
+* to what extent paul's approach looks like humans trying to align arbitrarily large black boxes vs humans+pretty smart aligned AIs trying to align slightly large black boxes (this is actually somewhat analogous to [[Rapid capability gain vs AGI progress]], where again eliezer is imagining some big leap/going from just humans to suddenly superhuman AI, whereas paul is imagining a more smooth transition that powers his optimism). In other words, how much easier is it to align large black boxes if we have pretty smart aligned AIs to help us? [https://www.facebook.com/groups/aisafety/permalink/920154224815359/?comment_id=920160664814715&reply_comment_id=920212811476167] [https://arbital.com/p/task_agi/?l=6w#subpage-1hl]
+* in a situation where AI algorithms are creating other AI algorithms (this includes recursive self-improvement, but is also more general/relaxed), to what extent will the AI be helping with alignment (rather than just pushing forward capabilities)? how big will the "competence gap" be? [https://arbital.com/p/KANSI/?l=1fy#subpage-1h6] [https://agentfoundations.org/item?id=64]
 
 ==uncategorized==
 
 * How big of a deal are the things [[Wei Dai]] worries about? (meta philosophy, meta ethics, human safety problems)
-* what the first AGI will look like
-* something-like-realism-about-rationality, e.g. "Is there a theory of rationality that is sufficiently precise to build hierarchies of abstraction?" [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-YMNwHcPNPd4pDK7MR]
-* whether ML-based approaches / messy approaches to alignment are doomed
-* how big of a problem collusion between subsystems of an AI will be
-* to what extent paul's approach involves "corralling hostile superintelligences"
-* to what extent paul's approach looks like humans trying to align arbitrarily large black boxes vs humans+pretty smart aligned AIs trying to align slightly large black boxes (this is actually somewhat analogous to [[Rapid capability gain vs AGI progress]], where again eliezer is imagining some big leap/going from just humans to suddenly superhuman AI, whereas paul is imagining a more smooth transition that powers his optimism). In other words, how much easier is it to align large black boxes if we have pretty smart aligned AIs to help us? [https://www.facebook.com/groups/aisafety/permalink/920154224815359/?comment_id=920160664814715&reply_comment_id=920212811476167] [https://arbital.com/p/task_agi/?l=6w#subpage-1hl]
-* deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one.
-* under continuous takeoff, if we had misaligned AGIs (but the world hasn't ended yet) and could easily tell they were misaligned, how easy would it be to create an aligned AGI? [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-fxSY7P7wdeptKoANw]
-* in a situation where AI algorithms are creating other AI algorithms (this includes recursive self-improvement, but is also more general/relaxed), to what extent will the AI be helping with alignment (rather than just pushing forward capabilities)? how big will the "competence gap" be? [https://arbital.com/p/KANSI/?l=1fy#subpage-1h6] [https://agentfoundations.org/item?id=64]
 
 ==See also==
 
