@@ -2,7 +2,7 @@
 
 There are many different terms used to describe MIRI's research, and it's a little unclear how careful people are when using these terms.
 
-* agent foundations
+* agent foundations: in the [https://intelligence.org/files/TechnicalAgenda.pdf original agenda], "agent foundations" was used as an umbrella term to include all of MIRI's work. This includes the HRAD topics like decision theory and logical uncertainty, but ''in addition'' also includes error-tolerant agent designs (which includes [[corrigilibity]]) and value specification (which includes [[value learning]]). Since MIRI seems to have focused most on the HRAD topics, I think some people ''might'' think agent foundations = HRAD and use "agent foundations" where they actually meant "HRAD".
 * embedded agency
 * naturalized induction
 * highly reliable agent designs (HRAD)
