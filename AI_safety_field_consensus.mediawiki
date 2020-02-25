@@ -1,0 +1,7 @@
+People in [[AI safety]] tend to [[List of disagreements in AI safety|disagree about many things]]. However, there is also wide agreement about some other things (which people outside the field often disagree about).
+
+* [[Orthogonality thesis]]
+* [[Instrumental convergence]]
+* Edge instantiation / patch resistance
+* Goodhart problems
+* AGI possible in principle
