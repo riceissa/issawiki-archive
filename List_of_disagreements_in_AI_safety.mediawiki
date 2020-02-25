@@ -6,7 +6,7 @@ also, organize this list so there is more structure.
 
 ==AI timelines==
 
-* Probability of doom
+==Probability of doom==
 ** civilizational adequacy
 ** probability of doom without any special EA intervention
 ** prior on difficulty of alignment, and ideas like "if ML-based safety were to have any shot at working, wouldn't we just go all the way and expect the default (no EA intervention) approach to AGI to just produce basically ok outcomes?"
