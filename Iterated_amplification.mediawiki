@@ -5,7 +5,7 @@ Terminology (not necessarily about IDA, but these are some terms frequently used
 * [[informed oversight]]
 * [[adequate oversight]]
 * [[overseer]]
-* [[bandwidth of the overseer]]
+* [[bandwidth of the overseer]], [[high bandwidth oversight]], [[low bandwidth oversight]]
 * [[reward engineering]]
 * [[HCH]], [[Strong HCH]], [[Weak HCH]], [[Humans consulting HCH]]
 * [[amplification]]
