@@ -8,6 +8,7 @@ also, organize this list so there is more structure.
 
 * will current ML techniques scale to AGI?
 * how expensive will it be to run the first AGI?
+* is [[prosaic AI]] possible? see [https://srconstantin.wordpress.com/2017/02/21/strong-ai-isnt-here-yet/] for a post arguing against.
 
 ==Probability of doom==
 
@@ -26,10 +27,13 @@ also, organize this list so there is more structure.
 * how many/how "lumpy" insights are for creating an AGI
 ** "the degree of complexity of useful combination, and the degree to which a simple general architecture search and generation process can find such useful combinations for particular tasks" [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155848951264228&reply_comment_id=10155849315174228]
 * unipolarity/locality/decisive strategic advantage
-* how expensive will it be to run the first AGI?
 * whether we are already in hardware overhang / other "resource bonanza"
 * what lessons can we learn by looking at the [[Evolution|evolutionary history]] of chimps vs humans?
 * what lessons can we learn from [[AlphaGo]]?
+* to what extend "recursive self-improvement" is a distinct thing, as compared with just "AIs getting better and better at doing AI research" [https://arbital.com/p/KANSI/?l=1fy#subpage-1gp]
+* how expensive will the development of the first AGI be? e.g. "a small team of researchers can create AGI" vs "a large company/many teams of researcher will be needed"
+* how expensive will the training of the first AGI be? "you can run AGI on a modern desktop computer" vs "the first AGI project will need to raise a huge amount of money, because training will be so expensive"
+* how expensive will it be to run the first AGI?
 
 ==Specific technical alignment agendas==
 
@@ -53,6 +57,7 @@ also, organize this list so there is more structure.
 * to what extent doing something like "predict short-term actions humans would want, if they had a long time to think about it" leads to optimization of malignant goals, rather than mostly harmless errors. [https://arbital.com/p/task_agi/?l=6w#subpage-1hn] -- i think this one might be essentially the same as broad basin of corrigibility.
 * how much safety you gain by having the human programmers specify short-term tasks, rather than the AI predicting what short-term tasks the programmers would have specified if they had more time to think about it. [https://arbital.com/p/task_agi/]
 * whether there is a basin of attraction for corrigibility
+* importance of X and only X problem (can we get a system to do X, without also doing a bunch of other dangerous Y?)
 
 ==uncategorized==
 
@@ -74,15 +79,10 @@ also, organize this list so there is more structure.
 * what will failure look like? yudkowskian takeover vs paul's "we get what we measure, and our ability to get what we specify outstrips our ability to measure what we truly want" vs paul's influence-seeking optimizers/daemons vs ...
 * how strong of a guarantee do we need for the safety of AI? proof-level (does anyone actually argue this?) vs security mindset vs whatever ML safety people believe
 * deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one.
-* is [[prosaic AI]] possible? see [https://srconstantin.wordpress.com/2017/02/21/strong-ai-isnt-here-yet/] for a post arguing against.
 * how short is the window between "clearly infrahuman" and "clearly superhuman" for important real-world tasks like "doing AI research"?
 * whether hardware or software progress is more important for getting to AGI. see [[hardware-driven vs software-driven progress]]
 * speed of improvement/discontinuities/recursive self-improvement once the AI reaches some critical threshold (like human baseline)
-* importance of X and only X problem (can we get a system to do X, without also doing a bunch of other dangerous Y?)
-* to what extend "recursive self-improvement" is a distinct thing, as compared with just "AIs getting better and better at doing AI research" [https://arbital.com/p/KANSI/?l=1fy#subpage-1gp]
 * how much weight to put on [[asymmetry of risks]]?
-* how expensive will the development of the first AGI be? e.g. "a small team of researchers can create AGI" vs "a large company/many teams of researcher will be needed"
-* how expensive will the training of the first AGI be? "you can run AGI on a modern desktop computer" vs "the first AGI project will need to raise a huge amount of money, because training will be so expensive"
 * under continuous takeoff, if we had misaligned AGIs (but the world hasn't ended yet) and could easily tell they were misaligned, how easy would it be to create an aligned AGI? [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-fxSY7P7wdeptKoANw]
 * in a situation where AI algorithms are creating other AI algorithms (this includes recursive self-improvement, but is also more general/relaxed), to what extent will the AI be helping with alignment (rather than just pushing forward capabilities)? how big will the "competence gap" be? [https://arbital.com/p/KANSI/?l=1fy#subpage-1h6] [https://agentfoundations.org/item?id=64]
 
