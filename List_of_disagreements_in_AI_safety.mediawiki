@@ -2,7 +2,9 @@ This is a '''list of disagreements in AI safety''' which collects the list of th
 
 Many of the items are from <ref>[https://drive.google.com/file/d/1wI21XP-lRa6mi5h0dq_USooz0LpysdhS/view Clarifying some key hypotheses in AI alignment].</ref> (there are more posts like this, i think? find them)
 
-also, organize this list so there is more structure.
+organization of this list: the most decision-relevant questions appear as sections, and in each section, the top level of questions together answer the question. sub-level questions answer the top level question, and so forth.
+
+an alternative organization for these disagreements (which this page doesn't follow) would be to collect all the most basic (innermost) sub-questions; these are the "cruxes", i.e. the minimal set of of questions which determine the answers to all the other questions.
 
 ==AI timelines==
 
