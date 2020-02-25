@@ -39,10 +39,9 @@ an alternative organization for these disagreements (which this page doesn't fol
 ** how short is the window between "clearly infrahuman" and "clearly superhuman" for important real-world tasks like "doing AI research" and "building nanobots"?
 * how many/how "lumpy" insights are for creating an AGI
 ** "the degree of complexity of useful combination, and the degree to which a simple general architecture search and generation process can find such useful combinations for particular tasks" [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155848951264228&reply_comment_id=10155849315174228]
-* decisive strategic advantage
+* decisive strategic advantage / is it possible to turn a small lead in AGI development into a big lead?
 ** discontinuity/unipolarity/locality
 ** DSA without discontinuity
-*** is it possible to turn a small lead in AGI development into a big lead?
 * whether we are already in hardware overhang / other "resource bonanza"
 * what lessons can we learn by looking at the [[Evolution|evolutionary history]] of chimps vs humans?
 * what lessons can we learn from [[AlphaGo]]?
