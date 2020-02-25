@@ -6,6 +6,8 @@
 ** to a three-step view: build a [[minimal aligned AGI]], then task AGI, then Sovereign
 * I'm not sure why "three" is the right number of phases (why not two or four?), and I don't think MIRI has explained this
 
+see my question here: https://www.greaterwrong.com/posts/hL9ennoEfJXMj7r2D/two-clarifications-about-strategic-background#comment-yNGuxf4Gs27wW72Jp
+
 ==References==
 
 <references/>
