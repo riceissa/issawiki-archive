@@ -52,9 +52,9 @@ also, organize this list so there is more structure.
 * how much sharing/trading there will be between different AI companies (eliezer vs [[Robin Hanson]]) -- this one is downstream of lumpiness of insights, because hanson expects that if there are very few insights needed to get to AGI, then there won't be any need for sharing (so in that case even hanson would agree with eliezer).
 * how important it is to get the right architecture e.g. "That is what I meant by suggesting that architecture isn’t the key to AGI." [https://www.greaterwrong.com/posts/D3NspiH2nhKA6B2PE/what-evidence-is-alphago-zero-re-agi-complexity]. There is [[Dario Amodei]]'s comment [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155849004324228&reply_comment_id=10155849068769228 here] which is the opposite view.
 
-==Specific technical alignment agendas==
+==Specific lines of work==
 
-===MIRI-style work===
+===MIRI===
 
 How promising is MIRI-style work (HRAD, agent foundations, embedded agency)?
 
@@ -69,7 +69,7 @@ How promising is MIRI-style work (HRAD, agent foundations, embedded agency)?
 * something-like-realism-about-rationality, e.g. "Is there a theory of rationality that is sufficiently precise to build hierarchies of abstraction?" [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-YMNwHcPNPd4pDK7MR]
 * deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one.
 
-===ML-safety work===
+===ML-safety===
 
 How promising is ML-safety work (including Paul's agenda)?
 
@@ -87,7 +87,9 @@ How promising is ML-safety work (including Paul's agenda)?
 * to what extent paul's approach looks like humans trying to align arbitrarily large black boxes vs humans+pretty smart aligned AIs trying to align slightly large black boxes (this is actually somewhat analogous to [[Rapid capability gain vs AGI progress]], where again eliezer is imagining some big leap/going from just humans to suddenly superhuman AI, whereas paul is imagining a more smooth transition that powers his optimism). In other words, how much easier is it to align large black boxes if we have pretty smart aligned AIs to help us? [https://www.facebook.com/groups/aisafety/permalink/920154224815359/?comment_id=920160664814715&reply_comment_id=920212811476167] [https://arbital.com/p/task_agi/?l=6w#subpage-1hl]
 * in a situation where AI algorithms are creating other AI algorithms (this includes recursive self-improvement, but is also more general/relaxed), to what extent will the AI be helping with alignment (rather than just pushing forward capabilities)? how big will the "competence gap" be? [https://arbital.com/p/KANSI/?l=1fy#subpage-1h6] [https://agentfoundations.org/item?id=64]
 
-===Wei Dai-style work===
+===Value learning===
+
+===Meta-philosophy===
 
 * How big of a deal are the things [[Wei Dai]] worries about? (meta philosophy, meta ethics, human safety problems)
 
