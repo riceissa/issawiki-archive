@@ -6,12 +6,16 @@ also, organize this list so there is more structure.
 
 ==AI timelines==
 
+* will current ML techniques scale to AGI?
+* how expensive will it be to run the first AGI?
+
 ==Probability of doom==
 
 * civilizational adequacy
 * probability of doom without any special EA intervention
 * prior on difficulty of alignment, and ideas like "if ML-based safety were to have any shot at working, wouldn't we just go all the way and expect the default (no EA intervention) approach to AGI to just produce basically ok outcomes?"
 * how likely optimization daemons/mesa-optimizers are or what they will look like
+* how solvable are coordination problems? e.g. how avoidable is a "[[race to the bottom]]" on safety?
 
 ==Takeoff dynamics==
 
@@ -21,6 +25,9 @@ also, organize this list so there is more structure.
 * what precursors/narrow systems we will see prior to AGI
 * how many/how "lumpy" insights are for creating an AGI
 ** "the degree of complexity of useful combination, and the degree to which a simple general architecture search and generation process can find such useful combinations for particular tasks" [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155848951264228&reply_comment_id=10155849315174228]
+* unipolarity/locality/decisive strategic advantage
+* how expensive will it be to run the first AGI?
+* whether we are already in hardware overhang / other "resource bonanza"
 
 ==Specific technical alignment agendas==
 
@@ -31,6 +38,9 @@ also, organize this list so there is more structure.
 * whether MIRI-type work can be done in time
 * can MIRI-type research be done in time to help with AGI? see [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-Dk5LmWMEL55ufkTB5 this comment] and [https://www.facebook.com/groups/aisafety/permalink/920154224815359/?comment_id=920167711480677]
 * how doomed is MIRI's approach? i.e. if there turns out to be no [[simple core algorithm for agency]], or if understanding agency better doesn't help us build an AGI, then we might not be in a better place wrt aligning AI.
+* will AGI be agent-like?
+* whether an AGI will look like a utility maximizer?
+* will AGI appear rational to humans? (efficient relative to humans)
 
 ===How promising is ML-safety work (including Paul's agenda)?===
 
@@ -55,10 +65,6 @@ also, organize this list so there is more structure.
 * how much sharing/trading there will be between different AI companies (eliezer vs [[Robin Hanson]]) -- this one is downstream of lumpiness of insights, because hanson expects that if there are very few insights needed to get to AGI, then there won't be any need for sharing (so in that case even hanson would agree with eliezer).
 * how important it is to get the right architecture e.g. "That is what I meant by suggesting that architecture isn’t the key to AGI." [https://www.greaterwrong.com/posts/D3NspiH2nhKA6B2PE/what-evidence-is-alphago-zero-re-agi-complexity]. There is [[Dario Amodei]]'s comment [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155849004324228&reply_comment_id=10155849068769228 here] which is the opposite view.
 * is it possible to turn a small lead in AGI development into a big lead?
-* will AGI be agent-like?
-* whether an AGI will look like a utility maximizer?
-* will AGI appear rational to humans? (efficient relative to humans)
-* will current ML techniques scale to AGI?
 * will there be small-scale AI failures prior to the end of the world?
 * will failure be conspicuous/obvious to detect? e.g. see [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-B3KmoTqRYs97RyLv4] for one scenario where even under a continuous takeoff, failure might not be obvious until the world ends.
 * how likely is a treacherous turn/context change type of failure?
@@ -71,17 +77,13 @@ also, organize this list so there is more structure.
 * what lessons can we learn from [[AlphaGo]]?
 * is [[prosaic AI]] possible? see [https://srconstantin.wordpress.com/2017/02/21/strong-ai-isnt-here-yet/] for a post arguing against.
 * how short is the window between "clearly infrahuman" and "clearly superhuman" for important real-world tasks like "doing AI research"?
-* whether we are already in hardware overhang / other "resource bonanza"
 * whether hardware or software progress is more important for getting to AGI. see [[hardware-driven vs software-driven progress]]
-* unipolarity/locality/decisive strategic advantage
 * speed of improvement/discontinuities/recursive self-improvement once the AI reaches some critical threshold (like human baseline)
 * importance of X and only X problem (can we get a system to do X, without also doing a bunch of other dangerous Y?)
 * to what extend "recursive self-improvement" is a distinct thing, as compared with just "AIs getting better and better at doing AI research" [https://arbital.com/p/KANSI/?l=1fy#subpage-1gp]
-* how solvable are coordination problems? e.g. how avoidable is a "[[race to the bottom]]" on safety?
 * how much weight to put on [[asymmetry of risks]]?
 * how expensive will the development of the first AGI be? e.g. "a small team of researchers can create AGI" vs "a large company/many teams of researcher will be needed"
 * how expensive will the training of the first AGI be? "you can run AGI on a modern desktop computer" vs "the first AGI project will need to raise a huge amount of money, because training will be so expensive"
-* how expensive will it be to run the first AGI?
 * under continuous takeoff, if we had misaligned AGIs (but the world hasn't ended yet) and could easily tell they were misaligned, how easy would it be to create an aligned AGI? [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-fxSY7P7wdeptKoANw]
 * in a situation where AI algorithms are creating other AI algorithms (this includes recursive self-improvement, but is also more general/relaxed), to what extent will the AI be helping with alignment (rather than just pushing forward capabilities)? how big will the "competence gap" be? [https://arbital.com/p/KANSI/?l=1fy#subpage-1h6] [https://agentfoundations.org/item?id=64]
 
