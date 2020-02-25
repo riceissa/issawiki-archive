@@ -41,6 +41,7 @@ an alternative organization for these disagreements (which this page doesn't fol
 ** "the degree of complexity of useful combination, and the degree to which a simple general architecture search and generation process can find such useful combinations for particular tasks" [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155848951264228&reply_comment_id=10155849315174228]
 * decisive strategic advantage
 ** unipolarity/locality
+** DSA without discontinuity
 * whether we are already in hardware overhang / other "resource bonanza"
 * what lessons can we learn by looking at the [[Evolution|evolutionary history]] of chimps vs humans?
 * what lessons can we learn from [[AlphaGo]]?
