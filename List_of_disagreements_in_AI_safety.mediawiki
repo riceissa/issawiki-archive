@@ -39,6 +39,7 @@ an alternative organization for these disagreements (which this page doesn't fol
 ** how short is the window between "clearly infrahuman" and "clearly superhuman" for important real-world tasks like "doing AI research" and "building nanobots"?
 * Is there a [[secret sauce for intelligence]]? how many/how "lumpy" are insights for creating an AGI?
 ** "the degree of complexity of useful combination, and the degree to which a simple general architecture search and generation process can find such useful combinations for particular tasks" [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155848951264228&reply_comment_id=10155849315174228]
+* how much sharing/trading there will be between different AI companies (eliezer vs [[Robin Hanson]]) -- this one is downstream of lumpiness of insights, because hanson expects that if there are very few insights needed to get to AGI, then there won't be any need for sharing (so in that case even hanson would agree with eliezer).
 * decisive strategic advantage / is it possible to turn a small lead in AGI development into a big lead?
 ** discontinuity/unipolarity/locality
 ** DSA without discontinuity
@@ -52,7 +53,6 @@ an alternative organization for these disagreements (which this page doesn't fol
 * what will failure look like? yudkowskian takeover vs paul's "we get what we measure, and our ability to get what we specify outstrips our ability to measure what we truly want" vs paul's influence-seeking optimizers/daemons vs ...
 * speed of improvement/discontinuities/recursive self-improvement once the AI reaches some critical threshold (like human baseline)
 * whether hardware or software progress is more important for getting to AGI. see [[hardware-driven vs software-driven progress]]
-* how much sharing/trading there will be between different AI companies (eliezer vs [[Robin Hanson]]) -- this one is downstream of lumpiness of insights, because hanson expects that if there are very few insights needed to get to AGI, then there won't be any need for sharing (so in that case even hanson would agree with eliezer).
 * how important it is to get the right architecture e.g. "That is what I meant by suggesting that architecture isn’t the key to AGI." [https://www.greaterwrong.com/posts/D3NspiH2nhKA6B2PE/what-evidence-is-alphago-zero-re-agi-complexity]. There is [[Dario Amodei]]'s comment [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155849004324228&reply_comment_id=10155849068769228 here] which is the opposite view.
 
 ==Specific lines of work==
