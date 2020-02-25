@@ -62,6 +62,7 @@ also, organize this list so there is more structure.
 * in a situation where AI algorithms are creating other AI algorithms (this includes recursive self-improvement, but is also more general/relaxed), to what extent will the AI be helping with alignment (rather than just pushing forward capabilities)? how big will the "competence gap" be? [https://arbital.com/p/KANSI/?l=1fy#subpage-1h6] [https://agentfoundations.org/item?id=64]
 * how much safety you gain by having the human programmers specify short-term tasks, rather than the AI predicting what short-term tasks the programmers would have specified if they had more time to think about it. [https://arbital.com/p/task_agi/]
 * to what extent doing something like "predict short-term actions humans would want, if they had a long time to think about it" leads to optimization of malignant goals, rather than mostly harmless errors. [https://arbital.com/p/task_agi/?l=6w#subpage-1hn] -- i think this one might be essentially the same as broad basin of corrigibility.
+* something like, if paul's approach can work, then why can't we stop at some intermediate stage to do WBE or make an aligned AGI via MIRI-like stuff instead? (i guess there isn't enough time?) -- eliezer raises this or a similar question "but then why can't we just use this scheme to align a powerful AGI in the first place?" [https://intelligence.org/2018/05/19/challenges-to-christianos-capability-amplification-proposal/]
 
 ==See also==
 
