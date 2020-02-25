@@ -19,6 +19,8 @@ also, organize this list so there is more structure.
 
 * [[Will there be significant changes to the world prior to some critical AI capability threshold being reached?]]
 * what precursors/narrow systems we will see prior to AGI
+* how many/how "lumpy" insights are for creating an AGI
+** "the degree of complexity of useful combination, and the degree to which a simple general architecture search and generation process can find such useful combinations for particular tasks" [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155848951264228&reply_comment_id=10155849315174228]
 
 ==Specific technical alignment agendas==
 
@@ -28,14 +30,16 @@ also, organize this list so there is more structure.
 
 * whether MIRI-type work can be done in time
 * can MIRI-type research be done in time to help with AGI? see [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-Dk5LmWMEL55ufkTB5 this comment] and [https://www.facebook.com/groups/aisafety/permalink/920154224815359/?comment_id=920167711480677]
+* how doomed is MIRI's approach? i.e. if there turns out to be no [[simple core algorithm for agency]], or if understanding agency better doesn't help us build an AGI, then we might not be in a better place wrt aligning AI.
 
 ===How promising is ML-safety work (including Paul's agenda)?===
 
+* how doomed ML safety approaches are e.g. see discussion [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-32dCL2u6p8L8td9BA here] -- [[How doomed are ML safety approaches?]]
+* whether "weird recursions" / "inductive invariants" are a good idea
+* to what extent are act-based agents even a thing? (i.e. do they just turn into goal-directed thingies?)
 
 ==uncategorized==
 * How big of a deal are the things [[Wei Dai]] worries about? (meta philosophy, meta ethics, human safety problems)
-* how doomed ML safety approaches are e.g. see discussion [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-32dCL2u6p8L8td9BA here] -- [[How doomed are ML safety approaches?]]
-** there's the sort of opposite question of, how doomed is MIRI's approach? i.e. if there turns out to be no [[simple core algorithm for agency]], or if understanding agency better doesn't help us build an AGI, then we might not be in a better place wrt aligning AI.
 * what the first AGI will look like
 * whether there is a basin of attraction for corrigibility
 * something-like-realism-about-rationality, e.g. "Is there a theory of rationality that is sufficiently precise to build hierarchies of abstraction?" [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-YMNwHcPNPd4pDK7MR]
@@ -43,10 +47,7 @@ also, organize this list so there is more structure.
 * how big of a problem collusion between subsystems of an AI will be
 * to what extent paul's approach involves "corralling hostile superintelligences"
 * to what extent paul's approach looks like humans trying to align arbitrarily large black boxes vs humans+pretty smart aligned AIs trying to align slightly large black boxes (this is actually somewhat analogous to [[Rapid capability gain vs AGI progress]], where again eliezer is imagining some big leap/going from just humans to suddenly superhuman AI, whereas paul is imagining a more smooth transition that powers his optimism). In other words, how much easier is it to align large black boxes if we have pretty smart aligned AIs to help us? [https://www.facebook.com/groups/aisafety/permalink/920154224815359/?comment_id=920160664814715&reply_comment_id=920212811476167] [https://arbital.com/p/task_agi/?l=6w#subpage-1hl]
-* whether "weird recursions" / "inductive invariants" are a good idea
 * whether we can correct mistakes when deploying AI systems as they come up (i.e. how catastrophic the initial problems will be)
-* how many/how "lumpy" insights are for creating an AGI
-** "the degree of complexity of useful combination, and the degree to which a simple general architecture search and generation process can find such useful combinations for particular tasks" [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155848951264228&reply_comment_id=10155849315174228]
 * how much sharing/trading there will be between different AI companies (eliezer vs [[Robin Hanson]]) -- this one is downstream of lumpiness of insights, because hanson expects that if there are very few insights needed to get to AGI, then there won't be any need for sharing (so in that case even hanson would agree with eliezer).
 * how important it is to get the right architecture e.g. "That is what I meant by suggesting that architecture isn’t the key to AGI." [https://www.greaterwrong.com/posts/D3NspiH2nhKA6B2PE/what-evidence-is-alphago-zero-re-agi-complexity]. There is [[Dario Amodei]]'s comment [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155849004324228&reply_comment_id=10155849068769228 here] which is the opposite view.
 * is it possible to turn a small lead in AGI development into a big lead?
@@ -82,7 +83,6 @@ also, organize this list so there is more structure.
 * how much safety you gain by having the human programmers specify short-term tasks, rather than the AI predicting what short-term tasks the programmers would have specified if they had more time to think about it. [https://arbital.com/p/task_agi/]
 * to what extent doing something like "predict short-term actions humans would want, if they had a long time to think about it" leads to optimization of malignant goals, rather than mostly harmless errors. [https://arbital.com/p/task_agi/?l=6w#subpage-1hn] -- i think this one might be essentially the same as broad basin of corrigibility.
 * something like, if paul's approach can work, then why can't we stop at some intermediate stage to do WBE or make an aligned AGI via MIRI-like stuff instead? (i guess there isn't enough time?) -- eliezer raises this or a similar question "but then why can't we just use this scheme to align a powerful AGI in the first place?" [https://intelligence.org/2018/05/19/challenges-to-christianos-capability-amplification-proposal/]
-* to what extent are act-based agents even a thing? (i.e. do they just turn into goal-directed thingies?)
 
 ==See also==
 
