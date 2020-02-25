@@ -19,6 +19,11 @@ also, organize this list so there is more structure.
 * how solvable are coordination problems? e.g. how avoidable is a "[[race to the bottom]]" on safety?
 * how strong of a guarantee do we need for the safety of AI? proof-level (does anyone actually argue this?) vs security mindset vs whatever ML safety people believe
 * how much weight to put on [[asymmetry of risks]]?
+* will there be small-scale AI failures prior to the end of the world?
+* how likely is a treacherous turn/context change type of failure?
+* how much overlap is there between AI capabilities work and safety work? (e.g. is it reasonable to say things like "making progress on safety requires advancing capabilities"?)
+* whether we can correct mistakes when deploying AI systems as they come up (i.e. how catastrophic the initial problems will be)
+* will failure be conspicuous/obvious to detect? e.g. see [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-B3KmoTqRYs97RyLv4] for one scenario where even under a continuous takeoff, failure might not be obvious until the world ends.
 
 ==Takeoff dynamics==
 
@@ -39,6 +44,10 @@ also, organize this list so there is more structure.
 * what will failure look like? yudkowskian takeover vs paul's "we get what we measure, and our ability to get what we specify outstrips our ability to measure what we truly want" vs paul's influence-seeking optimizers/daemons vs ...
 * speed of improvement/discontinuities/recursive self-improvement once the AI reaches some critical threshold (like human baseline)
 * how short is the window between "clearly infrahuman" and "clearly superhuman" for important real-world tasks like "doing AI research"?
+* whether hardware or software progress is more important for getting to AGI. see [[hardware-driven vs software-driven progress]]
+* is it possible to turn a small lead in AGI development into a big lead?
+* how much sharing/trading there will be between different AI companies (eliezer vs [[Robin Hanson]]) -- this one is downstream of lumpiness of insights, because hanson expects that if there are very few insights needed to get to AGI, then there won't be any need for sharing (so in that case even hanson would agree with eliezer).
+* how important it is to get the right architecture e.g. "That is what I meant by suggesting that architecture isn’t the key to AGI." [https://www.greaterwrong.com/posts/D3NspiH2nhKA6B2PE/what-evidence-is-alphago-zero-re-agi-complexity]. There is [[Dario Amodei]]'s comment [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155849004324228&reply_comment_id=10155849068769228 here] which is the opposite view.
 
 ==Specific technical alignment agendas==
 
@@ -73,16 +82,7 @@ also, organize this list so there is more structure.
 * how big of a problem collusion between subsystems of an AI will be
 * to what extent paul's approach involves "corralling hostile superintelligences"
 * to what extent paul's approach looks like humans trying to align arbitrarily large black boxes vs humans+pretty smart aligned AIs trying to align slightly large black boxes (this is actually somewhat analogous to [[Rapid capability gain vs AGI progress]], where again eliezer is imagining some big leap/going from just humans to suddenly superhuman AI, whereas paul is imagining a more smooth transition that powers his optimism). In other words, how much easier is it to align large black boxes if we have pretty smart aligned AIs to help us? [https://www.facebook.com/groups/aisafety/permalink/920154224815359/?comment_id=920160664814715&reply_comment_id=920212811476167] [https://arbital.com/p/task_agi/?l=6w#subpage-1hl]
-* whether we can correct mistakes when deploying AI systems as they come up (i.e. how catastrophic the initial problems will be)
-* how much sharing/trading there will be between different AI companies (eliezer vs [[Robin Hanson]]) -- this one is downstream of lumpiness of insights, because hanson expects that if there are very few insights needed to get to AGI, then there won't be any need for sharing (so in that case even hanson would agree with eliezer).
-* how important it is to get the right architecture e.g. "That is what I meant by suggesting that architecture isn’t the key to AGI." [https://www.greaterwrong.com/posts/D3NspiH2nhKA6B2PE/what-evidence-is-alphago-zero-re-agi-complexity]. There is [[Dario Amodei]]'s comment [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155849004324228&reply_comment_id=10155849068769228 here] which is the opposite view.
-* is it possible to turn a small lead in AGI development into a big lead?
-* will there be small-scale AI failures prior to the end of the world?
-* will failure be conspicuous/obvious to detect? e.g. see [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-B3KmoTqRYs97RyLv4] for one scenario where even under a continuous takeoff, failure might not be obvious until the world ends.
-* how likely is a treacherous turn/context change type of failure?
-* how much overlap is there between AI capabilities work and safety work? (e.g. is it reasonable to say things like "making progress on safety requires advancing capabilities"?)
 * deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one.
-* whether hardware or software progress is more important for getting to AGI. see [[hardware-driven vs software-driven progress]]
 * under continuous takeoff, if we had misaligned AGIs (but the world hasn't ended yet) and could easily tell they were misaligned, how easy would it be to create an aligned AGI? [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-fxSY7P7wdeptKoANw]
 * in a situation where AI algorithms are creating other AI algorithms (this includes recursive self-improvement, but is also more general/relaxed), to what extent will the AI be helping with alignment (rather than just pushing forward capabilities)? how big will the "competence gap" be? [https://arbital.com/p/KANSI/?l=1fy#subpage-1h6] [https://agentfoundations.org/item?id=64]
 
