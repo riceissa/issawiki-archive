@@ -17,7 +17,7 @@ an alternative organization for these disagreements (which this page doesn't fol
 
 * civilizational adequacy
 * probability of doom without any special EA/longtermist intervention
-* prior on difficulty of alignment [https://arbital.com/p/alignment_difficulty/], and ideas like "if ML-based safety were to have any shot at working, wouldn't we just go all the way and expect the default (no EA intervention) approach to AGI to just produce basically ok outcomes?"
+* prior on difficulty of alignment (there is [https://arbital.com/p/alignment_difficulty/] but it looks like the page only defines what "difficulty" means, and doesn't actually go on to discuss whether we should expect it to be difficult), and ideas like "if ML-based safety were to have any shot at working, wouldn't we just go all the way and expect the default (no EA intervention) approach to AGI to just produce basically ok outcomes?"
 * how likely optimization daemons/mesa-optimizers are or what they will look like
 * how solvable are coordination problems? e.g. how avoidable is a "[[race to the bottom]]" on safety?
 * how strong of a guarantee do we need for the safety of AI? proof-level (does anyone actually argue this?) vs security mindset vs whatever ML safety people believe
