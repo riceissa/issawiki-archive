@@ -71,6 +71,7 @@ How promising is MIRI-style work (HRAD, agent foundations, embedded agency)?
 * something-like-realism-about-rationality, e.g. "Is there a theory of rationality that is sufficiently precise to build hierarchies of abstraction?" [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-YMNwHcPNPd4pDK7MR]
 * deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one.
 * will early advanced AI systems be understandable in terms of HRAD's formalisms? [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#3__What_do_I_think_about_HRAD_]
+** lack of historical precedent at applying "complete axiomatic descriptions of AI systems" to help design AI systems [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#3a__Low_credence_that_HRAD_will_be_applicable__25___]
 
 ===Machine learning safety===
 
