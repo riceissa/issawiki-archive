@@ -36,12 +36,16 @@ also, organize this list so there is more structure.
 
 * how doomed ML safety approaches are e.g. see discussion [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-32dCL2u6p8L8td9BA here] -- [[How doomed are ML safety approaches?]]
 * whether "weird recursions" / "inductive invariants" are a good idea
+* something like, if paul's approach can work, then why can't we stop at some intermediate stage to do WBE or make an aligned AGI via MIRI-like stuff instead? (i guess there isn't enough time?) -- eliezer raises this or a similar question "but then why can't we just use this scheme to align a powerful AGI in the first place?" [https://intelligence.org/2018/05/19/challenges-to-christianos-capability-amplification-proposal/]
 * to what extent are act-based agents even a thing? (i.e. do they just turn into goal-directed thingies?)
+* to what extent doing something like "predict short-term actions humans would want, if they had a long time to think about it" leads to optimization of malignant goals, rather than mostly harmless errors. [https://arbital.com/p/task_agi/?l=6w#subpage-1hn] -- i think this one might be essentially the same as broad basin of corrigibility.
+* how much safety you gain by having the human programmers specify short-term tasks, rather than the AI predicting what short-term tasks the programmers would have specified if they had more time to think about it. [https://arbital.com/p/task_agi/]
+* whether there is a basin of attraction for corrigibility
 
 ==uncategorized==
+
 * How big of a deal are the things [[Wei Dai]] worries about? (meta philosophy, meta ethics, human safety problems)
 * what the first AGI will look like
-* whether there is a basin of attraction for corrigibility
 * something-like-realism-about-rationality, e.g. "Is there a theory of rationality that is sufficiently precise to build hierarchies of abstraction?" [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-YMNwHcPNPd4pDK7MR]
 * whether ML-based approaches / messy approaches to alignment are doomed
 * how big of a problem collusion between subsystems of an AI will be
@@ -80,9 +84,6 @@ also, organize this list so there is more structure.
 * how expensive will it be to run the first AGI?
 * under continuous takeoff, if we had misaligned AGIs (but the world hasn't ended yet) and could easily tell they were misaligned, how easy would it be to create an aligned AGI? [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-fxSY7P7wdeptKoANw]
 * in a situation where AI algorithms are creating other AI algorithms (this includes recursive self-improvement, but is also more general/relaxed), to what extent will the AI be helping with alignment (rather than just pushing forward capabilities)? how big will the "competence gap" be? [https://arbital.com/p/KANSI/?l=1fy#subpage-1h6] [https://agentfoundations.org/item?id=64]
-* how much safety you gain by having the human programmers specify short-term tasks, rather than the AI predicting what short-term tasks the programmers would have specified if they had more time to think about it. [https://arbital.com/p/task_agi/]
-* to what extent doing something like "predict short-term actions humans would want, if they had a long time to think about it" leads to optimization of malignant goals, rather than mostly harmless errors. [https://arbital.com/p/task_agi/?l=6w#subpage-1hn] -- i think this one might be essentially the same as broad basin of corrigibility.
-* something like, if paul's approach can work, then why can't we stop at some intermediate stage to do WBE or make an aligned AGI via MIRI-like stuff instead? (i guess there isn't enough time?) -- eliezer raises this or a similar question "but then why can't we just use this scheme to align a powerful AGI in the first place?" [https://intelligence.org/2018/05/19/challenges-to-christianos-capability-amplification-proposal/]
 
 ==See also==
 
