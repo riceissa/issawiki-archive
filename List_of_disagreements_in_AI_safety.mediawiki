@@ -54,7 +54,9 @@ also, organize this list so there is more structure.
 
 ==Specific technical alignment agendas==
 
-===How promising is MIRI-style work (HRAD, agent foundations, embedded agency)?===
+===MIRI-style work===
+
+How promising is MIRI-style work (HRAD, agent foundations, embedded agency)?
 
 (I think Paul's view is something like "this is fine to work on, but there isn't enough time and my agenda seems promising" whereas other people are more like "I don't see how MIRI's work even helps us build an AGI")
 
@@ -67,7 +69,9 @@ also, organize this list so there is more structure.
 * something-like-realism-about-rationality, e.g. "Is there a theory of rationality that is sufficiently precise to build hierarchies of abstraction?" [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-YMNwHcPNPd4pDK7MR]
 * deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one.
 
-===How promising is ML-safety work (including Paul's agenda)?===
+===ML-safety work===
+
+How promising is ML-safety work (including Paul's agenda)?
 
 * whether ML-based approaches / messy approaches to alignment are doomed
 * how doomed ML safety approaches are e.g. see discussion [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-32dCL2u6p8L8td9BA here] -- [[How doomed are ML safety approaches?]]
@@ -83,7 +87,7 @@ also, organize this list so there is more structure.
 * to what extent paul's approach looks like humans trying to align arbitrarily large black boxes vs humans+pretty smart aligned AIs trying to align slightly large black boxes (this is actually somewhat analogous to [[Rapid capability gain vs AGI progress]], where again eliezer is imagining some big leap/going from just humans to suddenly superhuman AI, whereas paul is imagining a more smooth transition that powers his optimism). In other words, how much easier is it to align large black boxes if we have pretty smart aligned AIs to help us? [https://www.facebook.com/groups/aisafety/permalink/920154224815359/?comment_id=920160664814715&reply_comment_id=920212811476167] [https://arbital.com/p/task_agi/?l=6w#subpage-1hl]
 * in a situation where AI algorithms are creating other AI algorithms (this includes recursive self-improvement, but is also more general/relaxed), to what extent will the AI be helping with alignment (rather than just pushing forward capabilities)? how big will the "competence gap" be? [https://arbital.com/p/KANSI/?l=1fy#subpage-1h6] [https://agentfoundations.org/item?id=64]
 
-==uncategorized==
+===Wei Dai-style work===
 
 * How big of a deal are the things [[Wei Dai]] worries about? (meta philosophy, meta ethics, human safety problems)
 
