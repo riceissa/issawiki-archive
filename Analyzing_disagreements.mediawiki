@@ -40,6 +40,14 @@ Interesting common disagreements:
 * Wei vs Paul
 * Eliezer vs Hanson
 
+I like these posts by Eli Tyre:
+
+* [https://www.greaterwrong.com/posts/faaoyve5ryY8E5M4r/eli-s-shortform-feed/comment/HpFfoqZXAbBZcsPKF Some things I think about Double Crux and related topics]
+* [https://www.greaterwrong.com/posts/faaoyve5ryY8E5M4r/eli-s-shortform-feed/comment/D2v9JH7DX9s7GXHWF The Basic Double Crux Pattern]
+* [https://musingsandroughdrafts.wordpress.com/2019/09/27/basic-double-crux-pattern-example/ Basic Double Crux pattern example]
+
+I want to try doing an imaginary double crux example for AI safety stuff.
+
 ==See also==
 
 * [[List of disagreements in AI safety]]
