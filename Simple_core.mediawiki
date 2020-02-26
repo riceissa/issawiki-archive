@@ -3,6 +3,7 @@
 * Simple core to [[corrigibility]]<ref>https://ai-alignment.com/corrigibility-3039e668638</ref>
 * [[Simple core of consequentialist reasoning]]
 * Simple core to AI safety techniques<ref>https://intelligence.org/files/OpenPhil2016Supplement.pdf see page 13</ref>
+* Simple core for impact measures
 
 ==References==
 
