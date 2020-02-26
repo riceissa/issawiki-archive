@@ -12,6 +12,7 @@ an alternative organization for these disagreements (which this page doesn't fol
 * how expensive will it be to run the first AGI?
 * is [[prosaic AI]] possible? see [https://srconstantin.wordpress.com/2017/02/21/strong-ai-isnt-here-yet/] for a post arguing against.
 * what the first AGI will look like
+* intelligibility of intelligence [https://intelligence.org/files/HowIntelligible.pdf]
 
 ==Probability of doom==
 
