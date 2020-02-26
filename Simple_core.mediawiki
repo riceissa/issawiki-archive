@@ -1,0 +1,9 @@
+'''Simple core''' is a term that has been used to describe various things in AI safety.
+
+* Simple core to [[corrigibility]]<ref>https://ai-alignment.com/corrigibility-3039e668638</ref>
+* [[Simple core of consequentialist reasoning]]
+* Simple core to AI safety techniques<ref>https://intelligence.org/files/OpenPhil2016Supplement.pdf see page 13</ref>
+
+==References==
+
+<references/>
