@@ -31,6 +31,7 @@ an alternative organization for these disagreements (which this page doesn't fol
 * under continuous takeoff, if we had misaligned AGIs (but the world hasn't ended yet) and could easily tell they were misaligned, how easy would it be to create an aligned AGI? [https://www.greaterwrong.com/posts/CjW4axQDqLd2oDCGG/misconceptions-about-continuous-takeoff#comment-fxSY7P7wdeptKoANw]
 * what the first AGI will look like
 * to what extent AGI safety will look like "security mindset" vs "lots of little engineering problems", e.g. see [https://eaforum.issarice.com/posts/Ayu5im98u8FeMWoBZ/my-personal-cruxes-for-working-on-ai-safety#HuvMtWgiXxPfcnAYY]
+* intelligibility of intelligence [https://intelligence.org/files/HowIntelligible.pdf]
 
 ==Takeoff dynamics==
 
