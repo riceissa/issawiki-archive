@@ -3,6 +3,7 @@ One of the "big discussions" that has been taking place in AI safety in 2018 and
 * What point was [[Eliezer]] trying to make when bringing up coherence arguments?
 * Will the first AGI systems we build be goal-directed?
 * Are utility maximizers goal-directed?
+* What are the differences and implication structure among intelligence, goal-directedness, expected utility maximizer, coherent?
 
 https://www.greaterwrong.com/posts/vphFJzK3mWA4PJKAg/coherent-behaviour-in-the-real-world-is-an-incoherent#comment-F2YB5aJgDdK9ZGspw
 
