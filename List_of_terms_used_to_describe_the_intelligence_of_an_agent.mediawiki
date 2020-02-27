@@ -6,3 +6,4 @@
 * highly optimized
 * cognitively powerful
 * relevant powerful [https://arbital.com/p/powerful_agent_highly_optimized/] = "cognitively powerful enough to be relevant to existential outcomes"
+* sufficiently advanced
