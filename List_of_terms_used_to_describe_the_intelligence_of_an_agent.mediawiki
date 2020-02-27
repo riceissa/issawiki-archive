@@ -1,0 +1,8 @@
+[[Eliezer]] has lots of terms to describe how intelligent/powerful/whatever an agent is.
+
+* Relevant
+* Pivotal (is this only for actions, or also for agents, as in "agent who can perform a pivotal action"?)
+* sufficiently optimized
+* highly optimized
+* cognitively powerful
+* relevant powerful [https://arbital.com/p/powerful_agent_highly_optimized/] = "cognitively powerful enough to be relevant to existential outcomes"
