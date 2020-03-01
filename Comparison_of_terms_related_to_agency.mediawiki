@@ -5,6 +5,8 @@
 |-
 | Optimizer, optimization process ||
 |-
+| Optimized ||
+|-
 | consequentialist ||
 |-
 | expected utility maximizer ||
