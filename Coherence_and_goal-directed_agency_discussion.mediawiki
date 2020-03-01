@@ -14,3 +14,8 @@ https://www.greaterwrong.com/posts/9zpT9dikrrebdq3Jf/will-humans-build-goal-dire
 https://www.greaterwrong.com/posts/tHxXdAn8Yuiy9y2pZ/ai-safety-without-goal-directed-behavior
 
 https://www.greaterwrong.com/posts/TE5nJ882s5dCMkBB8/conclusion-to-the-sequence-on-value-learning
+
+==See also==
+
+* [[Comparison of terms related to agency]]
+* [[List of terms used to describe the intelligence of an agent]]
