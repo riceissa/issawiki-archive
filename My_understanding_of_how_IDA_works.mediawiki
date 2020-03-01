@@ -32,6 +32,8 @@ Some expositions of IDA depend on the human to decompose tasks which are arbitra
 
 I guess another thing I don't really understand: eventually, the distillation tries to solve the hardest tasks directly (<math>T_N</math> in the Evans IDA document). But like, these are things humans can already solve directly, right? So then why didn't we train on human solving these problems directly? Does it take humans too much time to produce enough samples? Or is there a safety reason (like, if M knows how to do all these decompositions at the time when it gets trained to solve the hardest tasks, then it will try to reason in a human-like manner)?
 
+Related confusion: Paul says after the first round of IDA, the AI is superhuman in some ways and infrahuman in other ways. So there must be something that the AI ''can't'' learn to do from supervised learning by looking at human examples. OTOH, it can eventually learn to do everything humans can by looking at a sufficiently amplified system's examples. So what is the difference here? Why does having access to the amplified system's examples allow it to do things it couldn't from human examples alone?
+
 ==References==
 
 <references/>
