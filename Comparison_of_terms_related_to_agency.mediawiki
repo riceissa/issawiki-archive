@@ -1,0 +1,69 @@
+{| class="wikitable"
+! Term !! Opposite
+|-
+| Agent ||
+|-
+| Optimizer, optimization process ||
+|-
+| consequentialist ||
+|-
+| expected utility maximizer ||
+|-
+| goal-directed, goal-based || act-based?
+|-
+| pseudoconsequentialist ||
+|-
+| mesa-optimizer ||
+|}
+
+parameters to check for:
+
+* is it searching through a list of potential answers?
+* does it have an explicit model of the world? i.e. it has counterfactuals (see drescher on subactivation)
+* can it be modeled as having a utility function?
+* can it be modeled as having a utility function and selecting an action that does an argmax over actions? (note: this does not say how the argmax is ''implemented'', which might be via a search or via some other more "control"-like process)
+* can we take an intentional stance toward it? i.e., is it useful (so far as predicting what it will do is concerned) to model it as having intentions?
+* is it solving some sort of optimization problem? (but what counts as an optimization problem?)
+* origin: was it itself produced by some sort of optimization process?
+** eliezer's GLUT idea of "trace the improbability"
+* does it hit a small target, out of a large space of possibilities?
+* how many elements in the space of possibilities is it instantiating?
+* cost of evaluation of options/how good of a feedback we get for potential outputs
+* online vs offline (maybe also one-shot vs continually outputting things)
+* how well does it continue working when the environment/input changes?
+* cross-domain optimization power
+* coherence (if it makes sense to assign preferences)
+* does it pursue omohundro's "basic AI drives"? (i.e. it is the subject of instrumental convergence)
+* [https://www.greaterwrong.com/posts/DfcywmqRSkBaCB6Ma/intuitions-about-goal-directed-behavior this post] lists more formalizations for what "goal-directed" means
+
+examples to check against:
+
+* humans
+* "subagents" inside of humans
+* human who is modeled inside the mind of another human (e.g. for the purposes of predicting behavior)
+* evolution/natural selection
+* bottlecap
+* RL system playing Pong without an explicit model
+* tool AGI/CAIS
+* task AGI
+* KANSI
+* mindblind AI
+* targeting system on a rocket
+* single-step filter
+* chess-playing algorithm that just does tree search (e.g. alpha-beta pruning algorithm)
+* a simple feed-forward neural network (e.g. one that recognizes MNIST digits)
+* a thermostat
+* a plant
+* multi-armed bandit problem
+* Solomonoff induction (outer layer/top-level reasoning)
+* plagiarizing robot
+* a system trained using imitation learning to behave similarly to another agent [https://www.greaterwrong.com/posts/9zpT9dikrrebdq3Jf/will-humans-build-goal-directed-agents]
+* an agent that always twitches; see jessica's comment [https://www.greaterwrong.com/posts/NxF5G6CJiof6cemTw/coherence-arguments-do-not-imply-goal-directed-behavior/comment/ymiuDS8uY44xjXxoS here]
+
+==References==
+
+https://www.lesswrong.com/posts/ZDZmopKquzHYPRNxq/selection-vs-control
+
+https://www.lesswrong.com/posts/rvxcSc6wdcCfaX6GZ/two-senses-of-optimizer
+
+https://www.lesswrong.com/posts/Q4hLMDrFd8fbteeZ8/measuring-optimization-power
