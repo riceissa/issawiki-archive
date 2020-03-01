@@ -60,6 +60,11 @@ examples to check against:
 * a system trained using imitation learning to behave similarly to another agent [https://www.greaterwrong.com/posts/9zpT9dikrrebdq3Jf/will-humans-build-goal-directed-agents]
 * an agent that always twitches; see jessica's comment [https://www.greaterwrong.com/posts/NxF5G6CJiof6cemTw/coherence-arguments-do-not-imply-goal-directed-behavior/comment/ymiuDS8uY44xjXxoS here]
 
+==See also==
+
+* [[List of terms used to describe the intelligence of an agent]]
+* [[Coherence and goal-directed agency discussion]]
+
 ==References==
 
 https://www.lesswrong.com/posts/ZDZmopKquzHYPRNxq/selection-vs-control
