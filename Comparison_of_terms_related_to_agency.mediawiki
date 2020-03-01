@@ -31,7 +31,7 @@ parameters to check for:
 * cost of evaluation of options/how good of a feedback we get for potential outputs
 * online vs offline (maybe also one-shot vs continually outputting things)
 * how well does it continue working when the environment/input changes?
-* cross-domain optimization power
+* [[general intelligence]] / cross-domain optimization power
 * coherence (if it makes sense to assign preferences)
 * does it pursue omohundro's "basic AI drives"? (i.e. it is the subject of instrumental convergence)
 * [https://www.greaterwrong.com/posts/DfcywmqRSkBaCB6Ma/intuitions-about-goal-directed-behavior this post] lists more formalizations for what "goal-directed" means
