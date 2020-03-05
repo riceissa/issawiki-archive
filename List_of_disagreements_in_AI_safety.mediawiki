@@ -59,6 +59,7 @@ an alternative organization for these disagreements (which this page doesn't fol
 * whether hardware or software progress is more important for getting to AGI. see [[hardware-driven vs software-driven progress]]
 * how important it is to get the right architecture e.g. "That is what I meant by suggesting that architecture isn’t the key to AGI." [https://www.greaterwrong.com/posts/D3NspiH2nhKA6B2PE/what-evidence-is-alphago-zero-re-agi-complexity]. There is [[Dario Amodei]]'s comment [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155849004324228&reply_comment_id=10155849068769228 here] which is the opposite view.
 * "I think the key disagreement is instead about where the main force of improvement in early human-designed AGI systems comes from — is it from existing systems progressing up their improvement curves, or from new systems coming online on qualitatively steeper improvement curves?" [https://lw2.issarice.com/posts/X5zmEvFQunxiEcxHn/quick-nate-eliezer-comments-on-discontinuity]
+* how simple is human intelligence? [https://www.greaterwrong.com/posts/Jo4ExrJxF6rm8cm3k/q-and-a-with-harpending-and-cochran#comment-HqM6wur7WoMAFkAfL] asks the question, but idk if there are disagreements or if anything is even known.
 
 ==Specific lines of work==
 
