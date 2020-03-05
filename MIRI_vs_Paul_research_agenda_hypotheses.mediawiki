@@ -6,6 +6,13 @@ from "The concern" in https://agentfoundations.org/item?id=1220
 * "Consequentialist subsystem reasoning will likely come “packaged with a random goal” in some sense, and this goal will not be aligned with human interests."
 * "Therefore, the default AI development path will produce, as the first AI systems capable of pivotal acts, AI systems with goals not aligned with human interests, causing catastrophe."
 
+Taking Owen's suggestion,<ref>https://agentfoundations.org/item?id=1242</ref> we can change this to:
+
+* "The first AI systems capable of pivotal acts will use good consequentialist reasoning."
+* "The default AI development path will not produce good consequentialist reasoning at the top level."
+* "Consequentialist subsystem reasoning will likely come “packaged with a random goal” in some sense, and this goal will not be aligned with human interests."
+* AI systems capable of pivotal acts with goals not aligned with human interests will cause catastrophe.
+
 key hopes listed in https://www.greaterwrong.com/posts/HCv2uwgDGf5dyX5y6/preface-to-the-sequence-on-iterated-amplification
 
 * "If you have an overseer who is smarter than the agent you are trying to train, you can safely use that overseer’s judgment as an objective."
