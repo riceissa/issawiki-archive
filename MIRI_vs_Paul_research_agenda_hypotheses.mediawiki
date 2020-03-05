@@ -18,3 +18,11 @@ key hopes listed in https://www.greaterwrong.com/posts/HCv2uwgDGf5dyX5y6/preface
 * "If you have an overseer who is smarter than the agent you are trying to train, you can safely use that overseer’s judgment as an objective."
 * "We can train an RL system using very sparse feedback, so it’s OK if that overseer is very computationally expensive."
 * "A team of aligned agents may be smarter than any individual agent, while remaining aligned."
+
+==See also==
+
+* [[List of disagreements in AI safety]]
+
+==References==
+
+<references/>
