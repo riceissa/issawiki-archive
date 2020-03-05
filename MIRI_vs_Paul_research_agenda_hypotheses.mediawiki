@@ -9,8 +9,10 @@ from "The concern" in https://agentfoundations.org/item?id=1220
 Taking Owen's suggestion,<ref>https://agentfoundations.org/item?id=1242</ref> we can change this to:
 
 * "The first AI systems capable of pivotal acts will use good consequentialist reasoning."
+** this could be false if we have something like [[KANSI]] or Drexler's CAIS
 * "The default AI development path will not produce good consequentialist reasoning at the top level."
 * "Consequentialist subsystem reasoning will likely come “packaged with a random goal” in some sense, and this goal will not be aligned with human interests."
+** this is the hypothesis paul attacks: he is saying, even without top-level consequentialist reasoning, we can align AI systems.
 * AI systems capable of pivotal acts with goals not aligned with human interests will cause catastrophe.
 
 key hopes listed in https://www.greaterwrong.com/posts/HCv2uwgDGf5dyX5y6/preface-to-the-sequence-on-iterated-amplification
