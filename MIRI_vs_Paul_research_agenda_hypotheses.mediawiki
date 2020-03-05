@@ -13,6 +13,7 @@ Taking Owen's suggestion,<ref>https://agentfoundations.org/item?id=1242</ref> we
 * "The default AI development path will not produce good consequentialist reasoning at the top level."
 * "Consequentialist subsystem reasoning will likely come “packaged with a random goal” in some sense, and this goal will not be aligned with human interests."
 ** this is the hypothesis paul attacks: he is saying, even without top-level consequentialist reasoning, we can align AI systems.
+** I guess this is also the premise that "AI will be safe by default" people would reject: the top-level reasoning stays dominant, so the subsystems aren't really packaged with a random goal.
 * AI systems capable of pivotal acts with goals not aligned with human interests will cause catastrophe.
 
 key hopes listed in https://www.greaterwrong.com/posts/HCv2uwgDGf5dyX5y6/preface-to-the-sequence-on-iterated-amplification
