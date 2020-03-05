@@ -1,0 +1,3 @@
+from "The concern" in https://agentfoundations.org/item?id=1220
+
+key hopes listed in https://www.greaterwrong.com/posts/HCv2uwgDGf5dyX5y6/preface-to-the-sequence-on-iterated-amplification
