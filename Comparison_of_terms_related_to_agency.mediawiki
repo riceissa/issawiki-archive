@@ -37,6 +37,7 @@ parameters to check for:
 * coherence (if it makes sense to assign preferences)
 * does it pursue omohundro's "basic AI drives"? (i.e. it is the subject of instrumental convergence)
 * [https://www.greaterwrong.com/posts/DfcywmqRSkBaCB6Ma/intuitions-about-goal-directed-behavior this post] lists more formalizations for what "goal-directed" means
+* "For example, consider Dialogic Reinforcement Learning. Does it describe a goal-directed agent? On the one hand, you could argue it doesn’t, because this agent doesn’t have fixed preferences and doesn’t have consistent beliefs over time. On the other hand, you could argue it does, because this agent is still doing long-term planning in the physical world." [https://www.greaterwrong.com/posts/NxF5G6CJiof6cemTw/coherence-arguments-do-not-imply-goal-directed-behavior#comment-dp5S2bzhiknrC2opg]
 
 examples to check against:
 
