@@ -35,6 +35,8 @@ but what if the measures of the three OMs are not equal? e.g. maybe it takes 1 b
 
 as you can see, it seems like with udassa, what we decide is the measure of the OM (which depends on what is the shortest program to output that OM) sways the outcome. it's not clear to me what's the right answer (i.e. what udassa ends up saying in the end, after you set up the sleeping beauty problem in some "neutral" way).
 
+or maybe i've gotten all of this wrong. what udassa actually gives you is the measure of the OM. but in sleeping beauty, we've stipulated that the beauty can't tell what world she's in. so the OMs in all three spots are the same. they all get counted toward the same OM in the output of udassa. and udassa just tells you the measure of an OM, i.e. how likely you are to experience that OM. but it doesn't tell you the probability of heads.
+
 what does UDT say? well, you can read the stuart armstrong paper. basically, udt refuses to give you probabilities! because what matters is the ''decisions''. and you can't make a decision without some sort of bet, and some sort of utility function (e.g. selfish, altruistic, ...).
 
 ==See also==
