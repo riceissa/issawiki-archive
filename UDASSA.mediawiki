@@ -14,6 +14,8 @@ udassa makes use of the universal distribution (the same one that solomonoff ind
 
 what's the ASSA part? i think the ASSA part just says that this measure under the UD ''is'' how likely we are to experience that OM.
 
+actually a better order of introduction might be going from ASSA, and then UD. that's how paul does it [https://www.greaterwrong.com/posts/QmWNbCRMgRBcMK6RK/the-absolute-self-selection-assumption here]: the idea is, first we leave the measure unspecified. and we say that how likely we are to experience an OM is the measure of that OM under some measure. finally at the end, we decide that UD would be a fine measure to use here.
+
 so what does UDASSA get us? make decisions; explain anthropics; ...
 
 so how can we use UDASSA to make decisions? well, i'm slightly confused here myself. i can think of two possibilities:
