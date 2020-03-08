@@ -1,4 +1,4 @@
-One of the "big discussions" that has been taking place in AI safety in 2018 and 2019 is about [[coherence argument]]s and [[goal-directed]] agency. Some of the topics in this discussion are:
+One of the "big discussions" that has been taking place in AI safety in 2018&ndash;2020 is about [[coherence argument]]s and [[goal-directed]] agency. Some of the topics in this discussion are:
 
 * What point was [[Eliezer]] trying to make when bringing up coherence arguments?
 * Will the first AGI systems we build be goal-directed?
