@@ -29,6 +29,14 @@ so how can we use UDASSA to make decisions? well, i'm slightly confused here mys
 
 Does UDASSA give any different decisions from UDT? i think one example might be https://riceissa.github.io/everything-list-1998-2009/14037.html where UDT seems to give the intuitively-correct answer, but UDASSA doesn't.
 
+what does udassa say about probability of heads in sleeping beauty? well, if each of the three OMs takes an equal complexity to specify, then i think we just get the thirder position, because a randomly selected OM has probability 1/3 of being in a heads world.
+
+but what if the measures of the three OMs are not equal? e.g. maybe it takes 1 bit to specify heads or tails world, then in the tails world, a second bit to specify first or second OM. so now out of all four two-bit strings, two of them are heads and two of them are tails. so p(heads)=1/2.
+
+as you can see, it seems like with udassa, what we decide is the measure of the OM (which depends on what is the shortest program to output that OM) sways the outcome. it's not clear to me what's the right answer (i.e. what udassa ends up saying in the end, after you set up the sleeping beauty problem in some "neutral" way).
+
+what does UDT say? well, you can read the stuart armstrong paper. basically, udt refuses to give you probabilities! because what matters is the ''decisions''. and you can't make a decision without some sort of bet, and some sort of utility function (e.g. selfish, altruistic, ...).
+
 ==See also==
 
 ==References==
