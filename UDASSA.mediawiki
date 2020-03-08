@@ -8,6 +8,10 @@ The name "UDASSA" comes from "universal distribution + absolute self-selection a
 
 ==Description==
 
+==Comparison to UDT==
+
+Does UDASSA give any different decisions from UDT? i think one example might be https://riceissa.github.io/everything-list-1998-2009/14037.html where UDT seems to give the intuitively-correct answer, but UDASSA doesn't.
+
 ==See also==
 
 ==References==
