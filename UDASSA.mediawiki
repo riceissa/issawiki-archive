@@ -8,6 +8,10 @@ The name "UDASSA" comes from "universal distribution + absolute self-selection a
 
 ==Description==
 
+i think it's useful to compare UDASSA to solomonoff induction first. what does solomonoff induction tell us? it takes in some bit string, and then gives you a probability distribution over the next bit, i.e. it takes in some data and then predicts what you're likely to see.
+
+udassa makes use of the universal distribution (the same one that solomonoff induction uses). so how is it different? well, in udassa, instead of interpreting the bit strings as just "abstract objects" or "camera inputs that a robot sees", we instead interpret them as "observer moments". how is this even possible? well, if you take a snapshot of your brain at the current moment, and then scan it/encode it in some standard format, you get some long sequence of bits. so we can take an observer moment and convert it to some bit string. the probability that this bit string appears in the universal distribution is the "measure" of that observer moment.
+
 ==Comparison to UDT==
 
 Does UDASSA give any different decisions from UDT? i think one example might be https://riceissa.github.io/everything-list-1998-2009/14037.html where UDT seems to give the intuitively-correct answer, but UDASSA doesn't.
