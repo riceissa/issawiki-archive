@@ -12,7 +12,11 @@ i think it's useful to compare UDASSA to solomonoff induction first. what does s
 
 udassa makes use of the universal distribution (the same one that solomonoff induction uses). so how is it different? well, in udassa, instead of interpreting the bit strings as just "abstract objects" or "camera inputs that a robot sees", we instead interpret them as "observer moments". how is this even possible? well, if you take a snapshot of your brain at the current moment, and then scan it/encode it in some standard format, you get some long sequence of bits. so we can take an observer moment and convert it to some bit string. the probability that this bit string appears in the universal distribution is the "measure" of that observer moment. so that's the UD part.
 
-what's the ASSA part? well, i'm slightly confused here myself. i can think of two possibilities:
+what's the ASSA part? i think the ASSA part just says that this measure under the UD ''is'' how likely we are to experience that OM.
+
+so what does UDASSA get us? make decisions; explain anthropics; ...
+
+so how can we use UDASSA to make decisions? well, i'm slightly confused here myself. i can think of two possibilities:
 
 * define some relevant reference class, like "human observer moments".
 * you don't define a reference class. instead, you just define some utility function. and it's the utility function that defines what matters and what doesn't. for example, there will be an observer moment that corresponds to the integer 3. and it's a really simple OM, so it will have high measure! but we don't care about it, so the utility function will just ignore it.
