@@ -1,2 +1,7 @@
-* [[Coherence and goal-directed agency discussion]]
-* [[Realism about rationality discussion]]
+{| class="sortable wikitable"
+! Discussion title !! Timeframe !! Summary
+|-
+| [[Coherence and goal-directed agency discussion]] || ||
+|-
+| [[Realism about rationality discussion]] || ||
+|}
