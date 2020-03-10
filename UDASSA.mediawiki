@@ -25,6 +25,14 @@ so how can we use UDASSA to make decisions? well, i'm slightly confused here mys
 * define some relevant reference class, like "human observer moments".
 * you don't define a reference class. instead, you just define some utility function. and it's the utility function that defines what matters and what doesn't. for example, there will be an observer moment that corresponds to the integer 3. and it's a really simple OM, so it will have high measure! but we don't care about it, so the utility function will just ignore it.
 
+----
+
+the shortest program that produces my current OM and the shortest program that produces the OM of someone else on earth right now probably have the same "physical law" part, so the difference is in locating the two of us. now, the weird thing is, ''one'' of us will be closer to some "natural" location from which to specify coordinates (e.g. maybe "where the big bang started", if that's even a well-defined location? idk any physics). the upshot is that probably the location part will have a different length (i'm imagining that you use something like a binary search, where each extra bit gets you halfway to where you are; is there a more efficient way to specify coordinates?). and each extra bit means you incur a penalty of 1/2. so even though my OM and their OM "feel just as real" (whatever that means..), one of us will have possibly something like 2<sup>k</sup> times as much measure, where k is the difference in number of bits needed to locate the two OMs. this sounds pretty crazy, especially considering the fact that we shouldn't expect either OM to occur in a larger number of possible worlds. i.e. the only difference between the two OMs is that one happens to be easier to find in the physical world. this is sort of like the "big people matter more" thing that people have brought up, but i find it much more unintuitive. this might be mostly the same problem as "people who are next to black holes matter more"/"people with a giant arrow pointing at them matter more", but the difference seems to be that any difference in distance changes the measure, not just being super close to a big important thing.
+
+----
+
+shortest way of finding each OM separately vs shortest way of finding all the OMs of a single human's life. the latter will presumably get some efficiency gains by e.g. not needing to keep specifying the time period in full each moment. like, you specify the initial OM in the usual way (like how udassa would specify each OM), but then you can just "follow the consciousness" starting from that OM. so i think it would still take linear complexity to track, but it wouldn't be as complex as finding each om independently?
+
 ==Comparison to UDT==
 
 Does UDASSA give any different decisions from UDT? i think one example might be https://riceissa.github.io/everything-list-1998-2009/14037.html where UDT seems to give the intuitively-correct answer, but UDASSA doesn't.
