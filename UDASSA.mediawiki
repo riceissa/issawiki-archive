@@ -1,4 +1,4 @@
-'''UDASSA''' (sometimes also written '''UD+ASSA''' to make the two components clear) is a theory of anthropics.
+'''UDASSA''' (sometimes also written '''UD+ASSA''' to make the two components clear) is a theory of anthropics(? is it ''just'' anthropics, or is it also decision theory or a bunch of other things?).
 
 ==Etymology==
 
