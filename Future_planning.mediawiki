@@ -1,7 +1,7 @@
 * the most decision-relevant questions for me right now (everything else should feed into one of these questions):
 ** AI safety vs something else? right now AI safety seems like the best candidate for the biggest/soonest change, but i want to investigate some other things.
 ** if AI safety, then what technical agenda seems best? this matters for (1) deciding what to do technical research on, if at all; (2) what technical research to pay attention to/support.
-** if AI safety, then what will the end of the world look like (basically this is takeoff speeds + what the most likely failure mode looks like)? (this matters for prepping)
+** if AI safety, then what will the end of the world look like (basically this is takeoff speeds + what the most likely failure mode looks like)? (this matters for [[AI prepping|prepping]])
 ** how likely is the end of the world?
 ** when will AGI come?
 
@@ -18,7 +18,7 @@ Example scenarios:
 |-
 | Age of em || WBE ||
 |-
-| Paul's end of world || AGI || ? || || || 20 years? || AI prepping???
+| Paul's end of world || AGI || ? || || || 20 years? || [[AI prepping]]???
 |-
 | Great Stagnation (world stays basically the same for the next 100 years) ||
 |-
