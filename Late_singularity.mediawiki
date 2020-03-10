@@ -6,3 +6,5 @@ are late singularities actually better? if AGI is developed in 200 years, what d
 # our institutions turned out to be much suckier than we thought (e.g. all of AI academia and for-profit company labs just Great Stagnate) -- this seems bad from an xrisk standpoint, because it means we're probably just super bad at coordinating, so we can't even solve ai safety.
 # on the other hand, maybe this means we just get a lot more time to get together and work on ai safety.
 # couldn't this also mean that we are super ''good'' at coordination, and we were able to slow down AI progress?
+
+in other words, finding P(doom | AGI after 2220) seems tricky to figure out, since there could be multiple reasons for why AGI happens after 2220, and each thing says something pretty different about probability of doom.
