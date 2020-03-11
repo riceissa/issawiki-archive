@@ -1,12 +1,14 @@
 why has nobody made a list like this?
 
-* Foresight [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/]
+* Foresight [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/] "The Foresight team (within Safety) systematically studies patterns in ML training and performance, with an eye towards predicting the future performance and resource needs of AI systems." [https://openai.com/jobs/#foresight]
 * Reflection-Humans [https://lw2.issarice.com/posts.php?id=Br4xDbYu4Frwrb64a] -- is this different from safety?
 * Safety
 * Policy
 * Clarity (the one Chris Olah is on/leads)
-* Language [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/]
-* Robotics [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/]
+* Language [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/] "The Language team works to improve the language understanding and generation capabilities of AI systems. They are working towards building a flexible and reusable core of language capabilities for general AI systems." [https://openai.com/jobs/#language]
+* Robotics [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/] "The Robotics team works on building a general-purpose robot that can perform a wide range of tasks using meta-learning in both simulated and real-world environments." [https://openai.com/jobs/#robotics]
 * explainability [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/]
+* Finance "The Finance team ensures the longevity of our organization by enabling us to make the right financial decisions at the right time, from seeking mission-aligned partners to generating financial reporting that reflects our research progress." [https://openai.com/jobs/#finance]
+* People and Operations teams: "The People & Operations teams work to recruit and develop a diverse set of talented people. We believe diversity and a culture of continuous learning are prerequisites for achieving safe, universally beneficial AGI." [https://openai.com/jobs/#people-operations]
 
 "Over time, as different bets rise above others, they will attract more intense efforts. Then they will cross-pollinate and combine. The goal is to have fewer and fewer teams that ultimately collapse into a single technical direction for AGI. This is the exact process that OpenAI’s latest top-secret project has supposedly already begun." [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/]
