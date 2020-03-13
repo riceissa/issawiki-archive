@@ -17,6 +17,7 @@ Unlike prepping for natural disasters/wars, AI prepping seems to have some big d
 * save/make a lot of money
 * having a flexible schedule/free time so that you can take actions quickly
 * keep watching the AI safety field / developments in AI
+* does having a shelter/bunker or living in a remote part of the world (e.g. with no useful natural resources) help?
 * altruistic actions that reduce AI x-risk (this part overlaps with EA interventions)
 
 The prepping you do depends a lot on which AI takeoff scenarios you find most likely. e.g. in a yudkowskian hard takeoff, there probably isn't any action you can take other than working on AI alignment.
