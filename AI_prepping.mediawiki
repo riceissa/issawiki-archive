@@ -22,6 +22,8 @@ Unlike prepping for natural disasters/wars, AI prepping seems to have some big d
 
 The prepping you do depends a lot on which AI takeoff scenarios you find most likely. e.g. in a yudkowskian hard takeoff, there probably isn't any action you can take other than working on AI alignment.
 
+one thing i don't understand at all is: when would the AI "leave earth" and go off to colonize the stars? and once it does that, would it basically just leave earth alone? or would it keep some copies of it on earth/continue to extract all useful resources on earth? or maybe the  earth isn't so useful, but it would take apart the sun, in which case everyone on earth is probably screwed? or would the same logic apply to the sun (i.e. the sun is so small in the grand scheme of things that the AI would leave it alone in order to colonize the stars)?
+
 ==References==
 
 <references/>
