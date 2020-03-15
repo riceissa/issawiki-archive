@@ -16,7 +16,7 @@ Taking [[Owen]]'s suggestion,<ref>https://agentfoundations.org/item?id=1242</ref
 ** I guess this is also the premise that "AI will be safe by default" people would reject: the top-level reasoning stays dominant, so the subsystems aren't really packaged with a random goal.
 * (M.4) AI systems capable of pivotal acts with goals not aligned with human interests will cause catastrophe.
 
-key hopes listed in https://www.greaterwrong.com/posts/HCv2uwgDGf5dyX5y6/preface-to-the-sequence-on-iterated-amplification (TODO: see if e.g. [[Eliezer]]'s criticisms of [[IDA]] can be seen as attacking each of the "key hopes")
+key hopes listed in https://www.greaterwrong.com/posts/HCv2uwgDGf5dyX5y6/preface-to-the-sequence-on-iterated-amplification
 
 * (P.1) "If you have an overseer who is smarter than the agent you are trying to train, you can safely use that overseer’s judgment as an objective."
 * (P.2) "We can train an RL system using very sparse feedback, so it’s OK if that overseer is very computationally expensive."
@@ -33,6 +33,8 @@ Let's list Eliezer's objections to IDA, as summarized by [[Rohin]]:<ref>https://
 ** This one might not attack one of paul's key hopes, because paul isn't aiming for exact imitation? either that, or the thing it attacks depends on how you cash out "harder to create".
 * (E.4) "since Paul wants to use big unaligned neural nets to imitate humans, we have to worry about the possibility of adversarial behavior. He has suggested using large ensembles of agents and detecting and pruning the ones that are adversarial. However, this would require millions of samples per unaligned agent, which is prohibitively expensive."
 ** This one seems to be attacking (P.2), i.e. it's saying we can't use sparse feedback to train the system.
+
+So it looks like each of [[Eliezer]]'s criticisms of [[IDA]] can mostly be seen as attacking one of the "key hopes" listed by Paul.
 
 ==See also==
 
