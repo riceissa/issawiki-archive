@@ -26,7 +26,9 @@ key hopes listed in https://www.greaterwrong.com/posts/HCv2uwgDGf5dyX5y6/preface
 Let's list Eliezer's objections to IDA, as summarized by [[Rohin]]:<ref>https://www.greaterwrong.com/posts/4ap6WQx52txzsJx6r/the-alignment-newsletter-7-05-21-18</ref>
 
 * (E.1) "a collection of aligned agents interacting does not necessarily lead to aligned behavior"
+** This directly goes against (P.3), in particular the "while remaining aligned" part.
 * (E.2) "it’s unclear that even with high bandwidth oversight, that a collection of agents could reach arbitrary levels of capability. For example, how could agents with an understanding of arithmetic invent Hessian-free optimization?"
+** This directly goes against (P.3), in particular the "smarter than any individual agent" part. (Well, to be precise, (P.3) does not actually state that these agents can reach ''arbitrary'' levels of capability, but Paul thinks IDA can compete with unaligned AGI, so the capabilities part would naturally fall under (P.3).)
 * (E.3) "while it is true that exact imitation of a human would avoid the issues of RL, it is harder to create exact imitation than to create superintelligence, and as soon as you have any imperfection in your imitation of a human, you very quickly get back the problems of RL."
 * (E.4) "since Paul wants to use big unaligned neural nets to imitate humans, we have to worry about the possibility of adversarial behavior. He has suggested using large ensembles of agents and detecting and pruning the ones that are adversarial. However, this would require millions of samples per unaligned agent, which is prohibitively expensive."
 
