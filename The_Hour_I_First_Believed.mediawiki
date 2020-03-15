@@ -10,7 +10,7 @@ Here's my thinking on this post:
 
 Here are some considerations:
 
-* maybe it turns out that most civilizations in general, across the multiverse, screw up AI alignment. If so, most superintelligences that exist could have messed up values (values that looked good to program into an AI, but aren't actually the real thing). If so, ''the universal law will take into account these messed up values, rather than the actual values that were most likely to evolve''.
+* maybe it turns out that most civilizations in general, across the multiverse, screw up AI alignment. If so, most superintelligences that exist could have messed up values (values that looked good to program into an AI, but aren't actually the real thing). If so, ''the universal law will take into account these messed up values, rather than the values which tend to naturally to evolve''.
 
 ==References==
 
