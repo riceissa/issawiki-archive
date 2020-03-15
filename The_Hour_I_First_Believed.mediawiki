@@ -8,6 +8,10 @@ Here's my thinking on this post:
 * I think it's plausible that something ''sort of like'' what the post describes will happen, where there will be one dominant "universal law", and many/most superintelligences in the multiverse will follow this law.
 * I think the universal law will mostly look alien to us, and completely unlike what the post describes ("since the superentity is identical to the moral law, it’s not really asking you to do anything except be a good person anyway").
 
+Here are some considerations:
+
+* maybe it turns out that most civilizations in general, across the multiverse, screw up AI alignment. If so, most superintelligences that exist could have messed up values (values that looked good to program into an AI, but aren't actually the real thing). If so, ''the universal law will take into account these messed up values, rather than the actual values that were most likely to evolve''.
+
 ==References==
 
 <references/>
