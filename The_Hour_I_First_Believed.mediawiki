@@ -12,6 +12,12 @@ Here are some considerations:
 
 * maybe it turns out that most civilizations in general, across the multiverse, screw up AI alignment. If so, most superintelligences that exist could have messed up values (values that looked good to program into an AI, but aren't actually the real thing). If so, ''the universal law will take into account these messed up values, rather than the values which tend to naturally to evolve''.
 * [[Eliezer]]'s idea of [[reflectively consistent degrees of freedom]]: if your AI uses CDT, it will not self-modify to use UDT; instead it will evolve to use son-of-CDT. There are other things like this, where different initial configurations lead to totally different endpoints after many iterations of self-modification. So it isn't necessarily the case that all superintelligences will use acausal trade/value handshakes. The universes where the dominant superintelligence doesn't use acausal trade will be "pockets" of isolated worlds that none of the other superintelligences (in other universes) will care about (because that universe cannot be acausally influenced).
+* The post also seems to completely ignore the [[malignity of the universal prior]]/getting hacked by distant superintelligences (though simulation capture is similar). I guess the superintelligences won't be using the universal prior.
+
+Comments on specific parts of the post:
+
+* "In each universe, life arises, forms technological civilizations, and culminates in the creation of a superintelligence which gains complete control over its home universe." -- not necessarily the case. In Christiano-style takeoff, there will be multiple competing AIs, none of which has complete control over the universe.
+* "So superintelligences may spend some time calculating the most likely distribution of superintelligences in foreign universes, figure out how those superintelligences would acausally “negotiate”, and then join a pact such that all superintelligences in the pact agree to replace their own values with a value set based on the average of all the superintelligences in the pact." -- this isn't clear to me. It could be the case that, for instance, two superintelligences do a value handshake with each other, but not with any other superintelligences. Or maybe another way of putting it is: the universal law will have lots of conditional statements like "if your universe has resource of X kind, then take action Y". So the universal law won't literally cause all universes to "look the same" in terms of the actions the AIs are taking.
 
 ==References==
 
