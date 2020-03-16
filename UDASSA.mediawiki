@@ -6,6 +6,10 @@ The name "UDASSA" comes from "universal distribution + absolute self-selection a
 
 ==History==
 
+UDASSA was first proposed by wei dai on [[everything-list]].
+
+If I am not mistaken, [[Paul Christiano]] reinvented UDASSA in 2011. Why do I think this? See [https://www.greaterwrong.com/posts/sEAW5KbWAf6onq9Mi/anthropics-in-a-tegmark-multiverse this post] from 2011-04-02. In comments, Wei says "Seems like we have a lot of similar ideas/interests. :) This is was my main approach for solving anthropic reasoning, until I gave it up in favor of UDT." and then links to the UDASSA page. Then on 2011-04-11, paul posts a [https://www.greaterwrong.com/posts/QmWNbCRMgRBcMK6RK/the-absolute-self-selection-assumption second post], which mentions UDASSA: "In this article I will discuss UDASSA, a framework for anthropic reasoning due to Wei Dai."
+
 ==Description==
 
 i think it's useful to compare UDASSA to solomonoff induction first. what does solomonoff induction tell us? it takes in some bit string, and then gives you a probability distribution over the next bit, i.e. it takes in some data and then predicts what you're likely to see.
