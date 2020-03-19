@@ -25,7 +25,7 @@ i've been wondering: must organisms be physical? or can they be more like... jus
 
 how common is it to have a "physical world" where creatures are running around, like on earth/our physics? versus like, just raw [[observer-moment]]s being computed without reference to a physical world.
 
-are there any "simple" ways to produce intelligence that don't involve evolution? e.g. if we found some intelligent alien species, would they _have_ to have arose from evolutionary processes?
+are there any "simple" ways to produce intelligence that don't involve evolution? e.g. if we found some intelligent alien species, would they ''have'' to have arose from evolutionary processes?
 
 what alternatives are there to evolution? like, our universe is one made of simple rules, that barfed out organisms through trial and error. but could there be simple universes that somehow have certain organisms/observer-moments "baked in"? or some other simple optimization process that outputs complicated organisms/OMs? i guess one idea is that evolution produces the initial intelligences, but then these create a UFAI, so then the values that get implemented could be pretty "random".
 
@@ -46,6 +46,8 @@ related: https://reducing-suffering.org/why-organisms-feel-both-suffering-and-ha
 ----
 
 relatedly, is there some reason that evolution made organisms that have a values vs beliefs (probabilities) split? why not a "stranger" (to humans) split, like the examples given in abram's jeffrey-bolker rotation post? after all, in the end, all that matters is how the system ''behaves'', not what it believes or what it values.
+
+maybe you could argue that even in humans, the split isn't so clean as we would like to imagine! e.g. consider crony beliefs/social reality. these don't track reality very well, but they still produce actions that are adaptive.
 
 ==External links==
 
