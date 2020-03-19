@@ -39,7 +39,7 @@ shortest way of finding each OM separately vs shortest way of finding all the OM
 
 ----
 
-What does UDASSA say about Fully Homomorphic Encryption? See this post from Scott Aaronson:
+What does UDASSA say about Fully Homomorphic Encryption? See this [https://www.scottaaronson.com/blog/?p=1951 post] from Scott Aaronson:
 
 <blockquote><p>Maybe my favorite thought experiment along these lines was invented by my former student Andy Drucker.  In the past five years, there’s been a revolution in theoretical cryptography, around something called Fully Homomorphic Encryption (FHE), which was first discovered by Craig Gentry.  What FHE lets you do is to perform arbitrary computations on encrypted data, without ever decrypting the data at any point.  So, to someone with the decryption key, you could be proving theorems, simulating planetary motions, etc.  But to someone without the key, it looks for all the world like you’re just shuffling random strings and producing other random strings as output.</p>
 
