@@ -51,6 +51,8 @@ relatedly, is there some reason that evolution made organisms that have a values
 
 maybe you could argue that even in humans, the split isn't so clean as we would like to imagine! e.g. consider crony beliefs/social reality. these don't track reality very well, but they still produce actions that are adaptive.
 
+can we create "agents" which don't reason using probability and utility? i mean, there's already the [[probutility]] idea, but can we go further, and say, come up with an agent which uses ''three'' essential things in decision-making? or one thing? and where none of these things map at all to the ideas of probability/utility (i.e. they aren't just "rotated" versions of beliefs/utility in some vector space like in the jeffrey-bolker rotation post)?
+
 ----
 
 "Ecosystems – We understand some ways in which parameters of ecosystems correlate with their environments. Most of these make sense in terms of general theories of natural selection and genetics. However, most ecologists strongly suspect that the vast majority of the details of particular ecosystems and the species that inhabit them are not easily predictable by simple general theories. Evolution says that many details will be well matched to other details, but to predict them you must know much about the other details to which they match." http://www.overcomingbias.com/2014/07/limits-on-generality.html
