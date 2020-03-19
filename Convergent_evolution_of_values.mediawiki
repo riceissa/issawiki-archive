@@ -16,3 +16,11 @@ how could convergence arise?
 
 # causal processes that convergently produce the same ethical code
 # some sort of acausal law / moral code written deeply in logic somewhere (like [[The Hour I First Believed]])
+
+----
+
+related: i've heard people saying how 3d organisms are the most likely since they allow for eating/digestion or whatever, and how this isn't easy to do in 2d or 4d or whatever (i forgot what the reasoning is). see https://en.wikipedia.org/wiki/Anthropic_principle#Dimensions_of_spacetime (i haven't re-read that page)
+
+i've been wondering: must organisms be physical? or can they be more like... just "algorithms" that are implemented in this really weird substrate (that ''doesn't'' involve each organism having its own body that moves around and so forth). could such a thing evolve in the "natural" world?
+
+how common is it to have a "physical world" where creatures are running around, like on earth/our physics? versus like, just raw [[observer-moment]]s being computed without reference to a physical world.
