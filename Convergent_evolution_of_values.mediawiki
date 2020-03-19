@@ -1,6 +1,6 @@
 (warning: this page is especially cRaZy~. you have been warned!)
 
-[[multiplicative process]] => log-resource utility function (see [https://www.greaterwrong.com/posts/gptXmhJxFiEwuPN98/meetup-notes-ole-peters-on-ergodicity/comment/AyrjdFhFCueq8CtdJ my comment])
+[[multiplicative process]] <math>\implies</math> log-resource utility function (see [https://www.greaterwrong.com/posts/gptXmhJxFiEwuPN98/meetup-notes-ole-peters-on-ergodicity/comment/AyrjdFhFCueq8CtdJ my comment])
 
 i think there can be lots of similar, robust phenomena like this, for evolved organisms. so in terms of six plausible meta-ethical alternatives, there can be some features that are just "baked in" to many diverse kinds of organisms (like getting bored of a single kind of resource!).
 
