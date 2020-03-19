@@ -24,3 +24,9 @@ related: i've heard people saying how 3d organisms are the most likely since the
 i've been wondering: must organisms be physical? or can they be more like... just "algorithms" that are implemented in this really weird substrate (that ''doesn't'' involve each organism having its own body that moves around and so forth). could such a thing evolve in the "natural" world?
 
 how common is it to have a "physical world" where creatures are running around, like on earth/our physics? versus like, just raw [[observer-moment]]s being computed without reference to a physical world.
+
+are there any "simple" ways to produce intelligence that don't involve evolution? e.g. if we found some intelligent alien species, would they _have_ to have arose from evolutionary processes?
+
+==External links==
+
+* https://www.openphilanthropy.org/sites/default/files/Carl_Shulman_08-19-16_%28public%29.pdf
