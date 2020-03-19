@@ -17,6 +17,8 @@ DSA without discontinuity is a little weird to think about/unstable situation i 
 
 This comment suggests more columns for the table: https://www.greaterwrong.com/posts/AfGmsjGPXN97kNp57/arguments-about-fast-takeoff#comment-JEkP5AmXmi4dHHpqo
 
+How are Robin's and Paul's views different? Does Robin's takeoff scenario just have extra/unnecessary parts (like massive modularity, architecture changes don't produce large advantages)? Or is there an actual difference in predictions?
+
 ==See also==
 
 * [[Will there be significant changes to the world prior to some critical AI capability threshold being reached?]]
