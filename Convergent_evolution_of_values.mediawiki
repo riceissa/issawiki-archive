@@ -33,6 +33,8 @@ structure of discounting in the world: e.g. humans seem to use hyperbolic discou
 
 whereas like agents in reinforcement learning use geometric (?) discounting, which is not the same as hyperbolic discounting (right??).
 
+if we can nail down what kind of discounting is likely to evolve/be most common in the multiverse, that should tell us ''something'' about what values are/whether values have convergent evolution.
+
 ==External links==
 
 * https://www.openphilanthropy.org/sites/default/files/Carl_Shulman_08-19-16_%28public%29.pdf
