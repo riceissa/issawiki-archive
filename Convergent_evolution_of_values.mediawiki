@@ -17,6 +17,8 @@ how could convergence arise?
 # causal processes that convergently produce the same ethical code
 # some sort of acausal law / moral code written deeply in logic somewhere (like [[The Hour I First Believed]])
 
+so will the dominant values in the multiverse be things that are "close" to naturally-evolving organisms' values? because they would have tried to solve alignment but failed (and so they end up as a paperclip-like value)? so in terms of doing acausal trade/values handshakes (https://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/), everyone will be handshaking with these deformed values?
+
 ----
 
 related: i've heard people saying how 3d organisms are the most likely since they allow for eating/digestion or whatever, and how this isn't easy to do in 2d or 4d or whatever (i forgot what the reasoning is). see https://en.wikipedia.org/wiki/Anthropic_principle#Dimensions_of_spacetime (i haven't re-read that page)
@@ -48,6 +50,18 @@ related: https://reducing-suffering.org/why-organisms-feel-both-suffering-and-ha
 relatedly, is there some reason that evolution made organisms that have a values vs beliefs (probabilities) split? why not a "stranger" (to humans) split, like the examples given in abram's jeffrey-bolker rotation post? after all, in the end, all that matters is how the system ''behaves'', not what it believes or what it values.
 
 maybe you could argue that even in humans, the split isn't so clean as we would like to imagine! e.g. consider crony beliefs/social reality. these don't track reality very well, but they still produce actions that are adaptive.
+
+----
+
+"Ecosystems – We understand some ways in which parameters of ecosystems correlate with their environments. Most of these make sense in terms of general theories of natural selection and genetics. However, most ecologists strongly suspect that the vast majority of the details of particular ecosystems and the species that inhabit them are not easily predictable by simple general theories. Evolution says that many details will be well matched to other details, but to predict them you must know much about the other details to which they match." http://www.overcomingbias.com/2014/07/limits-on-generality.html
+
+----
+
+aesthetics are like shorthand/heuristics you use to decide if something is good, but you can sometimes confuse yourself into thinking that you actually terminally value some aesthetic. or maybe the way something ''becomes'' a terminal value is by proving its worth first as a heuristic. can we predict convergent terminal values by looking at convergent instrumental values? or would we (and most other organisms) upon reflection decide that these instrumental values aren't our true values after all?
+
+an example of this is: some people become obsessed with money, and treat earning money as a terminal-ish value, instead of instrumental value in order to achieve something else.
+
+wow, carl made the same point (about human "terminal" values): https://www.openphilanthropy.org/sites/default/files/Carl_Shulman_08-19-16_%28public%29.pdf
 
 ==External links==
 
