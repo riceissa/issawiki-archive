@@ -27,6 +27,10 @@ how common is it to have a "physical world" where creatures are running around, 
 
 are there any "simple" ways to produce intelligence that don't involve evolution? e.g. if we found some intelligent alien species, would they _have_ to have arose from evolutionary processes?
 
+----
+
+structure of discounting in the world: e.g. humans seem to use hyperbolic discounting, which is not consistent across time. is this a fairly stable feature of organisms across different evolutionary histories?
+
 ==External links==
 
 * https://www.openphilanthropy.org/sites/default/files/Carl_Shulman_08-19-16_%28public%29.pdf
