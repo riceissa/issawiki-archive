@@ -37,6 +37,16 @@ the shortest program that produces my current OM and the shortest program that p
 
 shortest way of finding each OM separately vs shortest way of finding all the OMs of a single human's life. the latter will presumably get some efficiency gains by e.g. not needing to keep specifying the time period in full each moment. like, you specify the initial OM in the usual way (like how udassa would specify each OM), but then you can just "follow the consciousness" starting from that OM. so i think it would still take linear complexity to track, but it wouldn't be as complex as finding each om independently?
 
+----
+
+What does UDASSA say about Fully Homomorphic Encryption? See this post from Scott Aaronson:
+
+<blockquote><p>Maybe my favorite thought experiment along these lines was invented by my former student Andy Drucker.  In the past five years, there’s been a revolution in theoretical cryptography, around something called Fully Homomorphic Encryption (FHE), which was first discovered by Craig Gentry.  What FHE lets you do is to perform arbitrary computations on encrypted data, without ever decrypting the data at any point.  So, to someone with the decryption key, you could be proving theorems, simulating planetary motions, etc.  But to someone without the key, it looks for all the world like you’re just shuffling random strings and producing other random strings as output.</p>
+
+<p>You can probably see where this is going.  What if we homomorphically encrypted a simulation of your brain?  And what if we hid the only copy of the decryption key, let’s say in another galaxy?  Would ''this'' computation—which looks to anyone in ''our'' galaxy like a reshuffling of gobbledygook—be silently producing your consciousness?</p></blockquote>
+
+UDASSA says that as long as we can "extract" the mind easily (i.e. using a short program), then it has high measure. and we can extract it easily as long as we have access to the key, i.e. ''someone'' in the universe has the key. what if they destroy the key but the computation keeps going? well, the world simulator can just run the physics simulation to find the timestep when the key still exists, then run to the point that represents the "current" state (i.e. timestep of interest), and they would still be able to extract the mind state. how is this different from extracting "consciousness" from a brick wall? i think the difference is that in the brick wall case, the universe ''never'' contained a "key" that would allow it to "unlock" the consciousness (i.e. extract a valid OM using a short program). maybe the tricky thing though is that it takes more bits to specify the observer-moment if the key is separated far in time from the current OM. In other words your consciousness might be reduced by half, since you need to specify the location of the key and the location of the OM, if the two are further enough apart in space/time (and in expectation, specifying two things should mean the measure is cut in half, since the program length doubles).
+
 ==Comparison to UDT==
 
 Does UDASSA give any different decisions from UDT? i think one example might be https://riceissa.github.io/everything-list-1998-2009/14037.html where UDT seems to give the intuitively-correct answer, but UDASSA doesn't.
