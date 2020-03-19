@@ -31,6 +31,8 @@ are there any "simple" ways to produce intelligence that don't involve evolution
 
 structure of discounting in the world: e.g. humans seem to use hyperbolic discounting, which is not consistent across time. is this a fairly stable feature of organisms across different evolutionary histories?
 
+whereas like agents in reinforcement learning use geometric (?) discounting, which is not the same as hyperbolic discounting (right??).
+
 ==External links==
 
 * https://www.openphilanthropy.org/sites/default/files/Carl_Shulman_08-19-16_%28public%29.pdf
