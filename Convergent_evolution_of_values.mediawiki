@@ -27,6 +27,8 @@ how common is it to have a "physical world" where creatures are running around, 
 
 are there any "simple" ways to produce intelligence that don't involve evolution? e.g. if we found some intelligent alien species, would they _have_ to have arose from evolutionary processes?
 
+what alternatives are there to evolution? like, our universe is one made of simple rules, that barfed out organisms through trial and error. but could there be simple universes that somehow have certain organisms/observer-moments "baked in"? or some other simple optimization process that outputs complicated organisms/OMs? i guess one idea is that evolution produces the initial intelligences, but then these create a UFAI, so then the values that get implemented could be pretty "random".
+
 ----
 
 structure of discounting in the world: e.g. humans seem to use hyperbolic discounting, which is not consistent across time. is this a fairly stable feature of organisms across different evolutionary histories?
@@ -34,6 +36,16 @@ structure of discounting in the world: e.g. humans seem to use hyperbolic discou
 whereas like agents in reinforcement learning use geometric (?) discounting, which is not the same as hyperbolic discounting (right??).
 
 if we can nail down what kind of discounting is likely to evolve/be most common in the multiverse, that should tell us ''something'' about what values are/whether values have convergent evolution.
+
+is there reinforcement learning that uses hyperbolic discounting, instead of the usual exponential/geometric one?
+
+----
+
+related: https://reducing-suffering.org/why-organisms-feel-both-suffering-and-happiness -- this question of why there is both pain and pleasure; if we can answer this one, then we might know more about what sort of values we would expect to see "out in the multiverse".
+
+----
+
+relatedly, is there some reason that evolution made organisms that have a values vs beliefs (probabilities) split? why not a "stranger" (to humans) split, like the examples given in abram's jeffrey-bolker rotation post? after all, in the end, all that matters is how the system ''behaves'', not what it believes or what it values.
 
 ==External links==
 
