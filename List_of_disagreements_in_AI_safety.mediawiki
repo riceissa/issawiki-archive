@@ -8,6 +8,8 @@ an alternative organization for these disagreements (which this page doesn't fol
 
 part of what i find frustrating about many of these discussions is that there are very few examples that they use (humans vs chimps, alphago, and a couple others might be the main sources of concrete evidence?), since the disagreement is about future superintelligent systems/the nature of intelligence (which, if we understood very well, means we could build AGI today). the disagreements often seem to boil down to differences in intuition, which is hard to tinker with from the outside (i.e. if i don't have access to eliezer/paul's brain, it's not too clear to me what i can even do to make progress on these disagreements, besides going out and learning a ton of technical fields to build intuition).
 
+meta point (HT david manheim): some/most of these disagreements might just be definitional confusions (e.g. people disagree on what they mean by "AGI" or whatever).
+
 ==AI timelines==
 
 * will current ML techniques scale to AGI?
