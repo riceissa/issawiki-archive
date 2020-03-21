@@ -88,6 +88,7 @@ How promising is MIRI-style work (HRAD, agent foundations, embedded agency)?
 ** lack of success so far at using complete axiomatic descriptions for modern ML systems [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#3a__Low_credence_that_HRAD_will_be_applicable__25___]
 ** what will early advanced AI systems look like?
 * how convincing historical examples are (e.g. Shannon, Turing, Bayes, Pearl, Kolmogorov, null-terminated strings in C [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#Z6TbXivpjxWyc8NYM], [https://www.facebook.com/danielfilan/posts/10212534556141446] [https://www.facebook.com/robbensinger/posts/10160644236785447], Eliezer also brings up the Shannon vs Poe chess example)
+* maybe something like, how important is understanding what's going on / how much weight do you place on curiosity-driven research. e.g. [https://www.greaterwrong.com/posts/MG4ZjWQDrdpgeu8wG/zoom-in-an-introduction-to-circuits/comment/uxvSLFnmPFWG3K63w]
 
 ===Machine learning safety===
 
