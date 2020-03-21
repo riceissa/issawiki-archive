@@ -48,6 +48,8 @@ I like these posts by Eli Tyre:
 
 I want to try doing an imaginary double crux example for AI safety stuff.
 
+another point: gary drescher mentions this in ''[[Good and Real]]'', but if you just try to get feedback on/argue about a single piece of your world model, you often get nowhere, because the other side doesn't have all of the other pieces in place in order to place your single point in the right context. So you need your interlocutor to model you holistically, rather than just critique a single part of your views.
+
 ==See also==
 
 * [[List of disagreements in AI safety]]
