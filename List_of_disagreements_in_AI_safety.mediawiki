@@ -37,6 +37,7 @@ meta point (HT david manheim): some/most of these disagreements might just be de
 ** [[Coherence and goal-directed agency discussion]]
 * to what extent AGI safety will look like "security mindset" vs "lots of little engineering problems", e.g. see [https://eaforum.issarice.com/posts/Ayu5im98u8FeMWoBZ/my-personal-cruxes-for-working-on-ai-safety#HuvMtWgiXxPfcnAYY]
 * intelligibility of intelligence [https://intelligence.org/files/HowIntelligible.pdf]
+* how much weight to place on accidents vs misuse vs social side effects? e.g. dario seems to weight these pretty equally [https://youtu.be/jSYyPBG05U4?t=1737] whereas i think eliezer is much more worried about the accidents.
 
 ==Takeoff dynamics==
 
