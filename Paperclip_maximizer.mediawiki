@@ -6,3 +6,5 @@ my understanding is that the paperclip maximizer example was intended to illustr
 However, the paperclip maximizer is sometimes also mentioned when talking about more realistic AI designs, and how a "random" goal that an unaligned AI would have is as valuable as paperclipping. ([[complexity of values]], [[fragility of values]])
 
 many discussions about the paperclip maximizer don't seem to realize which concepts the example is designed to illustrate, so they get derailed by comments like "but programming your AI to maximize paperclips is so stupid lol"
+
+https://youtu.be/EXbUgvlB0Zo?t=8391 (go slightly earlier) -- rohin says that the paperclip maximizer example shows that it's actually hard to get an AI to make paperclips in a sane way. this seems to be ''not'' the main point of the paperclip maximizer example, but maybe i'm wrong about this.
