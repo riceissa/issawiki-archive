@@ -125,3 +125,17 @@ e.g. [[value learning]]
 ==References==
 
 <references/>
+
+list of links to go through (cleaning out chrome tabs):
+
+* https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#XTYnqDuqDH3cWEKd6
+* https://intelligence.org/files/OpenPhil2016Supplement.pdf#page=13
+* https://www.greaterwrong.com/posts/uKbxi2EJ3KBNRDGpL/comment-on-decision-theory#comment-EkNhXP52CeP7tjtWG
+* https://www.greaterwrong.com/posts/PQu2YPtcm2dQLSsu9/the-unreasonable-effectiveness-of-deep-learning
+* https://intelligence.org/2018/05/19/challenges-to-christianos-capability-amplification-proposal/ (starting at "I worry that going down the last two branches of the challenge could")
+* https://www.greaterwrong.com/posts/Djs38EWYZG8o7JMWY/paul-s-research-agenda-faq/comment/79jM2ecef73zupPR4
+* https://arbital.com/p/task_agi/?l=6w#subpage-1hx
+* https://causeprioritization.org/List_of_discussions_between_Eliezer_Yudkowsky_and_Paul_Christiano
+* https://lw2.issarice.com/search.php?q=human+safety+problems
+* https://lw2.issarice.com/posts/ZeE7EKHTFMBs8eMxn/clarifying-ai-alignment#QxouKWsKHiHRMKyQB
+* http://www.overcomingbias.com/2016/03/how-different-agi-software.html
