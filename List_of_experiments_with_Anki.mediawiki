@@ -1,1 +1,7 @@
 On this page, I want to keep a list of experiments that I have tried or am currently trying with Anki. These experiments aren't formal (I don't do any rigorous data collection or blinding or randomizing or anything like that); instead, they're just ideas I have or read about and decided was worth trying for a while to see whether it worked.
+
+{| class="sortable wikitable"
+! Name !! Description !! Result
+|-
+| 
+|}
