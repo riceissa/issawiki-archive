@@ -7,5 +7,13 @@ On this page, I want to keep a list of experiments that I have tried or am curre
 |-
 | Linked list to remember lists || e.g. to memorize A, B, C, you have a card A->B, then B->C, and maybe also a card that asks the length of the list. ||
 |-
+| Full proof cards || The front side is a theorem statement or exercise description, and the back side is the full proof or exercise solution. ||
+|-
+| Poor man's incremental reading || ||
+|-
+| Adding not-fully-digested quotes or online comments || ||
+|-
+| Cloze deletion for quotes/definitions || ||
+|-
 | 
 |}
