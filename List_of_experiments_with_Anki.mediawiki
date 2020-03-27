@@ -20,4 +20,12 @@ On this page, I want to keep a list of experiments that I have tried or am curre
 | Cloze deletion for quotes/definitions || ||
 |-
 | burying cards to speed up review || [https://github.com/riceissa/issarice.com/blob/master/drafts/spaced-repetition.md#burying-cards-to-speed-up-review-technique-for-avoiding-accumulation-of-reviews] ||
+|-
+| repositioning non-cloze cards periodically so they get processed sooner || [https://github.com/riceissa/issarice.com/blob/master/drafts/spaced-repetition.md#repositioning-non-cloze-cards-periodically-so-they-get-processed-sooner] || I eventually moved away from cloze cards in general.
+|-
+| Orphan cards as alarm clocks || [https://github.com/riceissa/issarice.com/blob/master/drafts/spaced-repetition.md#in-praise-of-orphan-cards] ||
+|-
+| mixing in reviews during the day rather than doing all reviews at night || || still haven't really tried this; I do my reviews before going to sleep
+|-
+| entering in cards for some definitions/theorems in a single card, and for some as multiple cards, and seeing which are more fun to review/result in remembering things better || ||
 |}
