@@ -5,6 +5,8 @@ On this page, I want to keep a list of experiments that I have tried or am curre
 |-
 | Writing down answers on a piece of paper || ||
 |-
+| circling things on paper to flag things that need to be fixed || [https://github.com/riceissa/issarice.com/blob/master/drafts/spaced-repetition.md#flagging-things-to-fix-during-review] || 
+|-
 | Linked list to remember lists || e.g. to memorize A, B, C, you have the cards (blank)->A, A->B, then B->C, and maybe also a card that asks the length of the list. ||
 |-
 | Cumulative prompts to remember lists || e.g. to memorize A, B, C, you have the cards (blank)->A, A->B, (A,B)->C.
