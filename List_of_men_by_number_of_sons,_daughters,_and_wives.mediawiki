@@ -2,10 +2,10 @@ This is a list of men along with their number of sons, daughters, and wives. For
 
 {| class="sortable wikitable"
 ! Name
-! data-sort-type=numeric | Sons
-! data-sort-type=numeric | Daughters
-! data-sort-type=number | Children (sons + daughters)
-! data-sort-type=numeric | Wives
+! data-sort-type=number | Sons
+! data-sort-type=number | Daughters
+! data-sort-type=number style="text-align: right;" | Children (sons + daughters)
+! data-sort-type=number | Wives
 ! Sources
 |-
 | Johann Sebastian Bach || 6 || 5 || 11 || 2 || <ref>https://www.classicfm.com/composers/bach/guides/children/ I am counting the following children: Catharina Dorothea, Wilhelm Friedemann*, Carl Philipp Emanuel*, Johann Gottfried Bernhard, Gottfried Heinrich*, Elisabeth Juliana Friederica*, Regina Johanna, Johann Christoph Friedrich*, Johann Christian*, Johanna Carolina*, Regina Susanna*. (I've starred the ones that [https://en.wikipedia.org/wiki/Bach_family Wikipedia] mentions.)</ref>
