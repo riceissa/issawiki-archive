@@ -3,6 +3,18 @@ This is a list of men along with their number of sons, daughters, and wives. For
 {| class="sortable wikitable"
 ! Name !! Sons !! Daughters !! Children (sons + daughters) !! Wives !! Sources
 |-
+| Raymond Smullyan ||
+|-
+| Peter Smith ||
+|-
+| Michael Sipser ||
+|-
+| Scott Aaronson ||
+|-
+| Eric Drexler ||
+|-
+| Paolo Aluffi ||
+|-
 | Derek Parfit ||
 |-
 | Keith Frankish ||
