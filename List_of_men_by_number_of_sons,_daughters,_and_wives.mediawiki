@@ -3,6 +3,8 @@ This is a list of men along with their number of sons, daughters, and wives. For
 {| class="sortable wikitable"
 ! Name !! Sons !! Daughters !! Children (sons + daughters) !! Wives !! Sources
 |-
+| Johann Sebastian Bach || 6 || 5 || || 2 || <ref>https://www.classicfm.com/composers/bach/guides/children/ I am counting the following children: Catharina Dorothea, Wilhelm Friedemann*, Carl Philipp Emanuel*, Johann Gottfried Bernhard, Gottfried Heinrich*, Elisabeth Juliana Friederica*, Regina Johanna, Johann Christoph Friedrich*, Johann Christian*, Johanna Carolina*, Regina Susanna*. (I've starred the ones that [https://en.wikipedia.org/wiki/Bach_family Wikipedia] mentions.)</ref>
+|-
 | Edward Witten || 1 || 2 || 3 || 1 || <ref>https://en.wikipedia.org/wiki/Edward_Witten#Personal_life</ref>
 |-
 | Grant Sanderson ||
