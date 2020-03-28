@@ -3,6 +3,8 @@ This is a list of men along with their number of sons, daughters, and wives. For
 {| class="sortable wikitable"
 ! Name !! Sons !! Daughters !! Children (sons + daughters) !! Wives !! Sources
 |-
+| Michael Nielsen || 0? || 0? || 0? || 0? || <ref>I have tried various times and have never been able to find any information about this.</ref>
+|-
 | John Lennon ||
 |-
 | Paul McCartney ||
