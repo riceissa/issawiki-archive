@@ -17,6 +17,8 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Misha Gromov ||
 |-
+| Vladimir Arnold ||
+|-
 | Rich Sutton ||
 |-
 | Raymond Smullyan || 0 || 0 || 0 || 2 || <ref>https://www.telegraph.co.uk/obituaries/2017/02/20/raymond-smullyan-logician-obituary/ "Smullyan’s first marriage was dissolved. His second wife, Blanche, a Belgian-born pianist, died in 2006. He is survived by a stepson."</ref><ref>https://www.nytimes.com/2017/02/11/us/raymond-smullyan-dead-puzzle-creator.html "Professor Smullyan is survived by his stepson, Jack Kotik; six step-grandchildren; and 16 step-great-grandchildren. His wife Blanche, a Belgian-born pianist and music educator, died in 2006. His first marriage ended in divorce."</ref>
