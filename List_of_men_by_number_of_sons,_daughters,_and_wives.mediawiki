@@ -8,6 +8,8 @@ This is a list of men along with their number of sons, daughters, and wives. For
 ! data-sort-type=number | Wives
 ! Sources
 |-
+| Andrew Wiles || 0 || 3 || 3 || 1 || <ref>https://famous-mathematicians.com/andrew-wiles/ "He is married to Nada Canaan Wiles who earned her PhD from Princeton University (New Jersey). They have three daughters named, Clare, Kate and Olivia."</ref>
+|-
 | William Thurston || 3 || 2 || 5 || 2 || <ref>https://www.nytimes.com/2012/08/23/us/william-p-thurston-theoretical-mathematician-dies-at-65.html "Dr. Thurston’s first marriage, to Rachel Findley, ended in divorce. In addition to his son Dylan and his brother Robert, he is survived by his wife, Julian Muriel Thurston; their children Hannah Jade and Liam; two children from his first marriage, Nathaniel and Emily; his mother, Margaret; a sister, Jean Baker; a brother, George; and two grandchildren."</ref><ref>https://news.cornell.edu/stories/2012/08/mathematics-innovator-william-thurston-dies-65 "Thurston is survived by his wife, Julian, his mother, two brothers, a sister, five children and two grandchildren."</ref>
 |-
 | Gary Becker ||
