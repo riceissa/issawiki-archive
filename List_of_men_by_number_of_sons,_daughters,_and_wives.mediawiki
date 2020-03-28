@@ -77,7 +77,15 @@ This is a list of men along with their number of biological sons, biological dau
 |-
 | Albert Einstein ||
 |-
-| Georg Cantor ||
+| Georg Cantor || || || 6 || 1 || <ref>https://en.wikipedia.org/wiki/Georg_Cantor#Teacher_and_researcher "In 1874, Cantor married Vally Guttmann. They had six children, the last (Rudolph) born in 1886."</ref>
+|-
+| Richard Dedekind ||
+|-
+| Weierstrass ||
+|-
+| Bolzano ||
+|-
+| Tarski ||
 |-
 | Michael Spivak ||
 |-
