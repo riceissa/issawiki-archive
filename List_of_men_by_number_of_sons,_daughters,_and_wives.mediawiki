@@ -3,6 +3,10 @@ This is a list of men along with their number of sons, daughters, and wives. For
 {| class="sortable wikitable"
 ! Name !! Sons !! Daughters !! Children (sons + daughters) !! Wives !! Sources
 |-
+| Steven Pinker ||
+|-
+| Steve Hsu ||
+|-
 | Raymond Smullyan ||
 |-
 | Peter Smith ||
@@ -81,7 +85,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Linus Torvalds || 0 || 3 || 3 || 1 || <ref>https://en.wikipedia.org/wiki/Linus_Torvalds#Personal_life "Tove and Linus were later married and have three daughters, two of whom were born in the United States."</ref>
 |-
-| Noam Chomsky ||
+| Noam Chomsky || 1 || 2 || 3 || 2 || <ref>https://en.wikipedia.org/wiki/Noam_Chomsky#Personal_life</ref>
 |-
 | Gwern Branwen || 0 || 0 || 0 || 0 ||
 |-
