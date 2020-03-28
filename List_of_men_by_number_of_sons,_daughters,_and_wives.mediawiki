@@ -17,6 +17,42 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | (add other bell labs people) ||
 |-
+| E. T. Jaynes ||
+|-
+| Robert Aumann ||
+|-
+| Andrew Ng ||
+|-
+| Geoffrey Hinton ||
+|-
+| Yann LeCun ||
+|-
+| Sheldon Axler ||
+|-
+| Serge Lang ||
+|-
+| Milton Friedman ||
+|-
+| David Friedman ||
+|-
+| Murray Rothbard ||
+|-
+| John Stillwell ||
+|-
+| Donald Knuth ||
+|-
+| Geoffrey Miller ||
+|-
+| Richard Wrangham ||
+|-
+| Tooby and Cosmides ||
+|-
+| James Joyce ||
+|-
+| David Foster Wallace ||
+|-
+| Joseph Henrich ||
+|-
 | Paul Graham ||
 |-
 | Mark Zuckerberg ||
