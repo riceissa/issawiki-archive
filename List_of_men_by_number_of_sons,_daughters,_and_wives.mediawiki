@@ -211,7 +211,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Ray Solomonoff ||
 |-
-| Stuart Russell ||
+| Stuart Russell || || || || 1? || <ref>https://www.facebook.com/photo.php?fbid=10154495837586898&set=a.10151105672091898&type=3&theater "Kathy McKeown, Manuela Veloso, Stuart Russell and wife at the ACM awards." -- So I take this to mean he is married.</ref>
 |-
 | Bertrand Russell ||
 |-
