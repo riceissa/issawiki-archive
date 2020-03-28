@@ -3,6 +3,12 @@ This is a list of men along with their number of biological sons, biological dau
 {| class="sortable wikitable"
 ! Name !! Sons !! Daughters !! Children (sons + daughters) !! Wives !! Sources
 |-
+| Joe Rogan || 0 || 2 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/Joe_Rogan "They have two daughters; the first was born in 2008[31] and the second in 2010.[52] Rogan is also a stepfather to Ditzel's daughter from a previous relationship.[67]"</ref>
+|-
+| Sam Harris ||
+|-
+| George Carlin ||
+|-
 | Elon Musk || 5 || 0 || 5 || 2 || <ref>https://en.wikipedia.org/wiki/Elon_Musk#Family</ref>
 |-
 | Francis Crick || 1 || 2 || 3 || 2 || <ref>https://en.wikipedia.org/wiki/Francis_Crick#Personal_life</ref>
