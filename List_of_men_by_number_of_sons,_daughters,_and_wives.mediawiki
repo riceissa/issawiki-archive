@@ -11,7 +11,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Alonzo Church ||
 |-
-| Emil Post ||
+| Emil Post || 0 || 1 || 1 || 1 || <ref>https://en.wikipedia.org/wiki/Emil_Leon_Post#Life "Post married Gertrude Singer in 1929, with whom he had a daughter, Phyllis Goodman."</ref>
 |-
 | Peter Smith ||
 |-
