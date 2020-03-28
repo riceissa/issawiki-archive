@@ -3,6 +3,10 @@ This is a list of men along with their number of biological sons, biological dau
 {| class="sortable wikitable"
 ! Name !! Sons !! Daughters !! Children (sons + daughters) !! Wives !! Sources
 |-
+| Bryan Caplan ||
+|-
+| Robin Hanson ||
+|-
 | David Chalmers || 0? || 0? || 0? || 1? || <ref>http://consc.net/bio/ "My partner, Claudia Passos Ferreira"; no mention of kids</ref>
 |-
 | Daniel Dennett || 1 || 1 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/Daniel_Dennett#Personal_life</ref>
@@ -11,7 +15,7 @@ This is a list of men along with their number of biological sons, biological dau
 |-
 | Nick Bostrom ||
 |-
-| Eric Weinstein ||
+| Eric Weinstein || 1? || 1? || 2? || 1? || <ref>son: https://twitter.com/EricRWeinstein/status/1032358803927265280 ; daughter: https://twitter.com/ericrweinstein/status/1094976363595948033</ref>
 |-
 | Joe Rogan || 0 || 2 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/Joe_Rogan "They have two daughters; the first was born in 2008[31] and the second in 2010.[52] Rogan is also a stepfather to Ditzel's daughter from a previous relationship.[67]"</ref>
 |-
