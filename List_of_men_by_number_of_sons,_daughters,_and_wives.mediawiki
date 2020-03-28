@@ -1,4 +1,4 @@
-List of men along with their number of sons, daughters, and wives.
+This is a list of men along with their number of sons, daughters, and wives.
 
 {| class="sortable wikitable"
 ! Name !! Sons !! Daughters !! Children (sons + daughters) !! Wives !! Sources
