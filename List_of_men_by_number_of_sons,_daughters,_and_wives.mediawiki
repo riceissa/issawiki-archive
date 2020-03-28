@@ -3,6 +3,8 @@ This is a list of men along with their number of biological sons, biological dau
 {| class="sortable wikitable"
 ! Name !! Sons !! Daughters !! Children (sons + daughters) !! Wives !! Sources
 |-
+| Gwern Branwen || 0 || 0 || 0 || 0 ||
+|-
 | Wei Dai || 0? || 1? || 1? || 1 ||
 |-
 | Terry A. Davis || 0 || 0 || 0 || 0 ||
@@ -50,6 +52,8 @@ This is a list of men along with their number of biological sons, biological dau
 | Kurt Godel ||
 |-
 | Charles Spearman ||
+|-
+| Arthur Jensen ||
 |-
 | George Boole ||
 |-
