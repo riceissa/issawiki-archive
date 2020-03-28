@@ -269,6 +269,10 @@ This is a list of men along with their number of sons, daughters, and wives. For
 | J. Robert Oppenheimer || 1 || 1 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/J._Robert_Oppenheimer "Oppenheimer's ranch in New Mexico was then inherited by their son Peter, and the beach property was inherited by their daughter Katherine "Toni" Oppenheimer Silber."</ref>
 |}
 
+==External links==
+
+* https://gist.github.com/riceissa/e42019ea299e98559052d83194cc4e97 -- a script that reads data from this page and computes an index
+
 ==References==
 
 <references/>
