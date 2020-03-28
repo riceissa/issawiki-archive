@@ -37,7 +37,7 @@ This is a list of men along with their number of biological sons, biological dau
 |-
 | Carl Shulman || 0 || 0 || 0 || 1 ||
 |-
-| Carl Sagan ||
+| Carl Sagan || 4 || 1 || 5 || 3 || <ref>https://en.wikipedia.org/wiki/Carl_Sagan</ref>
 |-
 | Kurt Godel ||
 |-
