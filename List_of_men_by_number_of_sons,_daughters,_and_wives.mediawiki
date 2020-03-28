@@ -205,7 +205,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | George Pólya ||
 |-
-| Peter Norvig || || 1+ || 2 || 1? || <ref>http://www.norvig.com/resume.html</ref><ref>https://www.alt.ac.uk/sites/default/files/assets_editor_uploads/documents/altc2007_peter_norvig_keynote_transcript.pdf "We know that there are multiple methods of learning, and as an aside I was glad when I went to my daughter's third grade parent introduction night, where the teacher explained what was going to go on in the classroom."</ref>
+| Peter Norvig || 0 || 2 || 2 || 1? || <ref>http://www.norvig.com/resume.html</ref><ref>https://www.alt.ac.uk/sites/default/files/assets_editor_uploads/documents/altc2007_peter_norvig_keynote_transcript.pdf "We know that there are multiple methods of learning, and as an aside I was glad when I went to my daughter's third grade parent introduction night, where the teacher explained what was going to go on in the classroom." So there is at least one daughter.</ref><ref>https://www.facebook.com/photo.php?fbid=10156755697568344&set=a.10156755693733344&type=3 -- I'm going to guess two daughters based on this photo.</ref>
 |-
 | John McCarthy ||
 |-
