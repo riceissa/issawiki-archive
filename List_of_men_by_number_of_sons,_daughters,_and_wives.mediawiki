@@ -85,7 +85,7 @@ This is a list of men along with their number of biological sons, biological dau
 |-
 | Bolzano ||
 |-
-| Tarski ||
+| Alfred Tarski || 1 || 1 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/Alfred_Tarski#Life "In 1929 Tarski married fellow teacher Maria Witkowska, a Pole of Catholic background. She had worked as a courier for the army in the Polish–Soviet War. They had two children; a son Jan who became a physicist, and a daughter Ina who married the mathematician Andrzej Ehrenfeucht.[13]"</ref>
 |-
 | Michael Spivak ||
 |-
