@@ -3,6 +3,10 @@ This is a list of men along with their number of sons, daughters, and wives. For
 {| class="sortable wikitable"
 ! Name !! Sons !! Daughters !! Children (sons + daughters) !! Wives !! Sources
 |-
+| Mark Zuckerberg ||
+|-
+| Bill Gates ||
+|-
 | Max Tegmark ||
 |-
 | Juergen Schmidhuber ||
