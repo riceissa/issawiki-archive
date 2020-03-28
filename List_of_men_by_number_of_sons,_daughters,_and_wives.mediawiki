@@ -264,7 +264,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Richard Dedekind ||
 |-
-| Weierstrass ||
+| Karl Weierstrass || 0 || 0 || 0 || 0 || <ref>https://en.wikipedia.org/wiki/Karl_Weierstrass "Weierstrass may have had an illegitimate child named Franz with the widow of his friend Carl Wilhelm Borchardt." -- I won't count this for now, but I might change my mind later.</ref>
 |-
 | Bernard Bolzano || 0? || 0? || 0? || 0? || <ref>I couldn't find anything after a bit of digging.</ref>
 |-
