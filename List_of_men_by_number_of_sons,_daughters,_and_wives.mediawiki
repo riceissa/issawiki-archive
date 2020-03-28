@@ -3,6 +3,8 @@ This is a list of men along with their number of sons, daughters, and wives. For
 {| class="sortable wikitable"
 ! Name !! Sons !! Daughters !! Children (sons + daughters) !! Wives !! Sources
 |-
+| Edward Witten || 1 || 2 || 3 || 1 || <ref>https://en.wikipedia.org/wiki/Edward_Witten#Personal_life</ref>
+|-
 | Grant Sanderson ||
 |-
 | Hayao Miyazaki ||
