@@ -220,7 +220,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | John McCarthy ||
 |-
-| Ray Solomonoff ||
+| Ray Solomonoff || 0 || 0 || 0 || 1 || <ref>https://www.nytimes.com/2010/01/10/science/10solomonoff.html "He is survived by his wife, Grace, who said the cause of death was a ruptured brain aneurysm."</ref><ref>https://homepages.cwi.nl/~paulv/obituary.html "Ray Solomonoff is survived by his wife, Grace Morton, 72 Winter Street, Arlington, MA 02474, and by his nephews, Alex Solomonoff, of Somerville, and David Solomonoff."</ref>
 |-
 | Stuart Russell || || || || 1? || <ref>https://www.facebook.com/photo.php?fbid=10154495837586898&set=a.10151105672091898&type=3&theater "Kathy McKeown, Manuela Veloso, Stuart Russell and wife at the ACM awards." -- So I take this to mean he is married.</ref>
 |-
