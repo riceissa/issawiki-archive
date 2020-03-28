@@ -39,7 +39,31 @@ This is a list of men along with their number of sons, daughters, and wives.
 |-
 | George Pólya ||
 |-
-| 
+| Peter Norvig ||
+|-
+| John McCarthy ||
+|-
+| Ray Solomonoff ||
+|-
+| Stuart Russell ||
+|-
+| Bertrand Russell ||
+|-
+| Albert Einstein ||
+|-
+| Georg Cantor ||
+|-
+| Michael Spivak ||
+|-
+| Paul Halmos ||
+|-
+| Leo Szilard ||
+|-
+| Hans Bethe ||
+|-
+| Niels Bohr ||
+|-
+| Robert Oppenheimer ||
 |}
 
 ==References==
