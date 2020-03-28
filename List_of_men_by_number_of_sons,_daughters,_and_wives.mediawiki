@@ -1,4 +1,4 @@
-This is a list of men along with their number of biological sons, biological daughters, and wives.
+This is a list of men along with their number of biological sons, biological daughters, and wives. I make absolutely no claims about how these men were chosen to be on this list.
 
 {| class="sortable wikitable"
 ! Name !! Sons !! Daughters !! Children (sons + daughters) !! Wives !! Sources
