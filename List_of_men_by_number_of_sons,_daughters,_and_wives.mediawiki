@@ -16,7 +16,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | William Thurston || 3 || 2 || 5 || 2 || <ref>https://www.nytimes.com/2012/08/23/us/william-p-thurston-theoretical-mathematician-dies-at-65.html "Dr. Thurston’s first marriage, to Rachel Findley, ended in divorce. In addition to his son Dylan and his brother Robert, he is survived by his wife, Julian Muriel Thurston; their children Hannah Jade and Liam; two children from his first marriage, Nathaniel and Emily; his mother, Margaret; a sister, Jean Baker; a brother, George; and two grandchildren."</ref><ref>https://news.cornell.edu/stories/2012/08/mathematics-innovator-william-thurston-dies-65 "Thurston is survived by his wife, Julian, his mother, two brothers, a sister, five children and two grandchildren."</ref>
 |-
-| Gary Becker ||
+| Gary Becker || 0 || 2 || 2 || 2 || <ref>https://en.wikipedia.org/wiki/Gary_Becker "Becker's first wife was Doria Slote, from 1954 until her death in 1970.[9] The marriage produced two daughters, Catherine Becker and Judy Becker.[16] About ten years later, in 1980[9] Becker married Guity Nashat, a historian of the Middle East whose research interests overlapped his own.[18]"</ref>
 |-
 | Ronald Coase || 0 || 0 || 0 || 1 || <ref>https://en.wikipedia.org/wiki/Ronald_Coase#Biography "Coase married Marion Ruth Hartung of Chicago, Illinois in Willesden, England, 7 August 1937. Although they were unable to have children, they were married 75 years until her death in 2012, making him one of the longest-married Nobel Prize laureates."</ref>
 |-
