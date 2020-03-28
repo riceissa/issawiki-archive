@@ -18,7 +18,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Gary Becker ||
 |-
-| Ronald Coase ||
+| Ronald Coase || 0 || 0 || 0 || 1 || <ref>https://en.wikipedia.org/wiki/Ronald_Coase#Biography "Coase married Marion Ruth Hartung of Chicago, Illinois in Willesden, England, 7 August 1937. Although they were unable to have children, they were married 75 years until her death in 2012, making him one of the longest-married Nobel Prize laureates."</ref>
 |-
 | Herbert Simon ||
 |-
