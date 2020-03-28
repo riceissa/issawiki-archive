@@ -4,7 +4,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 ! Name
 ! data-sort-type=number | Sons
 ! data-sort-type=number | Daughters
-! data-sort-type=number style="text-align: right;" | Children (sons + daughters)
+! data-sort-type=number | Children (sons + daughters)
 ! data-sort-type=number | Wives
 ! Sources
 |-
