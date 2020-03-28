@@ -1,0 +1,47 @@
+List of men along with their number of sons, daughters, and wives.
+
+{| class="sortable wikitable"
+! Name !! Sons !! Daughters !! Children (sons + daughters) !! Wives !! Sources
+|-
+| Richard Feynman ||
+|-
+| Charles Darwin ||
+|-
+| Eliezer Yudkowsky ||
+|-
+| Carl Shulman ||
+|-
+| Carl Sagan ||
+|-
+| Kurt Godel ||
+|-
+| Charles Spearman ||
+|-
+| George Boole ||
+|-
+| George Boolos ||
+|-
+| Judea Pearl ||
+|-
+| John Horton Conway ||
+|-
+| Terence Tao ||
+|-
+| Tim Gowers ||
+|-
+| David Hilbert ||
+|-
+| John von Neumann ||
+|-
+| Paul Dirac ||
+|-
+| Enrico Fermi ||
+|-
+| George Pólya ||
+|-
+| 
+|}
+
+==References==
+
+<references/>
