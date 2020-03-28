@@ -27,7 +27,7 @@ This is a list of men along with their number of biological sons, biological dau
 |-
 | Sam Harris || 0 || 2 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/Sam_Harris</ref>
 |-
-| George Carlin ||
+| George Carlin || 0 || 1 || 1 || 2 || <ref>https://en.wikipedia.org/wiki/George_Carlin#Personal_life</ref>
 |-
 | Elon Musk || 5 || 0 || 5 || 2 || <ref>https://en.wikipedia.org/wiki/Elon_Musk#Family</ref>
 |-
