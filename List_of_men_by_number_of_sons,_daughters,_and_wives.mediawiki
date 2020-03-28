@@ -20,7 +20,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Ronald Coase || 0 || 0 || 0 || 1 || <ref>https://en.wikipedia.org/wiki/Ronald_Coase#Biography "Coase married Marion Ruth Hartung of Chicago, Illinois in Willesden, England, 7 August 1937. Although they were unable to have children, they were married 75 years until her death in 2012, making him one of the longest-married Nobel Prize laureates."</ref>
 |-
-| Herbert Simon ||
+| Herbert Simon || 1 || 2 || 3 || 1 || <ref>https://en.wikipedia.org/wiki/Herbert_A._Simon#Personal_life_and_interests "Simon married Dorothea Pye in 1938. Their marriage lasted 63 years until his death. [...] They had three children, Katherine, Peter, and Barbara. His wife died in 2002."</ref>
 |-
 | Johann Sebastian Bach || 6 || 5 || 11 || 2 || <ref>https://www.classicfm.com/composers/bach/guides/children/ I am counting the following children: Catharina Dorothea, Wilhelm Friedemann*, Carl Philipp Emanuel*, Johann Gottfried Bernhard, Gottfried Heinrich*, Elisabeth Juliana Friederica*, Regina Johanna, Johann Christoph Friedrich*, Johann Christian*, Johanna Carolina*, Regina Susanna*. (I've starred the ones that [https://en.wikipedia.org/wiki/Bach_family Wikipedia] mentions.)</ref>
 |-
