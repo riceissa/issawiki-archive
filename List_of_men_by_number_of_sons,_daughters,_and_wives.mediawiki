@@ -51,9 +51,15 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Kurt Gödel || 0 || 0 || 0 || 1 || <ref>https://www.newworldencyclopedia.org/entry/Kurt_G%C3%B6del -- this seems to be copied from Wikipedia, but I can't find the "They had no children" on the Wikipedia version. The Wikipedia article doesn't mention any kids though, so I'm going to assume there weren't any.</ref>
 |-
-| Charles Spearman ||
+| Charles Spearman || 0 || 3 || 3 || 1? || <ref>https://en.wikipedia.org/wiki/Charles_Spearman "He had three daughters along with one son, who died early on in 1941 in Crete." I'm excluding the son.</ref>
+|-
+| Charles Pierce ||
+|-
+| Claude Shannon ||
 |-
 | Arthur Jensen ||
+|-
+| Fisher (are there two?) ||
 |-
 | George Boole ||
 |-
