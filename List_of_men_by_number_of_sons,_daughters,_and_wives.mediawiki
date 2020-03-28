@@ -51,7 +51,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | John Stillwell ||
 |-
-| Donald Knuth ||
+| Donald Knuth || 1 || 1 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/Donald_Knuth#Personal_life</ref>
 |-
 | Geoffrey Miller ||
 |-
