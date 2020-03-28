@@ -23,13 +23,13 @@ This is a list of men along with their number of sons, daughters, and wives.
 |-
 | Judea Pearl ||
 |-
-| John Horton Conway ||
+| John Horton Conway || 3 || 4 || 7 || 3? || <ref>http://mathshistory.st-andrews.ac.uk/Biographies/Conway.html</ref>
 |-
 | Terence Tao ||
 |-
 | Tim Gowers ||
 |-
-| David Hilbert ||
+| David Hilbert || 1 || 0 || 1 || 1 || <ref>https://en.wikipedia.org/wiki/David_Hilbert#Personal_life</ref>
 |-
 | John von Neumann ||
 |-
