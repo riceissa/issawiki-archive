@@ -195,6 +195,10 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Bertrand Russell ||
 |-
+| Gottlob Frege || 0 || 0 || 0 || 1 || <ref>http://mathshistory.st-andrews.ac.uk/Biographies/Frege.html "Frege had married Margarete Lieseberg but they never had any children. Frege and his wife did adopt a son, Alfred, who went on to become an engineer, but after Frege's wife died in 1904 he seemed to sink more deeply into himself."</ref><ref>https://www.iep.utm.edu/frege/ "Sometime after the publication of the ''Begriffsschrift'', Frege was married to Margaret Lieseburg (1856-1905). They had at least two children, who unfortunately died young. Years later they adopted a son, Alfred. However, little else is known about Frege’s family life."</ref>
+|-
+| Wittgenstein ||
+|-
 | Albert Einstein ||
 |-
 | Georg Cantor || || || 6 || 1 || <ref>https://en.wikipedia.org/wiki/Georg_Cantor#Teacher_and_researcher "In 1874, Cantor married Vally Guttmann. They had six children, the last (Rudolph) born in 1886."</ref>
