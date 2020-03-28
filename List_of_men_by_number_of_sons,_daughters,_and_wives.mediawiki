@@ -8,6 +8,8 @@ This is a list of men along with their number of sons, daughters, and wives. For
 ! data-sort-type=number | Wives
 ! Sources
 |-
+| Hal Finney ||
+|-
 | Goro Shimura || 1 || 1 || 2 || 1 || <ref>https://www.princeton.edu/news/2019/05/08/goro-shimura-giant-number-theory-dies-89 "Shimura is survived by his wife, Chikako, his daughter, Tomoko, and his son, Haru."</ref>
 |-
 | Andrew Wiles || 0 || 3 || 3 || 1 || <ref>https://famous-mathematicians.com/andrew-wiles/ "He is married to Nada Canaan Wiles who earned her PhD from Princeton University (New Jersey). They have three daughters named, Clare, Kate and Olivia."</ref>
