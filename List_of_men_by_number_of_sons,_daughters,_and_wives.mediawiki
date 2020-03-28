@@ -39,7 +39,7 @@ This is a list of men along with their number of sons, daughters, and wives.
 |-
 | George Pólya ||
 |-
-| Peter Norvig ||
+| Peter Norvig || || || 2 || 1? || <ref>http://www.norvig.com/resume.html</ref>
 |-
 | John McCarthy ||
 |-
