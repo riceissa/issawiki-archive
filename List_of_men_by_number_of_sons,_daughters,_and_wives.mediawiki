@@ -3,6 +3,10 @@ This is a list of men along with their number of sons, daughters, and wives. For
 {| class="sortable wikitable"
 ! Name !! Sons !! Daughters !! Children (sons + daughters) !! Wives !! Sources
 |-
+| Richard Stallman || 0 || 0 || 0 || 0? ||
+|-
+| Noam Chomsky ||
+|-
 | Gwern Branwen || 0 || 0 || 0 || 0 ||
 |-
 | Wei Dai || 0? || 1? || 1? || 1 || <ref>https://www.greaterwrong.com/posts/q2rCMHNXazALgQpGH/conditions-for-mesa-optimization/comment/RmSHZc5us9ah3eqBm</ref>
