@@ -5,7 +5,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Gwern Branwen || 0 || 0 || 0 || 0 ||
 |-
-| Wei Dai || 0? || 1? || 1? || 1 ||
+| Wei Dai || 0? || 1? || 1? || 1 || <ref>https://www.greaterwrong.com/posts/q2rCMHNXazALgQpGH/conditions-for-mesa-optimization/comment/RmSHZc5us9ah3eqBm</ref>
 |-
 | Terry A. Davis || 0 || 0 || 0 || 0 ||
 |-
