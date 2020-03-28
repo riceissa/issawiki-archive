@@ -3,13 +3,19 @@ This is a list of men along with their number of biological sons, biological dau
 {| class="sortable wikitable"
 ! Name !! Sons !! Daughters !! Children (sons + daughters) !! Wives !! Sources
 |-
+| David Chalmers ||
+|-
+| Daniel Dennett ||
+|-
+| Richard Dawkins ||
+|-
 | Nick Bostrom ||
 |-
 | Eric Weinstein ||
 |-
 | Joe Rogan || 0 || 2 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/Joe_Rogan "They have two daughters; the first was born in 2008[31] and the second in 2010.[52] Rogan is also a stepfather to Ditzel's daughter from a previous relationship.[67]"</ref>
 |-
-| Sam Harris ||
+| Sam Harris || 0 || 2 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/Sam_Harris</ref>
 |-
 | George Carlin ||
 |-
