@@ -7,9 +7,9 @@ List of men along with their number of sons, daughters, and wives.
 |-
 | Charles Darwin ||
 |-
-| Eliezer Yudkowsky ||
+| Eliezer Yudkowsky || 0 || 0 || 0 || 1 ||
 |-
-| Carl Shulman ||
+| Carl Shulman || 0 || 0 || 0 || 1 ||
 |-
 | Carl Sagan ||
 |-
