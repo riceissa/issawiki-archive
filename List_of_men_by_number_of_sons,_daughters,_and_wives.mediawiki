@@ -11,7 +11,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Richard Stallman || 0 || 0 || 0 || 0? ||
 |-
-| Linus Torvalds ||
+| Linus Torvalds || 0 || 3 || 3 || 1 || <ref>https://en.wikipedia.org/wiki/Linus_Torvalds#Personal_life "Tove and Linus were later married and have three daughters, two of whom were born in the United States."</ref>
 |-
 | Noam Chomsky ||
 |-
