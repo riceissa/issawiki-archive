@@ -47,7 +47,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | David Friedman ||
 |-
-| Murray Rothbard ||
+| Murray Rothbard || || || || 1 || <ref>https://en.wikipedia.org/wiki/Murray_Rothbard</ref>
 |-
 | John Stillwell ||
 |-
