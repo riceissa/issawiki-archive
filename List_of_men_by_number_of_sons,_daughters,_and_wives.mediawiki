@@ -5,7 +5,7 @@ This is a list of men along with their number of sons, daughters, and wives.
 |-
 | Richard Feynman ||
 |-
-| Charles Darwin ||
+| Charles Darwin || 6 || 4 || 10 || 1 || <ref>https://en.wikipedia.org/wiki/Charles_Darwin#Children</ref>
 |-
 | Eliezer Yudkowsky || 0 || 0 || 0 || 1 ||
 |-
