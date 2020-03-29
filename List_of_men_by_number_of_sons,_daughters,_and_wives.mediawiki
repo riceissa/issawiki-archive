@@ -136,7 +136,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Murray Rothbard || 0? || 0? || 0? || 1 || <ref>https://en.wikipedia.org/wiki/Murray_Rothbard</ref>
 |-
-| John Stillwell || 0? || 0? || 0? || 0? || <ref>I spent quite a bit of time digging, but found nothing. It seems like he is a very private person, as there is basically no info about him outside of his mathematical career.</ref>
+| John Stillwell || 0? || 0? || 0? || 1? || <ref>Preface of ''Elements of Mathematics'' mentions "my wife, Elaine".</ref>
 |-
 | Donald Knuth || 1 || 1 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/Donald_Knuth#Personal_life</ref>
 |-
