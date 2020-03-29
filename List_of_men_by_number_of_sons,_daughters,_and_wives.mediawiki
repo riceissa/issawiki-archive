@@ -46,7 +46,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Grant Sanderson ||
 |-
-| Hayao Miyazaki ||
+| Hayao Miyazaki || 2 || 0 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/Hayao_Miyazaki#Personal_life</ref>
 |-
 | Satoshi Kon ||
 |-
