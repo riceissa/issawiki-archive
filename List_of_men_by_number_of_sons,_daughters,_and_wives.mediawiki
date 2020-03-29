@@ -150,7 +150,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | James Joyce ||
 |-
-| David Foster Wallace ||
+| David Foster Wallace || 0 || 0 || 0 || 1 || <ref>https://www.nytimes.com/2008/09/15/books/15wallace.html "In addition to his wife, whom he married in 2004, and his parents, who live in Urbana, Ill., Mr. Wallace is survived by a sister, Amy Wallace Havens of Tucson."</ref><ref>https://en.wikipedia.org/wiki/David_Foster_Wallace "In 2002, Wallace met the painter Karen L. Green, whom he married on December 27, 2004." -- Page does not mention children.</ref>
 |-
 | Joseph Henrich ||
 |-
