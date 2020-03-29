@@ -126,7 +126,9 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Yann LeCun ||
 |-
-| Sheldon Axler ||
+| Sheldon Axler || 0? || 0? || 0? || 1? || <ref>Acknowledgments of ''Measure, Integration & Real Analysis'' has "Special thanks to my wonderful partner Carrie Heeter, whose understanding and encouragement enabled me to work intensely on this book. Our cat Moon, whose picture is on page 44, helped provide relaxing breaks." -- I'm guessing either no kids or they've grown up already so aren't mentioned.</ref>
+|-
+| Stephen Abbott ||
 |-
 | Serge Lang ||
 |-
