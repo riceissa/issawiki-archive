@@ -10,7 +10,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Dedekind ||
 |-
-| Gauss
+| Carl Friedrich Gauss || 3 || 2 || 5 || 2 || <ref>https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss#Family "Gauss had six children. With Johanna (1780–1809), his children were Joseph (1806–1873), Wilhelmina (1808–1846) and Louis (1809–1810). With Minna Waldeck he also had three children: Eugene (1811–1896), Wilhelm (1813–1879) and Therese (1816–1864). Eugene shared a good measure of Gauss's talent in languages and computation." -- Not counting Louis.</ref>
 |-
 | Cauchy
 |-
