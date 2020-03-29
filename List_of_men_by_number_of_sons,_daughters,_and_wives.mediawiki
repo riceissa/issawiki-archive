@@ -136,7 +136,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Murray Rothbard || 0? || 0? || 0? || 1 || <ref>https://en.wikipedia.org/wiki/Murray_Rothbard</ref>
 |-
-| John Stillwell || 0? || 0? || 0? || 1? || <ref>Preface of ''Elements of Mathematics'' mentions "my wife, Elaine".</ref>
+| John Stillwell || 2? || 0? || 2? || 1? || <ref>Preface of ''Elements of Mathematics'' mentions "my wife, Elaine".</ref><ref>Preface to the 2nd edition of ''Mathematics and Its History'' says "My sons, Michael and Robert, who did most of the typing, and my wife, Elaine, who did a great deal of the proofreading."</ref>
 |-
 | Donald Knuth || 1 || 1 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/Donald_Knuth#Personal_life</ref>
 |-
