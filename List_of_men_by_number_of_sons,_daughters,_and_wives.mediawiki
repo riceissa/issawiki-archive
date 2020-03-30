@@ -28,7 +28,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Fermat
 |-
-| Ludwig Boltzmann ||
+| Ludwig Boltzmann || 2 || 3 || 5 || 1 || <ref>https://en.wikipedia.org/wiki/Ludwig_Boltzmann "On July 17, 1876 Ludwig Boltzmann married Henriette; they had three daughters and two sons."</ref>
 |-
 | Hal Finney || 1 || 1 || 2 || 1 || <ref>https://www.nytimes.com/2014/08/31/business/hal-finney-cryptographer-and-bitcoin-pioneer-dies-at-58.html "Besides his wife, Mr. Finney is survived by a son, Jason; a daughter, Erin Finney; two sisters, Kathleen Finney and Patricia Wolf; and a brother, Michael."</ref><ref>https://www.independent.com/obits/2014/09/02/hal-finney/ "Hal attended college at Caltech, where he met Fran. He graduated in 1979 with a degree in engineering, and married Fran that same year. He and Fran moved with their two children, Jason and Erin, to Santa Barbara in 1991, where Hal enjoyed running with his dogs along the coastline and trails."</ref>
 |-
