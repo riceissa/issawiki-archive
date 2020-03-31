@@ -1,0 +1,3 @@
+The '''Laplace's rule of succession argument for AI timelines''' uses [[wikipedia:Rule of succession|Laplace's rule of succession]] to estimate when humans will create AGI. The estimate relies only on the number of years humans have spent trying to create an AI (about 60 years) and the fact that humans still haven't created an AGI (i.e. in Laplace's rule of succession, each outcome so far has been a failure).
+
+see https://eaforum.issarice.com/posts/Ayu5im98u8FeMWoBZ/my-personal-cruxes-for-working-on-ai-safety#AI_timelines
