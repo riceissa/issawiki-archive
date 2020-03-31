@@ -1,3 +1,5 @@
 This is a kind of higher-order/meta-level argument that simply performs a statistical analysis of experts' AI timelines to come up with some overall estimate of AI timelines. It punts the question of "but where did the experts get their opinions?" to one or more of the other arguments.
 
+The class of experts is variable, which means this argument produces multiple estimates depending on the class of experts used (e.g. "AI researchers attending X conference", "AI researchers in general", "AI safety researchers").
+
 [[Category:AI timelines arguments]]
