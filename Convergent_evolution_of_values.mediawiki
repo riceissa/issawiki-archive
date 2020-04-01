@@ -65,6 +65,14 @@ an example of this is: some people become obsessed with money, and treat earning
 
 wow, carl made the same point (about human "terminal" values): https://www.openphilanthropy.org/sites/default/files/Carl_Shulman_08-19-16_%28public%29.pdf
 
+----
+
+From [https://lw2.issarice.com/posts/d2jgBurQygbXzhPxc/how-special-are-human-brains-among-animal-brains]:
+
+<blockquote>It might also turn out that the cultural contexts under which language could evolve require a mysteriously high degree of trust: “... language presupposes relatively high levels of mutual trust in order to become established over time as an evolutionarily stable strategy. This stability is born of a longstanding mutual trust and is what grants language its authority. A theory of the origins of language must therefore explain why humans could begin trusting cheap signals in ways that other animals apparently cannot (see signalling theory).”</blockquote>
+
+hard to know how stable/robust this pattern is, but if it is, and if language turns out to be fundamental (in the sense that any technological civilization must use language), then it seems like any species capable of creating a technological civilization would ''at least initially'' (i.e. unless there's some counteracting force that breeds it out of the species later) have some minimum level of trust (which would have implications of the values that civilization has).
+
 ==External links==
 
 * https://www.openphilanthropy.org/sites/default/files/Carl_Shulman_08-19-16_%28public%29.pdf
