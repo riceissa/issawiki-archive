@@ -8,6 +8,8 @@ This is a list of men along with their number of sons, daughters, and wives. For
 ! data-sort-type=number | Wives
 ! Sources
 |-
+| Steven Spielberg || 2 || 3 || 5 || 2 || <ref>https://en.wikipedia.org/wiki/Steven_Spielberg#Marriages_and_children -- not counting Jessica and Theo as they are not biological children.</ref>
+|-
 | Tyler Cowen || 0? || 0? || 0? || 1? || <ref>https://www.charleskochfoundation.org/story/tyler-cowen-the-economics-of-everything/ "He also relaxes by playing tennis with his wife Natasha, shooting hoops on his own and spending time with his twenty-eight-year-old daughter, Yana."</ref><ref>https://publicchoice.gmu.edu/tylercowen "My lovely wife, stepdaughter and I currently reside in Fairfax, Virginia with stacks of amates."</ref>
 |-
 | alex tabarrok
