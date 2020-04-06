@@ -8,6 +8,8 @@ This is a list of men along with their number of sons, daughters, and wives. For
 ! data-sort-type=number | Wives
 ! Sources
 |-
+| Gregory Cochran || || || 3? || 1? || <ref>https://www.theatlantic.com/past/docs/issues/99feb/germ2.htm "A forty-five-year-old Ph.D. physicist who lives in Albuquerque with his wife and three small children, Cochran makes a living doing contract work on advanced optical systems for weaponry and other devices."</ref>
+|-
 | Henry Harpending || 2 || 1 || 3 || 2 || <ref>https://en.wikipedia.org/wiki/Henry_Harpending "Harpending's first wife was Patricia Draper, with whom he had two children. He married his second wife, Renee Pennington, around 1995. They had one son."</ref><ref>https://www.legacy.com/obituaries/deseretnews/obituary.aspx?pid=181948980 "Henry is survived by Renee Pennington, his wife of 21 years, their son Peter, his children Sarah and Harry from his first marriage to Patricia Draper, and two grandchildren."</ref>
 |-
 | Steven Spielberg || 2 || 3 || 5 || 2 || <ref>https://en.wikipedia.org/wiki/Steven_Spielberg#Marriages_and_children -- not counting Jessica and Theo as they are not biological children.</ref>
