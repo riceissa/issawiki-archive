@@ -1,0 +1,13 @@
+Why isn't there a website that pays users to submit solutions to textbook exercises, and then charges people to read those answers?
+
+it seems like many students are already doing the work of solving these problems anyway, so sending their solutions in (say, after they finish with a course) wouldn't take much extra work (so it would be rational to submit their solutions if the pay is good enough)
+
+there are sites like chegg, but they don't do this afaik
+
+the site could even have an option to release answers after some period of time (e.g. you're solving the problem now, so it's easiest to submit now, but if you do that while still taking the course your instructor might count that as cheating, so instead you can say something like "I'll submit my answers now for payment, but only show them on the site after my course finishes")
+
+I think an issue could be low-quality/spammy submissions, but this can probably be solved by randomly checking some of a user's answers (payment conditional on good quality answers) and ratings
+
+content could be seeded by contacting students who just took a course at a university, e.g. search for all universities using a certain textbook, find students taking that course, and ask them for solutions in exchange for payment
+
+like, since the work ''has already been done'', you just need to convince them to hand it over. So this is really different from other network effect problems, like starting a wiki (where the work ''hasn't'' been done, so you need people to do work for an empty site) or starting a new social networking site, where you're asking people to hang out in a place where nobody else is hanging out.
