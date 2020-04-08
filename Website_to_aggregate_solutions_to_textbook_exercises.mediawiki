@@ -2,7 +2,7 @@ Why isn't there a website that pays users to submit solutions to textbook exerci
 
 it seems like many students are already doing the work of solving these problems anyway, so sending their solutions in (say, after they finish with a course) wouldn't take much extra work (so it would be rational to submit their solutions if the pay is good enough)
 
-there are sites like chegg, but they don't do this afaik
+there are sites like chegg, but they don't do this afaik (the main way chegg pays people is by doing tutoring stuff?)
 
 the site could even have an option to release answers after some period of time (e.g. you're solving the problem now, so it's easiest to submit now, but if you do that while still taking the course your instructor might count that as cheating, so instead you can say something like "I'll submit my answers now for payment, but only show them on the site after my course finishes")
 
