@@ -6,6 +6,8 @@ there are sites like chegg, but they don't do this afaik (the main way chegg pay
 
 the site could even have an option to release answers after some period of time (e.g. you're solving the problem now, so it's easiest to submit now, but if you do that while still taking the course your instructor might count that as cheating, so instead you can say something like "I'll submit my answers now for payment, but only show them on the site after my course finishes")
 
+In math courses, many people already LaTeX their problem sets, so there isn't even the overhead of scanning notebooks or typing things up in those cases.
+
 I think an issue could be low-quality/spammy submissions, but this can probably be solved by randomly checking some of a user's answers (payment conditional on good quality answers) and ratings
 
 content could be seeded by contacting students who just took a course at a university, e.g. search for all universities using a certain textbook, find students taking that course, and ask them for solutions in exchange for payment
