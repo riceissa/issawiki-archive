@@ -19,6 +19,7 @@ meta point (HT david manheim): some/most of these disagreements might just be de
 * intelligibility of intelligence [https://intelligence.org/files/HowIntelligible.pdf]
 * the questions listed at https://lw2.issarice.com/posts/w4jjwDPa853m9P4ag/my-current-framework-for-thinking-about-agi-timelines
 * humans vs chimps? -- what does this question do for us here? basically, the more special human brains are, the longer we would expect to get to AGI.
+* weird anthropic stuff that could change things? (e.g. we are more likely to find ourselves in worlds where "evolution got lucky" and produced human-level intelligence relatively quickly. I think carl has a paper about this.)
 ** "How special are human brains among animal brains?" [https://www.greaterwrong.com/posts/d2jgBurQygbXzhPxc/how-special-are-human-brains-among-animal-brains] This has sub-questions like:
 *** Is language the only special thing about humans?
 *** How hard is it to master language using general cognitive capacities, and why don't other animals use language like humans do?
