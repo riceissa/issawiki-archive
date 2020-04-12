@@ -8,6 +8,8 @@ This is a list of men along with their number of sons, daughters, and wives. For
 ! data-sort-type=number | Wives
 ! Sources
 |-
+| Andrey Kolmogorov || 0 || 0 || 0 || 1 || <ref>http://www.scholarpedia.org/article/Andrey_Nikolaevich_Kolmogorov "In 1942 Kolmogorov married Anna Dmitriyevna Egorov. He did not have children of his own."</ref>
+|-
 | Jeff Bezos || 3 || 0 || 3 || 1 || <ref>https://en.wikipedia.org/wiki/Jeff_Bezos "He and his ex-wife MacKenzie are the parents of four children: three sons, and one daughter adopted from China."</ref>
 |-
 | Gregory Cochran || || || 3? || 1? || <ref>https://www.theatlantic.com/past/docs/issues/99feb/germ2.htm "A forty-five-year-old Ph.D. physicist who lives in Albuquerque with his wife and three small children, Cochran makes a living doing contract work on advanced optical systems for weaponry and other devices."</ref>
