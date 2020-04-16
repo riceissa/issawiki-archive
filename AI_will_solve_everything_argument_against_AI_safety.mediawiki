@@ -1,0 +1,9 @@
+My understanding of this argument is that if we get AGI, that will solve all of our other problems. So we should try to get there as fast as possible, without worrying about AI safety (all of our other problems are so pressing that we're willing to gamble on AI working out by default).
+
+Jaan Tallinn [https://manifoldlearning.com/episode-042/]:
+
+<blockquote><p>The reasonable one is that, look, we are facing the world with many, many problems. And AI could be super helpful in alleviating those, and addressing those. In fact, that’s one of the reasons why I’m focusing on AI safety, rather than bio-safety.</p>
+
+<p>Because if we fix all bio risk, we still have the AI risk to contend with. However, if we fix AI risk, and we’ll get very powerful AIs, we’re probably going to be able to also fix the other risks, including bio risk. So I think that is a reasonable thing, and we might just alter so many problems that currently the world is burdened with.</p>
+
+<p>So in that sense, if you’d actually do the EV calculation, depending on what your parameters are, you might end up in a situation where it’s just worth taking the risk of killing everyone. Which, I don’t believe that that argument is true, but I certainly wouldn’t give like zero percent to that being true.</p></blockquote>
