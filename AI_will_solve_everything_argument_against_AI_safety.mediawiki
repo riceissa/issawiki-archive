@@ -1,4 +1,4 @@
-My understanding of this argument is that if we get AGI, that will solve all of our other problems. So we should try to get there as fast as possible, without worrying about AI safety (all of our other problems are so pressing that we're willing to gamble on AI working out by default).
+My understanding of this argument is that if we get AGI, that will solve all of our other problems. So we should try to get there as fast as possible, without worrying about AI safety (all of our other problems are so pressing that we're willing to gamble on AI working out by default). I don't think this argument makes much sense.
 
 Jaan Tallinn [https://manifoldlearning.com/episode-042/]:
 
