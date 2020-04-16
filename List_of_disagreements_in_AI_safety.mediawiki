@@ -58,7 +58,7 @@ meta point (HT david manheim): some/most of these disagreements might just be de
 * decisive strategic advantage / is it possible to turn a small lead in AGI development into a big lead?
 ** discontinuity/unipolarity/locality
 ** DSA without discontinuity
-* whether we are already in [[hardware overhang]] / other "resource bonanza". So whether we are in overhang depends on whether future early AGI systems can make use of existing resources much more efficiently, which means overhang has a dependence on whether few insights are needed to get to AGI?
+* whether we are already in [[hardware overhang]] / other "resource bonanza". So whether we are in overhang depends on whether future early AGI systems can make use of existing resources much more efficiently, which means overhang has a dependence on whether few insights are needed to get to AGI? More precisely, there's a feedback loop, where resource overhang amplifies any existing discontinuity.
 * what lessons can we learn by looking at the [[Evolution|evolutionary history]] of chimps vs humans?
 * what lessons can we learn from [[AlphaGo]]?
 * to what extend "recursive self-improvement" is a distinct thing, as compared with just "AIs getting better and better at doing AI research" [https://arbital.com/p/KANSI/?l=1fy#subpage-1gp]
