@@ -1,0 +1,3 @@
+It's possible to point to some successful formalizations of things, like formalizing math, or formalizing computation. But there is a [[selection effect]] here because we are more likely to have heard of successes than failures. It would be interesting to have some kind of "full list" of all attempts (not sure how I would go about finding such a list).
+
+"I think pointing to some examples of great success does not imply… Like there are probably many similar things that didn’t work out and we don’t know about them cause nobody bothered to tell us about them because they failed. Seems plausible maybe." [https://lw2.issarice.com/posts/6skeZgctugzBBEBw3/ai-alignment-podcast-an-overview-of-technical-ai-alignment]
