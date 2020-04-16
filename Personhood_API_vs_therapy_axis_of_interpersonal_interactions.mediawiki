@@ -1,0 +1,11 @@
+Building off of:
+
+* https://meltingasphalt.com/personhood-a-game-for-two-or-more-players/
+* https://www.greaterwrong.com/posts/uxYemA2ttzjs8z8Eb/drive-by-low-effort-criticism/comment/Tj6nYSDEsMwrpKeKZ
+* https://www.greaterwrong.com/posts/WryaasZwceSyagGnu/the-alignment-competence-trade-off-part-1-coalition-size-and
+
+public APIs for humans ([[Kevin Simler]]) vs employer who does therapy with you (to figure out and work around/through your personal problems): simler has argued that public norms and so forth are like bubble-wrap/public API around humans, to help them get along with each other. but an alternative is to NOT ignore these problems, and to actually basically do therapy for them, so you can get better aligned people. i'm thinking of situations like negotiating a raise. you could go the public API way, which is to be polite and dance around the topic or whatever. or you could get personal, and talk about why you need a raise, your personal goals, how to align your actions with the goals of the org, and so forth. i think smaller orgs can afford to do the latter.
+
+Per gentzel's post, the therapy approach gets harder the larger the organization is.
+
+Things like How to Win Friends and Influence People are kind of a weird mix: they're saying you should yourself be polite (only make the other side access you via API) and that you should only interact in polite ways (interact with them via API calls) but that you should also be building up enough empathy that you can simulate what's going on internally for the other side.
