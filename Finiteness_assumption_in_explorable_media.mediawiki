@@ -1,0 +1,6 @@
+Explorable and interactive media seem to bake in an assumption of finiteness, which makes it challenging to interact with the infinite and arbitrary objects that appear in mathematics.
+
+Examples:
+
+* 
+* [https://www.youtube.com/playlist?list=PL5dr1EHvfwpNYbS_yqCZg30lEnpiEF6O2 The Witness] builds up complex puzzles starting from simple ones. But each puzzle is finite (finite board size, finite state space)
