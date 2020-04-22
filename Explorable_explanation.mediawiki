@@ -1,7 +1,7 @@
 some claims:
 
 * [[Finiteness assumption in explorable media|Explorable explanations have an assumption of finiteness]]
-* Existing explorable explanations are created by searching for things that are most conveniently represented in an explorable format, rather than searching for the most important things to explain and then trying very hard to represent it in an explorable format.
+* Existing explorable explanations are created by searching for things that are most conveniently represented in an explorable format, rather than searching for the most important things to explain and then trying very hard to represent it in an explorable format. This means that explorable explanations often feel gimmicky or unimportant. [[The Witness] is beautiful and poignant, but at the end of the day, you're just drawing squiggly lines on panels to solve puzzles with artificial(=of no importance to anything whatsoever) rules.
 
 
 ==External links==
