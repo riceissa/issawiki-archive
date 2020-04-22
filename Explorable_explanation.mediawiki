@@ -1,6 +1,6 @@
 Some claims I want to make/opinions I have:
 
-* [[Finiteness assumption in explorable media|Explorable explanations have an assumption of finiteness]]. But in math, you most often deal with ''arbitrary'' objects of a class, infinities of various sorts, impossible situations (such as within a proof by contradiction), and other non-finite things.
+* [[Finiteness assumption in explorable media|Explorable explanations have an assumption of finiteness]]. But in math, you most often deal with ''arbitrary'' objects of a class, infinities of various sorts, impossible situations (such as within a proof by contradiction), and other non-finite things. How the heck do you reliably import and talk about these various infinities/impossibilities within the explorable explanations framework?
 * Existing explorable explanations are created by searching for things that are most conveniently represented in an explorable format, rather than searching for the most important things to explain and then trying very hard to represent it in an explorable format. This means that explorable explanations often feel gimmicky or unimportant. [[The Witness]] is beautiful and poignant, but at the end of the day, you're just drawing squiggly lines on panels to solve puzzles with artificial(=of no importance to anything whatsoever) rules.
 * Explorable explanations are often non-verbal? This is an interesting property, but it makes it tricky to use for ''inherently verbal'' subjects like mathematical logic.
 
