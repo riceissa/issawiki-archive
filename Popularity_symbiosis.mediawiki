@@ -4,4 +4,7 @@ there seem to be less-virtuous nearby actions, like just spamming a popular pers
 
 Related idea: building off what a more famous person has produced, in the hopes of getting feedback from them/getting them to boost your work [https://www.swyx.io/writing/learn-in-public-hack/].
 
+here is a good example of this: i saw that someone had [https://en.wikipedia.org/w/index.php?title=Explorable_explanation&diff=prev&oldid=879464851 inserted] a timestamped link to one of [[Jonathan Blow]]'s talks as a citation, and reasoned that whoever did this must be plausibly interesting. It turns out that this person indeed does have some interesting things on their website: http://hamishtodd1.github.io/
+
 [[Category:People watching]]
+[[Category:People watching techniques]]
