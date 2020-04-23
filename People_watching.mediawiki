@@ -7,3 +7,4 @@ what is the point of all of this?
 ==Techniques==
 
 * [[Parasitizing on popularity]]
+* Using "site:*.com/about" with identity labels [https://www.facebook.com/riceissa/posts/1969878083291139]
