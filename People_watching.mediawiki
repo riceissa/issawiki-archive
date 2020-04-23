@@ -5,3 +5,5 @@
 what is the point of all of this?
 
 ==Techniques==
+
+* [[Parasitizing on popularity]]
