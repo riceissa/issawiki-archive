@@ -1,5 +1,9 @@
 '''Spaced proof review''' is the general idea of trying to memorize/deeply understand a theorem using [[spaced repetition]]. This is currently one of my main interests with spaced repetition and with learning in general.
 
+==Analysis==
+
+one of the mistakes i made earlier is to add theorems from books that i hadn't fully processed. this meant that when it came up in the deck, i had more work to do then. but now i think it's better to do all the work when first making the card. then you know that everything in the deck is something you've deeply processed. there is a kind of relief, rather than a slight panic/dread of "oh boy, is this the day when i'll get that horrible card?" i also now think that putting the full solution on the card, rather than just a reference to a textbook or web page, is better. it keeps everything self-contained, so when you're reviewing there is less work to do. in general, the idea to make reviewing fun.
+
 ==See also==
 
 * [[Spaced proof review as a way to invent novel proofs]]
