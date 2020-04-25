@@ -1,0 +1,1 @@
+'''Spaced proof review''' is the general idea of trying to memorize/deeply understand a theorem using [[spaced repetition]]. This is currently one of my main interests with spaced repetition and learning in general.
