@@ -1,0 +1,13 @@
+
+
+One time I completely forgot the trick for how to even get started proving Löb's theorem. (That's sort of a good thing because I wasn't just relying on a memorized trick!) Eventually I remembered that Löb's theorem had something to do with the Santa Claus sentence, which I wrote down as "If this sentence is true, then Santa Claus exists". So then I realized I wanted something like <math>T \vdash L \leftrightarrow (L \to \varphi)</math>. But then I remembered that actually it's not just the bare sentence, but there was a provability predicate somewhere. And that's when I remembered that we are supposed to diagonalize <math>\mathrm{Bew}(x) \to \varphi</math>. So, <math>T \vdash L \leftrightarrow (\Box L \to \varphi)</math>. Previously, I think it was somewhat mysterious to me why I should diagonalize that particular formula (like, where that formula even comes from).
+
+==See also==
+
+* [[Spaced proof review as a way to invent novel proofs]]
+
+==External links==
+
+* https://mathoverflow.net/a/3957
+
+[[Category:Spaced repetition]]
