@@ -1,3 +1,8 @@
 '''Spaced proof review''' is the general idea of trying to memorize/deeply understand a theorem using [[spaced repetition]]. This is currently one of my main interests with spaced repetition and learning in general.
 
+==See also==
+
+* [[Spaced proof review as a way to invent novel proofs]]
+* [[Spaced proof review as a way to understand key insights in a proof]]
+
 [[Category:Spaced repetition]]
