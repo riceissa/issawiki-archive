@@ -1,5 +1,7 @@
 '''Linked list proof card''' is a method of memorizing proofs using Anki. In linked list proof cards, each card asks for the next step in a proof so the cards together form a linked list data structure for the proof.
 
+I don't actually like the name "linked list proof card" because it makes it sound like each card is a linked list, rather than that the collection of cards forms a linked list. Maybe "linked list proof method" or something is better?
+
 ==Analysis==
 
 One thing I've been frustrated about recently is that when I add cards about different parts of proofs, I often can't quickly recall the statement/context of the proof, so then I'm stuck going "uhh..." or maybe I can quickly answer the card without recalling details of the proof (which is concerning in itself). It's like, these proof cards are too costly to recall and yet I'd like to know about them. Maybe one problem is that some of the proofs don't have names (e.g. one of them in Peter Smith's Goedel book is an incompleteness result that doesn't have a name, or the one from Stillwell's reverse math book about infinite binary trees). If I had a name for proofs, then I might be able to use that as a "central node" that can go off to all the other cards (including a statement of the proof).
