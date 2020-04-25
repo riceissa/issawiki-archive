@@ -1,3 +1,7 @@
 one of the great things about proof cards is that when you prove something after months of not seeing it, you sometimes come up with a novel proof! this happened with one of my group theory proofs, to prove that a nonempty subset of a finite group that is closed under multiplication is a subgroup. the proof walkthrough in pinter's book does an artificial bijection type thing, whereas i found it much more natural to consider the sequence x, x^2, x^3, ... and then to show that it's closed under inverses. if i had just gone through the book on my own, i would have followed the walkthrough, forgotten pinter's trick, and i would have never found this more-natural-to-me proof!
 
+==See also==
+
+* [[Spaced proof review as a way to understand key insights in a proof]]
+
 [[Category:Anki]]
