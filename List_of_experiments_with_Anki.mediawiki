@@ -36,5 +36,9 @@ On this page, I want to keep a list of experiments that I have tried or am curre
 | [[Reverse side card for everything]]
 |}
 
+==See also==
+
+* [[Iteration cadence for spaced repetition experiments]]
+
 [[Category:Spaced repetition]]
 [[Category:Anki]]
