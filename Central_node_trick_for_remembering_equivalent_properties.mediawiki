@@ -1,0 +1,9 @@
+a way to memorize characterizations/equivalent properties in math — make them ''all'' related to a single "canonical" property, then make sure you know how to bridge the gap (in both directions) between each property and the canonical one. e.g. see the equivalent properties for injectivity and surjectivity in linear algebra. i use "injective" and "surjective" as the canonical property in each case, and make sure i can go from e.g. trivial null space to/from injective, and so on.
+
+from a strictly mathematical perspective, this is less efficient than a "round robin" style proof (where you go in a circle showing A implies B, B implies C, C implies D, D implies A). But memory-wise, having a central node seems to help. so if A is central, you have A<->B, A<->C, A<->D.
+
+this still won't let you list all the properties, but i think knowing the "why"s/reasoning behind each will just make it a part of you.
+
+==External links==
+
+* This reminds me of Network 2 in [https://www.lesswrong.com/posts/yA4gF5KrboK2m2Xu7/how-an-algorithm-feels-from-inside How an algorithm feels from inside]
