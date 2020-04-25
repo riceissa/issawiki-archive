@@ -1,3 +1,5 @@
 does anki distort the "true frequency" of a piece of knowledge? because all cards are reviewed in the same way (uses the same spacing algorithm), you see "less useful" pieces of knowledge come up as frequently as more useful ones. so your mind might mistakenly make the inference that these less useful pieces of knowledge "come up naturally" more frequently than they actually do.
 
 In language learning at least, this seems to happen: matt vs japan youtube channel has one video where the word shokumotsu becomes available to the mind more readily than it should. I actually think I wrote the previous para in my notes before I saw this video, but i'm not totally sure.
+
+[[Category:Spaced repetition]]
