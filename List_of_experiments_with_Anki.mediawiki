@@ -29,3 +29,6 @@ On this page, I want to keep a list of experiments that I have tried or am curre
 |-
 | entering in cards for some definitions/theorems in a single card, and for some as multiple cards, and seeing which are more fun to review/result in remembering things better || ||
 |}
+
+[[Category:Spaced repetition]]
+[[Category:Anki]]
