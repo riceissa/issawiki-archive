@@ -1,0 +1,3 @@
+'''Incremental reading in Anki''' is not supported by default. There are some plugins for it, but I haven't tried them. My own approach is to add read-only cards (i.e. cards that have only a front side) and tinker with the deck options so that doing the reviews is not annoying.
+
+[[Category:Anki]]
