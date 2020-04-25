@@ -4,4 +4,4 @@ one of the great things about proof cards is that when you prove something after
 
 * [[Spaced proof review as a way to understand key insights in a proof]]
 
-[[Category:Anki]]
+[[Category:Spaced repetition]]
