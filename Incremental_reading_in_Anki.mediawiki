@@ -1,3 +1,13 @@
 '''Incremental reading in Anki''' is not supported by default. There are some plugins for it, but I haven't tried them. My own approach is to add read-only cards (i.e. cards that have only a front side) and tinker with the deck options so that doing the reviews is not annoying.
 
+==My deck options==
+
+As of 2020-04-24, here are my deck options for my incremental reading deck:
+
+
+
+==Analysis==
+
+Incremental reading provides feeling of emotional safety (which is something that [[Anki]] does in general, but where I think incremental reading does particularly well): it's like "now i won't forget this insightful quote, because i'll be reminded of it in the future. if i stop liking it, i can always remove it from the deck later". you might feel guilty about reading random articles online, especially if you realize that you hardly remember anything from them. and making regular anki cards is hard; you have to phrase the prompts in a particular way to make the card worth reviewing (it's highly non-trivial to write good Anki cards!). if the insight in the article isn't so great, you don't want to keep seeing it over the next few days. My version of incremental reading fixes both of these problems: it's easy to make the cards -- you just stick in the quote and a citation, and i've changed the deck settings so that the next review comes only about a month into the future. i don't feel pestered by either the card-creation process or the review process.
+
 [[Category:Anki]]
