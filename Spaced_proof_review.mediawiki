@@ -1,6 +1,6 @@
 '''Spaced proof review''' is the general idea of trying to memorize/deeply understand a theorem using [[spaced repetition]]. This is currently one of my main interests with spaced repetition and with learning in general.
 
-I also want to use this term to mean that particular method of proof review I've settled on? which involves adding the theorem statement on front, then proof solution on back.
+I also want to use this term to mean that particular method of proof review I've settled on? which involves adding the theorem statement on front, then proof solution on back (plus a whole bunch of subtleties about deck options, how to grade yourself, [[Anki deck philosophy|how to split things by deck]], etc).
 
 ==Analysis==
 
