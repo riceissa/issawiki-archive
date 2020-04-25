@@ -1,6 +1,10 @@
 '''Spaced proof review''' is the general idea of trying to memorize/deeply understand a theorem using [[spaced repetition]]. This is currently one of my main interests with spaced repetition and with learning in general.
 
+I also want to use this term to mean that particular method of proof review I've settled on? which involves adding the theorem statement on front, then proof solution on back.
+
 ==Analysis==
+
+when does a problem deck not work? e.g. i'm worried that this style only works for things like real analysis where there are relatively simple theorems you can prove. what about something like belief propagation, where the "meat" of the content is in a long derivation of the algorithm/formula? and also i'm still not sure about things like godel's first incompleteness theorem: you can put in the diagonalization lemma, but what about all the tedious arithmetization work, which is different in every single textbook? do i just pick one and really internalize it? or should i just forget about internalizing it?
 
 one of the mistakes i made earlier is to add theorems from books that i hadn't fully processed. this meant that when it came up in the deck, i had more work to do then. but now i think it's better to do all the work when first making the card. then you know that everything in the deck is something you've deeply processed. there is a kind of relief, rather than a slight panic/dread of "oh boy, is this the day when i'll get that horrible card?" i also now think that putting the full solution on the card, rather than just a reference to a textbook or web page, is better. it keeps everything self-contained, so when you're reviewing there is less work to do. in general, the idea to make reviewing fun.
 
