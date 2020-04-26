@@ -59,3 +59,5 @@ https://www.econlib.org/archives/2017/12/whats_my_core_m.html/#comment-174163 --
 ==References==
 
 <references/>
+
+[[Category:AI safety]]
