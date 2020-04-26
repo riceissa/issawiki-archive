@@ -147,3 +147,5 @@ list of links to go through (cleaning out chrome tabs):
 * https://lw2.issarice.com/search.php?q=human+safety+problems
 * https://lw2.issarice.com/posts/ZeE7EKHTFMBs8eMxn/clarifying-ai-alignment#QxouKWsKHiHRMKyQB
 * http://www.overcomingbias.com/2016/03/how-different-agi-software.html
+
+[[Category:AI safety]]
