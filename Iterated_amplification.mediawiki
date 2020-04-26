@@ -36,3 +36,4 @@ Terminology (not necessarily about IDA, but these are some terms frequently used
 * [[My understanding of how IDA works]]
 
 [[Category:Iterated amplification]]
+[[Category:AI safety]]
