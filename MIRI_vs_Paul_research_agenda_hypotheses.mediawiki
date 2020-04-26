@@ -43,3 +43,5 @@ So it looks like each of [[Eliezer]]'s criticisms of [[IDA]] can mostly be seen 
 ==References==
 
 <references/>
+
+[[Category:AI safety]]
