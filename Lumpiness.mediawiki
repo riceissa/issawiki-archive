@@ -1,3 +1,5 @@
 '''Lumpiness''' is a term that's often used by [[Robin Hanson]] to describe things like innovation, secrets, AI progress, citations. I'm not sure if he came up with this term.
 
+The general idea is something like, if something is "lumpy" then there are a few things that really matter, rather than a bunch of small things that add up.
+
 [[Category:AI safety]]
