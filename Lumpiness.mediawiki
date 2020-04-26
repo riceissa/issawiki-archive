@@ -6,4 +6,6 @@ The general idea is something like, if something is "lumpy" then there are a few
 
 "Operating revenues and expenses can be smooth or lumpy. A smooth revenue or expense is evenly and reliably spaced out over time. Smooth revenues include interest earned on investments and perhaps fee income, while smooth expenses include wages, rent, insurance, utilities, and so on. In contrast a lumpy revenue or expense is not evenly spaced out over time. Lumpy revenues include government grants and large donations while lumpy expenses include property taxes. If one were to classify all non-profit revenues and expenses as smooth or lumpy one would quickly find that most revenues are lumpy while most expenses are smooth." [https://books.google.com/books?id=Bi1QKmL4k1MC&pg=PA248&lpg=PA248#v=onepage&q&f=false]
 
+==In Robin Hanson's writings==
+
 [[Category:AI safety]]
