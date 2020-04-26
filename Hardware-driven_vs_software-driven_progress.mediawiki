@@ -6,3 +6,5 @@ https://aiimpacts.org/how-ai-timelines-are-estimated/
 
 * [[Secret sauce for intelligence]]
 * [[Simple core of consequentialist reasoning]]
+
+[[Category:AI safety]]
