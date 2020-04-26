@@ -11,3 +11,5 @@ People in [[AI safety]] tend to [[List of disagreements in AI safety|disagree ab
 see also "Background AI safety intuitions" section in [https://agentfoundations.org/item?id=1129]
 
 one operationalization might be something like: what are the things relevant to AI safety that all of [[Eliezer Yudkowsky]], [[Paul Christiano]], [[Robin Hanson]], [[Rohin Shah]], [[Dario Amodei]], and [[Wei Dai]] agree on?
+
+[[Category:AI safety]]
