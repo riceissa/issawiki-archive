@@ -44,3 +44,4 @@ Related confusion: Paul says after the first round of IDA, the AI is superhuman 
 <references/>
 
 [[Category:Iterated amplification]]
+[[Category:AI safety]]
