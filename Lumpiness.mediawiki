@@ -1,0 +1,3 @@
+'''Lumpiness''' is a term that's often used by [[Robin Hanson]] to describe things like innovation, secrets, AI progress, citations. I'm not sure if he came up with this term.
+
+[[Category:AI safety]]
