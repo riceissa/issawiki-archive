@@ -12,4 +12,4 @@ something-like-realism-about-rationality, e.g. "Is there a theory of rationality
 
 <references/>
 
-[[Categories:AI safety]]
+[[Category:AI safety]]
