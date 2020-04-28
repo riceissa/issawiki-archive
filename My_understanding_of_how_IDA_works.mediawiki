@@ -41,6 +41,8 @@ Related confusion: Paul says after the first round of IDA, the AI is superhuman 
 
 so evans paper does say "More precisely: it is infeasible to provide large numbers of demonstrations or sufficiently dense reward signals for methods like imitation learning or RL to work well."
 
+if we break down tasks in T_n, will they really be in T_{n-1}? by default i sort of expect that the task will be broken down in such a way that one of the pieces basically contains all of the difficulty, and that that piece will be just as difficult as the original problem. ok so then what happens if you try to break apart ''that'' piece into further pieces? i'm not sure. maybe once you keep doing this, you get to a point where you can't break it down further, or the ''act of breaking things down'' itself requires high intelligence (so you can't just learn this from humans).
+
 ==References==
 
 <references/>
