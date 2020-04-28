@@ -3,6 +3,7 @@ when making claims about AGI like "how much compute will AGI use?" or "will AGI 
 * claims about the first AGI that will probably appear
 * claims about the most likely AGI after it has existed for a while
 * claims about an ideal aligned AGI
+* claims about an AGI built using machine learning
 * claims about a theoretically possible "optimal" AGI
 * claims about an AGI that is likely to appear under some given assumptions
 
