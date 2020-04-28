@@ -8,7 +8,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 ! data-sort-type=number | Wives
 ! Sources
 |-
-| Jonathan Blow || 0 || 0 || 0 || 0? ||
+| Jonathan Blow || 0 || 0 || 0 || 0? || <ref>https://www.youtube.com/watch?v=ECwHZlvvVH4&t=34m13s</ref>
 |-
 | Andrey Kolmogorov || 0 || 0 || 0 || 1 || <ref>http://www.scholarpedia.org/article/Andrey_Nikolaevich_Kolmogorov "In 1942 Kolmogorov married Anna Dmitriyevna Egorov. He did not have children of his own."</ref>
 |-
