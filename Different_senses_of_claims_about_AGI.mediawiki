@@ -1,8 +1,10 @@
 when making claims about AGI like "how much compute will AGI use?" or "will AGI be clean or messy?" there are several senses/scenarios of AGI we could be talking about: 
 
 * claims about the first AGI that will probably appear
+* claims about the most likely AGI after it has existed for a while
 * claims about an ideal aligned AGI
 * claims about a theoretically possible "optimal" AGI
+* claims about an AGI that is likely to appear under some given assumptions
 
 an example is [https://agentfoundations.org/item?id=1228 this comment] by [[Nate]]: "Indeed, if I thought one ''had'' to understand good consequentialist reasoning in order to design a highly capable AI system, I’d be less worried by a decent margin." the general MIRI view that you can get to the first AGI without really understanding anything, whereas to get an aligned AGI you do need to understand things.
 
