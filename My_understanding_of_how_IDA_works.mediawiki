@@ -39,6 +39,8 @@ I guess another thing I don't really understand: eventually, the distillation tr
 
 Related confusion: Paul says after the first round of IDA, the AI is superhuman in some ways and infrahuman in other ways. So there must be something that the AI ''can't'' learn to do from supervised learning by looking at human examples. OTOH, it can eventually learn to do everything humans can by looking at a sufficiently amplified system's examples. So what is the difference here? Why does having access to the amplified system's examples allow it to do things it couldn't from human examples alone?
 
+so evans paper does say "More precisely: it is infeasible to provide large numbers of demonstrations or sufficiently dense reward signals for methods like imitation learning or RL to work well."
+
 ==References==
 
 <references/>
