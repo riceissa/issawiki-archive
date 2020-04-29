@@ -43,7 +43,7 @@ if we break down tasks in T_n, will they really be in T_{n-1}? by default i sort
 
 also wouldn't learning the "breaking down" process itself require too many samples?
 
-ok i think i've identified the most important and most confusing difference between evans paper vs paul's/ajeya's explanations: in the paul version, the amplified system has a human stuck in it, so it makes it seem like you can't produce many samples/examples for the supervised learning to do its job. but in the evans paper, you learn all the decompositions ''beforehand'', so the amplified system is itself completely automatic.
+ok i think i've identified the most important and most confusing difference between evans paper vs paul's/ajeya's explanations: in the paul version, the amplified system has a human stuck in it, so it makes it seem like you can't produce many samples/examples for the supervised learning to do its job. but in the evans paper, you learn all the decompositions ''beforehand'', so the amplified system is itself completely automatic. So then my question becomes something like, if the number of samples is the problem, then why does paul/ajeya explain it like they do?
 
 ==References==
 
