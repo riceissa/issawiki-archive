@@ -5,3 +5,5 @@ What is meant by terms like "mental architecture", "cognitive architecture", the
 is the difference between humans and chimpanzees mostly about architecture or content? there's also the question of humans now vs humans thousands of years ago, where it seems clear that the difference is culture/"content".
 
 "It seems to me for this particular argument to carry, it's not enough to say you need content. There has to be no master trick to learning or producing content." [https://docs.google.com/document/pub?id=17yLL7B7yRrhV3J9NuiVuac3hNmjeKTVHnqiEa6UQpJk]
+
+[[Category:AI safety]]
