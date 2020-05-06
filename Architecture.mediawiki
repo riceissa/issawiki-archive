@@ -10,6 +10,6 @@ is the difference between humans and chimpanzees mostly about architecture or co
 
 if progress happens via compute, is that architecture or content? if progress happens via larger/better datasets, is that architecture or content?
 
-if you come up with a simple learning algorithm that then has to spend a lot of time interacting with the world and using compute, in order to become smart, is that architecture or content?
+if you come up with a simple learning algorithm that then has to spend a lot of time interacting with the world and using compute, in order to become smart, is that architecture or content? I feel like we need to distinguish the "top level" algorithm from the "secondary level/discovered-by-top-level" algorithm.
 
 [[Category:AI safety]]
