@@ -8,6 +8,13 @@ The general idea is something like, if something is "lumpy" then there are a few
 
 It's not clear to me how uneven a distribution must get before it gets calls "lumpy". For example, is a normal distribution lumpy, or must it be thick-tailed? is any non-uniform distribution lumpy? etc.
 
+I don't think lack of lumpiness implies a continuous takeoff. I can imagine two kinds of "lack of lumpiness":
+
+* you need lots of small insights/"content"/improvements, and each one makes your AI a little bit better
+* you need lots of small insights/"content"/improvements, but your AI doesn't really get much better most of the time. A small number of times (maybe once), there are "thresholds" and when you cross a threshold, it's like adding a missing gear and your AI suddenly gets much better.
+
+The first case seems to be what Robin Hanson imagines. Have people talked about the second case? In the second case, I think you ''do'' get a discontinuity even if insights are not lumpy.
+
 ==In Robin Hanson's writings==
 
 [[Category:AI safety]]
