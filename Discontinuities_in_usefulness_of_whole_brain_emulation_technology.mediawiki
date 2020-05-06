@@ -4,6 +4,8 @@ Even [[Robin Hanson]] admits that whole brain emulations would result in a foom-
 
 Robin: Exactly."""<ref>https://docs.google.com/document/pub?id=17yLL7B7yRrhV3J9NuiVuac3hNmjeKTVHnqiEa6UQpJk</ref>
 
+Now I'm curious if [[Paul]] would also take this position wrt WBE. because it seems like the general argument of "before someone makes a good version of a thing, they make a crappy version of it" would also apply to WBE?
+
 ==See also==
 
 * [[Counterfactual of dropping a seed AI into a world without other capable AI]]
