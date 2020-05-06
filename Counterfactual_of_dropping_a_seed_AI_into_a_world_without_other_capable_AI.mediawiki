@@ -5,3 +5,9 @@
 "When we build AGI we will be optimizing the chimp-equivalent-AI for usefulness, and it will look nothing like an actual chimp (in fact it would almost certainly be enough to get a decisive strategic advantage if introduced to the world of 2018)." [https://www.greaterwrong.com/posts/AfGmsjGPXN97kNp57/arguments-about-fast-takeoff]
 
 [[Eliezer]]: "I'm not sure to what degree you think it's likely, but you do seem to be conceding much more probability that there is, in principle, some program where if it was magically transmitted to us, we could take a modern day large computing cluster and turn it into something that could generate what you call content a million times faster." "In other words, the question, I'm trying to separate out the question of, "How dumb is this thing, [points to head] how much smarter can you build an agent, if that agent were teleported into today's world, could it take over?" versus the question of "Who develops it, in what order, and were they all trading insights or was it more like a modern-day financial firm where you don't show your competitors your key insights, and so on, or, for that matter, modern artificial intelligence programs?"" [https://docs.google.com/document/pub?id=17yLL7B7yRrhV3J9NuiVuac3hNmjeKTVHnqiEa6UQpJk]
+
+==See also==
+
+* [[Discontinuities in whole brain emulation technology]]
+
+[[Category:AI safety]]
