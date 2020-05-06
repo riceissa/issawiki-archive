@@ -1,0 +1,11 @@
+Even [[Robin Hanson]] admits that whole brain emulations would result in a foom-ish/local outcome:
+
+"""Eliezer: Right. So, in other words, we get a centralized economic shock, because there's a curve here that has a little step function in it. If I can step back and describe what you're describing on a higher level of abstraction, you have emulation technology that is being developed all over the world, but there's this very sharp threshold in how well the resulting emulation runs as a function of how good your emulation technology is. The output of the emulation experiences a sharp threshold.
+
+Robin: Exactly."""<ref>https://docs.google.com/document/pub?id=17yLL7B7yRrhV3J9NuiVuac3hNmjeKTVHnqiEa6UQpJk</ref>
+
+==References==
+
+<references/>
+
+[[Category:AI safety]]
