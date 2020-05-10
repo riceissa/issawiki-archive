@@ -3,3 +3,5 @@ The '''spoiler test of depth''' states that if something can be "spoiled" by spo
 The spoiler test is distinct from the related question of whether one would like to hear spoilers before consuming a story.
 
 I notice that in math, I often want to be spoiled -- I want to understand something, and I want people to tell me the answers. That doesn't mean that I won't eventually try to re-derive everything from scratch.
+
+I started having thoughts along these lines because [[Jonathan Blow]] often mentions spoilers (especially when talking about The Witness), and how he doesn't want to spoil the game for people. I think I have a disagreement or a personality difference with him. The disagreement isn't whether enjoyment from playing the game will be diminished by reading analyses about the game and watching let's plays -- I think we both agree that doing that does diminish the enjoyment you get. Rather, the disagreement is about whether a game whose enjoyment can be diminished in such a way is even worth playing in the first place.
