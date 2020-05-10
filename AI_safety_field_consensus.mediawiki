@@ -7,6 +7,8 @@ People in [[AI safety]] tend to [[List of disagreements in AI safety|disagree ab
 * Goodhart problems i.e. awareness that [[Goodhart's law]] is a thing, and general attention/wariness of it
 * AGI possible in principle (as in, it is virtually certain that humans can create AGI)
 * advanced AI will have a huge impact on the world
+* [[Counterfactual of dropping a seed AI into a world without other capable AI]] (?) (even Robin Hanson agrees)
+* [[Discontinuities in usefulness of whole brain emulation technology]] (?) (even Robin Hanson agrees)
 
 see also "Background AI safety intuitions" section in [https://agentfoundations.org/item?id=1129]
 
