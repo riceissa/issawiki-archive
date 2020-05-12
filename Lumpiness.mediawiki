@@ -8,7 +8,7 @@ The general idea is something like, if something is "lumpy" then there are a few
 
 "The main reason that I understand to expect relatively local AI progress is if AI progress is unusually lumpy, i.e., arriving in unusually fewer larger packages rather than in the usual many smaller packages. If one AI team finds a big lump, it might jump way ahead of the other teams."<ref>http://www.overcomingbias.com/2018/03/how-deviant-recent-ai-progress-lumpiness.html</ref> -- I don't understand why hanson is saying that citations are not lumpy. Aren't power laws lumpy? actually maybe he's only saying that if AI progress is lumpy, then its citation patterns should be even lumpier than usual? But why should that be the case? wouldn't the foom argument hold even with typical lumpiness?
 
-more on citation lumpiness: https://youtu.be/pClSjljMKeA?t=4270
+more on citation lumpiness: https://youtu.be/pClSjljMKeA?t=4270 -- here he says most of the progress is driven by lots of little things.
 
 It's not clear to me how uneven a distribution must get before it gets calls "lumpy". For example, is a normal distribution lumpy, or must it be thick-tailed? is any non-uniform distribution lumpy? etc.
 
