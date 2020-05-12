@@ -22,6 +22,7 @@ The first case seems to be what Robin Hanson imagines. Have people talked about 
 ==See also==
 
 * [[Secret sauce for intelligence]] -- talking about "lumpiness" is not quite the same thing as saying there's a secret sauce for intelligence, but it's pretty similar. Lumpiness seems more general (it's talking about the distribution of insights/progress).
+* [[Simple core of consequentialist reasoning]] -- lumpiness is also similar to this, but consequentialist reasoning is a subset of all AI capabilities.
 
 ==References==
 
