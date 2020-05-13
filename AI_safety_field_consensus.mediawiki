@@ -9,6 +9,13 @@ People in [[AI safety]] tend to [[List of disagreements in AI safety|disagree ab
 * advanced AI will have a huge impact on the world
 * [[Counterfactual of dropping a seed AI into a world without other capable AI]] (?) (even Robin Hanson agrees)
 * [[Discontinuities in usefulness of whole brain emulation technology]] (?) (even Robin Hanson agrees)
+* from https://intelligence.org/files/AIFoomDebate.pdf#page=517
+** "Machine intelligence would be a development of almost unprecedented impact and risk, well worth considering now."
+** "Feasible approaches include direct hand-coding, based on a few big and lots of little insights, and on emulations of real human brains."
+** "Machine intelligence will, more likely than not, appear within a century, even if the progress rate to date does not strongly suggest the next few decades."
+** "Math and deep insights (especially probability) can be powerful relative to trend fitting and crude analogies."
+** "Long-term historical trends are suggestive of future events, but not strongly so."
+** "Some should be thinking about how to create “friendly” machine intelligences."
 
 see also "Background AI safety intuitions" section in [https://agentfoundations.org/item?id=1129]
 
