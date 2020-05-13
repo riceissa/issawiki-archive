@@ -14,6 +14,8 @@ synonyms? "mental architecture", "cognitive architecture", the "architecture of 
 
 "Hanson says that an effective AI system cannot just be created by building the right architecture and feeding it a lot of raw data; it also needs a considerable amount of content to make sense of it." [https://intelligence.org/files/AIFoomDebate.pdf#page=559] -- Right, the key question is quantitative: exactly how much initial content (in bytes or some other unit of measure of content) is required?
 
+"Hanson replies that, in addition to good architecture, a human baby also has large amounts of genetically encoded content about the kind of information to pay attention to, and human babies are also explicitly taught." [https://intelligence.org/files/AIFoomDebate.pdf#page=560] -- How big does Hanson think the genetic content of the human brain is?
+
 is the difference between humans and chimpanzees mostly about architecture or content? there's also the question of humans now vs humans thousands of years ago, where it seems clear that the difference is culture/"content".
 
 if progress happens via compute, is that architecture or content? if progress happens via larger/better datasets, is that architecture or content?
