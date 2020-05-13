@@ -12,7 +12,7 @@ synonyms? "mental architecture", "cognitive architecture", the "architecture of 
 
 "There are things like databases of stored games of chess, usable with chess-playing programs, but that is not the same as having databases of actual cognitive content." [https://intelligence.org/files/AIFoomDebate.pdf#page=557] -- So it looks like "content" refers only to knowledge that's hard-coded in, rather than what is learned during training.
 
-"Hanson says that an effective AI system cannot just be created by building the right architecture and feeding it a lot of raw data; it also needs a considerable amount of content to make sense of it." [https://intelligence.org/files/AIFoomDebate.pdf#page=559] -- Right, the key question is quantitative: exactly how much initial content is required?
+"Hanson says that an effective AI system cannot just be created by building the right architecture and feeding it a lot of raw data; it also needs a considerable amount of content to make sense of it." [https://intelligence.org/files/AIFoomDebate.pdf#page=559] -- Right, the key question is quantitative: exactly how much initial content (in bytes or some other unit of measure of content) is required?
 
 is the difference between humans and chimpanzees mostly about architecture or content? there's also the question of humans now vs humans thousands of years ago, where it seems clear that the difference is culture/"content".
 
