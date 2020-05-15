@@ -1,4 +1,4 @@
-[[Spaced proof review]] takes a lot of effort to implement even if done correctly. One of the mistakes one can make is to choose problems which aren't worth solving over and over.
+[[Spaced proof review]] takes a lot of effort to implement even if done correctly. One of the mistakes one can make is to choose problems which aren't worth solving over and over. (By "problems", I mean math problems, i.e. the exercise or theorem statement or whatever.)
 
 Properties of good problems:
 
