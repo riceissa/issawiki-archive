@@ -15,6 +15,7 @@ Properties of bad problems:
 
 ==See also==
 
+* [[Dealing with bad problems in spaced proof review]]
 * [[Spaced proof review routine]]
 
 [[Category:Spaced repetition]]
