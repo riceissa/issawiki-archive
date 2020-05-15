@@ -1,0 +1,8 @@
+(there must be a better term for this...)
+
+* Some math books are good at putting things like "(why?)" to mark non-trivial inferential steps. This is comforting especially at an introductory level, because otherwise the learner has a slight panicky moment like "wait, am I supposed to be able to see this without any effort?"
+* Some video explanations say things like "I encourage you to pause the video and ponder this before continuing".
+
+These are both examples of "managing micro-movements"; they tell the learner how to do something on a 5-30 second level, instead of "macro-movements" like giving the learner an exercise or a whole chapter to read.
+
+[[Category:Learning]]
