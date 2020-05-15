@@ -11,6 +11,7 @@ Easy/fun problems are good for helping you build up and keeping the habit of spa
 Properties of bad problems:
 
 * There's a lot of fiddly details that are challenging to get right on the spot.
+* Problems which give you a sense of dread or some sort of "ugh" reaction.
 
 ==See also==
 
