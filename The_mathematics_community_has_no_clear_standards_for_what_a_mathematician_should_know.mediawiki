@@ -1,0 +1,5 @@
+mathematicians suck at communicating the differences between (1) stuff you should work through in detail once, but then forget about it later; (2) stuff you should know super well, to the point where you can basically recall all of the details on demand, or at least recall all of the main ideas and then work out the details on demand; (3) stuff you should know the theorem statements/results of, but where you don't even need to work through the proofs in detail, as long as you get the main idea.
+
+It would be cool if there was a survey done to mathematicians, where we could test which pieces of math they knew well on-demand and which ones they didn't know.
+
+something i'm interested in: how to decide how deeply to understand a piece of math. if i'm learning something, how can i better decide whether to ankify or which parts to? this is inevitably a personal question that depends on what your objectives are, but i'd be interested in some "mainline" responses, like, if i'm trying to become a math researcher, how well should i understand analysis/linear algebra/etc? this is a question many people would ask, i think.
