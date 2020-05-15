@@ -9,4 +9,4 @@ in other words (simplifying this to a single rule now), you should split decks b
 i now have three "math problems" decks. the first is the original one, which i stopped using because of the stupid 160% default easy factor, and which now has 74 due cards. the second deck is the place where i moved all the new cards to, so that i could start going through the backlog of new cards i made. this one is working fine i guess — no big problems so far. the third deck is to address the fact that i want to add new cards even now, but if i add them in deck 2, then i'll be reviewing them in like five months or whatever, which seems a little too far off. so i'd like to add new problem cards, do a "fake review" or something (since they are so fresh in my mind, i don't really need to re-solve the problem), and then have them come back in one month or so.
 
 
-[[Category:Anki]]
+[[Category:Spaced repetition]]
