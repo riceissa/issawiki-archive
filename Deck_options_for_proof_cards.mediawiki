@@ -1,0 +1,34 @@
+Here are my deck options (as of 2020-05-14) for my proof cards decks.
+
+New Cards:
+
+* Steps: 960
+* Order: Show new cards in order added
+* New cards/day: 1
+* Graduating interval: 30 days
+* Easy interval: 45 days
+* Starting ease: 250%
+* Bury related new cards until the next day: yes
+
+Reviews:
+
+* Maximum reviews/day: 100
+* Easy bonus: 130%
+* Interval modifier: 100%
+* Maximum interval: 36500 days
+* Bury related reviews until the next day: yes
+
+Lapses:
+
+* Steps: (blank)
+* New interval: 90%
+* Minimum interval: 30 days
+* Leech threshold: 8 lapses
+* Leech action; Suspend Card
+
+General:
+
+* Ignore answer times longer than 3600 seconds
+* Show answer timer: yes
+* Automatically play audio: yes
+* Always include question side when replaying audio: yes
