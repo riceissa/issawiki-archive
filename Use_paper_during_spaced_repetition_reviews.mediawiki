@@ -5,6 +5,6 @@ People like to talk about how they review their [[Anki]] cards while waiting in 
 
 I don't write the answer down for all (or even most) of my cards. For cards where the response is verbal (like a couple of English words) there is usually no reason to write it down (unless you're practicing spelling).
 
-I think at least the AnkiDroid app has an ability to draw on the screen while reviewing, but I remember not liking it (I haven't used the app in a while so I don't remember the details).
+I think at least the AnkiDroid app has an ability to draw on the screen while reviewing, but I remember not liking it (I haven't used the app in a while so I don't remember the details). For cards where the response is an image, I can't really write the answer down (I just form a vague mental image).
 
 [[Category:Spaced repetition]]
