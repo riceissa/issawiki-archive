@@ -2,6 +2,8 @@
 
 ==Recognizing bad problems==
 
+* problems that give you an "ugh" feeling are probably bad
+
 ==Dealing with bad problems==
 
 * bury it
