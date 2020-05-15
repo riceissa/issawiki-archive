@@ -1,5 +1,5 @@
-An '''empty review''' or '''fake review''' is a review of a card in [[Anki]] where you just press "Good" without thinking it through. This is most useful when reviewing [[big card]]s -- there, you might have just spent a lot of time making the card in the first place, so immediately doing a review is not helpful.
+An '''empty review''' or '''fake review''' is a review of a card in [[Anki]] where you just press "Good" without thinking it through.
 
-Empty reviews only make sense when the [[graduating interval]] is large enough.
+This is most useful when reviewing newly-created [[big card]]s -- there, you might have just spent a lot of time making the card in the first place, so immediately doing a review is not helpful. In this case, the empty review only makes sense when the [[graduating interval]] is large enough.
 
 [[Category:Spaced repetition]]
