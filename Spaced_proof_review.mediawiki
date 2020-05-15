@@ -29,6 +29,7 @@ one of the mistakes i made earlier is to add theorems from books that i hadn't f
 
 ==See also==
 
+* [[Deck options for proof cards]]
 * [[Spaced proof review as a way to invent novel proofs]]
 * [[Spaced proof review as a way to understand key insights in a proof]]
 * [[Linked list proof card]] -- this is sort of the opposite of the "spaced proof review" method
