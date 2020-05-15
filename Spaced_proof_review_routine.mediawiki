@@ -2,7 +2,7 @@ Here are the basic steps I take for [[spaced proof review]].
 
 For each proof/exercise:
 
-# Do the proof for the first time. This isn't any different from what people normally do when solving exercises out of a book, or when reading a proof in a book. You just read it or do it on a piece of paper.
+# Do the proof for the first time. This isn't any different from what people normally do when solving exercises out of a book, or when reading a proof in a book. You just read it or do it on a piece of paper. It's important to [[add the complete proof on proof cards to reduce friction when reviewing]].
 # Write up the proof as an [[Anki]] card.
 # [[Do an empty review of proof cards immediately after adding to prevent backlog]]
 
