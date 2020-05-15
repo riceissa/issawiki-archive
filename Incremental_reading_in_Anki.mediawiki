@@ -39,8 +39,12 @@ General:
 
 ==Analysis==
 
+before I had incremental reading: "Something i'm still not sure about is how to use anki with random stuff i'm reading. e.g. i just read https://en.wikipedia.org/wiki/Intertwingularity after looking up project xanadu (because bryan caplan mentioned something like it in holly's podcast). but like, how would i store this in anki? i guess i could recall the name for it. or go from name to basic idea."
+
 Incremental reading provides feeling of emotional safety (which is something that [[Anki]] does in general, but where I think incremental reading does particularly well): it's like "now i won't forget this insightful quote, because i'll be reminded of it in the future. if i stop liking it, i can always remove it from the deck later". you might feel guilty about reading random articles online, especially if you realize that you hardly remember anything from them. and making regular anki cards is hard; you have to phrase the prompts in a particular way to make the card worth reviewing (it's highly non-trivial to write good Anki cards!). if the insight in the article isn't so great, you don't want to keep seeing it over the next few days. My version of incremental reading fixes both of these problems: it's easy to make the cards -- you just stick in the quote and a citation, and i've changed the deck settings so that the next review comes only about a month into the future. i don't feel pestered by either the card-creation process or the review process.
 
 I particularly like adding things that I don't quite understand into the incremental reading deck (see how we're breaking all the rules? the cards are super long, you don't do any active recall, and you're "memorizing" before you understand!), so that in a few years (after repeatedly getting shown the card + extra learning about the world) I will finally be able to understand/appreciate this wisdom.
+
+The most important insight here is that you often ''don't'' know if something is important enough to go into spaced repetition. So the idea is to ''create an extra level of indirection'' by making that decision itself be on a spaced repetition schedule! That's what incremental reading is about. (credit goes to Master How to Learn guy for making me realize this)
 
 [[Category:Anki]]
