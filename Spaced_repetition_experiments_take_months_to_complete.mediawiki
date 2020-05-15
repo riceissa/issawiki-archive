@@ -1,6 +1,6 @@
 By the very nature of spaced repetition, any experiment that tries to test some aspect of it will take months to complete. This is because in order to see how much you remember something, you need to wait for long enough to have forgotten it (if not for some intervention).
 
-This presents a challenge for those wishing to significantly improve their spaced repetition ability. To see if a change improves you ability to recall something, or to test out some new cool idea, you have to wait for several months to see if it worked.
+This slow feedback cycle presents a challenge for those wishing to significantly improve their spaced repetition ability. To see if a change improves your ability to recall something, or to test out some new cool idea, you have to wait for several months to see if it worked.
 
 This is also one of the things that makes academic work on spaced repetition not very useful. Most of them do very short-term reviews.
 
