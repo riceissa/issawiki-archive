@@ -10,5 +10,6 @@ Each day:
 
 # Review all cards that are due (sometimes, if there's too many new cards, I will try to do some of them and leave the rest to the following day. There's a lot of variance in number of due cards per day because of the way Anki works.) When reviewing, I use actual paper and pencil, and write down the proof on paper. I use scratch paper that I throw away when I'm done reviewing. (Any new insight I get when reviewing should be added to the back side of the card or in some other long-term notes)
 # If a proof I write down when reviewing is not the proof that's on the card, I take a moment to reflect on whether the new proof is correct. If it is, I write it up and add it to the back side of the card. (See [[spaced proof review as a way to invent novel proofs]])
+# When scoring, I usually only use "Again" and "Good" (i.e. no "Easy" or "Hard").
 
 [[Category:Spaced repetition]]
