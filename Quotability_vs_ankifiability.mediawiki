@@ -4,4 +4,8 @@ Something is '''ankifiable''' if it is easy to turn into an [[Anki]] card. As so
 
 It seems to me that quotable things and ankifiable things both have the property of ''locality'': the punch is packed into a small part of the text, which you can "clip out" into an atomic insight.
 
+==See also==
+
+* [[Discursive texts are difficult to ankify]]
+
 [[Category:Spaced repetition]]
