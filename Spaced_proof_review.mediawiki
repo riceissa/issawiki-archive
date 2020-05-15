@@ -33,6 +33,7 @@ thought about henkin proof: i entered in some cards related to it a long time ag
 * [[Do an empty review of proof cards immediately after adding to prevent backlog]]
 * [[Spaced proof review routine]]
 * [[Spaced proof review is not about memorizing proofs]]
+* [[Choosing problems for spaced proof review]]
 * [[Spaced proof review as a way to invent novel proofs]]
 * [[Spaced proof review as a way to understand key insights in a proof]]
 * For my spaced proof review, I make sure to [[Use paper during spaced repetition reviews|use paper]]
