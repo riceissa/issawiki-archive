@@ -1,1 +1,3 @@
 A '''big card''' is an [[Anki]] card that takes a long time to review (say, longer than 1 minute). This is in contrast to [[small card]]s which can be reviewed in a small amount of time (in seconds).
+
+[[Category:Spaced repetition]]
