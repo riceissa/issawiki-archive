@@ -2,10 +2,6 @@ Something is '''quotable''' if it is easy to make into a quote. As someone who h
 
 Something is '''ankifiable''' if it is easy to turn into an [[Anki]] card. As someone who aspires to virtuoso-level ability in using Anki, I've thought a lot about how to turn a piece of text (such as a math textbook or online essay) into an Anki card. Some texts are much more ankifiable than others.
 
-It seems to me that quotable things and ankifiable things both have the property of ''locality'': the punch is packed into a small part of the text, which you can "clip out" into an atomic insight.
-
-==See also==
-
-* [[Discursive texts are difficult to ankify]]
+It seems to me that quotable things and ankifiable things both have the property of ''locality'': the punch is packed into a small part of the text, which you can "clip out" into an atomic insight. When an insight is developed over time, such that there is no single sentence or paragraph that contains the insight (such as in a [[Discursive texts are difficult to ankify|discursive text]]), it is much more difficult to ankify.
 
 [[Category:Spaced repetition]]
