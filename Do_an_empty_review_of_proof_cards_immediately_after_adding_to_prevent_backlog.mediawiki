@@ -1,5 +1,5 @@
 Proof cards are [[big card|big]], so you probably have a limit to new cards per day (maybe 1-5). This means if you solve a bunch of exercises on a day, you can add more cards than your daily limit. This starts to create a backlog, and one problem is that once you have a huge backlog of new cards in a deck (I've had 30-70 new cards, so with 1 new card per day, it could take 2 months to get to the card before I review it for the first time), you start to forget what the old problems were even about.
 
-One trick to fixing this problem is to do an "empty review" immediately after adding the new proof card. You review the card and press "good" (without actually re-doing the proof). This means the card will show up again (as a review, rather than as a new/learning card) at the graduating interval (say, 1 month later).
+One trick to fixing this problem is to do an [[empty review]] immediately after adding the new proof card. You review the card and press "good" (without actually re-doing the proof). This means the card will show up again (as a review, rather than as a new/learning card) at the graduating interval (say, 1 month later).
 
 [[Category:Spaced repetition]]
