@@ -48,3 +48,4 @@ I particularly like adding things that I don't quite understand into the increme
 The most important insight here is that you often ''don't'' know if something is important enough to go into spaced repetition. So the idea is to ''create an extra level of indirection'' by making that decision itself be on a spaced repetition schedule! That's what incremental reading is about. (credit goes to Master How to Learn guy for making me realize this)
 
 [[Category:Anki]]
+[[Category:Spaced repetition]]
