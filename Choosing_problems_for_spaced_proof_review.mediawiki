@@ -1,0 +1,15 @@
+[[Spaced proof review]] takes a lot of effort to implement even if done correctly. One of the mistakes one can make is to choose problems which aren't worth solving over and over.
+
+Properties of good problems:
+
+* The problem is easy
+* The problem is "fun"
+* The problem is fundamental/important
+
+Easy/fun problems are good for helping you build up and keeping the habit of spaced proof review.
+
+Properties of bad problems:
+
+* There's a lot of fiddly details that are challenging to get right on the spot.
+
+[[Category:Spaced repetition]]
