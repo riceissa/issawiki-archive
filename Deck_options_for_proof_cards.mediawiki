@@ -32,3 +32,5 @@ General:
 * Show answer timer: yes
 * Automatically play audio: yes
 * Always include question side when replaying audio: yes
+
+[[Category:Spaced repetition]]
