@@ -12,4 +12,8 @@ Properties of bad problems:
 
 * There's a lot of fiddly details that are challenging to get right on the spot.
 
+==See also==
+
+* [[Spaced proof review routine]]
+
 [[Category:Spaced repetition]]
