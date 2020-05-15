@@ -33,4 +33,8 @@ General:
 * Automatically play audio: yes
 * Always include question side when replaying audio: yes
 
+==See also==
+
+* [[Spaced proof review routine]]
+
 [[Category:Spaced repetition]]
