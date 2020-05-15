@@ -1,0 +1,8 @@
+People like to talk about how they review their [[Anki]] cards while waiting in line or on their bus rides or whatever, but a core feature of how I review my Anki cards is to use a piece of scratch paper and pencil while doing my daily reviews. I think this helps for several reasons:
+
+* for certain subjects (e.g. kanji, math formulas), it can be tricky to mentally diff between your response and what's on the back side of the card -- as soon as you see the back side, your mental visualization of the answer starts to shift towards the answer. Writing down your answer keeps you honest.
+* while you're reviewing, if you come across anything that's not clear, you can write it down on the piece of paper and circle it, so that you can add new cards or fix old cards after the review session is over.
+
+I think at least the AnkiDroid app has an ability to draw on the screen while reviewing, but I remember not liking it (I haven't used the app in a while so I don't remember the details).
+
+[[Category:Spaced repetition]]
