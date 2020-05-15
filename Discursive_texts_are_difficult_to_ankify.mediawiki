@@ -1,0 +1,7 @@
+[https://learning.subwiki.org/wiki/Discursiveness_(explanations) Discursive]/meandering texts reference topics outside of the main one, going off in tangents. While this can make the text more engaging for the reader, it can also overload the reader's working memory.
+
+When it comes to [[Anki]], discursive texts are difficult to ankify because the insights are developed over time and there is often no summary.
+
+---
+
+one complaint i have about eliezer's essays, especially the dialogue-based ones: they're hard to ankify, because the knowledge isn't broken down into bite-sized chunks. He's aiming to create a "natural" progression of thoughts, but doesn't then go back and systematize things, so the reader is left with loose thoughts at the end.
