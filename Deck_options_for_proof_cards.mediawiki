@@ -33,6 +33,8 @@ General:
 * Automatically play audio: yes
 * Always include question side when replaying audio: yes
 
+Something I might do in the future is to make multiple deck options, because for some problems I am fine with only doing them at a much reduced frequency (say, ask me again in three months, then a year, and so on).
+
 ==See also==
 
 * [[Spaced proof review routine]]
