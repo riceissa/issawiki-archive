@@ -5,4 +5,6 @@
 
 These are both examples of "managing micro-movements"; they tell the learner how to do something on a 5-30 second level, instead of "macro-movements" like giving the learner an exercise or a whole chapter to read.
 
+I find that one of the things that makes me really like a learning resource is when they manage this micro-level well.
+
 [[Category:Learning]]
