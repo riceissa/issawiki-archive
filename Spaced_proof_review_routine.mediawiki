@@ -6,6 +6,8 @@ For each proof/exercise:
 # Write up the proof as an [[Anki]] card.
 # [[Do an empty review of proof cards immediately after adding to prevent backlog]]
 
+Which proofs/exercises do I add as cards? I tend to prefer simple exercises and important exercises. If an exercise involves a lot of tedious detail, I tend to skip it (I might start making cards that just ask for the main point/insight for these tedious exercises).
+
 Each day:
 
 # Review all cards that are due (sometimes, if there are too many due cards, I will try to do some of them and leave the rest to the following day. There's a lot of variance in number of due cards per day because of the way Anki works.) When reviewing, I use actual paper and pencil, and write down the proof on paper. I use scratch paper that I throw away when I'm done reviewing. (Any new insight I get when reviewing should be added to the back side of the card or in some other long-term notes) When scoring, I usually only use "Again" and "Good" (i.e. no "Easy" or "Hard").
