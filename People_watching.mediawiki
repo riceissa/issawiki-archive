@@ -21,6 +21,7 @@ what is the point of all of this?
 
 * there aren't many good people
 * there aren't many potential candidates of good people either -- so it's actually possible to map out the whole space given ~1,000 hours of work.
+* you will sometimes find that the people you eventually discover to be good are people you already encountered once or twice before and skipped over. this has happened for me with eliezer/LW in general, wei, carl, jonathan blow. you could maybe even count vipul too (if you count me checking groupprops when i was young and before i knew him). what does this mean? one thought is that there might be people you're missing out on that you skipped over. another is that there's actually this small core of good people, and because they're good you keep running into them (and eventually realizing how good they are).
 
 ==Techniques==
 
