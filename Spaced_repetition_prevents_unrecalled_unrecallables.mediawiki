@@ -3,7 +3,7 @@ In analogy with the known unknowns vs unknown unknowns distinction, we might dis
 * recalled unrecallables: things that you are aware you can't recall
 * unrecalled unrecallables: things you have so completely forgotten that you have forgotten even that you once knew the thing
 
-One way to think about [[Anki]] is as a tool to convert more of the latter things into the former.
+One way to think about [[Anki]] is as a tool to convert more of the latter things into the former (it's also a tool for converting recalled unrecallables into recallables!).
 
 I suspect part of the "feeling of safety" (that people experience when using Anki) is coming from this. It's scary to think that you don't even know you've forgotten something because it's so totally lost. At least if you're aware you've forgotten something, then you can just look it up. But for unrecalled unrecallables, you can't even look it up (you just have to aimlessly check through information that you consumed in the past).
 
