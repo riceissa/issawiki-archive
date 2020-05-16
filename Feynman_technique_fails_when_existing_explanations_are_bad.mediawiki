@@ -1,0 +1,3 @@
+The [https://learning.subwiki.org/wiki/Feynman_technique Feynman technique] is great when you really want to internalize something. But the technique has a problem when all existing explanations suck. In that case you can try to explain it yourself, but when you get stuck, there is nowhere to turn to.
+
+[[Category:Learning]]
