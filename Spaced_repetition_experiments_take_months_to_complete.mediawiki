@@ -4,4 +4,6 @@ This slow feedback cycle presents a challenge for those wishing to significantly
 
 This is also one of the things that makes academic work on spaced repetition not very useful. Most of them do very short-term reviews.
 
+people praise fast feedback loops, but one thing to realize with spaced repetition software like anki is that the feedback is spaced in a way. you can't tell if you're memorizing things well until it's like 5 months after you've added the card. or take my series test cards; i didn't realize the subtleties of requiring the sequence to be nonincreasing or nonnegative for different tests until a couple weeks after i'd added the cards -- before now, everything would sort of have been in my "fresh" mind. it's only after i've forgotten the context sufficiently that i can appreciate these subtle hypotheses in the theorem statements -- and only because i've added these as cards! makes you wonder, what subtleties am i missing by not adding something to anki and seeing ''in what manner'' i forget the details.
+
 [[Category:Spaced repetition]]
