@@ -17,6 +17,11 @@ generic, high-level strategy:
 
 what is the point of all of this?
 
+==Insights/red pills==
+
+* there aren't many good people
+* there aren't many potential candidates of good people either -- so it's actually possible to map out the whole space given ~1,000 hours of work.
+
 ==Techniques==
 
 * [[Parasitizing on popularity]]
