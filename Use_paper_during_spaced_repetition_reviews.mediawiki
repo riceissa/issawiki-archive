@@ -1,7 +1,7 @@
 People like to talk about how they review their [[Anki]] cards while waiting in line or on their bus rides or whatever, but a core feature of how I review my Anki cards is to use a piece of scratch paper and pencil while doing my daily reviews. I think this helps for several reasons:
 
 * for certain subjects (e.g. kanji, math formulas), it can be tricky to mentally diff between your response and what's on the back side of the card -- as soon as you see the back side, your mental visualization of the answer starts to shift towards the answer. Writing down your answer keeps you honest.
-* while you're reviewing, if you come across anything that's not clear, you can write it down on the piece of paper and circle it, so that you can add new cards or fix old cards after the review session is over.
+* while you're reviewing, if you come across anything that's not clear, you can write it down on the piece of paper and circle it, so that you can add new cards or fix old cards after the review session is over. [[Flag things to fix during review]].
 
 I don't write the answer down for all (or even most) of my cards. For cards where the response is verbal (like a couple of English words) there is usually no reason to write it down (unless you're practicing spelling).
 
