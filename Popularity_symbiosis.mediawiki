@@ -1,3 +1,5 @@
+(not too satisfied with this terminology. I used to call this "parasitizing on popularity", but a parasite causes harm to the host, whereas the sort of interaction I'm describing need not harm the more popular person.)
+
 one of the things i've noticed is that i find people by looking for discussions of more famous people. e.g. i might find some random person's blog by searching for keith frankish, or i might find someone's solutions to exercises in sutton and barto. i also remember one time searching for japanese book reviews of daniel dennett books. and sometimes, if that discussion is good, i will get curious about what else this person has done. In other words, these random people can parasitize on these famous people's popularity. i think this is a good thing, in a way. basically, if your discussion is good, you are adding value, and you're adding value by working on something that other people are already curious about.
 
 there seem to be less-virtuous nearby actions, like just spamming a popular person's blog comments.
