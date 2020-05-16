@@ -30,5 +30,6 @@ what is the point of all of this?
 * use [[spaced repetition]] or just a plain reminder system to check back on promising people -- e.g. I have to-do items in orgmode that just say "check back on X" where X is the url of someone's site, with a short description of why i found that person promising. young people especially can't be expected to have much online presence, so waiting gives you a way to guarantee that you "discover" them later.
 * use tools like urlwatch to track people's websites (especially for those that are just static web pages that are infrequently updated)
 * find hubs like rationality community/EA/michael nielsen twitter and use it to find more people.
+* pay bounties to get recommendations for people (I haven't tried this yet, but might try it soon)
 
 [[Category:People watching]]
