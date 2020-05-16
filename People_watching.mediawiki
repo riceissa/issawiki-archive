@@ -29,5 +29,6 @@ what is the point of all of this?
 * there's sometimes lists like [https://twitter.com/michael_nielsen/status/1253488805618671617] but idk I've never found these super good for finding people?
 * use [[spaced repetition]] or just a plain reminder system to check back on promising people -- e.g. I have to-do items in orgmode that just say "check back on X" where X is the url of someone's site, with a short description of why i found that person promising. young people especially can't be expected to have much online presence, so waiting gives you a way to guarantee that you "discover" them later.
 * use tools like urlwatch to track people's websites (especially for those that are just static web pages that are infrequently updated)
+* find hubs like rationality community/EA and use it to find more people.
 
 [[Category:People watching]]
