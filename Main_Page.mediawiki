@@ -1,0 +1,4 @@
+The two main things that are going on here:
+
+* [[:Category:AI safety]] -- notes on AI safety strategy
+* [[:Category:Spaced repetition]] -- detailing my approach to using spaced repetition software
