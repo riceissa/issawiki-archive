@@ -1,0 +1,11 @@
+It's actually pretty hard to find people openly complaining about how to get involved in AI safety. You can find some random comments, and there are occasional Facebook threads and stuff. But there's no central/maintained repository of people's struggles.
+
+By "struggles", I mean things like:
+
+# How are people deciding between technical vs strategy vs policy research? Like, what is their detailed thought process/decision making algorithm?
+# For people who want to do technical AI safety research, how are they deciding between MIRI vs Paul vs other technical agendas?
+# How do people feel about the AI safety community in general, and their place within the community? (e.g. do they think the community is friendly/welcoming, or hostile/unappreciative, or something in between?)
+# How often do people experience loneliness/feeling like they can't find any collaborators or mentors or other people to talk to/bounce ideas off of? How are people solving these problems?
+# How do people feel about the state of learning materials relevant to AI safety? Do they find it easy to catch up, or do they feel like they're drowning in a huge pile of mess?
+
+[[Category:AI safety meta]]
