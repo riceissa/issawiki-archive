@@ -2,5 +2,6 @@
 * [[AI safety technical pipeline does not teach how to start having novel thoughts]]
 * [[AI safety is not a community]]
 * [[Mixed messaging regarding independent thinking]]
+* [[There is pressure to rush into a technical agenda]]
 
 [[Category:AI safety meta]]
