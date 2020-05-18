@@ -1,0 +1,9 @@
+I've seen a few times people saying things like "Don't contact me with generic questions like 'What should I work on?' because I can't help you. I can answer more straightforward questions like 'Hey I'm working on project X, and here are things A,B,C that I've tried. What do you think?"
+
+On one hand, I get what these people mean. It's time-consuming to get to know someone well enough (all their life constraints, values, how smart they are, etc) that you can give good generic/high-level advice.
+
+On the other hand, generic questions like "what should i do with my life" are exactly what advice-askers are tasked with, and they don't get to say "this is too hard, I won't respond to this".
+
+I feel like [[Cognito Mentoring]] was trying to do this, but in the end they couldn't get funding (?).
+
+[[Category:AI safety meta]]
