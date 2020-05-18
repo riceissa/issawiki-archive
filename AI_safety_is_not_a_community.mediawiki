@@ -1,0 +1,5 @@
+When I am feeling especially cynical and upset, it feels like '''AI safety is not a community'''. What do I mean by this? Basically, I think I've been in communities before, and being a part of the [[AI safety community]] does not feel like that.
+
+TODO: give specific examples of communities.
+
+[[Category:AI safety meta]]
