@@ -8,4 +8,9 @@ Here are some more concrete ideas:
 * Redpilling people about [[spaced repetition]] and other effective learning techniques.
 * wiki pages on specific papers might also be useful
 
+==See also==
+
+* [[My take on RAISE]]
+
 [[Category:AI safety meta]]
+[[Category:RAISE]]
