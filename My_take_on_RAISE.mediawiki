@@ -7,3 +7,4 @@ From October 2018:
 * If RAISE is going to stick with videos, then at least put them on YouTube so I don't have to log in each time just to watch them.
 
 [[Category:AI safety meta]]
+[[Category:RAISE]]
