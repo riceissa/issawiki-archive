@@ -1,3 +1,11 @@
 Currently, the [[AI safety community]] does not have an explicit mechanism for teaching new people how to start having novel thoughts. The implicit hope seems to be something like "read these books, read these posts, participate in discussion, then hope you can think real good by osmosis".
 
+Here's the most that's been done I think:
+
+* https://www.greaterwrong.com/posts/PqMT9zGrNsGJNfiFR/alignment-research-field-guide
+* https://www.greaterwrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1
+* https://www.greaterwrong.com/posts/XYYyzgyuRH5rFN64K/what-makes-people-intellectually-active
+
+I think it's ''not'' a fluke that all three have been written by [[Abram Demski]]; he seems to be literally the only person thinking about this stuff and writing about it!
+
 [[Category:AI safety meta]]
