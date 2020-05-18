@@ -1,5 +1,10 @@
 When I am feeling especially cynical and upset, it feels like '''AI safety is not a community'''. What do I mean by this? Basically, I think I've been in communities before, and being a part of the [[AI safety community]] does not feel like that.
 
+Some aspects of this:
+
+* AI safety has left the "hobbyist stage". People can actually now get paid to think about this full time, it has a certain amount of prestige, etc., so now it feels like a lot of people are trying to break in. There's a lot of competition for positions, which means suddenly that the people who you thought were supposed to be helping you are actually trying to get ahead of you.
+* There's a lot of private discussion happening among groups of people in a pretty conspicuous way, so it's easy to feel like one is being left out.
+
 TODO: give specific examples of communities.
 
 [[Category:AI safety meta]]
