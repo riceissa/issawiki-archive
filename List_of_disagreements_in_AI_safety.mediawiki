@@ -111,7 +111,7 @@ How promising/doomed is ML safety work / messy approaches to alignment (includin
 * to what extent are act-based agents even a thing? (i.e. do they just turn into goal-directed thingies?)
 * to what extent doing something like "predict short-term actions humans would want, if they had a long time to think about it" leads to optimization of malignant goals, rather than mostly harmless errors. [https://arbital.com/p/task_agi/?l=6w#subpage-1hn] -- i think this one might be essentially the same as broad basin of corrigibility.
 * how much safety you gain by having the human programmers specify short-term tasks, rather than the AI predicting what short-term tasks the programmers would have specified if they had more time to think about it. [https://arbital.com/p/task_agi/]
-* whether there is a basin of attraction for corrigibility
+* whether there is a [[basin of attraction for corrigibility]]
 * importance of X and only X problem (can we get a system to do X, without also doing a bunch of other dangerous Y?)
 * how big of a problem collusion between subsystems of an AI will be
 * competence gap:
