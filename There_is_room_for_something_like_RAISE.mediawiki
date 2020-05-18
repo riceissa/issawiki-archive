@@ -1,4 +1,4 @@
-Self-studying all of the technical prerequisites for [[technical AI safety research]] is hard. The most that people new to the field get are a list of textbooks. I think there is room for something like what [[RAISE]] was trying to become: some sort of community/detailed resource/support structure/etc for people studying this stuff.
+Self-studying all of the technical prerequisites for [[technical AI safety research]] is hard. The most that people new to the field get is a list of textbooks. I think there is room for something like what [[RAISE]] was trying to become: some sort of community/detailed resource/support structure/etc for people studying this stuff.
 
 Here are some more concrete ideas:
 
