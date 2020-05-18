@@ -8,6 +8,7 @@
 * [[AI safety is harder than most things]]
 * [[Nobody understands what makes people snap into AI safety]]
 * [[Generic advice is difficult to give but also important]]
+* [[Newcomers in AI safety are silent about their struggles]]
 
 Appendix:
 
