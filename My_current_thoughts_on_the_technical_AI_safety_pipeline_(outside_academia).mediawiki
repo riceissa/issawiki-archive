@@ -1,4 +1,5 @@
 * [[There is room for something like RAISE]]
+** [[My take on RAISE]]
 * [[AI safety technical pipeline does not teach how to start having novel thoughts]]
 * [[AI safety is not a community]]
 * [[Mixed messaging regarding independent thinking]]
