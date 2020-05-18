@@ -6,5 +6,9 @@ From October 2018:
 * I am pretty skeptical about the quality/experience-level of RAISE people.
 * If RAISE is going to stick with videos, then at least put them on YouTube so I don't have to log in each time just to watch them.
 
+==See also==
+
+* [[There is room for something like RAISE]]
+
 [[Category:AI safety meta]]
 [[Category:RAISE]]
