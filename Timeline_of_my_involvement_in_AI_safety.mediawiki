@@ -1,6 +1,6 @@
 {| class="sortable wikitable"
 |-
-! Year !! Month !! Event
+! Year !! Month and date !! Event
 |-
 | a
 |}
