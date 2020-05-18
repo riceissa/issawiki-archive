@@ -3,7 +3,7 @@ Self-studying all of the technical prerequisites for [[technical AI safety resea
 Here are some more concrete ideas:
 
 * Detailed solutions for all of the prerequisite math books, e.g. for the ones listed at [https://intelligence.org/research-guide/]. I've started on one example of this at [https://taoanalysis.wordpress.com/] (though I'm writing that blog for other reasons as well).
-* A network of tutors or people who have already worked through a particular book, where you can ask them questions in a really ''low friction'' way.
+* A network of tutors or people who have already worked through a particular book, where you can ask them questions in a really ''low friction'' way. A minimal implementation of this is to have a single tutor focusing on training/helping AI safety people, e.g. tutoring to get them quickly up to speed in some undergraduate subfield, or helping them digest "[[Logical Induction]]". this requires a kind of ADHD/"living library" mindset.
 * Writing up actually good explanations for things like [[Solomonoff induction]], [[belief propagation]], [[Markov chain Monte Carlo]], etc.
 * Redpilling people about [[spaced repetition]] and other effective learning techniques.
 * wiki pages on specific papers might also be useful
