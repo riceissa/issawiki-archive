@@ -1,0 +1,17 @@
+"critique" in the sense of "specific objection" not "piece of writing containing multiple objections"
+
+places to look:
+
+* https://intelligence.org/2018/05/19/challenges-to-christianos-capability-amplification-proposal/ and summary at https://www.lesswrong.com/posts/4ap6WQx52txzsJx6r/the-alignment-newsletter-7-05-21-18
+* https://www.lesswrong.com/posts/SqcPWvvJJwwgZb6aH/prize-for-probable-problems
+* https://www.greaterwrong.com/posts/ZyyMPXY27TTxKsR5X/problems-with-amplification-distillation
+* https://www.lesswrong.com/posts/h3Fp3Erddwnm5uthZ/disagreement-with-paul-alignment-induction
+* https://www.lesswrong.com/posts/nbhTzEosM9sqEvr6P/corrigibility-doesn-t-always-have-a-good-action-to-take
+
+{| class="sortable wikitable"
+! Critique !! Links making this critique !! Paul's response !! Resolution status
+|-
+|}
+
+[[Category:AI safety]]
+[[Category:Iterated amplification]]
