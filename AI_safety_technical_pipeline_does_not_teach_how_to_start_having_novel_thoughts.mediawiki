@@ -1,0 +1,3 @@
+Currently, the [[AI safety community]] does not have an explicit mechanism for teaching new people how to start having novel thoughts. The implicit hope seems to be something like "read these books, read these posts, participate in discussion, then hope you can think real good by osmosis".
+
+[[Category:AI safety meta]]
