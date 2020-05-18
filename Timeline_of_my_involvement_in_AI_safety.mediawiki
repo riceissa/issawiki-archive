@@ -5,4 +5,12 @@
 | a
 |}
 
+events to add:
+
+* discovering [[Wei Dai]]
+* MSFP application/interview
+* europe travels
+* books (e.g. tao, axler)
+* try to cover "phases" in my attitudes/thinking
+
 [[Category:AI safety meta]]
