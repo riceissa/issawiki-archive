@@ -12,5 +12,6 @@ events to add:
 * europe travels
 * books (e.g. tao, axler)
 * try to cover "phases" in my attitudes/thinking
+* my LW posts
 
 [[Category:AI safety meta]]
