@@ -2,7 +2,7 @@ I've seen a few times people saying things like "Don't contact me with generic q
 
 On one hand, I get what these people mean. It's time-consuming to get to know someone well enough (all their life constraints, values, how smart they are, etc) that you can give good generic/high-level advice.
 
-On the other hand, generic questions like "what should i do with my life" are exactly what advice-askers are tasked with, and they don't get to say "this is too hard, I won't respond to this".
+On the other hand, generic questions like "what should i do with my life" are exactly what advice-askers are tasked with, and they don't get to say "this is too hard, I won't respond to this". These questions are also the "highest order bits" -- if you decide to work on something unimportant, then all the micro-improvements you make won't help you do anything important.
 
 I feel like [[Cognito Mentoring]] was trying to do this, but in the end they couldn't get funding (?).
 
