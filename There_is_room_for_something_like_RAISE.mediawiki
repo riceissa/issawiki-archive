@@ -6,6 +6,6 @@ Here are some more concrete ideas:
 * A network of tutors or people who have already worked through a particular book, where you can ask them questions in a really ''low friction'' way.
 * Writing up actually good explanations for things like [[Solomonoff induction]], [[belief propagation]], [[Markov chain Monte Carlo]], etc.
 * Redpilling people about [[spaced repetition]] and other effective learning techniques.
-
+* wiki pages on specific papers might also be useful
 
 [[Category:AI safety meta]]
