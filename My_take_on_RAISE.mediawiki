@@ -1,0 +1,9 @@
+From October 2018:
+
+* I'm generally optimistic about making things easier to understand/distilling things. So I like this general area that RAISE is working in.
+* I'm not sure about the value of explaining things better in AI safety in general: it seems like this would significantly lower the bar to entry (if done well). That means more low quality people come into the field, and I'm not sure if that's a good thing.
+* RAISE seems to be focusing more on completeness of curriculum than quality of curriculum. My own hunch is that it's better to produce "the best resource for learning X" for small numbers of X, and expand from there. Whereas RAISE seems to be focusing on optimizing for "this is the most complete and coherent curriculum of technical AI safety learning in the world". I actually think it isn't too hard to just cobble together the best ''already-existing'' resources into a reading list (and that this would be better than RAISE's in-house-developed materials).
+* I am pretty skeptical about the quality/experience-level of RAISE people.
+* If RAISE is going to stick with videos, then at least put them on YouTube so I don't have to log in each time just to watch them.
+
+[[Category:AI safety meta]]
