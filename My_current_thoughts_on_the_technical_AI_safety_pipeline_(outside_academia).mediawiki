@@ -1,5 +1,6 @@
 * [[There is room for something like RAISE]]
 * [[AI safety technical pipeline does not teach how to start having novel thoughts]]
 * [[AI safety is not a community]]
+* [[Mixed messaging regarding independent thinking]]
 
 [[Category:AI safety meta]]
