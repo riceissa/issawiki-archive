@@ -1,0 +1,3 @@
+I recently got a visceral sense that '''AI safety is harder than most things''' when I started writing my [https://taoanalysis.wordpress.com/ Tao Analysis Solutions] blog. After two months of near-daily blogging, I got blog comments from a smart-seeming high school student (?) and also a very nice thank you letter. In contrast, working on AI safety feels like .... there's absolutely no feedback on whether I'm doing anything useful?
+
+[[Category:AI safety meta]]
