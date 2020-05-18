@@ -5,6 +5,7 @@ Here are some more concrete ideas:
 * Detailed solutions for all of the prerequisite math books, e.g. for the ones listed at [https://intelligence.org/research-guide/]. I've started on one example of this at [https://taoanalysis.wordpress.com/] (though I'm doing that for other reasons as well).
 * A network of tutors or people who have already worked through a particular book, where you can ask them questions in a really ''low friction'' way.
 * Writing up actually good explanations for things like [[Solomonoff induction]], [[belief propagation]], [[Markov chain Monte Carlo]], etc.
+* Redpilling people about [[spaced repetition]] and other effective studying techniques.
 
 
 [[Category:AI safety meta]]
