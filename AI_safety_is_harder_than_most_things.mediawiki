@@ -4,4 +4,8 @@ I also had a similar feeling one day when I took a break from studying math and 
 
 When you've been at AI safety for too long, you're so used to just "[staring] at a blank sheet of paper until drops of blood form on your forehead, trying to figure out what to think next"<ref>https://www.greaterwrong.com/posts/9SaAyq7F7MAuzAWNN/teaching-the-unteachable</ref> that you might forget that other things aren't like this.
 
+==References==
+
+<references/>
+
 [[Category:AI safety meta]]
