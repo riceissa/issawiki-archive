@@ -8,6 +8,8 @@ Here's the most that's been done I think:
 
 I think it's ''not'' a fluke that all three have been written by [[Abram Demski]]; he seems to be literally the only person thinking about this stuff and writing about it!
 
+Part of the problem might be that [[newcomers can't distinguish crackpots from geniuses]].
+
 What can be done about this? Some ideas:
 
 * I think a list of easy open problems, similar to "good issue for newcomers" in places like GitHub, or similar to the kinds of problems PhD advisors give to their 1st or 2nd year graduate students, would be good.
