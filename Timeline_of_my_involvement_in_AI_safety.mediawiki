@@ -1,0 +1,8 @@
+{| class="sortable wikitable"
+|-
+! Year !! Month !! Event
+|-
+| a
+|}
+
+[[Category:AI safety meta]]
