@@ -1,0 +1,14 @@
+AI safety has a weird dynamic going on where:
+
+* Most likely, only a single technical agenda will actually be useful. The others will have been good in expectation (in like a "hits-based" or portfolio mindset) but not actually causally connected to saving the world. For example, if [[Paul]] is right, then MIRI's work is probably useless. If MIRI is right, then Paul's work is probably useless.
+* When you look around to see what people in the field are doing, they are already working on technical agendas (even if they are all ''different'' technical agendas).
+* There are discussions of things like AI timelines, assumptions of various technical agendas, etc., which reveals the community is split in many ways, but also no central and up-to-date resource on people's state of uncertainty.
+* There's like a feeling that only technical work matters? Or like, technical research is the "real work"? At the very least, I think there's some sort of extra prestige factor for technical work.
+* There are no organizations visibly working on strategic questions like [[whole brain emulation]]s, [[intelligence amplification]], etc. (which, in the classical 2008-2011 days, were a huge focus of discussion on places like [[LessWrong]]). There is, however, [[AI Impacts]] which does work on timelines and other strategic questions.
+* People like [[Eliezer]] and [[Paul]] occasionally come out in public to butt heads about strategic questions, but then they give up and go off to quietly work on technical stuff.
+
+I think the above non-monotonically creates a ''pressure'' (not a decisive push, but a pressure) to quickly make up one's mind about strategic questions, and move onto technical research. I don't actually know what it's like for other people (maybe other people feel a pressure to talk about AI timelines all the time!) but this is my actual, personal, emotional experience.
+
+So let me say that I think it's totally reasonable/ok to just spend like two years figuring out strategic questions before you actually decide on what technical research you should do.
+
+[[Category:AI safety meta]]
