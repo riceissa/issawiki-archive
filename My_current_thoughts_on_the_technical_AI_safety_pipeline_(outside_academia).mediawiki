@@ -4,5 +4,6 @@
 * [[Mixed messaging regarding independent thinking]]
 * [[There is pressure to rush into a technical agenda]]
 * [[AI safety lacks a space to ask stupid or ballsy questions]]
+* [[Timeline of my involvement in AI safety]]
 
 [[Category:AI safety meta]]
