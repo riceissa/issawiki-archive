@@ -2,6 +2,6 @@ Ongoing friendship and collaboration is to be contrasted with one-off replies yo
 
 The reason I care about ongoing friendship/collaboration is that if I have to contact a new person for every new topic, that creates too much friction/transaction costs which really drains me.
 
-I think of of the reasons that [[AI safety is not a community]] is that it's difficult to find these deep connections.
+I think one of the reasons that [[AI safety is not a community]] is that it's difficult to find these deep connections.
 
 [[Category:AI safety meta]]
