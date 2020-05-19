@@ -2,6 +2,8 @@
 
 What makes someone good at giving feedback? Some qualities that make a person better: has spent a lot of time thinking about AI safety (or is willing to spend a lot of time to catch up), not afraid to dig into the technical details, not afraid to give critical feedback, willing to go back and forth for multiple rounds.
 
+i think it's harder to get feedback on technical ideas, and in fields where there is no consensus about what is "good"; both of these are true in AI safety
+
 ==See also==
 
 * [[It is difficult to find people to bounce ideas off of]]
