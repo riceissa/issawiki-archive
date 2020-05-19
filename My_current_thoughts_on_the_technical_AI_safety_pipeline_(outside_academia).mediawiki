@@ -7,7 +7,7 @@
 * [[AI safety lacks a space to ask stupid or ballsy questions]]
 * [[AI safety is harder than most things]]
 * [[Nobody understands what makes people snap into AI safety]]
-* [[Generic advice is difficult to give but also important]]
+* [[Giving advice in response to generic questions is difficult but important]]
 * [[Newcomers in AI safety are silent about their struggles]]
 * [[It is difficult to find people to bounce ideas off of]]
 * [[It is difficult to get feedback on published work]]
