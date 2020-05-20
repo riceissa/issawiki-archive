@@ -1,0 +1,10 @@
+list of thought experiments:
+
+* dropping seed AGI into world without AGI; see [[Counterfactual of dropping a seed AI into a world without other capable AI]]
+* the analogy of trying to breed a biological species that is smarter than humans but docile/subservient
+
+I think there are a few more ones that get mentioned a lot.
+
+maybe make this page into a table. possible columns: thought experiment, description, purpose/point.
+
+[[Category:AI safety]]
