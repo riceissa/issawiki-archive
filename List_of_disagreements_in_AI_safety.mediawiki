@@ -87,6 +87,8 @@ How promising is MIRI-style work (HRAD, agent foundations, embedded agency)?
 
 (I think Paul's view is something like "this is fine to work on, but there isn't enough time and my agenda seems promising" whereas other people are more like "I don't see how MIRI's work even helps us build an AGI")
 
+See also [[MIRI vs Paul research agenda hypotheses]]
+
 * can MIRI-type research be done in time to help with AGI? see [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-Dk5LmWMEL55ufkTB5 this comment] and [https://www.facebook.com/groups/aisafety/permalink/920154224815359/?comment_id=920167711480677]
 * how doomed is MIRI's approach? i.e. if there turns out to be no [[simple core algorithm for agency]], or if understanding agency better doesn't help us build an AGI, then we might not be in a better place wrt aligning AI.
 * will AGI be agent-like? See also [[Comparison of terms related to agency]]
