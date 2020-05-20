@@ -1,0 +1,8 @@
+Part of the discussion about [[content]] vs [[architecture]].
+
+some common points that get brought up:
+
+* content sharing is common in software engineering in general
+* content sharing rarely happens in AI
+
+[[Category:AI safety]]
