@@ -22,4 +22,8 @@ if progress happens via compute, is that architecture or content? if progress ha
 
 if you come up with a simple learning algorithm that then has to spend a lot of time interacting with the world and using compute, in order to become smart, is that architecture or content? I feel like we need to distinguish the "top level" algorithm from the "secondary level/discovered-by-top-level" algorithm. The top level architecture could be very important, even if the secondary level is basically lots and lots of content. "It seems to me for this particular argument to carry, it's not enough to say you need content. There has to be no master trick to learning or producing content." [https://docs.google.com/document/pub?id=17yLL7B7yRrhV3J9NuiVuac3hNmjeKTVHnqiEa6UQpJk]
 
+==See also==
+
+* [[Content sharing between AIs]]
+
 [[Category:AI safety]]
