@@ -1,3 +1,7 @@
-Back in 2008-2011 when people were talking about AI safety on [[LessWrong]], there were multiple "singularity strategies" that were proposed, of which technical AI safety was one. Fast forward to 2020, and it looks like technical AI safety has "won", and it's the "obvious" thing people are focusing on. What's not clear to me is whether this mass shift toward technical safety work is due to better thinking/sifting through evidence and getting better evidence (e.g. from progress in AI research), rather than due to less virtuous reasons like groupthink/prestige and randomness/noise/luck.
+Back in 2008-2011 when people were talking about AI safety on [[LessWrong]], there were multiple "singularity strategies" that were proposed, of which technical AI safety was one. (Examples of others: [[intelligence amplification]], [[whole brain emulation]].) Fast forward to 2020, and it looks like technical AI safety has "won", and it's the "obvious" thing people are focusing on. What's not clear to me is whether this mass shift toward technical safety work is due to better thinking/sifting through evidence and getting better evidence (e.g. from progress in AI research), rather than due to less virtuous reasons like groupthink/prestige and randomness/noise/luck.
+
+==See also==
+
+* [[There is pressure to rush into a technical agenda]]
 
 [[Category:AI safety meta]]
