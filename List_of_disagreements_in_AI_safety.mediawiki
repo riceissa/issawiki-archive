@@ -134,7 +134,6 @@ e.g. [[value learning]]
 
 * [[Analyzing disagreements]]
 * [[AI safety field consensus]]
-* [[MIRI vs Paul research agenda hypotheses]]
 
 ==References==
 
