@@ -108,6 +108,8 @@ See also [[MIRI vs Paul research agenda hypotheses]]
 
 How promising/doomed is ML safety work / messy approaches to alignment (including Paul's agenda)? e.g. see discussion [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-32dCL2u6p8L8td9BA here] -- [[How doomed are ML safety approaches?]]
 
+See also [[MIRI vs Paul research agenda hypotheses]]
+
 * whether "[[weird recursion]]s" / "inductive invariants" are a good idea -- my impression is something like, paul is like "why not try it?" and eliezer is like "ehhhh..."
 * something like, if paul's approach can work, then why can't we stop at some intermediate stage to do WBE or make an aligned AGI via MIRI-like stuff instead? (i guess there isn't enough time?) -- eliezer raises this or a similar question "but then why can't we just use this scheme to align a powerful AGI in the first place?" [https://intelligence.org/2018/05/19/challenges-to-christianos-capability-amplification-proposal/]
 * to what extent are [[act-based agent]]s even a thing? (i.e. do they just turn into [[goal-directed]] thingies?)
