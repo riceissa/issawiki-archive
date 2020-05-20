@@ -10,6 +10,8 @@ I think it's ''not'' a fluke that all three have been written by [[Abram Demski]
 
 Part of the problem might be that [[newcomers can't distinguish crackpots from geniuses]].
 
+I think there's way too little support structure in place for a new person to come along and actually do something useful. If they stick around, any work they do on agent foundations-type work will probably be useless.
+
 What can be done about this? Some ideas:
 
 * I think a list of easy open problems, similar to "good issue for newcomers" in places like GitHub, or similar to the kinds of problems PhD advisors give to their 1st or 2nd year graduate students, would be good.
