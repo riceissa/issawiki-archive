@@ -1,1 +1,5 @@
 https://www.google.com/search?q=%22kasparov+window%22
+
+I think [[Eliezer]]'s point is that when there's more hardware behind an AI project, the Kasparov window is narrower.
+
+[[Category:AI safety]]
