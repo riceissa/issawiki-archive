@@ -11,4 +11,8 @@ I think the above non-monotonically creates a ''pressure'' (not a decisive push,
 
 So let me say that I think it's totally reasonable/ok to just spend like two years figuring out strategic questions before you actually decide on what technical research you should do.
 
+==See also==
+
+* [[Mass shift to technical AI safety research is suspicious]]
+
 [[Category:AI safety meta]]
