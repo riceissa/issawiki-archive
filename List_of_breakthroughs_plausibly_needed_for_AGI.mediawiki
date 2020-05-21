@@ -2,6 +2,8 @@
 
 see https://www.lesswrong.com/posts/5WECpYABCT62TJrhY/will-ai-undergo-discontinuous-progress#The_Conceptual_Arguments
 
+this isn't the same thing, but it's doing a similar sort of thing of asking "how will AGI be different from current ML systems?" http://www.foldl.me/2018/conceptual-issues-ai-safety-paradigmatic-gap/#potential-paradigmatic-changes-in-ai
+
 ==References==
 
 <references/>
