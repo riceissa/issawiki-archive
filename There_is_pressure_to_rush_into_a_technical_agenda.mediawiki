@@ -9,7 +9,7 @@ AI safety has a weird dynamic going on where:
 
 I think the above non-monotonically creates a ''pressure'' (not a decisive push, but a pressure) to quickly make up one's mind about strategic questions, and move onto technical research. I don't actually know what it's like for other people (maybe other people feel a pressure to talk about AI timelines all the time!) but this is my actual, personal, emotional experience.
 
-So let me say that I think it's totally reasonable/ok to just spend like two years figuring out strategic questions before you actually decide on what technical research you should do.
+So let me say that I think it's totally reasonable/ok to just spend like two years figuring out strategic questions before you actually decide on what technical research you should do. e.g. "Most importantly, they have revealed to me several critical conceptual issues at the foundation of AI safety research, involving work with both medium time horizons (e.g. adversarial attacks, interpretability) and much longer horizons (e.g. aligning the incentives of superintelligent AIs to match our own values). I believe that these are blocking issues for safety research: I don’t know how to value the various sorts of safety work until I arrive at satisfying answers to these questions." [http://www.foldl.me/2018/conceptual-issues-ai-safety-paradigmatic-gap/]
 
 ==See also==
 
