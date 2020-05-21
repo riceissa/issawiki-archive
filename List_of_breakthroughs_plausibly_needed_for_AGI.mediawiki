@@ -1,0 +1,3 @@
+* Looking at things like ''The MIT Encyclopedia of the Cognitive Sciences'' and Judea Pearl's work on causality and trying to estimate how many insights are required to build an AGI.<ref name="jane-street-debate">https://docs.google.com/document/pub?id=17yLL7B7yRrhV3J9NuiVuac3hNmjeKTVHnqiEa6UQpJk</ref>
+
+[[Category:AI safety]]
