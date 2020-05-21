@@ -2,4 +2,8 @@
 
 see https://www.lesswrong.com/posts/5WECpYABCT62TJrhY/will-ai-undergo-discontinuous-progress#The_Conceptual_Arguments
 
+==References==
+
+<references/>
+
 [[Category:AI safety]]
