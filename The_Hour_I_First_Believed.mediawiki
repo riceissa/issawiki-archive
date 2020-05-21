@@ -1,5 +1,7 @@
 '''"The Hour I First Believed"''' is a blog post by [[Scott Alexander]] about [[multiverse-wide cooperation]] and a big picture of what will happen in the multiverse.<ref>https://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/</ref> Scott creates plausible deniability by publishing the post on April 1 (April Fool's Day), but on this page I'll assume that everything in the post is serious.
 
+"This idea that possible worlds can trade with each other seems to have fairly radical implications. Together with Eliezer's idea that agents who know each other's source code ought to play cooperate in one-shot PD, doesn't it imply that all sufficiently intelligent and reflective agents across all possible worlds should do a global trade and adopt a single set of preferences that represents a compromise between all of their individual preferences? (Note: the resulting unified preferences are not necessarily characterized by expected utility maximization.)" [https://www.lesswrong.com/posts/qij9v3YqPfyur2PbX/indexical-uncertainty-and-the-axiom-of-independence?commentId=CTNP26BJp2kDMEv2M]
+
 ==Comments==
 
 ===Upshot===
