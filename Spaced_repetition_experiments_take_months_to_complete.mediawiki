@@ -10,4 +10,8 @@ on the other hand, some feedback ''is'' immediate. if your card is too [[Big car
 
 I'm not sure if there is a way to speed up the feedback you get.
 
+==See also==
+
+* [[Spaced repetition allows graceful deprecation of experiments]]
+
 [[Category:Spaced repetition]]
