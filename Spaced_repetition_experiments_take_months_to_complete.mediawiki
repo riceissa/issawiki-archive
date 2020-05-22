@@ -13,5 +13,6 @@ I'm not sure if there is a way to speed up the feedback you get.
 ==See also==
 
 * [[Spaced repetition allows graceful deprecation of experiments]]
+* [[Iteration cadence for spaced repetition experiments]]
 
 [[Category:Spaced repetition]]
