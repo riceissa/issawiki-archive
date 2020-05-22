@@ -1,0 +1,4 @@
+* [[Deck options for proof cards]]
+* [[Incremental reading in Anki#My deck options]]
+
+[[Category:Spaced repetition]]
