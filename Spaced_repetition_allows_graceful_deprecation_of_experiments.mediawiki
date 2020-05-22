@@ -4,6 +4,8 @@ Here's another way of phrasing it: when you run an experiment in spaced repetiti
 
 e.g. my cloze deletion "read only" cards weren't so useful and i eventually switched to a dedicated [[incremental reading]] deck. but i can still keep reviewing my old cloze cards! and they get less frequent over time, so there's no huge burden to continuing to review them. contrast this to something like note-taking: if you switch to a new note taking system you might need to convert your ENTIRE existing notes to your new system in order to keep the old content useful.
 
+Other examples where terminating an experiment can be costly (near the end of a failed experiment): dating, switching text editors or operating systems (need to rewire your brain), switching jobs (e.g. need savings to be able to quit).
+
 ==See also==
 
 * [[Spaced repetition experiments take months to complete]]
