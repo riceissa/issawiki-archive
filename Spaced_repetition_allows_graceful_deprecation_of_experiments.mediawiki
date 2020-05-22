@@ -1,0 +1,3 @@
+e.g. my cloze deletion "read only" cards weren't so useful and i eventually switched to a dedicated [[incremental reading]] deck. but i can still keep reviewing my old cloze cards! and they get less frequent over time, so there's no huge burden to continuing to remove them. contrast this to something like note-taking: if you switch to a new note taking system you might need to convert your ENTIRE existing notes to your new system in order to keep the old content useful.
+
+[[Category:Spaced repetition]]
