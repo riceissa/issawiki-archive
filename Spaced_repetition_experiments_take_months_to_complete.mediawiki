@@ -1,18 +1,1 @@
-By the very nature of spaced repetition, any experiment that tries to test some aspect of it will take months to complete. This is because in order to see how much you remember something, you need to wait for long enough to have forgotten it (if not for some intervention).
-
-This slow feedback cycle presents a challenge for those wishing to significantly improve their spaced repetition ability. To see if a change improves your ability to recall something, or to test out some new cool idea, you have to wait for several months to see if it worked.
-
-This is also one of the things that makes academic work on spaced repetition not very useful. Most of them do very short-term reviews.
-
-people praise fast feedback loops, but one thing to realize with spaced repetition software like anki is that the feedback is spaced in a way. you can't tell if you're memorizing things well until it's like 5 months after you've added the card. or take my series test cards; i didn't realize the subtleties of requiring the sequence to be nonincreasing or nonnegative for different tests until a couple weeks after i'd added the cards -- before now, everything would sort of have been in my "fresh" mind. it's only after i've forgotten the context sufficiently that i can appreciate these subtle hypotheses in the theorem statements -- and only because i've added these as cards! makes you wonder, what subtleties am i missing by not adding something to anki and seeing ''in what manner'' i forget the details.
-
-on the other hand, some feedback ''is'' immediate. if your card is too [[Big card|big]] for example, you will notice on that same day, or a couple days later.
-
-I'm not sure if there is a way to speed up the feedback you get.
-
-==See also==
-
-* [[Spaced repetition allows graceful deprecation of experiments]]
-* [[Iteration cadence for spaced repetition experiments]]
-
-[[Category:Spaced repetition]]
+#redirect [[Iteration cadence for spaced repetition experiments]]
