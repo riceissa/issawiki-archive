@@ -3,5 +3,6 @@ e.g. my cloze deletion "read only" cards weren't so useful and i eventually swit
 ==See also==
 
 * [[Spaced repetition experiments take months to complete]]
+* [[Spaced repetition as soft alarm clock]] -- graceful deprecation is one aspect of spaced repetition's general [[softification]] ability
 
 [[Category:Spaced repetition]]
