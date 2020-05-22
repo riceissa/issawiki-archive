@@ -79,6 +79,7 @@ meta point (HT david manheim): some/most of these disagreements might just be de
 * splitting things by wall clock time vs subjective time, and also splitting by (1) how much of a lead the leading team needs to have [[decisive strategic advantage]] and (2) how much time we have between capabilities event X and having to solve alignment problem Y (for various values of X and Y) https://www.greaterwrong.com/posts/AfGmsjGPXN97kNp57/arguments-about-fast-takeoff/comment/JEkP5AmXmi4dHHpqo
 * "Hanson and Yudkowsky also disagree on the extent to which an AI’s resources might be local as opposed to global, the extent to which knowledge is likely to be shared between various AIs, and whether an intelligence explosion should be framed as a “winner-take-all” scenario." [https://intelligence.org/files/AIFoomDebate.pdf#page=519]
 * historical developments (e.g. agriculture, industrial revolution, development of specific technologies) have never led to a single entity taking over the world. [https://intelligence.org/files/AIFoomDebate.pdf#page=538] -- however, this depends on what one means by "single entity" and "taking over the world"; arguably single entities ''have'' taken over the world if one uses certain definitions.
+* [[Narrow window argument against continuous takeoff]]
 
 ==Specific lines of work==
 
