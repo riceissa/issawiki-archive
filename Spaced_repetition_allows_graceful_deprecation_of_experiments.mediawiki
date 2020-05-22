@@ -2,7 +2,7 @@ An "experiment" in [[spaced repetition]] usually involves trying out a new thing
 
 Here's another way of phrasing it: when you run an experiment in spaced repetition, you pay most of the costs near the beginning (when the uncertainty is greatest). As you become more certain of the outcome, the less you need to pay. So even when an experiment is a failure, you don't need to pay a huge cost at the end.
 
-e.g. my cloze deletion "read only" cards weren't so useful and i eventually switched to a dedicated [[incremental reading]] deck. but i can still keep reviewing my old cloze cards! and they get less frequent over time, so there's no huge burden to continuing to remove them. contrast this to something like note-taking: if you switch to a new note taking system you might need to convert your ENTIRE existing notes to your new system in order to keep the old content useful.
+e.g. my cloze deletion "read only" cards weren't so useful and i eventually switched to a dedicated [[incremental reading]] deck. but i can still keep reviewing my old cloze cards! and they get less frequent over time, so there's no huge burden to continuing to review them. contrast this to something like note-taking: if you switch to a new note taking system you might need to convert your ENTIRE existing notes to your new system in order to keep the old content useful.
 
 ==See also==
 
