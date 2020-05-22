@@ -1,3 +1,4 @@
+'''Narrow window argument against continuous takeoff''' (also '''continuous takeoff keyhole''') says ...
 
 "When you fold a whole chain of differential equations in on itself like this, it should either peter out rapidly as improvements fail to yield further improvements, or else go FOOM.  An ''exactly right law of diminishing returns'' that lets the system fly through the ''soft takeoff keyhole'' is unlikely - ''far'' more unlikely than seeing such behavior in a system with a roughly-constant underlying optimizer, like evolution improving brains, or human brains improving technology.  Our present life is no good indicator of things to come."<ref>https://www.lesswrong.com/posts/tjH8XPxAnr6JRbh7k/hard-takeoff</ref>
 
