@@ -19,6 +19,11 @@ for proofs that still feel a bit like sorcery — i wonder if it's a good or bad
 * but maybe the way you get to the compacted/good structure is to struggle hard with trying to memorize the bad form of it. once you return to it a few times, you've sort of smoothed out the roughest parts; it kinda makes sense, and now that your brain isn't thrashing every time you think about the problem (because you've memorized the general shape of it) you can actually think about the problem. i have the sense that for many things, i just gave up on even adding them to anki, therefore i never was able to bring my understanding to a mature form (so i completely forgot everything). keeping it in anki is a [[Spaced repetition as soft alarm clock|nagging mechanism]] to perfect your understanding.
 * i still feel though like working on new problems feels more rewarding/exciting than proving existing problems in anki.
 
+
+I think it's an open question to me how to decide which problems to review in spaced proof review, or e.g. what percentage of problems you solve should be written up as a card in Anki.
+
+Which proofs/exercises do I add as cards? I tend to prefer simple exercises and important exercises. If an exercise involves a lot of tedious detail, I tend to skip it (I might start making cards that just ask for the main point/insight for these tedious exercises).
+
 ==See also==
 
 * [[Dealing with bad problems in spaced proof review]]
