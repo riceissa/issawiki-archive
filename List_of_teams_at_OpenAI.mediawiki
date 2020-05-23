@@ -22,3 +22,6 @@ why has nobody made a list like this?
 * for things like "Research Scientist, Reasoning", does that mean "Reasoning" is a separate team? [https://openai.com/jobs/#all] If so, add the following to the list: Reasoning, Supercomputing, Multi-agent, Applied AI, Accelaration, Security, Output.
 
 "Over time, as different bets rise above others, they will attract more intense efforts. Then they will cross-pollinate and combine. The goal is to have fewer and fewer teams that ultimately collapse into a single technical direction for AGI. This is the exact process that OpenAI’s latest top-secret project has supposedly already begun." [https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/]
+
+[[Category:OpenAI]]
+[[Category:AI safety]]
