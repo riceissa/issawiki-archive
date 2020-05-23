@@ -3,7 +3,7 @@ Here are the basic steps I take for [[spaced proof review]].
 For each proof/exercise:
 
 # Do the proof for the first time. This isn't any different from what people normally do when solving exercises out of a book, or when reading a proof in a book. You just read it or do it on a piece of paper.
-# [[Choosing problems for spaced proof review|Decide if it's interesting enough to keep reviewing]].
+# [[Choosing problems for spaced proof review|Decide if it's interesting enough to keep reviewing]]. If it is, continue to the next step. Otherwise, stop here.
 # Write up the proof as an [[Anki]] card, adding it to the "Math problems (only for new cards)" deck. It's important to [[add the complete proof on proof cards to reduce friction when reviewing]].
 # [[Do an empty review of proof cards immediately after adding to prevent backlog]] (increase the "new cards per day" deck option to force the new card to be visible if you've already maxed out your new cards for the day).
 # After reviewing, move the cards to the main math problems deck.
