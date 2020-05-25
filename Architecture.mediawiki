@@ -1,5 +1,7 @@
 In discussions about AI alignment (especially AI takeoff), the term '''architecture''' is used to mean ... something like the basic design of the AI system (like what kind of machine learning is being used in what way, what the high-level organization of the components is). Architecture is used in contrast with [[content]], which means something like all the low-level details, the specific knowledge that's hand-coded in, ...? I'm honestly not sure I can distinguish these two very well, and I wish people would define these terms more formally. This might be pointing to the same distinction [[Richard Sutton]] makes in his [[Bitter Lesson]] post.
 
+see https://www.lesswrong.com/posts/jd9LajtGWv93NC8uo/source-code-size-vs-learned-model-size-in-ml-and-in-humans?commentId=9ifYwKyyZmS8ZEyvi for an example (namely, specialized data structures for a task) where the content/architecture split is unclear.
+
 synonyms? "mental architecture", "cognitive architecture", the "architecture of the AI"
 
 "Hanson defines the “content” of a system to be its small modular features, while its “architecture” is its most important, least modular features." [https://intelligence.org/files/AIFoomDebate.pdf#page=553] [http://www.overcomingbias.com/2008/12/wrapping-up.html]
