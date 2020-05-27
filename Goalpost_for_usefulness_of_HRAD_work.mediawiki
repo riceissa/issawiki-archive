@@ -11,4 +11,8 @@ It seems like there's a question of what is the relevant goalpost, for deciding 
 ** what will early advanced AI systems look like?
 * how convincing historical examples are (e.g. Shannon, Turing, Bayes, Pearl, Kolmogorov, null-terminated strings in C [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#Z6TbXivpjxWyc8NYM], [https://www.facebook.com/danielfilan/posts/10212534556141446] [https://www.facebook.com/robbensinger/posts/10160644236785447], Eliezer also brings up the Shannon vs Poe chess example) See also [[selection effect for successful formalizations]].
 
+==See also==
+
+* [[Something like realism about rationality]]
+
 [[Category:AI safety]]
