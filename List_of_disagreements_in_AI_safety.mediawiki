@@ -101,7 +101,7 @@ See also [[MIRI vs Paul research agenda hypotheses]]
 ** will AGI appear rational to humans? (efficient relative to humans)
 * how doomed is MIRI's approach? i.e. if there turns out to be no [[simple core algorithm for agency]], or if understanding agency better doesn't help us build an AGI, then we might not be in a better place wrt aligning AI.
 * intelligibility of intelligence [https://intelligence.org/files/HowIntelligible.pdf] -- there's like two ways this could be false: (1) intelligence turns out to be lots of specific adaptations to specific problems (i think this is what tooby and cosmides were arguing); or (2) intelligence turns out to be more like a collection of different tools in a tool box (the tools don't solve specific problems, they're more general than that, but the more tools you have, the more things you can build) [https://www.greaterwrong.com/posts/D3NspiH2nhKA6B2PE/what-evidence-is-alphago-zero-re-agi-complexity#comment-zsBR24WoHvL9HK67h]
-* deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one.
+* deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one. This is basically like "how doomed are ''other'' approaches?"
 * maybe something like, how important is understanding what's going on / how much weight do you place on curiosity-driven research. e.g. [https://www.greaterwrong.com/posts/MG4ZjWQDrdpgeu8wG/zoom-in-an-introduction-to-circuits/comment/uxvSLFnmPFWG3K63w]
 
 ===Machine learning safety===
