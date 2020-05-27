@@ -1,0 +1,11 @@
+'''Corrigibility''' is a term used in AI safety with multiple/unclear meanings.
+
+I think the term was originally used by [[MIRI]] to mean something like an AI that allowed human programmers to shut it off.
+
+Then the idea was generalized by [[Paul Christiano]] to mean something like an AI assistant that is trying to be helpful to humans.
+
+==External links==
+
+* https://parallel-forecast.github.io/AI-dict/docs/dictionary.html#corrigibility
+
+[[Category:AI safety]]
