@@ -1,4 +1,4 @@
-There are many add-ons available for [[Anki]]. So far I've ignored all of them; never in the past two years have I installed an add-on for Anki. It took me over a year I think to even start looking into deck options for Anki.
+There are many add-ons available for [[Anki]]. So far I've ignored all of them; never in the past two years have I installed an add-on for Anki. It took me over a year I think to even start looking into [[Anki deck options|deck options for Anki]].
 
 I think just learning how to write cards well, and integrating Anki into your studying routine, is a massive amount of work. I think there are some add-ons that will improve my life, but it will take time to find them and figure out how to use them.
 
