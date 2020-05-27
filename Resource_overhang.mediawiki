@@ -3,4 +3,8 @@
 
 Whether we are already in [[hardware overhang]] / other "resource bonanza". So whether we are in overhang depends on whether future early AGI systems can make use of existing resources much more efficiently, which means overhang has a dependence on whether few insights are needed to get to AGI? More precisely, there's a feedback loop, where resource overhang amplifies any existing discontinuity.
 
+==External links==
+
+* https://parallel-forecast.github.io/AI-dict/docs/dictionary.html#overhang
+
 [[Category:AI safety]]
