@@ -1,4 +1,4 @@
-The '''competence gap''' refers to the gap between an AI system's ability design better AI systems and its ability to solve alignment problems (i.e. design better ''aligned'' AI systems).
+'''Competence gap''' is the gap between an AI system's ability design better AI systems and its ability to solve alignment problems (i.e. design better ''aligned'' AI systems).
 
 ==History==
 
