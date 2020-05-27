@@ -1,5 +1,12 @@
 The '''competence gap''' refers to the gap between an AI system's ability design better AI systems and its ability to solve alignment problems (i.e. design better ''aligned'' AI systems).
 
+==History==
+
+The term seems to have first been used online by [[Daniel Dewey]], who credits [[Nick Bostrom]] for the term. [https://agentfoundations.org/item?id=64]
+
+it's not clear when the concept (under different terms, or without introducing a term) was first discussed.
+
+==notes==
 
 to what extent paul's approach looks like humans trying to align arbitrarily large black boxes ("corralling hostile superintelligences") vs humans+pretty smart aligned AIs trying to align slightly large black boxes (this is actually somewhat analogous to [[Rapid capability gain vs AGI progress]], where again eliezer is imagining some big leap/going from just humans to suddenly superhuman AI, whereas paul is imagining a more smooth transition that powers his optimism). In other words, how much easier is it to align large black boxes if we have pretty smart aligned AIs to help us? [https://www.facebook.com/groups/aisafety/permalink/920154224815359/?comment_id=920160664814715&reply_comment_id=920212811476167] [https://arbital.com/p/task_agi/?l=6w#subpage-1hl]
 
