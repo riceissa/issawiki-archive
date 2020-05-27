@@ -1,4 +1,4 @@
-There's a pattern I see where:
+When thinking about the question of "How useful is [[HRAD]] work?", what standards/goalposts should we use? There's a pattern I see where:
 
 * people advocating [[HRAD]] research bring up historical cases like Turing, Shannon, etc. where formalization worked well
 * people arguing against HRAD research talk about how "complete axiomatic descriptions" haven't been useful so far in AI, and how they aren't used to describe machine learning systems
