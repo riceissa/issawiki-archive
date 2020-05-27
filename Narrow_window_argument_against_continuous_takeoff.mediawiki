@@ -9,6 +9,8 @@
 
 narrow window argument against soft takeoff: eliezer says at some points that you need the parameter k that controls the growth to be in a really narrow range for it to NOT go into either a FOOM or petering out. in contrast, i think buck/paul has said something like, if you try to model it with math, you typically get a soft takeoff? what's going on here?
 
+counter arguement? https://ea.greaterwrong.com/posts/tDk57GhrdK54TWzPY/i-m-buck-shlegeris-i-do-research-and-outreach-at-miri-ama/comment/R6HdmWSx9WfM3Dciu
+
 ==References==
 
 <references/>
