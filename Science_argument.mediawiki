@@ -1,3 +1,7 @@
 The '''science argument''' is an argument for [[Secret sauce for intelligence|expecting a small number of breakthroughs for AGI]], which in turn supports a [[hard takeoff]]. The argument says that science is a general "[[Architecture|architectural]] insight" which allowed humans to have much more control over the world, and that we should expect something like that to happen with AI as well (that there is some sort of core insight that allows an AI to have much more control over the world, rather than it being a bunch of incremental progress). [https://docs.google.com/document/pub?id=17yLL7B7yRrhV3J9NuiVuac3hNmjeKTVHnqiEa6UQpJk] (search "you look at human civilization and there's this core trick called science") See (5) in [http://www.overcomingbias.com/2011/07/debating-yudkowsky.html] for [[Robin Hanson]]'s response.
 
+==History==
+
+The first instance of the argument found so far is by [[Eliezer Yudkowsky]] during the Jane Street debate with [[Robin Hanson]] (2011).
+
 [[Category:AI safety]]
