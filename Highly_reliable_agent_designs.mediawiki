@@ -1,0 +1,5 @@
+'''Highly reliable agent designs''' is the kind of pure-math research related to agency, etc. that is done at MIRI.
+
+[[List of disagreements in AI safety#Highly reliable agent designs]]
+
+[[Category:AI safety]]
