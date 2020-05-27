@@ -5,4 +5,10 @@ There's a pattern I see where:
 
 It seems like there's a question of what is the relevant goalpost, for deciding whether HRAD work is useful.
 
+* will early advanced AI systems be understandable in terms of HRAD's formalisms? [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#3__What_do_I_think_about_HRAD_]
+** lack of historical precedent at applying "complete axiomatic descriptions of AI systems" to help design AI systems [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#3a__Low_credence_that_HRAD_will_be_applicable__25___]
+** lack of success so far at using complete axiomatic descriptions for modern ML systems [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#3a__Low_credence_that_HRAD_will_be_applicable__25___]
+** what will early advanced AI systems look like?
+* how convincing historical examples are (e.g. Shannon, Turing, Bayes, Pearl, Kolmogorov, null-terminated strings in C [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#Z6TbXivpjxWyc8NYM], [https://www.facebook.com/danielfilan/posts/10212534556141446] [https://www.facebook.com/robbensinger/posts/10160644236785447], Eliezer also brings up the Shannon vs Poe chess example) See also [[selection effect for successful formalizations]].
+
 [[Category:AI safety]]
