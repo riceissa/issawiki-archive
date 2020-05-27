@@ -94,11 +94,11 @@ See also [[MIRI vs Paul research agenda hypotheses]]
 * How useful will HRAD work be for thinking about AGI? It's not clear to me whether the disagreement is mainly about which goalposts are the relevant ones (i.e. MIRI people have lower standards for what count as useful insights for AGI) vs an actual disagreement about how directly applicable MIRI work will be:
 ** [[Goalpost for usefulness of HRAD work]]
 ** [[Something like realism about rationality]]
+** What will AGI look like?
+*** will AGI be agent-like? See also [[Comparison of terms related to agency]]
+*** whether an AGI will look like a utility maximizer? See also [[Comparison of terms related to agency]]
+*** will AGI appear rational to humans? (efficient relative to humans)
 * can MIRI-type research be done in time to help with AGI? see [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-Dk5LmWMEL55ufkTB5 this comment] and [https://www.facebook.com/groups/aisafety/permalink/920154224815359/?comment_id=920167711480677]
-* What will AGI look like?
-** will AGI be agent-like? See also [[Comparison of terms related to agency]]
-** whether an AGI will look like a utility maximizer? See also [[Comparison of terms related to agency]]
-** will AGI appear rational to humans? (efficient relative to humans)
 * how doomed is MIRI's approach? i.e. if there turns out to be no [[simple core algorithm for agency]], or if understanding agency better doesn't help us build an AGI, then we might not be in a better place wrt aligning AI.
 * intelligibility of intelligence [https://intelligence.org/files/HowIntelligible.pdf] -- there's like two ways this could be false: (1) intelligence turns out to be lots of specific adaptations to specific problems (i think this is what tooby and cosmides were arguing); or (2) intelligence turns out to be more like a collection of different tools in a tool box (the tools don't solve specific problems, they're more general than that, but the more tools you have, the more things you can build) [https://www.greaterwrong.com/posts/D3NspiH2nhKA6B2PE/what-evidence-is-alphago-zero-re-agi-complexity#comment-zsBR24WoHvL9HK67h]
 * deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one. This is basically like "how doomed are ''other'' approaches?"
