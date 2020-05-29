@@ -1,0 +1,3 @@
+[[Online question-answering services are unreliable]], and this unreliability makes it emotionally taxing to write up questions because you aren't sure if the time you spend writing up a good question will pay off. This feeling of uncertainty, that I could spend time writing up my question only to be completely ignored, is one of the big reasons why I don't post more questions.
+
+[[Category:AI safety meta]]
