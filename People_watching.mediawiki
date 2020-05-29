@@ -26,6 +26,7 @@ what is the point of all of this?
 ** [[Inter-personal comparison test]]
 ** [[Intra-personal comparison test]]
 * It ''seems'' like there are fewer Eliezer/Wei/Carl caliber people in their 20s, compared to 15 years ago. What's going on?
+* It kinda feels like the young people now in EA aren't as good as the young people in EA 5 years ago. What's going on?
 * Most people don't even conceptualize people watching as a skill/discipline. They don't think of it as something you can improve on, where there is even an absolute scale that measures how good someone is or how good you are at figuring out how good someone is. In a specific context like software interviews, they might agree that you can interview people for a job in better and worse ways. They might even think you can improve your skills as a interviewer, and that there is a discipline of interviewing, of figuring out what works, what is a good predictor of job performance, and so on. But I think people just stop there, and don't generalize to the broader context, and ask "how can I find the smartest people, in a holistic/overall worldviews/overall ability to figure things out sense?"
 
 ==Techniques==
