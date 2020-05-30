@@ -4,5 +4,7 @@ see https://intelligence.org/files/SoftwareLimited.pdf and http://www.aleph.se/a
 
 Something I am confused about: we might not have human-level compute, but we should have, say, chimp-level compute or dog-level compute or mouse-level compute or ant-level compute. Do we have "chimp-level AGI", "dog-level AGI", "mouse-level AGI", or "ant-level AGI"? It seems like we should be able to settle how good the hardware argument is, by focusing on lesser compute levels and on lesser general intelligences. For example, suppose we got dog-level compute in the year 1990, and it's been 30 years but we still don't have dog-level AGI. That seems like evidence against the hardware argument (i.e. having access to a comparable-to-nature level of compute did not help in getting a comparable-to-nature level general intelligence). I haven't actually looked at the history of compute prices and level of general intelligence, so I can't say what's actually going on, but I find it somewhat odd that I don't remember seeing any discussion of this.
 
+Related to the above, here's a method of estimating AI timelines: look at the lag between level of compute and level of general intelligence. If on average it takes 40 years between the time when X-level compute becomes cheap, to the point when X-level AGI is created, we can estimate the time when human-level AGI arrives by estimating the time when human-level compute becomes cheap, and then adding on this lag.
+
 [[Category:AI timelines arguments]]
 [[Category:AI safety]]
