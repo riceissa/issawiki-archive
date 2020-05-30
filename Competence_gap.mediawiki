@@ -14,4 +14,6 @@ in a situation where AI algorithms are creating other AI algorithms (this includ
 
 Maybe another question to ask, or possibly an equivalent phrasing, is "will AIs be doing most of the safety work in the future?" (e.g. see [https://www.greaterwrong.com/posts/HekjhtWesBWTQW5eF/agis-as-populations#comment-eNjvffgpR875HeuaZ] for someone who thinks safety work will be done by AIs)
 
+"if one of the major use cases for your first advanced AI is helping to build your second advanced AI, STEM AI fails hard on that metric, as it advances our technology without also advancing our understanding of alignment. In particular, unlike every other approach on this list, because STEM AI is confined solely to STEM, it can’t be used to do alignment work." [https://lw2.issarice.com/posts/fRsjBseRuvRhMPPE5/an-overview-of-11-proposals-for-building-safe-advanced-ai]
+
 [[Category:AI safety]]
