@@ -2,4 +2,7 @@ The '''hardware argument''' is a common argument structure for estimating when A
 
 see https://intelligence.org/files/SoftwareLimited.pdf and http://www.aleph.se/andart/archives/2010/10/why_early_singularities_are_softer.html and https://aiimpacts.org/how-ai-timelines-are-estimated/
 
+Something I am confused about: we might not have human-level compute, but we should have, say, chimp-level compute or dog-level compute or mouse-level compute or ant-level compute. Do we have "chimp-level AGI", "dog-level AGI", "mouse-level AGI", or "ant-level AGI"? It seems like we should be able to settle how good the hardware argument is, by focusing on lesser compute levels and on lesser general intelligences. For example, suppose we got dog-level compute in the year 1990, and it's been 30 years but we still don't have dog-level AGI. That seems like evidence against the hardware argument (i.e. having access to a comparable-to-nature level of compute did not help in getting a comparable-to-nature level general intelligence). I haven't actually looked at the history of compute prices and level of general intelligence, so I can't say what's actually going on, but I find it somewhat odd that I don't remember seeing any discussion of this.
+
 [[Category:AI timelines arguments]]
+[[Category:AI safety]]
