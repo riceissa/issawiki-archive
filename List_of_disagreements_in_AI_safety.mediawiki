@@ -103,6 +103,7 @@ See also [[MIRI vs Paul research agenda hypotheses]]
 * deep insights needed to build an ''aligned'' AGI? see also [[Different senses of claims about AGI]] i.e. it might not require deep insights to build any old AGI, but still require deep insights for an aligned one. This is basically like "how doomed are ''other'' approaches?"
 * maybe something like, how important is understanding what's going on / how much weight do you place on curiosity-driven research. e.g. [https://www.greaterwrong.com/posts/MG4ZjWQDrdpgeu8wG/zoom-in-an-introduction-to-circuits/comment/uxvSLFnmPFWG3K63w]
 ** possibly another way to phrase this: there is a kind of pattern of intellectual progress that MIRI sees, where first you realize something is a problem, then you convert it to math, then you solve it in unbounded form (i.e. given unlimited computation), then you do it in a practical way, and so on. See e.g. [https://www.greaterwrong.com/posts/aH7Xtuqa3fdJDrio9/program-search-and-incomplete-understanding] and [https://intelligence.org/files/OpenPhil2016Supplement.pdf#page=13].
+** "basic science" approach to AI [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#2__What_s_the_basic_case_for_HRAD_]
 
 ===Machine learning safety===
 
