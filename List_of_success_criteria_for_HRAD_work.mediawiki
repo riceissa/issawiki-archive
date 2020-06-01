@@ -1,6 +1,6 @@
 This page is a list of success criteria that have been proposed for [[HRAD]] work.
 
-
+* resembles the work of Turing, Shannon, Bayes, etc
 
 ==See also==
 
