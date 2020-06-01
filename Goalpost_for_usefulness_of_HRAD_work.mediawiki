@@ -19,6 +19,7 @@ In contrast, the kind of goalpost [[Daniel Dewey]] sets in [https://eaforum.issa
 
 ==See also==
 
+* [[List of success criteria for HRAD work]]
 * [[Something like realism about rationality]]
 
 [[Category:AI safety]]
