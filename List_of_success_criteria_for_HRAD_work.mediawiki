@@ -1,6 +1,7 @@
 This page is a list of success criteria that have been proposed for [[HRAD]] work.
 
 * resembles the work of Turing, Shannon, Bayes, etc
+* helps AGI programmers avoid mistakes analogous to the use of null-terminated strings in C
 
 ==See also==
 
