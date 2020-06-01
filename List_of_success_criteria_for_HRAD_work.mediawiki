@@ -3,6 +3,9 @@ This page is a list of success criteria that have been proposed for [[HRAD]] wor
 * resembles the work of Turing, Shannon, Bayes, etc
 * helps AGI programmers avoid mistakes analogous to the use of null-terminated strings in C
 * early advanced AI systems will be understandable in terms of HRAD's formalisms [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design] (need to clarify what it means to be understandable in terms of a formalism)
+* helps AGI programmers fix problems in early advanced AI systems
+* helps AGI programmers predict problems in early advanced AI systems
+* helps AGI programmers postdict/explain problems in early advanced AI systems
 
 ==See also==
 
