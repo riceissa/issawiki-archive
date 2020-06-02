@@ -1,4 +1,4 @@
-This page is a list of success criteria that have been proposed for [[HRAD]] work.
+This page is a list of success criteria that have been proposed for [[HRAD]] work. Most of these are correlated, so this isn't anything like a list of independent ways HRAD could succeed. The idea is to list out more concrete ways in which HRAD work will be useful.
 
 * resembles the work of Turing, Shannon, Bayes, etc
 * helps AGI programmers avoid mistakes analogous to the use of null-terminated strings in C
