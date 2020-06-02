@@ -1,5 +1,7 @@
 '''People watching''', according to me, refers to the art/science/act of observing people, judging them, classifying them, analyzing them, finding them, etc. etc.
 
+TODO: say something about Dunbar's number. there's a limit to how many people you can track ''closely'', but most people are so bad that they're not worth tracking closely, so it sort of works out in the end.. you still want to get to the point where you're at least somewhat familiar with a ton of people though. a big problem that i think other people have (i.e. people who are not gung ho about people watching) is that they don't store enough people's names and what they're like, so they don't even catch connections that come up. like let's say person X mentions person Y as a cool person to check out. and then like five months later, person Z also says person Y is cool. but by that point you've forgotten that person X said this, so your "internal karma" for person Y has reset, instead of accumulating. you want to avoid this sort of thing happening. human memory sucks, etc.
+
 ==Identifying good people==
 
 generic, high-level strategy:
