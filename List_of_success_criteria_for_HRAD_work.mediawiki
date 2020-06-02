@@ -7,6 +7,8 @@ This page is a list of success criteria that have been proposed for [[HRAD]] wor
 * helps AGI programmers predict problems in early advanced AI systems
 * helps AGI programmers postdict/explain problems in early advanced AI systems
 * ideas from HRAD will be a "useful source of inspiration" for ML/AGI work [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design]
+* when applying HRAD to actual systems, there will be "theoretically satisfying approximation methods" that make this application possible [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design]
+* when applying HRAD to actual systems, the approximation methods used will preserve the important desirable properties of HRAD work [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design]
 
 ==See also==
 
