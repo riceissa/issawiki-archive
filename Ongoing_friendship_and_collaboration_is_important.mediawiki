@@ -1,6 +1,6 @@
 Ongoing friendship and collaboration is to be contrasted with one-off replies you might get from people if you post something on the internet, or if you ask someone to take a look at something and they add comments to your google doc or something.
 
-The reason I care about ongoing friendship/collaboration is that if I have to contact a new person for every new topic, that creates too much friction/transaction costs which really drains me.
+The reason I care about ongoing friendship/collaboration is that if I have to contact a new person for every new topic, that creates too much friction/transaction costs which really drains me. Also big projects take a long time to complete, and even giving good feedback takes a long time to really understand what's going on. You can't just have random people on the internet spend 30 minutes and give a great reply (unless they've independently been thinking about this stuff for a long time).
 
 Ongoing friendships are also much more reliable than [[Online question-answering services are unreliable|online question-answering services]].
 
