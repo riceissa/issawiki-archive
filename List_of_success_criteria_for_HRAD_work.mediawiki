@@ -11,7 +11,7 @@ This page is a list of success criteria that have been proposed for [[HRAD]] wor
 * when applying HRAD to actual systems, the approximation methods used will preserve the important desirable properties of HRAD work [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design]
 * the conceptual framework chosen in HRAD work and the conceptual framework that best describes early advanced AI systems will be compatible enough for it to be enlightening to use HRAD to describe these systems [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design]
 * helps for "broadly understanding how the system is reasoning about the world" [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#Z6TbXivpjxWyc8NYM]
-* helps for verifying that the AI systems are aligned
+* helps for checking whether AI systems are aligned
 
 ==See also==
 
