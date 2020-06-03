@@ -3,6 +3,10 @@ The '''one wrong number problem''' has been discussed by [[Eliezer Yudkowsky]] i
 * To talk about complexity of human values: "But suppose one or more values are left out? What happens, metaphorically speaking, if the value list is ''almost'' right? Call this the one-wrong-number problem: My phone number has ten digits, but dialling nine out of ten digits correctly may not connect you to a person who is 90% similar to Eliezer Yudkowsky."<ref>https://intelligence.org/files/ComplexValues.pdf</ref>
 * To talk about discontinuities in technological progress: "And similarly, with chimpanzees we also have some indicators that at least their ability to do abstract science... There's what I like to call the "one wrong number" function curve or the "one wrong number" curve where dialing 90 percent of my phone number correctly does not get you 90 percent of Eliezer Yudkowsky."<ref>https://docs.google.com/document/pub?id=17yLL7B7yRrhV3J9NuiVuac3hNmjeKTVHnqiEa6UQpJk</ref>
 
+==See also==
+
+* [[Missing gear vs secret sauce]]
+
 ==References==
 
 <references/>
