@@ -44,5 +44,7 @@ what is the point of all of this?
 * find hubs like rationality community/EA/michael nielsen twitter and use it to find more people.
 * pay bounties to get recommendations for people (I am [https://www.facebook.com/groups/1781724435404945/permalink/2638709466373100/ currently trying this out]; i'll report back on results)
 * IRL networks -- i haven't found this as useful for finding smart people. I think it's fine for finding decent people and for finding friends/people you can trust.
+* find recommendations that smart people make (sometimes works, but in general goodness is not transitive)
+* start with smart people you already know, and then look for people who recommend/talk about this person. e.g. as of early 2020 i think it's still a reliable indicator of ''some'' quality if someone talks about wei dai unprompted. But obviously this doesn't work for more famous people like eliezer. another example is gary drescher -- very few people seem to know him/talk about him, so it is evidence of goodness if people ''do'' talk about him.
 
 [[Category:People watching]]
