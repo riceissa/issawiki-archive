@@ -1,3 +1,7 @@
-'''Missing gear for intelligence'''
+'''Missing gear for intelligence''' is an argument for a [[Discontinuous takeoff|discontinuity]] in AI takeoff.
+
+==See also==
+
+* [[Missing gear vs secret sauce]]
 
 [[Category:AI safety]]
