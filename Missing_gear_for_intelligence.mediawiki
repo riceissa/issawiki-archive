@@ -1,0 +1,3 @@
+'''Missing gear for intelligence'''
+
+[[Category:AI safety]]
