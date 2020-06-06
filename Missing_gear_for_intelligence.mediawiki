@@ -1,5 +1,7 @@
 '''Missing gear for intelligence''' (also called '''[[one wrong number problem]]''', '''step function''', '''understanding is discontinuous''', '''payoff thresholds argument''') is an argument for a [[Discontinuous takeoff|discontinuity]] in AI takeoff. Unlike a [[secret sauce for intelligence]], the missing gear argument does not require that the final part of AI development be a huge conceptual breakthrough.
 
+In IEM [[Eliezer]] writes "If the nearest competitor was previously only seven days behind, these seven days have now been amplified into a technological gulf enabling the leading AI to shut down, sandbox, or restrict the growth of any competitors it wishes to fetter."
+
 ==External links==
 
 * [https://sideways-view.com/2018/02/24/takeoff-speeds/ Takeoff speeds § “Understanding” is discontinuous]
