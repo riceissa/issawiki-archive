@@ -1,3 +1,7 @@
 When doing [[spaced proof review]] or even during normal Anki reviews, if you get stuck on a particular thing, that's a good thing to turn into a new ([[small card|small]]) Anki card.
 
+==See also==
+
+* [[Dealing with bad problems in spaced proof review]]
+
 [[Category:Spaced repetition]]
