@@ -1,0 +1,3 @@
+"One way of estimating how many years something will take is to estimate what fraction of progress toward it has been made over a fixed number of years, then to extrapolate the number of years needed for full progress." https://aiimpacts.org/surveys-on-fractional-progress-towards-hlai/
+
+[[Category:AI timelines arguments]]
