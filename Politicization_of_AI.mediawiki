@@ -1,0 +1,10 @@
+'''Politicization of AI''' is a hypothetical concern that discussions about AI and AI risk will become politicized/politically polarized, similar to how discussions about climate change have become politicized.
+
+==External links==
+
+* https://www.greaterwrong.com/posts/3jYwvwrNXyD3koHTM/open-and-welcome-thread-june-2020
+* https://www.greaterwrong.com/posts/x4tyb9di28b4n9EE2/trying-for-five-minutes-on-ai-strategy/comment/aPqz3GBypvreaMqnT
+* https://www.greaterwrong.com/posts/wTKjRFeSjKLDSWyww/possible-takeaways-from-the-coronavirus-pandemic-for-slow-ai/comment/8yivA9And2dFiZAtx
+* https://www.greaterwrong.com/posts/QknPz9JQTQpGdaWDp/an-80-why-ai-risk-might-be-solved-without-additional/comment/cExJJFrGYMCXkknmc
+
+[[Category:AI safety]]
