@@ -2,6 +2,8 @@
 
 In IEM [[Eliezer]] writes "If the nearest competitor was previously only seven days behind, these seven days have now been amplified into a technological gulf enabling the leading AI to shut down, sandbox, or restrict the growth of any competitors it wishes to fetter."<ref>https://intelligence.org/files/IEM.pdf#page=71</ref> The idea that a seven-day lead can result in a local foom makes me think Eliezer does not require the final missing gear to be a huge conceptual breakthrough.
 
+Another way of talking about missing gear is to talk about a discontinuity in the usefulness of the AI (i.e. "payoff thresholds"). e.g. at IQ 30 the AI is completely useless for AI research, but then at IQ 35 it's suddenly actually helpful (because it can finally automate some particular part of doing AI research). Then the first project that gets to that point can suddenly grow past everyone else. I'm not sure that missing gear and payoff thresholds are actually logically equivalent (check this).
+
 ==External links==
 
 * [https://sideways-view.com/2018/02/24/takeoff-speeds/ Takeoff speeds § “Understanding” is discontinuous]
