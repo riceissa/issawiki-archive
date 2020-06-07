@@ -4,6 +4,8 @@ In IEM [[Eliezer]] writes "If the nearest competitor was previously only seven d
 
 Another way of talking about missing gear is to talk about a discontinuity in the usefulness of the AI (i.e. "payoff thresholds"). e.g. at IQ 30 the AI is completely useless for AI research, but then at IQ 35 it's suddenly actually helpful (because it can finally automate some particular part of doing AI research). Then the first project that gets to that point can suddenly grow past everyone else. I'm not sure that missing gear and payoff thresholds are actually logically equivalent (check this).
 
+(Another different but related possibility is that someone team suddenly realizes a particular use case of AI in doing AI research. e.g. maybe lots of people have IQ 35 AIs, but one project realizes you can use them to speed up some particular part of research (before the other projects do) and suddenly they get a huge lead.)
+
 ==External links==
 
 * [https://sideways-view.com/2018/02/24/takeoff-speeds/ Takeoff speeds § “Understanding” is discontinuous]
