@@ -4,6 +4,12 @@ In IEM [[Eliezer]] writes "If the nearest competitor was previously only seven d
 
 Another way of talking about missing gear is to talk about a discontinuity in the usefulness of the AI (i.e. "payoff thresholds"). e.g. at IQ 30 the AI is completely useless for AI research, but then at IQ 35 it's suddenly actually helpful (because it can finally automate some particular part of doing AI research). Then the first project that gets to that point can suddenly grow past everyone else. I'm not sure that missing gear and payoff thresholds are actually logically equivalent (check this).
 
+actually, here's what I think now:
+
+* "understanding is discontinuous" is the least general (most specific) because it says the final piece is about understanding
+* "missing gear" is in the middle in terms of generality because it says the final piece is a "gear", so some structurally distinct thing?
+* "payoff thresholds" is the most general because it makes no assumption about the nature of the final piece, just that there is some imaginary line, and once you cross it something happens
+
 (Another different but related possibility is that someone team suddenly realizes a particular use case of AI in doing AI research. e.g. maybe lots of people have IQ 35 AIs, but one project realizes you can use them to speed up some particular part of research (before the other projects do) and suddenly they get a huge lead.)
 
 "But this conversation did get me thinking about the topic of culturally transmitted software that contributes to human general intelligence. That software can be an *important* gear even if it's an algorithmically shallow part of the overall machinery. Removing a few simple gears that are 2% of a machine's mass can reduce the machine's performance by way more than 2%. Feral children would be the case in point." "But as necessary as it may be to avoid feral children, this kind of shallow soft-software doesn't strike me as something that takes a long time to redevelop, compared to hard-software like the secrets of computational neuroscience." [https://www.facebook.com/yudkowsky/posts/10155616782514228] -- so in places like these, it makes it sound like Eliezer ''does'' expect a huge conceptual breakthrough near the end (right before AGI).
