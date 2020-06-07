@@ -14,4 +14,8 @@ Another way of talking about missing gear is to talk about a discontinuity in th
 
 * [[Missing gear vs secret sauce]]
 
+==References==
+
+<references/>
+
 [[Category:AI safety]]
