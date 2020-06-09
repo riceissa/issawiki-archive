@@ -1,4 +1,6 @@
-'''Missing gear for intelligence''' (also called '''[[one wrong number problem]]''', '''step function''', '''understanding is discontinuous''', '''payoff thresholds argument''') is an argument for a [[Discontinuous takeoff|discontinuity]] in AI takeoff. Unlike a [[secret sauce for intelligence]], the missing gear argument does not require that the final part of AI development be a huge conceptual breakthrough; instead, the final piece can be minor design tweaks, a payoff threshold in intelligence, or understanding being discontinuous.
+'''Missing gear for intelligence''' (also called '''[[one wrong number problem]]''', '''step function''', '''understanding is discontinuous''', '''payoff thresholds argument''') is an argument for a [[Discontinuous takeoff|discontinuity]] in AI takeoff. Unlike a [[secret sauce for intelligence]], the missing gear argument does not require that the final part of AI development be a huge conceptual breakthrough; instead, the final piece is small but nevertheless results in a discontinuity (see Variants section below for details).
+
+
 
 ==Variants==
 
@@ -9,6 +11,7 @@ actually, here's what I think now:
 * "understanding is discontinuous" is the least general (most specific) because it says the final piece is about understanding
 * "missing gear" is in the middle in terms of generality because it says the final piece is a "gear", so some structurally distinct thing? -- I think "missing gear" is also somewhat ambiguous about whether the final piece is big vs small
 * "payoff thresholds" is the most general because it makes no assumption about the nature of the final piece, just that there is some imaginary line, and once you cross it something happens
+* minor design tweaks
 
 (Another different but related possibility is that someone team suddenly realizes a particular use case of AI in doing AI research. e.g. maybe lots of people have IQ 35 AIs, but one project realizes you can use them to speed up some particular part of research (before the other projects do) and suddenly they get a huge lead.)
 
