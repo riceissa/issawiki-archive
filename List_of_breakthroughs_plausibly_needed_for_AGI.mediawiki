@@ -1,4 +1,6 @@
-* Looking at things like ''The MIT Encyclopedia of the Cognitive Sciences'' and Judea Pearl's work on causality and trying to estimate how many insights are required to build an AGI.<ref name="jane-street-debate">https://docs.google.com/document/pub?id=17yLL7B7yRrhV3J9NuiVuac3hNmjeKTVHnqiEa6UQpJk</ref>
+Looking at things like ''The MIT Encyclopedia of the Cognitive Sciences'' and Judea Pearl's work on causality and trying to estimate how many insights are required to build an AGI.<ref name="jane-street-debate">https://docs.google.com/document/pub?id=17yLL7B7yRrhV3J9NuiVuac3hNmjeKTVHnqiEa6UQpJk</ref>
+
+"Intelligence is mostly about architecture, or “knowledge” along the lines of knowing to look for causal structure (Bayes-net type stuff) in the environment; this kind of knowledge will usually be expressed procedurally as well as declaratively. Architecture is mostly about deep insights. This point has not yet been addressed (much) on Overcoming Bias, but Bayes nets can be considered as an archetypal example of “architecture” and “deep insight”. Also, ask yourself how lawful intelligence seemed to you before you started reading this blog, how lawful it seems to you now, then extrapolate outward from that." [https://www.greaterwrong.com/posts/z3kYdw54htktqt9Jb/what-i-think-if-not-why]
 
 see https://www.lesswrong.com/posts/5WECpYABCT62TJrhY/will-ai-undergo-discontinuous-progress#The_Conceptual_Arguments
 
