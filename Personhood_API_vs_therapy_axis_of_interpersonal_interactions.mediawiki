@@ -4,6 +4,7 @@ Building off of:
 * https://www.greaterwrong.com/posts/uxYemA2ttzjs8z8Eb/drive-by-low-effort-criticism/comment/Tj6nYSDEsMwrpKeKZ
 * https://www.greaterwrong.com/posts/WryaasZwceSyagGnu/the-alignment-competence-trade-off-part-1-coalition-size-and
 * https://medium.com/@ThingMaker/in-defense-of-punch-bug-68fcec56cd6b
+* https://lw2.issarice.com/posts/sDy6E2qjh6dmYBAtK/why-artificial-optimism#5QyGq3nEK8dC8pHEP
 
 public APIs for humans ([[Kevin Simler]]) vs employer who does therapy with you (to figure out and work around/through your personal problems): simler has argued that public norms and so forth are like bubble-wrap/public API around humans, to help them get along with each other. but an alternative is to NOT ignore these problems, and to actually basically do therapy for them, so you can get better aligned people. i'm thinking of situations like negotiating a raise. you could go the public API way, which is to be polite and dance around the topic or whatever. or you could get personal, and talk about why you need a raise, your personal goals, how to align your actions with the goals of the org, and so forth. i think smaller orgs can afford to do the latter.
 
