@@ -28,6 +28,8 @@ What kinds of evidence would shift our beliefs to one side of the disagreement o
 
 * Variation in scientific ability among humans suggests minor tweaks can lead to big improvements in ability: [[Wei Dai]]: "The biological von Neumann's brain must have been architecturally very similar to a typical university professor's. Nor could it have contained independent improvements to lots of different modules. Given this, I speculate that obtaining the analogous improvement in AI intelligence may only require a few design tweaks, which a relatively small project could find first by being luckier or a bit more talented than everyone else." [http://www.overcomingbias.com/2014/07/30855.html#comment-1502991300]
 ** possibly relevant: https://www.gwern.net/Differences
+* Variation in cognitive ability among chimps (what does this imply?)
+* Comparing scientific ability in chimps vs humans suggests that some sort of "missing gear" was added which made human intelligence much more general. (this can also suggest a secret sauce, depending on the final piece was)
 
 ==External links==
 
