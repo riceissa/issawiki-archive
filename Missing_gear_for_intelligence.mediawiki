@@ -14,6 +14,10 @@ actually, here's what I think now:
 
 "But this conversation did get me thinking about the topic of culturally transmitted software that contributes to human general intelligence. That software can be an *important* gear even if it's an algorithmically shallow part of the overall machinery. Removing a few simple gears that are 2% of a machine's mass can reduce the machine's performance by way more than 2%. Feral children would be the case in point." "But as necessary as it may be to avoid feral children, this kind of shallow soft-software doesn't strike me as something that takes a long time to redevelop, compared to hard-software like the secrets of computational neuroscience." [https://www.facebook.com/yudkowsky/posts/10155616782514228] -- so in places like these, it makes it sound like Eliezer ''does'' expect a huge conceptual breakthrough near the end (right before AGI).
 
+==Does Eliezer Yudkowsky believe in a missing gear?==
+
+I think [[Eliezer]]'s writings are somewhat ambiguous. In some places he seems to clearly be saying that he expects intelligence to have a [[secret sauce]], which would make a missing gear dynamic unnecessary. But in other places, he seems to expect instead a missing gear type dynamic.
+
 ==Evidence==
 
 What kinds of evidence would shift our beliefs to one side of the disagreement or the other? This section lists all the things that have been given as reasons for believing or not believing in a "missing gear" type dynamic.
