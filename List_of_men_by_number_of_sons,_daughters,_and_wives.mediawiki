@@ -310,6 +310,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 ==External links==
 
 * https://gist.github.com/riceissa/e42019ea299e98559052d83194cc4e97 -- a script that reads data from this page and computes an index
+* https://www.quora.com/Which-notable-people-have-never-married-stayed-single-their-entire-life/answer/Alex-K-Chen -- I should import some of these people into this current page at some point
 
 ==References==
 
