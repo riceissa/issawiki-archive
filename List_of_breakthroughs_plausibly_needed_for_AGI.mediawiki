@@ -2,6 +2,8 @@ Looking at things like ''The MIT Encyclopedia of the Cognitive Sciences'' and Ju
 
 "Intelligence is mostly about architecture, or “knowledge” along the lines of knowing to look for causal structure (Bayes-net type stuff) in the environment; this kind of knowledge will usually be expressed procedurally as well as declaratively. Architecture is mostly about deep insights. This point has not yet been addressed (much) on Overcoming Bias, but Bayes nets can be considered as an archetypal example of “architecture” and “deep insight”. Also, ask yourself how lawful intelligence seemed to you before you started reading this blog, how lawful it seems to you now, then extrapolate outward from that." [https://www.greaterwrong.com/posts/z3kYdw54htktqt9Jb/what-i-think-if-not-why]
 
+I think https://www.greaterwrong.com/posts/QrhAeKBkm2WsdRYao/searching-for-bayes-structure is also important for understanding Eliezer's view about what progress in AI looks like.
+
 see https://www.lesswrong.com/posts/5WECpYABCT62TJrhY/will-ai-undergo-discontinuous-progress#The_Conceptual_Arguments
 
 this isn't the same thing, but it's doing a similar sort of thing of asking "how will AGI be different from current ML systems?" http://www.foldl.me/2018/conceptual-issues-ai-safety-paradigmatic-gap/#potential-paradigmatic-changes-in-ai
