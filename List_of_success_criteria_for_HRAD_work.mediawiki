@@ -14,6 +14,7 @@ This page is a list of success criteria that have been proposed for [[HRAD]] wor
 * helps for "broadly understanding how the system is reasoning about the world" [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#Z6TbXivpjxWyc8NYM]
 * helps for checking whether AI systems are aligned
 * "developing a basic understanding of counterfactual reasoning improves our ability to understand the first AGI systems in a general way, and if we understand AGI better it's likelier we can build systems to address deception, edge instantiation, goal instability, and a number of other problems" [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#D3PDv7kqJuByt8TRr]
+* will HRAD result in a theory of rationality that is sufficiently precise to build hierarchies of abstraction? [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR]
 
 ==See also==
 
