@@ -91,7 +91,7 @@ How promising is MIRI-style work ([[HRAD]], agent foundations, embedded agency)?
 See also [[MIRI vs Paul research agenda hypotheses]]
 
 * How useful will HRAD work be for thinking about AGI? It's not clear to me whether the disagreement is mainly about which goalposts are the relevant ones (i.e. MIRI people have lower standards for what count as useful insights for AGI) vs an actual disagreement about how directly applicable MIRI work will be:
-** [[Goalpost for usefulness of HRAD work]]
+** [[Goalpost for usefulness of HRAD work]]; [[List of success criteria for HRAD work]]
 ** [[Something like realism about rationality]]. if there turns out to be no [[simple core algorithm for agency]], or if understanding agency better doesn't help us build an AGI, then we might not be in a better place wrt aligning AI.
 ** What will AGI look like?
 *** will AGI be agent-like? See also [[Comparison of terms related to agency]]
