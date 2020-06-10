@@ -18,6 +18,8 @@ I thought [https://www.greaterwrong.com/posts/ZFtesgbY9XwtqqyZ5/human-psycholing
 
 so what is paul's argument that once we reach a "takeoff level capability", we won't get a unipolar/[[decisive strategic advantage]] outcome? i think it's something like: because the runner-ups will have almost-as-capable AI, they can fight back somewhat effectively, and in a short time they will reach the current winner's capability (even while the current winner will be even ahead by then). it has to be something like this, since if we use the counterfactual in [https://lw2.issarice.com/posts/5WECpYABCT62TJrhY/will-ai-undergo-discontinuous-progress] where a seed-level AI is suddenly dropped into today's world, i think even paul would say there would be a sudden unipolar outcome. See [[counterfactual of dropping a seed AI into a world without other capable AI]].
 
+https://www.facebook.com/yudkowsky/posts/10154597918309228
+
 ==implications==
 
 let's look at paul's "Why does this matter?" section in his [https://sideways-view.com/2018/02/24/takeoff-speeds/ takeoff speeds] post.
