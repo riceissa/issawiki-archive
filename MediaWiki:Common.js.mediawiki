@@ -1,0 +1,4 @@
+/* Any JavaScript here will be loaded for all users on every page load. */
+
+mw.loader.load('/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&action=raw&ctype=text/javascript');
+mw.loader.load('/index.php?title=MediaWiki:Gadget-ReferenceTooltips.css&action=raw&ctype=text/css', 'text/css');
