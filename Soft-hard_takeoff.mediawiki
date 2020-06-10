@@ -1,3 +1,5 @@
+("Soft-hard takeoff" is a pretty horrible name; maybe something like "continuous takeoff + FOOM/locality" is better)
+
 a scenario i've been wondering about recently is where there is a stereotypical "soft takeoff" until around the point where the AI has somewhat-infra-human level general intelligence, and then once it crosses some threshold, a stereotypical "hard takeoff" happens.
 
 the only places where i've found any discussion of anything similar to this:
