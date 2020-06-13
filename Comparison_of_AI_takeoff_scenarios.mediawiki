@@ -21,6 +21,8 @@ How are Robin's and Paul's views different? Does Robin's takeoff scenario just h
 
 "I'm inclined to agree that some aspects of Robin's forecasts haven't fared well over the last few years (e.g. human object-level knowledge doesn't look like it's going to be very valuable), but I don't think anything is challenging the basic economics." [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155849456079228]
 
+There are some other comparison axes for different views on takeoff (wall clock time, GDP trend extrapolation [https://www.lesswrong.com/posts/YgNYA6pj2hPSDQiTE/distinguishing-definitions-of-takeoff?commentId=zyPxKXsX8ztEe6cuh]) but I actually don't think this is where the real disagreement is.
+
 ==See also==
 
 * [[Will there be significant changes to the world prior to some critical AI capability threshold being reached?]]
