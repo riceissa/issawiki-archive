@@ -11,11 +11,15 @@
 |-
 ! Date !! Initial segment + link !! Description
 |-
+| 2016-01-27 || [https://www.facebook.com/yudkowsky/posts/10153914357214228 People occasionally ask me about signs that the remaining timeline might be short. It's *very* easy for nonprofessionals to take too much alarm too easily. Deep Blue beating Kasparov at chess was *not* such a sign. Robotic cars are *not* such a sign.] ||
+|-
 | 2016-02-08 || [https://www.facebook.com/yudkowsky/posts/10153941386639228 I have one bet on at 2:3 against AlphaGo winning against Sedol in March - they get my $667 if AlphaGo wins, I get their $1000 if AlphaGo loses] ||
 |-
 | 2016-02-29 || [https://www.facebook.com/yudkowsky/posts/10153987984049228 This suggests that AlphaGo beating Sedol in March might not be nearly as out-of-character fast progress as I thought] ||
 |-
-| 2016-03-09 || [https://www.facebook.com/yudkowsky/posts/10154010758639228 Second match ongoing. #AlphaGo just made a move that everyone is saying nobody else would have played. #Sedol walked out of the room with his clock running, presumably to think about it.]
+| 2016-03-08 || [https://www.facebook.com/yudkowsky/posts/10154008064814228 With regards to tonight's match of Deepmind vs. Sedol, an example of an outcome that would indicate strong general AI progress would be if a sweating, nervous Sedol resigns on his first move, or if a bizarre-seeming pattern of Go stones causes Sedol to have a seizure.] ||
+|-
+| 2016-03-09 || [https://www.facebook.com/yudkowsky/posts/10154010758639228 Second match ongoing. #AlphaGo just made a move that everyone is saying nobody else would have played. #Sedol walked out of the room with his clock running, presumably to think about it.] ||
 |-
 | 2016-03-10 || [https://www.facebook.com/yudkowsky/posts/10154011176819228 It's possible that, contrary to hopeful commentators, #AlphaGo is not actually enriching the Go game for humans] ||
 |-
@@ -28,8 +32,6 @@
 | 2017-10-19 || [https://www.facebook.com/yudkowsky/posts/10155848910529228 AlphaGo Zero uses 4 TPUs, is built entirely out of neural nets with no handcrafted features, doesn't pretrain against expert games or anything else human, reaches a superhuman level after 3 days of self-play, and is the strongest version of AlphaGo yet] ||
 |}
 
-* https://www.facebook.com/yudkowsky/posts/10154008064814228
-* https://www.facebook.com/yudkowsky/posts/10153914357214228
 * https://www.facebook.com/yudkowsky/posts/10154120081504228
 * https://www.facebook.com/yudkowsky/posts/10154009668254228
 * Alpha Zero: https://www.facebook.com/yudkowsky/posts/10155992246384228
