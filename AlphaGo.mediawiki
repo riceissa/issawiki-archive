@@ -9,19 +9,25 @@
 
 {| class="sortable wikitable"
 |-
-! Date !! First sentence !! Description
+! Date !! Initial segment + link !! Description
+|-
+| 2016-02-08 || [https://www.facebook.com/yudkowsky/posts/10153941386639228 I have one bet on at 2:3 against AlphaGo winning against Sedol in March - they get my $667 if AlphaGo wins, I get their $1000 if AlphaGo loses] ||
 |-
 | 2016-02-29 || [https://www.facebook.com/yudkowsky/posts/10153987984049228 This suggests that AlphaGo beating Sedol in March might not be nearly as out-of-character fast progress as I thought] ||
 |-
-| 2016-02-08 || [https://www.facebook.com/yudkowsky/posts/10153941386639228 I have one bet on at 2:3 against AlphaGo winning against Sedol in March - they get my $667 if AlphaGo wins, I get their $1000 if AlphaGo loses] ||
+| 2016-03-09 || [https://www.facebook.com/yudkowsky/posts/10154010758639228 Second match ongoing. #AlphaGo just made a move that everyone is saying nobody else would have played. #Sedol walked out of the room with his clock running, presumably to think about it.]
+|-
+| 2016-03-10 || [https://www.facebook.com/yudkowsky/posts/10154011176819228 It's possible that, contrary to hopeful commentators, #AlphaGo is not actually enriching the Go game for humans] ||
+|-
+| 2016-03-11 || [https://www.facebook.com/yudkowsky/posts/10154018209759228 (Long.) As I post this, AlphaGo seems almost sure to win the third game and the match.] ||
+|-
+| 2016-03-13 || [https://www.facebook.com/yudkowsky/posts/10154024894449228 And then AlphaGo got confused in a way no human would and lost its 4th game] ||
+|-
+| 2016-03-13 || [https://www.facebook.com/yudkowsky/posts/10154027095839228 Okay, look, to everyone going "Aha but of course superhuman cognition will always be bugged for deep reason blah": Please remember that machine chess *is* out of the phase where a human can analyze it psychologically without computer assistance] ||
+|-
+| 2017-10-19 || [https://www.facebook.com/yudkowsky/posts/10155848910529228 AlphaGo Zero uses 4 TPUs, is built entirely out of neural nets with no handcrafted features, doesn't pretrain against expert games or anything else human, reaches a superhuman level after 3 days of self-play, and is the strongest version of AlphaGo yet] ||
 |}
 
-* https://www.facebook.com/yudkowsky/posts/10154011176819228
-* https://www.facebook.com/yudkowsky/posts/10155848910529228
-* https://www.facebook.com/yudkowsky/posts/10154018209759228
-* https://www.facebook.com/yudkowsky/posts/10154024894449228
-* https://www.facebook.com/yudkowsky/posts/10154010758639228
-* https://www.facebook.com/yudkowsky/posts/10154027095839228
 * https://www.facebook.com/yudkowsky/posts/10154008064814228
 * https://www.facebook.com/yudkowsky/posts/10153914357214228
 * https://www.facebook.com/yudkowsky/posts/10154120081504228
