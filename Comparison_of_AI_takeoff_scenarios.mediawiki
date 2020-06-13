@@ -19,6 +19,8 @@ This comment suggests more columns for the table: https://www.greaterwrong.com/p
 
 How are Robin's and Paul's views different? Does Robin's takeoff scenario just have extra/unnecessary parts (like massive modularity, architecture changes don't produce large advantages)? Or is there an actual difference in predictions?
 
+"I'm inclined to agree that some aspects of Robin's forecasts haven't fared well over the last few years (e.g. human object-level knowledge doesn't look like it's going to be very valuable), but I don't think anything is challenging the basic economics." [https://www.facebook.com/yudkowsky/posts/10155848910529228?comment_id=10155849456079228]
+
 ==See also==
 
 * [[Will there be significant changes to the world prior to some critical AI capability threshold being reached?]]
