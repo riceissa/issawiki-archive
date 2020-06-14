@@ -38,6 +38,9 @@ thought about henkin proof: i entered in some cards related to it a long time ag
 * [[Spaced proof review as a way to invent novel proofs]]
 * [[Spaced proof review as a way to understand key insights in a proof]]
 * For my spaced proof review, I make sure to [[Use paper during spaced repetition reviews|use paper]]
-* [[Linked list proof card]] -- this is sort of the opposite of the "spaced proof review" method
+* Alternatives to spaced proof review:
+** [[Linked list proof card]] -- this is sort of the opposite of the "spaced proof review" method
+** Cloze deletion for proofs
+** Adding lots of simple front-back cards, as described by [[Michael Nielsen]] http://cognitivemedium.com/srs-mathematics
 
 [[Category:Spaced repetition]]
