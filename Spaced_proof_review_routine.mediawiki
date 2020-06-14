@@ -8,6 +8,8 @@ For each proof/exercise:
 # [[Do an empty review of proof cards immediately after adding to prevent backlog]] (increase the "new cards per day" deck option to force the new card to be visible if you've already maxed out your new cards for the day).
 # After reviewing, move the cards to the main math problems deck.
 
+Some of these steps are needlessly complicated due to the way Anki works. In the future there may be a system that can automatically deal with proof cards, but at the moment I am not aware of any such system.
+
 Each day:
 
 # Review all cards that are due (sometimes, if there are too many due cards, I will try to do some of them and leave the rest to the following day. There's a lot of variance in number of due cards per day because of the way Anki works.) When reviewing, I use actual paper and pencil, and write down the proof on paper. I use scratch paper that I throw away when I'm done reviewing. (Any new insight I get when reviewing should be added to the back side of the card or in some other long-term notes) When scoring, I usually only use "Again" and "Good" (i.e. no "Easy" or "Hard").
