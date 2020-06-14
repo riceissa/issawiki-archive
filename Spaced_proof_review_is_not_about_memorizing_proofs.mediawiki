@@ -10,6 +10,6 @@ And of course, even if you do spaced proof review, you will be adding new proofs
 
 using anki as a problem bank (with my proofs deck): the spacing is more to make sure seeing the same problem over and over again does not trigger your annoyance threshold, than to memorize optimally. actually you're not even trying to memorize the proofs, but to "absorb the rhythm" of the underlying concepts. When you're proving things, there's a bunch of non-verbal instincts/"mental moves" that go on (which are pretty hard to consciously observe/reason about). The point isn't to do like supervised learning on the text of the proof and be able to reproduce it perfectly. instead, you're training yourself to practice these mental moves, in a spaced out way (spacing it out makes it non-annoying, and verifies that the ability is an instinct rather than a reflex/rote-memorized).
 
-See also Tim Gowers on memorizing proofs, e.g. [https://gowers.wordpress.com/2011/09/23/welcome-to-the-cambridge-mathematical-tripos/], [https://mathoverflow.net/a/3957]
+See also [[Tim Gowers]] on memorizing proofs, e.g. [https://gowers.wordpress.com/2011/09/23/welcome-to-the-cambridge-mathematical-tripos/], [https://mathoverflow.net/a/3957]
 
 [[Category:Spaced repetition]]
