@@ -12,13 +12,15 @@ The phrase "realism about rationality" was introduced by [[Richard Ngo]] in Sept
 * "Is there a theory of rationality that is sufficiently precise to build hierarchies of abstraction?"<ref>https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-YMNwHcPNPd4pDK7MR</ref>
 ** I think a more precise version of the above is the following: Will mathematical theories of embedded rationality always be the relatively-imprecise theories that can’t scale to “2+ levels above” in terms of abstraction?<ref>https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/aNHTM9iwfrCeAcHtn</ref>
 
-From Rohin's comment [https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality?commentId=iSubbXvKW7uM6rus6 here], we can build the case against "rationality realism" in three steps:
+From Rohin's comment [https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality?commentId=iSubbXvKW7uM6rus6 here], we can build the case against "rationality realism" using three premises:
 
 # It's very hard to use relatively-imprecise theories to build things "2+ levels above".
 # Real AGI systems are "2+ levels above" mathematical theories of embedded rationality.
 # Mathematical theories of embedded rationality will always be the relatively-imprecise theories that can't scale to "2+ levels above".
 
 In contrast, Richard's original case seems to be more like "mathematical theories of embedded rationality do not exist to be discovered", which seems off the mark.
+
+I think maybe Abram will reject premise (3) (since he did agree to the crux presented by Rohin). But I think Nate/Eliezer will rather reject premise (1), based on what they've been saying?
 
 ==notes==
 
