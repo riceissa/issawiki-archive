@@ -14,7 +14,7 @@ The phrase "realism about rationality" was introduced by [[Richard Ngo]] in Sept
 
 From Rohin's comment [https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality?commentId=iSubbXvKW7uM6rus6 here], we can build the case against "rationality realism" using three premises:
 
-# It's very hard to use relatively-imprecise theories to build things "2+ levels above".
+# It's very hard to use relatively-imprecise theories to build things "2+ levels above". (If MIRI people disagree with this premise, then it means they're fine with aiming for relatively-imprecise theories as the final output product of their research agenda. So in that case I would consider MIRI vs critics to have different [[List of success criteria for HRAD work|success criteria for HRAD work]].)
 # Real AGI systems are "2+ levels above" mathematical theories of embedded rationality.
 # Mathematical theories of embedded rationality will always be the relatively-imprecise theories that can't scale to "2+ levels above".
 
