@@ -9,7 +9,8 @@ The phrase "realism about rationality" was introduced by [[Richard Ngo]] in Sept
 ==Topics of disagreement==
 
 * the original "realism about rationality" claim: [describe the claim here]. This was then discussed on LW and a bunch of people took issue with the framing etc
-* "Is there a theory of rationality that is sufficiently precise to build hierarchies of abstraction?" [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-YMNwHcPNPd4pDK7MR]
+* "Is there a theory of rationality that is sufficiently precise to build hierarchies of abstraction?"<ref>https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-YMNwHcPNPd4pDK7MR</ref>
+* Will mathematical theories of embedded rationality always be the relatively-imprecise theories that can’t scale to “2+ levels above” in terms of abstraction?<ref>https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/aNHTM9iwfrCeAcHtn</ref>
 
 ==notes==
 
