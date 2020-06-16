@@ -1,4 +1,4 @@
-'''Something like realism about rationality''' is a topic of debate among people working on AI safety. The "something like" refers to the fact that the very topic of ''what the disagreement is even about'' is in disagreement. Thus the term gestures at some broad-ish cluster of things rather than one specific disagreement.
+'''Something like realism about rationality''' is a topic of debate among people working on AI safety. The "something like" refers to the fact that the very topic of ''what the disagreement is even about'' is in disagreement. Thus the term gestures at some broad-ish cluster of things rather than one specific disagreement. This topic comes up when discussing the value of [[MIRI]]'s [[HRAD]] work.
 
 ==History==
 
