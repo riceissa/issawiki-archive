@@ -28,7 +28,12 @@ In <ref>https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-ratio
 
 ...or something. Actually, maybe what's confusing me is what "relatively imprecise" vs "precise" actually means.
 
-Ok now, out of Rohin's three-step argument + the fourth step above, I think we can construct a ''positive'' case for HRAD work by inverting the negative case appropriately.
+Ok now, out of Rohin's three-step argument + the fourth step above, I think we can construct a ''positive'' case for HRAD work by inverting the negative case appropriately. Something like:
+
+# A precise theory about how to build agents from the ground up can be discovered.
+# ...
+
+Actually Rohin's argument is like (1 AND 2 AND 3) OR 4.
 
 ==notes==
 
