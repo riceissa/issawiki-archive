@@ -18,8 +18,6 @@ The phrase "realism about rationality" was introduced by [[Richard Ngo]] in Sept
 
 (See also Wei Dai's [https://www.greaterwrong.com/posts/JSjagTDGdz2y6nNE3/on-the-purposes-of-decision-theory-research list], where he specifically says concretely applying decision theory stuff to an AI isn't what is motivating him. And Rob's [https://www.greaterwrong.com/posts/uKbxi2EJ3KBNRDGpL/comment-on-decision-theory post], which has more info.)
 
-[[Eliezer]]: "Techniques you can actually adapt in a safe AI, come the day, will probably have very simple cores — the sort of core concept that takes up three paragraphs, where any reviewer who didn’t spend five years struggling on the problem themselves will think, “Oh I could have thought of that.” Someday there may be a book full of clever and difficult things to say about the simple core — contrast the simplicity of the core concept of causal models, versus the complexity of proving all the clever things Judea Pearl had to say about causal models. But the planetary benefit is mainly from posing understandable problems crisply enough so that people can see they are open, and then from the simpler abstract properties of a found solution — complicated aspects will not carry over to real AIs later." [https://intelligence.org/files/OpenPhil2016Supplement.pdf]
-
 ==See also==
 
 * [[Secret sauce for intelligence]]
