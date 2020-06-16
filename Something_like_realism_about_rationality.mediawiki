@@ -24,6 +24,12 @@ I think maybe [[Abram]] will reject premise (3) (since he did agree to the crux 
 
 In <ref>https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz</ref> Abram gives two possible meanings for "model agency exactly" (which I take to be the what a mathematical theory of embedded rationality must do), namely building agents from the ground up vs being able to take an arbitrary AI system (e.g. one built with ML) and then being able to predict roughly what it does. Abram's claim seems to be that doing the former will help with the latter, even if the predictions in the latter context won't be super precise. So this seems to be a denial of Rohin's (3) above.
 
+I think there could be maybe another step in Rohin's argument, something like:
+
+4. even a precise/mathematical theory is difficult to scale "2+ levels above"
+
+...or something. Actually, maybe what's confusing me is what "relatively imprecise" vs "precise" actually means.
+
 ==notes==
 
 "The main case for HRAD problems is that we expect them to help in a gestalt way with many different known failure modes (and, plausibly, unknown ones). E.g., 'developing a basic understanding of counterfactual reasoning improves our ability to understand the first AGI systems in a general way, and if we understand AGI better it's likelier we can build systems to address deception, edge instantiation, goal instability, and a number of other problems'." [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#D3PDv7kqJuByt8TRr] -- so perhaps the disagreement is more like (or additionally about) "at what level of 'making it easy to design the right systems' is HRAD work justified?", where MIRI is like "being analogous to Bayesian justifications in modern ML is enough" and skeptics are like "you need a theory sufficiently precise to build a hierarchy of abstractions/axiomatically specify AGI!"
