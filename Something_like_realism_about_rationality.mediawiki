@@ -22,7 +22,7 @@ In contrast, Richard's original case seems to be more like "mathematical theorie
 
 I think maybe [[Abram]] will reject premise (3) (since he did agree to the crux presented by Rohin). But I think Nate/Eliezer will rather reject premise (1), based on what they've been saying?
 
-In <ref>https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz</ref> Abram gives two possible meanings for "model agency exactly" (which I take to be the what a mathematical theory of embedded rationality must do), namely building agents from the ground up vs being able to take an arbitrary AI system (e.g. one built with ML) and then being able to predict roughly what it does. Abram's claim seems to be that doing the former will help with the latter, even if the predictions in the latter context won't be super precise. So this seems to be a denial of Rohin's (3) above.
+In <ref>https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz</ref> Abram gives two possible meanings for "model agency exactly" (which I take to be the what a mathematical theory of embedded rationality must do), namely building agents from the ground up vs being able to take an arbitrary AI system (e.g. one built with ML) and then being able to predict roughly what it does. Abram's claim seems to be that doing the former will help with the latter, even if the predictions in the latter context won't be super precise. So this seems to be a denial of Rohin's (3) above. So wait, does Rohin reject that we can build agents from the ground up, or that doing so won't help with predicting AI systems even in broad strokes?
 
 I think there could be maybe another step in Rohin's argument, something like:
 
