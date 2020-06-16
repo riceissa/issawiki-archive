@@ -22,6 +22,8 @@ In contrast, Richard's original case seems to be more like "mathematical theorie
 
 I think maybe Abram will reject premise (3) (since he did agree to the crux presented by Rohin). But I think Nate/Eliezer will rather reject premise (1), based on what they've been saying?
 
+In https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz Abram gives two possible meanings for "model agency exactly" (which I take to be the what a mathematical theory of embedded rationality must do).
+
 ==notes==
 
 "The main case for HRAD problems is that we expect them to help in a gestalt way with many different known failure modes (and, plausibly, unknown ones). E.g., 'developing a basic understanding of counterfactual reasoning improves our ability to understand the first AGI systems in a general way, and if we understand AGI better it's likelier we can build systems to address deception, edge instantiation, goal instability, and a number of other problems'." [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#D3PDv7kqJuByt8TRr] -- so perhaps the disagreement is more like (or additionally about) "at what level of 'making it easy to design the right systems' is HRAD work justified?", where MIRI is like "being analogous to Bayesian justifications in modern ML is enough" and skeptics are like "you need a theory sufficiently precise to build a hierarchy of abstractions/axiomatically specify AGI!"
