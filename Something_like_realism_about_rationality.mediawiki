@@ -28,6 +28,8 @@ In <ref>https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-ratio
 
 ...or something. Actually, maybe what's confusing me is what "relatively imprecise" vs "precise" actually means.
 
+Ok now, out of Rohin's three-step argument + the fourth step above, I think we can construct a ''positive'' case for HRAD work by inverting the negative case appropriately.
+
 ==notes==
 
 "The main case for HRAD problems is that we expect them to help in a gestalt way with many different known failure modes (and, plausibly, unknown ones). E.g., 'developing a basic understanding of counterfactual reasoning improves our ability to understand the first AGI systems in a general way, and if we understand AGI better it's likelier we can build systems to address deception, edge instantiation, goal instability, and a number of other problems'." [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#D3PDv7kqJuByt8TRr] -- so perhaps the disagreement is more like (or additionally about) "at what level of 'making it easy to design the right systems' is HRAD work justified?", where MIRI is like "being analogous to Bayesian justifications in modern ML is enough" and skeptics are like "you need a theory sufficiently precise to build a hierarchy of abstractions/axiomatically specify AGI!"
