@@ -8,6 +8,8 @@ see https://www.lesswrong.com/posts/5WECpYABCT62TJrhY/will-ai-undergo-discontinu
 
 this isn't the same thing, but it's doing a similar sort of thing of asking "how will AGI be different from current ML systems?" http://www.foldl.me/2018/conceptual-issues-ai-safety-paradigmatic-gap/#potential-paradigmatic-changes-in-ai
 
+"Later on, there's an exciting result in a more interesting algorithm that operates on a more general level (I'm not being very specific here, for the same reason I don't talk about my ideas for building really great bioweapons)." [https://www.facebook.com/yudkowsky/posts/10154018209759228]
+
 ==References==
 
 <references/>
