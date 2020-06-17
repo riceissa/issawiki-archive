@@ -35,6 +35,23 @@ Ok now, out of Rohin's three-step argument + the fourth step above, I think we c
 
 Actually Rohin's argument is like (1 AND 2 AND 3) OR 4.
 
+----
+
+Another way to state it.
+
+1. There's potentially a disagreement about what output miris research will have. Like what the final product looks like. E.g. Richard might think there can't be a nice theory as output, so there's a restriction on what the output can look like.
+
+2. For some of those final products, there's a disagreement about whether it's sufficiently helpful for aligning ai.
+You could also turn this around and ask what output would be sufficient to be helpful.
+
+so Richard is (1), and Rohin is (2).
+
+like, richard might think a mathematical theory of embedded rationality is impossible; whereas rohin just seems to think that having such a theory wouldn't help you align AGI.
+
+What about Daniel Dewey? It's a little unclear, as nate pointed out: "I’m unclear on whether we miscommunicated about what sort of thing I mean by “basic insights”, or whether we have a disagreement about how useful principled justifications are in modern practice when designing high-reliability systems." 
+
+Daniel could be (1) if he misunderstood what MIRI's aims are, i.e. nate's first option; and daniel could be (2) if it's about the latter option nate presents.
+
 ==notes==
 
 "The main case for HRAD problems is that we expect them to help in a gestalt way with many different known failure modes (and, plausibly, unknown ones). E.g., 'developing a basic understanding of counterfactual reasoning improves our ability to understand the first AGI systems in a general way, and if we understand AGI better it's likelier we can build systems to address deception, edge instantiation, goal instability, and a number of other problems'." [https://eaforum.issarice.com/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design#D3PDv7kqJuByt8TRr] -- so perhaps the disagreement is more like (or additionally about) "at what level of 'making it easy to design the right systems' is HRAD work justified?", where MIRI is like "being analogous to Bayesian justifications in modern ML is enough" and skeptics are like "you need a theory sufficiently precise to build a hierarchy of abstractions/axiomatically specify AGI!"
