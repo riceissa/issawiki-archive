@@ -12,7 +12,7 @@ The phrase "realism about rationality" was introduced by [[Richard Ngo]] in Sept
 * "Is there a theory of rationality that is sufficiently precise to build hierarchies of abstraction?"<ref>https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality#comment-YMNwHcPNPd4pDK7MR</ref>
 ** I think a more precise version of the above is the following: Will mathematical theories of embedded rationality always be the relatively-imprecise theories that can’t scale to “2+ levels above” in terms of abstraction?<ref>https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/aNHTM9iwfrCeAcHtn</ref>
 
-From Rohin's comment [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comments/iSubbXvKW7uM6rus6 here], we can build the case against "rationality realism" using three premises:
+From Rohin's comment [https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/iSubbXvKW7uM6rus6 here], we can build the case against "rationality realism" using three premises:
 
 # It's very hard to use relatively-imprecise theories to build things "2+ levels above". (If MIRI people disagree with this premise, then it means they're fine with aiming for relatively-imprecise theories as the final output product of their research agenda.)
 # Real AGI systems are "2+ levels above" mathematical theories of embedded rationality.
