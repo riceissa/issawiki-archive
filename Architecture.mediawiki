@@ -26,6 +26,8 @@ if you come up with a simple learning algorithm that then has to spend a lot of 
 
 "Intelligence is mostly about architecture, or “knowledge” along the lines of knowing to look for causal structure (Bayes-net type stuff) in the environment; this kind of knowledge will usually be expressed procedurally as well as declaratively. Architecture is mostly about deep insights. This point has not yet been addressed (much) on Overcoming Bias, but Bayes nets can be considered as an archetypal example of “architecture” and “deep insight”. Also, ask yourself how lawful intelligence seemed to you before you started reading this blog, how lawful it seems to you now, then extrapolate outward from that." [https://www.greaterwrong.com/posts/z3kYdw54htktqt9Jb/what-i-think-if-not-why]
 
+potential synonym and term to search for in the Hanson-Yudkowsky debate: "The Atari case was an example of an event that Robin Hanson called "architecture" and doubted, and that I called "insight"." [https://www.facebook.com/yudkowsky/posts/10154018209759228]
+
 ==See also==
 
 * [[Content sharing between AIs]]
