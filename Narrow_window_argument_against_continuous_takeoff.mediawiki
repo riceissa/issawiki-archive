@@ -11,6 +11,13 @@ narrow window argument against soft takeoff: eliezer says at some points that yo
 
 counter arguement? https://ea.greaterwrong.com/posts/tDk57GhrdK54TWzPY/i-m-buck-shlegeris-i-do-research-and-outreach-at-miri-ama/comment/R6HdmWSx9WfM3Dciu
 
+This part might also be relevant:
+
+<blockquote><p>Human-equivalent competence is a small and undistinguished region in possibility-space.
+<p>As I tweeted early on when the first game still seemed in doubt, "Thing that would surprise me most about #alphago vs. #sedol: for either player to win by three games instead of four or five."
+<p>Since Deepmind picked a particular challenge time in advance, rather than challenging at a point where their AI seemed just barely good enough, it was improbable that they'd make *exactly* enough progress to give Sedol a nearly even fight.
+<p>AI is either overwhelmingly stupider or overwhelmingly smarter than you. The more other AI progress and the greater the hardware overhang, the less time you spend in the narrow space between these regions. There was a time when AIs were roughly as good as the best human Go-players, and it was a week in late January.</blockquote>
+
 ==References==
 
 <references/>
