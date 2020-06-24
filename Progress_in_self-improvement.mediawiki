@@ -4,6 +4,8 @@
 
 "before we have AI that radically accelerates AI development, the slow takeoff argument suggests we will have AI that ''significantly'' accelerates AI development (and before that, ''slightly'' accelerates development). That is, an AI is just another, faster step in the hyperbolic growth we are currently experiencing, which corresponds to a further increase in rate but not a discontinuity (or even a discontinuity in rate)."<ref>https://sideways-view.com/2018/02/24/takeoff-speeds/</ref>
 
+"Eliezer seems to have, and this page seems to reflect, strong intuitions about "self-modification" beyond what you would expect from synonymy with "AI systems doing AI design and implementation." In my view of the world, there is no meaningful distinction between these things, and this post sounds confused. I think it would be worth pushing more on this divergence."<ref>https://arbital.com/p/KANSI/</ref>
+
 ==See also==
 
 * [[Secret sauce for intelligence]]
