@@ -20,6 +20,10 @@ This part might also be relevant:<ref>https://www.facebook.com/yudkowsky/posts/1
 
 [https://www.greaterwrong.com/posts/66FKFkWAugS8diydF/modelling-continuous-progress This post] can be read as an argument against a narrow window, since it introduces a new parameter and shows that we get continuous takeoff for a large range of that parameter.
 
+==See also==
+
+* [[Progress in self-improvement]]
+
 ==References==
 
 <references/>
