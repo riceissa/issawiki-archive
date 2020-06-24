@@ -1,0 +1,8 @@
+"Also an AI which recursively improves itself forever will probably be preceded by AIs which self improve to a lesser extent, so the field will be moving fast already." https://meteuphoric.com/2009/10/16/how-far-can-ai-jump/
+
+==See also==
+
+* [[Secret sauce for intelligence]]
+* [[Missing gear for intelligence]]
+
+[[Category:AI safety]]
