@@ -43,6 +43,10 @@ What kinds of evidence would shift our beliefs to one side of the disagreement o
 
 * [[Missing gear vs secret sauce]]
 
+==notes==
+
+* Does AI impacts's [https://aiimpacts.org/likelihood-of-discontinuous-progress-around-the-development-of-agi/#Payoff_thresholds payoff thresholds] section assume that the threshold can be determined in advance? (rather than that just there ''is'' such a threshold, but we don't know its location.)
+
 ==References==
 
 <references/>
