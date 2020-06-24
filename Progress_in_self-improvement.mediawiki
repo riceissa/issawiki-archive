@@ -1,3 +1,7 @@
+One of the differences in visualization between proponents of [[hard takeoff]] and proponents of [[continuous takeoff]] is on how discretely an AI will obtain the ability to self-improve. Hard takeoff proponents seem to locate a specific moment in time when an AI becomes capable of self-improvement (and then immediately starting a [[FOOM]]), whereas continuous takeoff proponents visualize progress in self-improvement as gradual: before there is an AI that is good at self-improvement, there is an AI that is somewhat good at self-improvement, and so on.
+
+==Continuous takeoff quotes==
+
 "Also an AI which recursively improves itself forever will probably be preceded by AIs which self improve to a lesser extent, so the field will be moving fast already."<ref>https://meteuphoric.com/2009/10/16/how-far-can-ai-jump/</ref>
 
 "If you take the self-improving software – of course, we have software that self improves, it just does a lousy job of it. If you imagine steady improvement in the self-improvement, that doesn't give a local team a strong advantage. You have to imagine that there's some clever insight that gives a local team a vast, cosmically vast, advantage in its ability to self-improve compared to the other teams such that not only can it self improve, but it self improves like gangbusters in a very short time."<ref>https://docs.google.com/document/pub?id=17yLL7B7yRrhV3J9NuiVuac3hNmjeKTVHnqiEa6UQpJk</ref>
