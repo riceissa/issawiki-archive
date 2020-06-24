@@ -14,7 +14,7 @@ One of the differences in visualization between proponents of [[hard takeoff]] a
 
 * [[Secret sauce for intelligence]]
 * [[Missing gear for intelligence]]
-* [[Narrow window argument against continuous takeoff]] -- this might be one argument against believing self-improvement progress is gradual; if there is some "self-improvement ability parameter", then it might be that there is a very narrow range between "self-improvement doesn't totally suck" and "self-improvement is narrowly superhuman", i.e. most values of the parameter result in self-improvement ability either being completely useless or strongly superhuman.
+* [[Narrow window argument against continuous takeoff]] -- this might be one argument against believing self-improvement progress is gradual; if there is some "self-improvement ability parameter", then it might be that there is a very narrow range between "self-improvement doesn't totally suck" and "self-improvement is narrowly superhuman", i.e. most values of the parameter result in self-improvement ability either being completely useless or strongly superhuman. Or maybe more like, progress in self-improvement is still continuous, but a small initial improvement in self-improvement ability could potentially rapidly cascade into something that out-runs all other AI projects.
 
 ==References==
 
