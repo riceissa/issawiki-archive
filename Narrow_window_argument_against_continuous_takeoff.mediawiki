@@ -18,6 +18,8 @@ This part might also be relevant:<ref>https://www.facebook.com/yudkowsky/posts/1
 <p>Since Deepmind picked a particular challenge time in advance, rather than challenging at a point where their AI seemed just barely good enough, it was improbable that they'd make *exactly* enough progress to give Sedol a nearly even fight.
 <p>AI is either overwhelmingly stupider or overwhelmingly smarter than you. The more other AI progress and the greater the hardware overhang, the less time you spend in the narrow space between these regions. There was a time when AIs were roughly as good as the best human Go-players, and it was a week in late January.</blockquote>
 
+[https://www.greaterwrong.com/posts/66FKFkWAugS8diydF/modelling-continuous-progress This post] can be read as an argument against a narrow window, since it introduces a new parameter and shows that we get continuous takeoff for a large range of that parameter.
+
 ==References==
 
 <references/>
