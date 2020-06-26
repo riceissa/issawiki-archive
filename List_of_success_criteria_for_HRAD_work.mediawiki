@@ -23,4 +23,8 @@ This page is a list of success criteria that have been proposed for [[HRAD]] wor
 * [[Something like realism about rationality]]
 * [[Goalpost for usefulness of HRAD work]]
 
+==External links==
+
+* https://www.greaterwrong.com/posts/BGxTpdBGbwCWrGiCL/plausible-cases-for-hrad-work-and-locating-the-crux-in-the
+
 [[Category:AI safety]]
