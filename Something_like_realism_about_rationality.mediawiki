@@ -65,6 +65,10 @@ Daniel could be (1) if he misunderstood what MIRI's aims are, i.e. nate's first 
 * [[Goalpost for usefulness of HRAD work]]
 * [[List of success criteria for HRAD work]]
 
+==External links==
+
+* https://www.greaterwrong.com/posts/BGxTpdBGbwCWrGiCL/plausible-cases-for-hrad-work-and-locating-the-crux-in-the
+
 ==References==
 
 <references/>
