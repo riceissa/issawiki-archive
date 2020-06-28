@@ -2,7 +2,7 @@ There's something really deep/strange going on between Anki cards vs [[spaced wr
 
 "notes identity is very crude right now: we just check the sha1 hash, so any modification to a note will turn it into a note with different identity, which means the review schedule will reset. I think there's a decent chance this is actually ok: the notes you modify are the notes you are actually engaging with, so you actually want them around more frequently."<ref>https://github.com/riceissa/spaced-inbox#todo</ref>
 
-This suggests that the buttons "Good", "Again", "Hard", "Easy" are not the right abstractions to be using for responses to an SRS prompt. An SRS system that integrated both knowledge-based flashcards (to be memorized) and a writing inbox (to develop an idea over time) would need responses which "feel right" in both contexts.
+This suggests that the buttons "Good", "Again", "Hard", "Easy" are not the right abstractions to be using for responses to an SRS prompt. An SRS system that integrated both knowledge-based flashcards (to be memorized) and a writing inbox (to develop an idea over time) would need responses which "feel right" in both contexts. If an SRS is [[Spaced everything|extended even further to other contexts]], then we probably also want responses that work in all contexts.
 
 Related idea: so interestingly, if you want to implement like a SRS for note taking, then there are two distinct reasons why you might want to "push back" a note further into the future: (1) you're like "meh, this ideas sucks, don't need to see it for a long time"; (2) you're like "this is a great idea! but I know it very well/remembered it all this time, so I don't need to be reminded about it for a long time".
 
