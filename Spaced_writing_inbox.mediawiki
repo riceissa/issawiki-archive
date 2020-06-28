@@ -1,0 +1,13 @@
+A '''spaced writing inbox''' is a [[writing inbox]] that has [[spaced repetition]] built in, so that one is reminded of items in the inbox at spaced intervals.
+
+==Implementations==
+
+* My own spaced inbox, which works with any writing inbox that is in a plain text file.<ref>https://github.com/riceissa/spaced-inbox</ref>
+* David Noël-Romas has apparently built a note-taking system, but I don't think it is publicly available. "The interface has a global “spacing” mode. Effectively, this turns every single entry of any sort into something like an Anki card, and hides any entries which are not scheduled for review. (This is the most powerful feature of the entire tool, and a concept which I shamelessly stole from Andy Matuschak.)"<ref>https://davidnoelromas.com/2020/02/03/toward-my-own-memex.html</ref>
+* Andy Matuschak has talked about writing inbox + spaced repetition, and might have a working system, but I haven't seen him actually talk in detail about an implementation. My understanding is that he is working toward something much more ambitious, that does spaced repetition as a "basic service" in an integrated/glue-like manner.
+
+==References==
+
+<references/>
+
+[[Category:Spaced repetition]]
