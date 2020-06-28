@@ -1,4 +1,4 @@
-There's something really deep/strange going on between Anki cards vs spaced writing inbox, that I haven't seen anyone (not even Andy) talk about
+There's something really deep/strange going on between Anki cards vs [[spaced writing inbox]], that I haven't seen anyone (not even Andy) talk about
 
 when you review cards in Anki, pressing "good" (meaning you got the answer right) makes it show up later in time, whereas pressing "again" (meaning you got it wrong) makes it show up sooner in time
 
