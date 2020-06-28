@@ -1,19 +1,8 @@
-There's something really deep/strange going on between Anki cards vs [[spaced writing inbox]], that I haven't seen anyone (not even Andy) talk about
-
-when you review cards in Anki, pressing "good" (meaning you got the answer right) makes it show up later in time, whereas pressing "again" (meaning you got it wrong) makes it show up sooner in time
-
-but with a writing inbox, things are arguably reversed: if you interact with a note a lot, that means you remember it more, but it also means it's an interesting note so you want to keep seeing it to build on it more and more; whereas a bad note is a bad idea so you don't want to be reminded of it very much
-
-in other words, saying "good" ( = good idea) should make it come up sooner, and saying "bad" ( = bad idea) should make it come up later
+There's something really deep/strange going on between Anki cards vs [[spaced writing inbox]], that I haven't seen anyone (not even Andy) talk about. When you review cards in Anki, pressing "good" (meaning you got the answer right) makes it show up later in time, whereas pressing "again" (meaning you got it wrong) makes it show up sooner in time. But with a writing inbox, things are arguably reversed: if you interact with a note a lot, that means you remember it more, but it also means it's an interesting note so you want to keep seeing it to build on it more and more; whereas a bad note is a bad idea so you don't want to be reminded of it very much. In other words, saying "good" (= good idea) should make it come up sooner, and saying "bad" (= bad idea, which sounds like "again") should make it come up later.
 
 "notes identity is very crude right now: we just check the sha1 hash, so any modification to a note will turn it into a note with different identity, which means the review schedule will reset. I think there's a decent chance this is actually ok: the notes you modify are the notes you are actually engaging with, so you actually want them around more frequently."<ref>https://github.com/riceissa/spaced-inbox#todo</ref>
 
-related idea:
-
-so interestingly, if you want to implement like a SRS for note taking, then there are two distinct reasons why you might want to "push back" a note further into the future:
-
-# you're like "meh, this ideas sucks, don't need to see it for a long time"
-# you're like "this is a great idea! but i know it very well/remembered it all this time, so i don't need to be reminded about it for a long time"
+Related idea: so interestingly, if you want to implement like a SRS for note taking, then there are two distinct reasons why you might want to "push back" a note further into the future: (1) you're like "meh, this ideas sucks, don't need to see it for a long time"; (2) you're like "this is a great idea! but I know it very well/remembered it all this time, so I don't need to be reminded about it for a long time".
 
 ==References==
 
