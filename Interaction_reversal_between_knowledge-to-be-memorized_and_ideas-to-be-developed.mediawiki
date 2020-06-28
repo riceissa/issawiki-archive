@@ -11,8 +11,9 @@ in other words, saying "good" ( = good idea) should make it come up sooner, and 
 related idea:
 
 so interestingly, if you want to implement like a SRS for note taking, then there are two distinct reasons why you might want to "push back" a note further into the future:
-1. you're like "meh, this ideas sucks, don't need to see it for a long time"
-2. you're like "this is a great idea! but i know it very well/remembered it all this time, so i don't need to be reminded about it for a long time"
+
+# you're like "meh, this ideas sucks, don't need to see it for a long time"
+# you're like "this is a great idea! but i know it very well/remembered it all this time, so i don't need to be reminded about it for a long time"
 
 ==References==
 
