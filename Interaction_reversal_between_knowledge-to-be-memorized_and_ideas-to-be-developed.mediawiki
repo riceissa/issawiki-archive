@@ -8,6 +8,12 @@ in other words, saying "good" ( = good idea) should make it come up sooner, and 
 
 "notes identity is very crude right now: we just check the sha1 hash, so any modification to a note will turn it into a note with different identity, which means the review schedule will reset. I think there's a decent chance this is actually ok: the notes you modify are the notes you are actually engaging with, so you actually want them around more frequently."<ref>https://github.com/riceissa/spaced-inbox#todo</ref>
 
+related idea:
+
+so interestingly, if you want to implement like a SRS for note taking, then there are two distinct reasons why you might want to "push back" a note further into the future:
+1. you're like "meh, this ideas sucks, don't need to see it for a long time"
+2. you're like "this is a great idea! but i know it very well/remembered it all this time, so i don't need to be reminded about it for a long time"
+
 ==References==
 
 <references/>
