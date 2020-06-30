@@ -13,3 +13,5 @@ I think an issue could be low-quality/spammy submissions, but this can probably 
 content could be seeded by contacting students who just took a course at a university, e.g. search for all universities using a certain textbook, find students taking that course, and ask them for solutions in exchange for payment
 
 like, since the work ''has already been done'', you just need to convince them to hand it over. So this is really different from other network effect problems, like starting a wiki (where the work ''hasn't'' been done, so you need people to do work for an empty site) or starting a new social networking site, where you're asking people to hang out in a place where nobody else is hanging out.
+
+Apparently https://en.wikipedia.org/wiki/Course_Hero does something like this, but I don't think they actually pay people for submitting solutions (instead they give out "unlocks" which can be used to access more content?)
