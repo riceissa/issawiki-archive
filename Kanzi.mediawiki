@@ -2,4 +2,8 @@
 
 "I recommend Terrence Deacon’s ''The Symbolic Species'' for some good discussion of the surprising importance of the shallow algorithms and parameters that can get transmitted culturally. The human-raised chimpanzee Kanzi didn’t become a human, because that takes deeper and more neural algorithms than imitating the apes around you can transmit, but Kanzi was a lot smarter than other chimpanzees in some interesting ways."<ref>https://www.greaterwrong.com/posts/YicoiQurNBxSp7a65/is-clickbait-destroying-our-general-intelligence/comment/Cva4XBXsPcwjyFLAa</ref>
 
+==References==
+
+<references/>
+
 [[Category:AI safety]]
