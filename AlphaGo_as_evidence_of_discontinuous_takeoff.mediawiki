@@ -1,3 +1,12 @@
-blah. fill this in later.
+lw question: was there a discontinuity in Go capability within deepmind itself? if so, isn't that evidence for discontinuities in general? if not, what is the reason it is not evidence for a discontinuity?
+why aren't people asking things like "how many attempts did deepmind make to hit upon the alphago architecture?" in particular, how good was the second best attempt? If there are many architectures that were thrown away, you'd expect it a more continuous improvement between different attempts.
+actually hanson doesn't care if there's a discontinuity here, even within deepmind. because his point is that Go is like a narrow tech, not like a city or country where you need to do well on lots of tasks. but others like paul might care?
+
+would we have seen a discontinuity in computer Go playing ability if there was economic incentive?
+theoretically we *could* run this experiment.
+This is similar to the project outlined here: """1.2.C Apply early software understanding to modern hardware ∑2,000 ∆8
+Using contemporary hardware and a 1970’s or 1980’s understanding of connectionism, observe the extent to which a modern AI researcher (or student) could replicate contemporary performance on benchmark AI problems. This project is relatively expensive, among those we are describing. It requires substantial time from collaborators with a historically accurate minimal understanding of AI. Students may satisfy this role well, if their education is incomplete in the right ways. One might compare to the work of similar students who had also learned about modern methods."""
+https://aiimpacts.org/research-topic-hardware-software-and-ai/
+
 
 [[Category:AI safety]]
