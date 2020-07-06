@@ -12,6 +12,8 @@ meta point (HT david manheim): some/most of these disagreements might just be de
 
 ==AI timelines==
 
+(When will humans create AGI? When will some really crazy things start to happen in the world?)
+
 * will current ML techniques scale to AGI?
 * how expensive will it be to run the first AGI?
 * is [[prosaic AI]] possible? see [https://srconstantin.wordpress.com/2017/02/21/strong-ai-isnt-here-yet/] for a post arguing against.
