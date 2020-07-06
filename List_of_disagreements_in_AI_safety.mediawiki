@@ -28,6 +28,8 @@ meta point (HT david manheim): some/most of these disagreements might just be de
 
 ==Probability of doom==
 
+(Will the world end because of unaligned AI? Will the future be controlled by completely alien values, or values resulting from an "ideal" deliberation process, or something else?)
+
 * civilizational adequacy
 * probability of doom without any special EA/longtermist intervention
 * prior on difficulty of alignment (there is [https://arbital.com/p/alignment_difficulty/] but it looks like the page only defines what "difficulty" means, and doesn't actually go on to discuss whether we should expect it to be difficult), and ideas like "if ML-based safety were to have any shot at working, wouldn't we just go all the way and expect the default (no EA intervention) approach to AGI to just produce basically ok outcomes?"
