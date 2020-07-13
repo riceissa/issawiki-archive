@@ -6,5 +6,6 @@
 * https://www.greaterwrong.com/posts/x4tyb9di28b4n9EE2/trying-for-five-minutes-on-ai-strategy/comment/aPqz3GBypvreaMqnT
 * https://www.greaterwrong.com/posts/wTKjRFeSjKLDSWyww/possible-takeaways-from-the-coronavirus-pandemic-for-slow-ai/comment/8yivA9And2dFiZAtx
 * https://www.greaterwrong.com/posts/QknPz9JQTQpGdaWDp/an-80-why-ai-risk-might-be-solved-without-additional/comment/cExJJFrGYMCXkknmc
+* https://www.lesswrong.com/posts/Hdu3rxJsTtEHQZCjo/open-and-welcome-thread-july-2020-1?commentId=n9XhBgMQHWiJsPEzS "Many AI issues will likely become politicized. (For example, how much to prioritize safety versus economic growth and military competitiveness? Should AI be politically neutral or be explicitly taught "social justice activism" before they're allowed to be deployed or used by the public?) This seems to be coming up very quickly and we are so not prepared, both as a society and as an online community. For example I want to talk about some of these issues here, but we haven't built up the infrastructure to do so safely."
 
 [[Category:AI safety]]
