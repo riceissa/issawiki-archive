@@ -2,4 +2,10 @@
 
 * [[Resource overhang]]
 
+==External links==
+
+* https://wiki.lesswrong.com/wiki/Computing_overhang
+* https://aiimpacts.org/hardware-overhang/
+* https://wiki.aipolicies.org/HardwareOverhang
+
 [[Category:AI safety]]
