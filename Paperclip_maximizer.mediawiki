@@ -8,3 +8,7 @@ However, the paperclip maximizer is sometimes also mentioned when talking about 
 many discussions about the paperclip maximizer don't seem to realize which concepts the example is designed to illustrate, so they get derailed by comments like "but programming your AI to maximize paperclips is so stupid lol"
 
 https://youtu.be/EXbUgvlB0Zo?t=8391 (go slightly earlier) -- rohin says that the paperclip maximizer example shows that it's actually hard to get an AI to make paperclips in a sane way. this seems to be ''not'' the main point of the paperclip maximizer example, but maybe i'm wrong about this.
+
+"So one classic one is, people imagine that there’s some superintelligent AI system that’s been given the goal of maximizing paperclip production for some paperclip factory. And at first glance, it seems like a really benign goal. This seems like a pretty boring thing, but if you follow through on certain implications and, in some sense, you put yourself in the shoes of an incredibly competent agent who only cares about paperclip production, then maybe there are certain behaviors that will flow out of this. So one example is, from the perspective of this AI system, you might think, “Well, if I really want to maximize paperclip production, then it’s really useful to seize as many resources as I can to really just plow them into paperclip production”." https://80000hours.org/podcast/episodes/ben-garfinkel-classic-ai-risk-arguments/
+
+[[Category:AI safety]]
