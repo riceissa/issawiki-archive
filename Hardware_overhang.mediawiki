@@ -7,5 +7,6 @@
 * https://wiki.lesswrong.com/wiki/Computing_overhang
 * https://aiimpacts.org/hardware-overhang/
 * https://wiki.aipolicies.org/HardwareOverhang
+* https://www.lesswrong.com/posts/tjH8XPxAnr6JRbh7k/hard-takeoff (search both "overhang" and "bonanza")
 
 [[Category:AI safety]]
