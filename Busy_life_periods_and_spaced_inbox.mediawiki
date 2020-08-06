@@ -1,3 +1,5 @@
 One problem with a naive implementation of a [[spaced inbox]] seems to be that it is not robust against having short bursts of extremely busy periods in one's life. If you get a card that's due during a period of your life when you are super busy then you might just "skip" those cards when you get it in your inbox. But maybe if you had gotten the card a week earlier or a week later, you would have engaged with it more. So just because of this accident of your life's busy-ness level, a card might get a radically different response. And in spaced inbox, the review cadence is super chill (like the first review is 50 days away in my current implementation) so if you don't engage with it each time you see it, you might not see it for a long time, even when you should.
 
+A similar thing thing happens when a blog post first appears in a place like [[LessWrong]] or Hacker News during a week when you're super busy. You might just skip reading these posts even when you should have read them. (Alternatively, maybe you are reading too many things when you aren't as busy.)
+
 [[Category:Spaced repetition]]
