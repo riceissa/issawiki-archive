@@ -1,0 +1,11 @@
+Some learning tricks/techniques that Duolingo uses:
+
+* the initial levels of a lesson are mainly recognition-based, so cognitively easier; they build up confidence and familiarity with the material without being too difficult
+* later on, you need to do stuff like type in the words using cyrillic letters. This is harder, but by this time you've encountered the word multiple times so it's not ''too'' hard.
+* in many contexts, you can hover over words to get their definitions, so you're never totally lost.
+* email notifs
+* there is no explicit instruction of grammar rules -- you just pick it up by trying to understand more and more complicated sentences. This makes it similar to "tutorial modes" in some video games, or puzzle games without explicit instruction (like [[The Witness]]).
+
+Above, I am not including "gamification"/achievements stuff that Duolingo does (e.g. badges, scores, leader board). I think these are dumb and I don't think I benefit from them (other than the streaks counter, which does motivate me to never miss a day).
+
+[[Category:Learning]]
