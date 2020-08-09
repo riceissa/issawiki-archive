@@ -5,6 +5,7 @@ Some learning tricks/techniques that Duolingo uses:
 * in many contexts, you can hover over words to get their definitions, so you're never totally lost.
 * email notifs
 * there is no explicit instruction of grammar rules -- you just pick it up by trying to understand more and more complicated sentences. This makes it similar to "tutorial modes" in some video games, or puzzle games without explicit instruction (like [[The Witness]]).
+* I've noticed that sometimes, if I get a sentence almost correct but miss one phrase, that phrase will show up isolated as a phrase in a following screen. I'm not sure if this is done on purpose or if I just happen to get the most difficult phrases wrong.
 
 Above, I am not including "gamification"/achievements stuff that Duolingo does (e.g. badges, scores, leader board). I think these are dumb and I don't think I benefit from them (other than the streaks counter, which does motivate me to never miss a day).
 
