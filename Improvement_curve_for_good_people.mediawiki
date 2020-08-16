@@ -6,4 +6,6 @@ I feel like some people have a really abrupt transition from "indistinguishable 
 
 This topic matters when thinking about "beating the market" on finding good people. It's also relevant when thinking about how often to check back on people you have previously dismissed.
 
+I should more systematically look through examples to see the output/improvement curves for various people. Some interesting examples to look at: Wei Dai, Eliezer, Buck, Carl, Abram, Jessica Taylor, Grognor.
+
 [[Category:People watching]]
