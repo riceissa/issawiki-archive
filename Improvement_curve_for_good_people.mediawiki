@@ -5,7 +5,7 @@ Here are some reasons for pessimism at beating the market:
 * An interesting case is when someone suddenly and magically appears online in very good condition, without displaying any bad traits from back when they were still learning how to be good. In other words, they have zero output prior to good output. I think [[Carl Shulman]] is a good example of this phenomenon. He suddenly appears around 2007 in pretty much his present-day condition.
 * In other cases, people have a bunch of output that is indistinguishable from the output of bad people (or at least not especially good), which makes it hard to identify them early on. [[Jonathan Blow]] seems like an example here. Could one have spotted promise in ''The Inner Product'' or his early games/demos? Or did it take until ''Braid'' (which made him super famous anyway, and would mean it wasn't possible to beat the market by identifying him early)?
 
-In the above two cases, if you identify someone faster than when others identify them, it'll be because you can see the value of the good thing when others don't, or because you expose yourself to more people so you catch the good ones sooner.
+Given the above two cases, if you identify someone faster than when others identify them, it'll be because you can see the value of the good thing when others don't, or because you expose yourself to more people so you catch the good ones sooner.
 
 I feel like some people have a really abrupt transition from "indistinguishable from bad person" to "output of good person" without going through "output of bad but promising person who will become good in a few years". Why is this?
 
