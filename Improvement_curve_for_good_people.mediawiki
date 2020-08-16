@@ -1,6 +1,6 @@
 Given that someone eventually becomes [[good]], how steep is their improvement curve? Is it possible to distinguish such people from noise early on in their trajectory? This topic matters when thinking about "beating the market" on finding good people. It's also relevant when thinking about how often to check back on people you have previously dismissed.
 
-Here are some reasons for pessimism:
+Here are some reasons for pessimism at beating the market:
 
 * An interesting case is when someone suddenly and magically appears online in very good condition, without displaying any bad traits from back when they were still learning how to be good. In other words, they have zero output prior to good output. I think [[Carl Shulman]] is a good example of this phenomenon. He suddenly appears around 2007 in pretty much his present-day condition.
 * In other cases, people have a bunch of output that is indistinguishable from the output of bad people (or at least not especially good), which makes it hard to identify them early on. [[Jonathan Blow]] seems like an example here. Could one have spotted promise in ''The Inner Product'' or his early games/demos? Or did it take until ''Braid'' (which made him super famous anyway, and would mean it wasn't possible to beat the market by identifying him early)?
