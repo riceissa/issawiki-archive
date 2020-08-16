@@ -1,4 +1,4 @@
-Given that someone eventually becomes [[good]], how quickly do they get good? Is it possible to distinguish such people from noise early on in their trajectory?
+Given that someone eventually becomes [[good]], how steep is their improvement curve? Is it possible to distinguish such people from noise early on in their trajectory?
 
 An interesting case is when someone suddenly and magically appears online in very good condition, without displaying any bad traits (when they were still learning how to be good). I think [[Carl Shulman]] is a good example of this phenomenon.
 
