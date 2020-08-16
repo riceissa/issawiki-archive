@@ -1,3 +1,9 @@
-Given that someone eventually becomes [[good]], how quickly do they get good? Is it possible to distinguish such people from noise early on in their strajectory?
+Given that someone eventually becomes [[good]], how quickly do they get good? Is it possible to distinguish such people from noise early on in their trajectory?
+
+An interesting case is when someone suddenly and magically appears online in very good condition, without displaying any bad traits (when they were still learning how to be good). I think [[Carl Shulman]] is a good example of this phenomenon.
+
+I feel like some people have a really abrupt transition from "indistinguishable from bad person" to "output of good person" without going through "output of bad but promising person who will become good in a few years". Why is this?
+
+This topic matters when thinking about "beating the market" on finding good people. It's also relevant when thinking about how often to check back on people you have previously dismissed.
 
 [[Category:People watching]]
