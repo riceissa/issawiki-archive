@@ -1,0 +1,22 @@
+{| class="sortable wikitable"
+|-
+! Name !! Routes of transmission !! Length of contagious period !! Tests which detect it
+|-
+| Mononucleosis
+|-
+| HSV-1
+|-
+| HSV-2
+|-
+| Syphilis
+|-
+| Gonorrhea
+|-
+| Chlamydia
+|-
+| HIV
+|-
+| HPV
+|-
+| CMV
+|}
