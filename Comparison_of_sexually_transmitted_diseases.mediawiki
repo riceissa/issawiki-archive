@@ -19,6 +19,10 @@
 | HPV
 |-
 | CMV
+|-
+| Trichomoniasis
+|-
+| Hepatitis B
 |}
 
 ==References==
