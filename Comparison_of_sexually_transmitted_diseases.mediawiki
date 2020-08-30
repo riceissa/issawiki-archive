@@ -1,3 +1,10 @@
+The following two posts were the most useful:
+
+* https://srconstantin.wordpress.com/2015/04/30/std-statistics/
+* https://markmanson.net/std-guide
+
+I think the relevant decision one has to make is something like "which STDs should one test for?", and to decide this what matters is the probability of getting an STD (assuming one's partner is not tested for that particular STD) times the badness of getting that STD. After producing a list of STDs sorted by score, one must then also pick some cutoff below which one does not bother testing for.
+
 {| class="sortable wikitable"
 |-
 ! Name !! Routes of transmission !! Length of contagious period !! Tests which detect it
