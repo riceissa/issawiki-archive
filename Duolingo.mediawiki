@@ -9,4 +9,6 @@ Some learning tricks/techniques that Duolingo uses:
 
 Above, I am not including "gamification"/achievements stuff that Duolingo does (e.g. badges, scores, leader board). I think these are dumb and I don't think I benefit from them (other than the streaks counter, which does motivate me to never miss a day).
 
+I don't like how the later lessons in duolingo are much longer/have way more components but count for the same amount of experience. when i am feeling tired i feel tempted to just do some easy lessons to keep my streak, instead of doing more of the new content (which i feel is a better use of my time).
+
 [[Category:Learning]]
