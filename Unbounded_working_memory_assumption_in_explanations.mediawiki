@@ -1,0 +1,9 @@
+The '''unbounded working memory assumption in explanations''' refers to the fact that many [[explanation]]s assume that the [[reader]] has unbounded [[working memory]], i.e. that the reader can effortlessly remember everything that came earlier in the explanation. Such explanations are easier to write for the [[explainer]] (since the explainer has already internalized all of the concepts and subtleties, hence sees no need to "manage working memory") and are also conceptually "cleaner" (since it exposes the conceptual outline of the topic without having to deal with the details of human psychology). However, such explanations are also more difficult to understand since working memory is in fact limited.
+
+one way to understand it is that ''someone'' has to manage working memory constraints. When the explainer does not manage it, it forces the burden onto the learner.
+
+this might be one mechanism for illusion of transparency
+
+Most explanations assume reader will manage wm constraints so they do not explicitly track wm. This leads to "cleaner" explanations that are harder to understand.
+
+[[Category:Learning]]
