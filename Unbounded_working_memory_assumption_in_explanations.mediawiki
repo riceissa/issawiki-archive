@@ -11,6 +11,8 @@ Techniques for managing working memory:
 * summarizing at appropriate intervals in the text
 * adding exercises to slow down the reader/force them to internalize something better
 * something like [[Quantum Country]] or [[Orbit]] where flashcards are embedded in the text, forcing certain terms/facts to be memorized.
+* repeating key facts at certain intervals
+* quoting relevant facts instead of just citing them so that the reader does not have to look them up
 
 ==See also==
 
