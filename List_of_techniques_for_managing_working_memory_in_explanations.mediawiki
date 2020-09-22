@@ -3,6 +3,7 @@
 * something like [[Quantum Country]] or [[Orbit]] where flashcards are embedded in the text, forcing certain terms/facts to be memorized.
 * repeating key facts at certain intervals
 * quoting relevant facts instead of just citing them so that the reader does not have to look them up
+* making each blog post/chapter/section short enough that the reader can consume it in one sitting without getting fidgety/losing track of progress.
 
 ==See also==
 
