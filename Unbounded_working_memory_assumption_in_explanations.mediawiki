@@ -2,7 +2,7 @@ The '''unbounded working memory assumption in explanations''' refers to the fact
 
 one way to understand it is that ''someone'' has to manage working memory constraints. When the explainer does not manage it, it forces the burden onto the learner.
 
-this might be one mechanism for illusion of transparency
+this might be one mechanism for [[illusion of transparency]]
 
 Most explanations assume reader will manage wm constraints so they do not explicitly track wm. This leads to "cleaner" explanations that are harder to understand.
 
