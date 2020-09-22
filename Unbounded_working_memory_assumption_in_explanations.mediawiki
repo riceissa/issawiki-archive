@@ -6,16 +6,9 @@ this might be one mechanism for illusion of transparency
 
 Most explanations assume reader will manage wm constraints so they do not explicitly track wm. This leads to "cleaner" explanations that are harder to understand.
 
-Techniques for managing working memory:
-
-* summarizing at appropriate intervals in the text
-* adding exercises to slow down the reader/force them to internalize something better
-* something like [[Quantum Country]] or [[Orbit]] where flashcards are embedded in the text, forcing certain terms/facts to be memorized.
-* repeating key facts at certain intervals
-* quoting relevant facts instead of just citing them so that the reader does not have to look them up
-
 ==See also==
 
+* [[List of techniques for managing working memory in explanations]]
 * [[Managing micro-movements in learning]]
 
 [[Category:Learning]]
