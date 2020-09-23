@@ -1,0 +1,4 @@
+"IDA’s current proposal for capability and security amplification is called meta-execution" [https://docs.google.com/document/d/11QGpURtFF-JFnWjkdIybW9Q-mI3fiKJjhxc0-LjprNQ/edit]
+
+[[Category:AI safety]]
+[[Category:Iterated amplification]]
