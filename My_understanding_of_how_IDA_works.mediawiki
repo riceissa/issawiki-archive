@@ -26,7 +26,7 @@ One confusion I have is that in some places Paul says things like:<ref>https://a
 
 <p>Note that, logically speaking, "human ability" in the above sentence should refer to the ability of humans working in concert with other genies. This really seems like a key fact to me (it also doesn't seem like it should be controversial).</p></blockquote>
 
-The precise details of "human ability" seems important here. As I see it, IDA can only remain competitive if the AIs are running the show eventually (and humans are only "running the show" to the extent that they seeded the whole recursive process). In other words, it seems like Sovereigns would also be described as "primarily relying on humans working in concert with AIs".
+The precise details of "human ability" seem important here. As I see it, IDA can only remain competitive if the AIs are running the show eventually (and humans are only "running the show" to the extent that they seeded the whole recursive process). In other words, it seems like Sovereigns would also be described as "primarily relying on humans working in concert with AIs".
 
 Some expositions of IDA depend on the human to decompose tasks which are arbitrarily complicated (into slightly less complicated tasks), so that the AI can be trained via supervised learning to learn how to decompose such tasks. For example: "This depends on the strong assumption that humans can decompose all tasks <math>T_n</math> into tasks in <math>T_{n−1}</math>".<ref>https://owainevans.github.io/pdfs/evans_ida_projects.pdf</ref> Doesn't this mean the AI can't be competitive? When the world is crazy, we can't rely on the humans having enough time to train such decompositions.
 
