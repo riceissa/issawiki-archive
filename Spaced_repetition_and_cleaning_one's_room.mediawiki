@@ -4,4 +4,8 @@ What tends to happen for me in my physical surroundings is that I might put a bo
 
 I feel like when I make clutter in my surroundings, like the desk I am working on, I often ''want'' to keep some of that clutter, because I feel like I am still using a particular book or scratch paper or whatever. So the error isn't so much laziness on my part (though ''some'' clutter like dirty dishes are definitely just pure laziness), but also an epistemic error I am making about the relevance of certain things (in particular when I will next need to use a particular thing). So this is where the connection with spaced repetition becomes more apparent -- if there was some spaced way to prompt me/auto-clean the things I don't use, that seems like a more "soft", "natural", "humane" way to deal with clutter in a physical environment.
 
+==See also==
+
+* [[Spaced repetition as soft alarm clock]]
+
 [[Category:Spaced repetition]]
