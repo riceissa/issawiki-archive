@@ -1,0 +1,9 @@
+==See also==
+
+* [[List of disagreements in AI safety#Takeoff dynamics]]
+* [[Comparison of AI takeoff scenarios]]
+* [[Soft-hard takeoff]]
+* [[Narrow window argument against continuous takeoff]]
+* [[AlphaGo as evidence of discontinuous takeoff]]
+
+[[Category:AI safety]]
