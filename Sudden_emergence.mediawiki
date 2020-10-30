@@ -1,8 +1,12 @@
-In [[AI takeoff]], '''sudden emergence''' is the hypothesis that AI development will follow a trajectory of mostly inconsequential systems, followed by a sudden jump to extremely capable/[[Transformative AI|transformative]] systems. The term is used in contrast to the [[explosive aftermath]] hypothesis.
+In [[AI takeoff]], '''sudden emergence''' is the hypothesis that AI development will follow a trajectory of mostly inconsequential systems, followed by a sudden jump to extremely capable/[[Transformative AI|transformative]] systems. Another way to phrase sudden emergence is as "a discontinuity ''to'' (rather than ''from'') AGI". The term is used in contrast to the [[explosive aftermath]] hypothesis.
 
 ==History==
 
 The term was coined by [[Ben Garfinkel]] in "[[On Classic Arguments for AI Discontinuities]]".<ref>https://docs.google.com/document/d/1lgcBauWyYk774gBwKn8P_h8_wL9vLLiWBr6JMmEd_-I/edit</ref>
+
+==See also==
+
+* [[Will there be significant changes to the world prior to some critical AI capability threshold being reached?]]
 
 ==References==
 
