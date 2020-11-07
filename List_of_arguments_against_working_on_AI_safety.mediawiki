@@ -1,0 +1,7 @@
+This is a '''list of arguments against working on AI safety'''.
+
+* [[Opportunity cost argument against AI safety]]: there is some more pressing problem for humanity (e.g. some other x-risk like [[biorisk]]s) or maybe some other intervention like [[values spreading]] that is more cost effective.
+* [[Short-term altruist argument against AI safety]]: focusing on long-term issues (e.g. ensuring the survival of humanity over the long term) turns out not to be important, or it turns out to be too difficult to figure out how to affect the long-term future.
+* [[AI will solve everything argument against AI safety]]
+
+[[Category:AI safety]]
