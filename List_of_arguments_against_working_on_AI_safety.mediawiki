@@ -3,6 +3,8 @@ This is a '''list of arguments against working on AI safety'''.
 * [[Opportunity cost argument against AI safety]]: there is some more pressing problem for humanity (e.g. some other x-risk like [[biorisk]]s) or maybe some other intervention like [[values spreading]] that is more cost effective.
 * [[Short-term altruist argument against AI safety]]: focusing on long-term issues (e.g. ensuring the survival of humanity over the long term) turns out not to be important, or it turns out to be too difficult to figure out how to affect the long-term future.
 * [[Safety by default argument against AI safety]]: AI will be more or less aligned to human interests by default, possibly by analogy to things like bridges and airplanes (i.e. it's bad if bridges randomly fall down, so engineers work hard by default to ensure bridges are safe)
+* [[Objective morality argument against AI safety]]: All sufficiently intelligent beings converge to some objective morality (either because [[moral realism]] is true, or due to [[acausal trade]] as discussed in "[[The Hour I First Believed]]"), so there is no need to worry about superintelligent AI going again human values.
+* [[Slow growth argument against AI safety]]: explosive growth (such as [[recursive self-improvement]] or [[em economy]]) are not possible, so there is no need to worry about the world changing rapidly once AGI arrives.
 * [[AI will solve everything argument against AI safety]]
 
 [[Category:AI safety]]
