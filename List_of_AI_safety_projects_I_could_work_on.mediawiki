@@ -6,5 +6,6 @@
 ** solomonoff induction guide
 ** pearl belief propagation guide
 ** Summarizing/distilling work that has been done in decision theory
+* Ask lots of questions on LW
 
 [[Category:AI safety]]
