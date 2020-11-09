@@ -43,4 +43,8 @@
 
 * reflection post about getting involved with AI safety
 
+==Philosophy==
+
+* human values/deliberation
+
 [[Category:AI safety]]
