@@ -23,7 +23,7 @@
 
 ==The Vipul Strategy==
 
-* AI Watch
+* Expanding AI Watch to cover agendas, documents, more people/orgs with more columns filled in, graphs, automated [https://aiwatch.issarice.com/compare.php?by=organization&for=2020 yearly review] of orgs, etc.
 * Updates to timeline of AI safety and other relevant timelines
 * Timeline of Eliezer Yudkowsky publications https://github.com/riceissa/project-ideas/issues/16
 * Wikipedia pages for AGI projects https://github.com/riceissa/project-ideas/issues/22
