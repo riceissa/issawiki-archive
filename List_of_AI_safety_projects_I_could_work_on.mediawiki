@@ -30,7 +30,8 @@ also check my project ideas repo
 
 ==Increase activity on LessWrong==
 
-* Ask lots of questions on LW
+* Ask lots of questions on LW, e.g.:
+** Applicability of FDT/UDT/TDT to everyday life https://github.com/riceissa/project-ideas/issues/44
 
 ==Exposition of technical topics==
 
