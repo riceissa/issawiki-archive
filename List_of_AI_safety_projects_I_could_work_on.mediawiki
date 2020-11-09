@@ -21,9 +21,11 @@ also check my project ideas repo
 
 * Writing articles for AI safety wiki
 
-==AI Watch==
+==Aping Vipul in AI safety==
 
-* stuff mayn
+* AI Watch
+* Updates to timeline of AI safety and other relevant timelines
+* Timeline of Eliezer Yudkowsky publications
 
 ==Increase activity on LessWrong==
 
