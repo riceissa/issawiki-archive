@@ -25,7 +25,8 @@ also check my project ideas repo
 
 * AI Watch
 * Updates to timeline of AI safety and other relevant timelines
-* Timeline of Eliezer Yudkowsky publications
+* Timeline of Eliezer Yudkowsky publications https://github.com/riceissa/project-ideas/issues/16
+* Wikipedia pages for AGI projects https://github.com/riceissa/project-ideas/issues/22
 
 ==Increase activity on LessWrong==
 
