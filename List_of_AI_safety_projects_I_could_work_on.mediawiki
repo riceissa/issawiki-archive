@@ -14,6 +14,7 @@
 * HRAD paper with David Manheim
 * concrete plausible scenarios for what could happen when AGI comes around
 * deep dive into human evolution to figure out what the heck it might tell us about AI takeoff/AI timelines
+* comparison of AI and nukes
 
 ==AI safety wiki==
 
