@@ -1,0 +1,7 @@
+(November 2020)
+
+* Opinions
+** writing some sort of overview of my beliefs regarding AI safety. like, if i was explaining things from scratch to someone, what would that sound like?
+* Exposition
+** solomonoff induction guide
+** pearl belief propagation guide
