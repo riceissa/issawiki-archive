@@ -5,3 +5,5 @@
 * Exposition
 ** solomonoff induction guide
 ** pearl belief propagation guide
+
+[[Category:AI safety]]
