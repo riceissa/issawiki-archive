@@ -21,7 +21,7 @@ also check my project ideas repo
 
 * Writing articles for AI safety wiki
 
-==Aping Vipul in AI safety==
+==The Vipul Strategy==
 
 * AI Watch
 * Updates to timeline of AI safety and other relevant timelines
