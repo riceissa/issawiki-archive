@@ -38,6 +38,7 @@
 * Solomonoff induction guide (I think I've already figured out things here that are not explained anywhere, so I think I could write the best guide on it, but it's not clear how important this is for people to understand)
 * pearl belief propagation guide
 * Summarizing/distilling work that has been done in decision theory
+* starting something like [[RAISE]]; see [[There is room for something like RAISE]]
 
 ==Personal reflection==
 
