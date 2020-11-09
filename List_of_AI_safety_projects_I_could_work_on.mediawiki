@@ -18,5 +18,7 @@
 * Ask lots of questions on LW
 * Learning/research
 ** deep dive into human evolution to figure out what the heck it might tell us about AI takeoff/AI timelines
+* Personal
+** reflection post about getting involved with AI safety
 
 [[Category:AI safety]]
