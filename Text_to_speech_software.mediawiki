@@ -1,0 +1,3 @@
+In November 2020 I spent some time looking into free text to speech software that I could use. I tried around 10 online ones and thought [https://www.naturalreaders.com/online/ Natural Reader] was the most human-sounding without any restrictions on text length and such. [http://www.cross-plus-a.com/balabolka.htm Balabolka] is a Windows-only freeware program that works better than Natural Reader, but I couldn't get it to run under [[Wine]] (due to lack of voice files that come with Windows).
+
+[[Category:Software]]
