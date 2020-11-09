@@ -1,24 +1,42 @@
 (November 2020)
 
-* Write up my opinions
-** writing some sort of overview of my beliefs regarding AI safety. like, if i was explaining things from scratch to someone, what would that sound like?
-** my current take on AI timelines
-** my current take on AI takeoff
-** my current take on MIRI vs Paul
-* Research projects
-** continue working out AI takeoff disagreements
-** continue working out MIRI vs Paul
-** HRAD paper with David Manheim
-** concrete plausible scenarios for what could happen when AGI comes around
+also check my project ideas repo
+
+==Writing up my opinions==
+
+* writing some sort of overview of my beliefs regarding AI safety. like, if i was explaining things from scratch to someone, what would that sound like?
+* my current take on AI timelines
+* my current take on AI takeoff
+* my current take on MIRI vs Paul
+
+==Research projects==
+
+* continue working out AI takeoff disagreements
+* continue working out MIRI vs Paul
+* HRAD paper with David Manheim
+* concrete plausible scenarios for what could happen when AGI comes around
+* deep dive into human evolution to figure out what the heck it might tell us about AI takeoff/AI timelines
+
+==AI safety wiki==
+
 * Writing articles for AI safety wiki
-* Exposition
-** Solomonoff induction guide (I think I've already figured out things here that are not explained anywhere, so I think I could write the best guide on it, but it's not clear how important this is for people to understand)
-** pearl belief propagation guide
-** Summarizing/distilling work that has been done in decision theory
+
+==AI Watch==
+
+* stuff mayn
+
+==Increase activity on LessWrong==
+
 * Ask lots of questions on LW
-* Learning/research
-** deep dive into human evolution to figure out what the heck it might tell us about AI takeoff/AI timelines
-* Personal
-** reflection post about getting involved with AI safety
+
+==Exposition of technical topics==
+
+* Solomonoff induction guide (I think I've already figured out things here that are not explained anywhere, so I think I could write the best guide on it, but it's not clear how important this is for people to understand)
+* pearl belief propagation guide
+* Summarizing/distilling work that has been done in decision theory
+
+==Personal reflection==
+
+* reflection post about getting involved with AI safety
 
 [[Category:AI safety]]
