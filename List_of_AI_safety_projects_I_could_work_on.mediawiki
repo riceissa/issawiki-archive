@@ -1,7 +1,5 @@
 (November 2020)
 
-also check my project ideas repo
-
 ==Writing up my opinions==
 
 * writing some sort of overview of my beliefs regarding AI safety. like, if i was explaining things from scratch to someone, what would that sound like?
