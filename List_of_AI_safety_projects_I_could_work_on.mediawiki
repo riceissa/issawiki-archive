@@ -9,6 +9,7 @@
 ** continue working out AI takeoff disagreements
 ** continue working out MIRI vs Paul
 ** HRAD paper with David Manheim
+** concrete plausible scenarios for what could happen when AGI comes around
 * Writing articles for AI safety wiki
 * Exposition
 ** Solomonoff induction guide (I think I've already figured out things here that are not explained anywhere, so I think I could write the best guide on it, but it's not clear how important this is for people to understand)
