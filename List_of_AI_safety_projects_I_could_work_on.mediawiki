@@ -48,4 +48,8 @@
 
 * human values/deliberation
 
+==Learn stuff==
+
+* learn more machine learning so I can better follow some discussions
+
 [[Category:AI safety]]
