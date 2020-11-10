@@ -52,4 +52,8 @@
 
 * learn more machine learning so I can better follow some discussions
 
-[[Category:AI safety]]
+==See also==
+
+* [[How meta should AI safety be?]]
+
+[[Category:AI safety meta]]
