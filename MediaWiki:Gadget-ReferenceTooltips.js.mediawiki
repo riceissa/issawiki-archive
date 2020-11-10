@@ -857,7 +857,11 @@ function rt( $content ) {
 	} );
 }
 
-settingsString = mw.cookie.get( 'RTsettings', '' );
+if (mw.cookie) {
+	settingsString = mw.cookie.get( 'RTsettings', '' );
+} else {
+	settingsString = null;
+}
 if ( settingsString ) {
 	settings = settingsString.split( '|' );
 	enabled = Boolean( Number( settings[ 0 ] ) );
