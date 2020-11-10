@@ -75,3 +75,7 @@ This is my version of the table created by [[Brian Tomasik]]<ref>https://reducin
 |-
 | A design very close to CEV will be implemented in humanity's AGI, conditional on AGI being built (excluding other value-learning approaches and other machine-ethics proposals) 
 |}
+
+==References==
+
+<references/>
