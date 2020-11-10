@@ -1,0 +1,6 @@
+I often go back and forth between the following two approaches to AI safety:
+
+# Meta approach of "let's have nice things" -- make pipeline for becoming an AI safety researcher really pleasant and super exciting -- make learning the prereqs super easy and clear, get good at coaching/building a community/helping ppl babble in public etc. Have nice things like BERI, AI safety wiki, regular events/conferences. Trust that making a better community will lead to better AI safety work being done.
+# Dogged focus on object level, "eye on the ball". just get the damn job done. there isn't much time, there aren't many capable people around, so we just need (almost) every capable person to basically just have laser focus at Doing The Thing instead of fooling around with community building or pipeline management or whatever.
+
+[[Category:AI safety meta]]
