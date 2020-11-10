@@ -1,7 +1,7 @@
 This is my version of the table created by [[Brian Tomasik]]<ref>https://reducing-suffering.org/summary-beliefs-values-big-questions/</ref> and [[Pablo Stafforini]].<ref>http://www.stafforini.com/blog/my-beliefs-updated/</ref>
 
 {| class="sortable wikitable"
-! Belief !! Probability !! Confidence
+! Belief !! Probability !! Confidence !! Comments
 |-
 | Conditional on a government building the first human-level AGI, it will be the USA (rather than China, etc.) 
 |-
