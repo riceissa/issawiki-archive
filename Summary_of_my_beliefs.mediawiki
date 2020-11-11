@@ -1,7 +1,7 @@
 This is my version of the table created by [[Brian Tomasik]]<ref>https://reducing-suffering.org/summary-beliefs-values-big-questions/</ref> and [[Pablo Stafforini]].<ref>http://www.stafforini.com/blog/my-beliefs-updated/</ref> Like Pablo, confidence is operationalized as my estimate of whether I would change my mind if I spent more time thinking about the topic.
 
 {| class="sortable wikitable"
-! Belief !! Probability !! Confidence !! Comments
+! Belief !! Inside view probability !! Confidence !! Probability after social update !! Comments
 |-
 | Conditional on a government building the first human-level AGI, it will be the USA (rather than China, etc.) 
 |-
