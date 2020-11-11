@@ -18,6 +18,10 @@
 * think about [[AI polarization]], using examples like COVID and climate change
 * write up my understanding of people's views on [[whole brain emulation]]
 
+==Technical AI safety==
+
+* I still don't feel motivated to do this since I don't feel convinced by any existing worldview/visualization that has been put forth (by e.g. MIRI or Paul)
+
 ==AI safety wiki==
 
 * Writing articles for AI safety wiki
