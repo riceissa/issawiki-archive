@@ -54,6 +54,7 @@
 * learn more machine learning so I can better follow some discussions
 * learn more economics. I somewhat often feel confused about how to think about various AI strategy questions (e.g. history of growth, how AI systems might cooperate and increase economies of scale, what percentage of GDP might be used for computing costs) and I suspect part of the reason is that I don't know enough economics.
 * understand the [[neuromorphic AI]] pathways that people like [[Steve Byrnes]] and [[gwern]] have been talking about
+* there are a lot of blog posts that I could catch up on
 
 ==See also==
 
