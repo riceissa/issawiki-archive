@@ -16,6 +16,7 @@
 * deep dive into human evolution to figure out what the heck it might tell us about AI takeoff/AI timelines
 * comparison of AI and nukes
 * think about [[AI polarization]], using examples like COVID and climate change
+* write up my understanding of people's views on [[whole brain emulation]]
 
 ==AI safety wiki==
 
