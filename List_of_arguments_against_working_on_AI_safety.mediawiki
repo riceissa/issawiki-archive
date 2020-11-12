@@ -6,5 +6,6 @@ This is a '''list of arguments against working on AI safety'''. Personally I thi
 * [[Objective morality argument against AI safety]]: All sufficiently intelligent beings converge to some objective morality (either because [[moral realism]] is true, or due to [[acausal trade]] as discussed in "[[The Hour I First Believed]]"), so there is no need to worry about superintelligent AI going again human values.
 * [[Slow growth argument against AI safety]]: explosive growth (such as [[recursive self-improvement]] or [[em economy]]) are not possible, so there is no need to worry about the world changing rapidly once AGI arrives.
 * [[AI will solve everything argument against AI safety]]
+* [[Pascal's mugging and AI safety]]
 
 [[Category:AI safety]]
