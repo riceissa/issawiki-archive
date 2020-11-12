@@ -6,4 +6,6 @@ The standard resolution seems to be:
 * Argue that for probabilities like 1%, standard [[expected value]] calculations work fine.
 * Argue that reducing x-risk from AI safety is more like a 1% chance than like an astronomically small chance.
 
+Notably, [[Eliezer Yudkowsky]] has consistently argued against paying up in Pascal's mugging.
+
 [[Category:AI safety]]
