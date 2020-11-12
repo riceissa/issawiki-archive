@@ -1,0 +1,9 @@
+Existential risk reduction via work on [[AI safety]] has occasionally been compared to [[Pascal's mugging]]. The critic of AI safety argues that working on AI safety has a very small probability of a very big payoff, which sounds suspicious.
+
+The standard resolution seems to be:
+
+* Point out that there are different levels of what "very small probability" means. Some people think 1% is very small, whereas in Pascal's mugging we are dealing with astronomically small probabilities such as 1/3^^^3.
+* Argue that for probabilities like 1%, standard [[expected value]] calculations work fine.
+* Argue that reducing x-risk from AI safety is more like a 1% chance than like an astronomically small chance.
+
+[[Category:AI safety]]
