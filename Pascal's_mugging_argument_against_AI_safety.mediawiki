@@ -1,0 +1,1 @@
+#redirect [[Pascal's mugging and AI safety]]
