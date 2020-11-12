@@ -2,4 +2,6 @@ Proof cards are [[big card|big]], so you probably have a limit to new cards per 
 
 One trick to fixing this problem is to do an [[empty review]] immediately after adding the new proof card. You review the card and press "good" (without actually re-doing the proof). This means the card will show up again (as a review, rather than as a new/learning card) at the graduating interval (say, 1 month later).
 
+Doing an empty review also helps because it allows you to [[bury]] the card and have it work as expected (i.e. it will show up tomorrow). I've noticed in the past (though I didn't investigate this very closely so I might have misunderstood) that burying a new card will cycle it back to the very end of the new cards queue, which isn't what I want.
+
 [[Category:Spaced repetition]]
