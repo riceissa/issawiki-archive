@@ -42,7 +42,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Augustin-Louis Cauchy || 0 || 2 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy "Cauchy married Aloise de Bure in 1818. She was a close relative of the publisher who published most of Cauchy's works. They had two daughters, Marie Françoise Alicia (1819) and Marie Mathilde (1823)."</ref>
 |-
-| Lagrange
+| Joseph-Louis Lagrange || 0? || 0? || 0? || 2 || <ref>https://mathshistory.st-andrews.ac.uk/Biographies/Lagrange/ "They had no children, in fact Lagrange had told d'Alembert in this letter that he did not wish to have children."</ref>
 |-
 | Fermat
 |-
