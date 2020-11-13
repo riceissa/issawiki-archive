@@ -8,6 +8,8 @@ This is a list of men along with their number of sons, daughters, and wives. For
 ! data-sort-type=number | Wives
 ! Sources
 |-
+| Charles Murray || ? || ? || 4 || 2 || <ref>https://en.wikipedia.org/wiki/Charles_Murray_(political_scientist)#Divorce_and_remarriage "Murray has four children, two by each wife."</ref>
+|-
 | John Maynard Keynes || 0 || 0 || 0 || 1 || <ref>https://en.wikipedia.org/wiki/John_Maynard_Keynes#Marriage</ref>
 |-
 | Richard Linklater || 0 || 3 || 3 || 1 || <ref>"Linklater has been partnered with Christina Harrison since the 1990s.[29] In 1994 they had a daughter, and twin girls in 2004." https://en.wikipedia.org/wiki/Richard_Linklater#Personal_life</ref>
