@@ -270,7 +270,7 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Paul Dirac ||
 |-
-| Enrico Fermi || 1 || 1 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/Laura_Fermi#Biography "They had two children: a daughter, Nella (1931–1995), and a son, Giulio (1936–1997)"</ref>
+| Enrico Fermi || 1 || 1 || 2 || 1 || <ref>https://en.wikipedia.org/wiki/Enrico_Fermi#Professor_in_Rome "Fermi married Laura Capon, a science student at the University, on 19 July 1928.[39] They had two children: Nella, born in January 1931, and Giulio, born in February 1936.[40]"</ref><ref>https://en.wikipedia.org/wiki/Laura_Fermi#Biography "They had two children: a daughter, Nella (1931–1995), and a son, Giulio (1936–1997)"</ref>
 |-
 | George Pólya ||
 |-
