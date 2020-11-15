@@ -2,10 +2,10 @@
 
 ==Writing up my opinions==
 
-* writing some sort of overview of my beliefs regarding AI safety. like, if i was explaining things from scratch to someone, what would that sound like?
-* my current take on [[AI timelines]]
-* my current take on [[AI takeoff]]
-* my current take on MIRI vs Paul
+* writing some sort of overview of my beliefs regarding AI safety. like, if i was explaining things from scratch to someone, what would that sound like? (big chunk)
+* my current take on [[AI timelines]] (big chunk)
+* my current take on [[AI takeoff]] (big chunk)
+* my current take on MIRI vs Paul (big chunk)
 
 ==Research projects==
 
