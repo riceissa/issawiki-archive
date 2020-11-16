@@ -1,0 +1,20 @@
+old page ideas:
+
+* [[hardware overhang]]
+* [[fast takeoff]]
+* [[slow takeoff]]
+* [[optimization daemon]]/[[mesa-optimization]]
+* more ideas at https://arbital.greaterwrong.com/explore/ai_alignment/
+* [[serial time]]/[[serial depth]]
+* people
+** https://causeprioritization.org/_category/AI_safety
+* organizations
+** [[MIRI]]
+** [[FHI]]
+** [[OpenAI]]
+** [[DeepMind]]
+** [[Ought]]
+** [[Open Phil]]
+* comparisons
+** [[AI safety and nuclear arms control comparison]]
+** [[AI safety and biorisk reduction comparison]]
