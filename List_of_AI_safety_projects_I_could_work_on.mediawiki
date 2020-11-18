@@ -23,6 +23,7 @@ vacation tier = I need more than a day or two of concentrated "good" time to foc
 * comparison of AI and nukes (vacation tier)
 * think about [[AI polarization]], using examples like COVID and climate change (vacation tier)
 * write up my understanding of people's views on [[whole brain emulation]] (vacation tier)
+* clarify my thoughts on probability of saving the world via x-risk reduction (vacation tier)
 
 ==Technical AI safety==
 
