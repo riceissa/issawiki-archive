@@ -1,6 +1,6 @@
 (November 2020)
 
-evening tier = I can make useful/meaningful progress within one hour and even when I am somewhat tired from having done other stuff during the day (at the limit, think of things like [[Duolingo]] where each task can be accomplished in a few seconds)
+evening tier = I can make useful/meaningful progress within one hour and even when I am somewhat tired from having done other stuff during the day (at the limit, think of things like [[Duolingo]] where each task can be accomplished in a few seconds). This doesn't mean I can ''complete'' a task within one hour; completion may require several evenings. But at least a single evening can make progress in a way that doesn't require "re-doing" the same step (because I lost whatever context I had when working on it initially), and a single evening can also make definite progress (rather than feeling lost or demotivated because it requires having good ideas and I can't generate ideas when I'm tired).
 
 weekend tier = I can make useful progress if I make it my main thing for a single day, e.g. on a weekend day. Alternatively, I can make progress within 1-2 hours as long as I am mentally alert and feeling fine.
 
