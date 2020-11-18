@@ -8,63 +8,63 @@ vacation tier = I need more than a day or two of concentrated "good" time to foc
 
 ==Writing up my opinions==
 
-* writing some sort of overview of my beliefs regarding AI safety. like, if i was explaining things from scratch to someone, what would that sound like? (big chunk)
-* my current take on [[AI timelines]] (big chunk)
-* my current take on [[AI takeoff]] (big chunk)
-* my current take on MIRI vs Paul (big chunk)
+* writing some sort of overview of my beliefs regarding AI safety. like, if i was explaining things from scratch to someone, what would that sound like? (vacation tier)
+* my current take on [[AI timelines]] (vacation tier)
+* my current take on [[AI takeoff]] (vacation tier)
+* my current take on MIRI vs Paul (vacation tier)
 
 ==Research projects==
 
-* continue working out [[AI takeoff]] disagreements (big chunk)
-* continue working out MIRI vs Paul (big chunk)
-* HRAD paper with [[David Manheim]] (big chunk)
-* concrete plausible scenarios for what could happen when AGI comes around (big chunk)
-* deep dive into human evolution to figure out what the heck it might tell us about AI takeoff/AI timelines (big chunk)
-* comparison of AI and nukes (big chunk)
-* think about [[AI polarization]], using examples like COVID and climate change (big chunk)
-* write up my understanding of people's views on [[whole brain emulation]] (big chunk)
+* continue working out [[AI takeoff]] disagreements (vacation tier)
+* continue working out MIRI vs Paul (vacation tier)
+* HRAD paper with [[David Manheim]] (vacation tier)
+* concrete plausible scenarios for what could happen when AGI comes around (vacation tier)
+* deep dive into human evolution to figure out what the heck it might tell us about AI takeoff/AI timelines (vacation tier)
+* comparison of AI and nukes (vacation tier)
+* think about [[AI polarization]], using examples like COVID and climate change (vacation tier)
+* write up my understanding of people's views on [[whole brain emulation]] (vacation tier)
 
 ==Technical AI safety==
 
-* I still don't feel motivated to do this since I don't feel convinced by any existing worldview/visualization that has been put forth (by e.g. MIRI or Paul) (big chunk)
+* I still don't feel motivated to do this since I don't feel convinced by any existing worldview/visualization that has been put forth (by e.g. MIRI or Paul) (vacation tier)
 
 ==AI safety wiki==
 
-* Writing articles for AI safety wiki (big chunk)
+* Writing articles for AI safety wiki (some pages are evening tier or weekend tier, but thinking strategically about what to write for the wiki is vacation tier)
 
 ==The Vipul Strategy==
 
-* Expanding [[AI Watch]] to cover agendas, documents, more people/orgs with more columns filled in, graphs, automated [https://aiwatch.issarice.com/compare.php?by=organization&for=2020 yearly review] of orgs, etc. (chunk size depends on task -- adding data is small chunk but bigger strategic additions are big chunk)
-* Updates to timeline of AI safety and other relevant timelines (small chunk)
-* Timeline of [[Eliezer Yudkowsky]] publications https://github.com/riceissa/project-ideas/issues/16 (small chunk)
-* Wikipedia pages for AGI projects https://github.com/riceissa/project-ideas/issues/22 (big chunk)
+* Expanding [[AI Watch]] to cover agendas, documents, more people/orgs with more columns filled in, graphs, automated [https://aiwatch.issarice.com/compare.php?by=organization&for=2020 yearly review] of orgs, etc. (duration tier depends on task -- adding data is evening tier but bigger strategic additions are weekend tier or vacation tier)
+* Updates to timeline of AI safety and other relevant timelines (evening tier)
+* Timeline of [[Eliezer Yudkowsky]] publications https://github.com/riceissa/project-ideas/issues/16 (evening tier)
+* Wikipedia pages for AGI projects https://github.com/riceissa/project-ideas/issues/22 (vacation tier to figure this out; writing an individual page is likely weekend tier)
 
 ==Increase activity on LessWrong==
 
-* Ask lots of questions on LW, e.g.:  (chunk size depends on question; I believe I can rush through and ask certain questions within an hour)
+* Ask lots of questions on LW, e.g.:  (duration tier depends on question; I believe I can rush through and ask certain questions within an hour which would be evening tier or weekend tier)
 ** Applicability of FDT/UDT/TDT to everyday life https://github.com/riceissa/project-ideas/issues/44
 
 ==Exposition of technical topics==
 
-* [[Solomonoff induction]] guide (I think I've already figured out things here that are not explained anywhere, so I think I could write the best guide on it, but it's not clear how important this is for people to understand) (big chunk)
-* [[Judea Pearl|Pearl]] [[belief propagation]] guide (big chunk)
-* Summarizing/distilling work that has been done in [[decision theory]] (big chunk)
-* starting something like [[RAISE]]; see [[There is room for something like RAISE]] (big chunk)
+* [[Solomonoff induction]] guide (I think I've already figured out things here that are not explained anywhere, so I think I could write the best guide on it, but it's not clear how important this is for people to understand) (vacation tier)
+* [[Judea Pearl|Pearl]] [[belief propagation]] guide (vacation tier)
+* Summarizing/distilling work that has been done in [[decision theory]] (vacation tier)
+* starting something like [[RAISE]]; see [[There is room for something like RAISE]] (vacation tier)
 
 ==Personal reflection==
 
-* reflection post about getting involved with AI safety (big chunk)
+* reflection post about getting involved with AI safety (vacation tier)
 
 ==Philosophy==
 
-* human values/[[deliberation]] (big chunk)
+* human values/[[deliberation]] (vacation tier)
 
 ==Learn stuff==
 
-* learn more machine learning so I can better follow some discussions (big chunk)
-* learn more economics. I somewhat often feel confused about how to think about various AI strategy questions (e.g. history of growth, how AI systems might cooperate and increase economies of scale, what percentage of GDP might be used for computing costs) and I suspect part of the reason is that I don't know enough economics. (big chunk)
-* understand the [[neuromorphic AI]] pathways that people like [[Steve Byrnes]] and [[gwern]] have been talking about (small chunk)
-* there are a lot of blog posts that I could catch up on (small chunk)
+* learn more machine learning so I can better follow some discussions (weekend tier as long as I am diligent to use [[Anki]] to review partial progress)
+* learn more economics. I somewhat often feel confused about how to think about various AI strategy questions (e.g. history of growth, how AI systems might cooperate and increase economies of scale, what percentage of GDP might be used for computing costs) and I suspect part of the reason is that I don't know enough economics. (weekend tier as long as I am diligent to use [[Anki]] to review partial progress)
+* understand the [[neuromorphic AI]] pathways that people like [[Steve Byrnes]] and [[gwern]] have been talking about (evening tier)
+* there are a lot of blog posts that I could catch up on (evening tier)
 
 ==See also==
 
