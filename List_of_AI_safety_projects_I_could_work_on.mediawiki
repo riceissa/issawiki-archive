@@ -1,8 +1,10 @@
 (November 2020)
 
-small chunk = I can make useful/meaningful progress within one hour (at the limit, think of things like [[Duolingo]] where each task can be accomplished in a few seconds)
+evening tier = I can make useful/meaningful progress within one hour and even when I am somewhat tired from having done other stuff during the day (at the limit, think of things like [[Duolingo]] where each task can be accomplished in a few seconds)
 
-big chunk = I cannot make useful/meaningful progress within hour, because it needs more concentrated thinking time
+weekend tier = I can make useful progress if I make it my main thing for a single day, e.g. on a weekend day. Alternatively, I can make progress within 1-2 hours as long as I am mentally alert and feeling fine.
+
+vacation tier = I need more than a day or two of concentrated "good" time to focus on this, either because the task itself is not clearly defined (so I need to do lots of brainstorming and thinking to figure out next steps), or because it requires keeping lots of things in my head so I cannot be context-switching with other tasks (i.e. if I work on it for a few hours, then I might get distracted by another project and forget what I was doing)
 
 ==Writing up my opinions==
 
