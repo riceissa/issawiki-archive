@@ -240,6 +240,8 @@ This is a list of men along with their number of sons, daughters, and wives. For
 |-
 | Carl Shulman || 0 || 0 || 0 || 1 ||
 |-
+| Vipul Naik || 0 || 0 || 0 || 0 ||
+|-
 | Carl Sagan || 4 || 1 || 5 || 3 || <ref>https://en.wikipedia.org/wiki/Carl_Sagan</ref>
 |-
 | Kurt Gödel || 0 || 0 || 0 || 1 || <ref>https://www.newworldencyclopedia.org/entry/Kurt_G%C3%B6del -- this seems to be copied from Wikipedia, but I can't find the "They had no children" on the Wikipedia version. The Wikipedia article doesn't mention any kids though, so I'm going to assume there weren't any.</ref>
