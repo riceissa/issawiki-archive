@@ -3,5 +3,6 @@ A '''proof card''' has the statement of a mathematical theorem on the front side
 ==See also==
 
 * [[Integration card]]
+* [[Big card]]
 
 [[Category:Spaced repetition]]
