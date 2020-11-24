@@ -1,3 +1,7 @@
 A '''proof card''' has a statement of a mathematical theorem on the front side, and its proof on the back side. Proof cards are the main component of [[spaced proof review]].
 
+==See also==
+
+* [[Integration card]]
+
 [[Category:Spaced repetition]]
