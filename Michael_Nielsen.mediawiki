@@ -1,0 +1,3 @@
+'''Michael Nielsen''' is co-creator of [[Quantum Country]] and author of several online essays about spaced repetition, including "[[Augmenting Long-term Memory]]" and "[[Using spaced repetition systems to see through a piece of mathematics]]".
+
+[[Category:Spaced repetition]]
