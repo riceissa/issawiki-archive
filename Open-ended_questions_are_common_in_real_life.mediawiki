@@ -1,0 +1,9 @@
+A frequent advice in the [[spaced repetition]] community is to make each card [[small card|small]], with a definite answer. Complicated responses like lists and sets are discouraged. But in real life, it is quite common to receive prompts that have complicated answers (e.g. "can you teach me about the law of cosines?")
+
+I think people should spend more time thinking about how to correctly Ankify knowledge like this.
+
+==See also==
+
+* [[Integration card]]
+
+[[Category:Spaced repetition]]
