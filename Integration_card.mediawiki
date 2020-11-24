@@ -1,0 +1,3 @@
+An '''integration card''' integrates knowledge from many [[small card]]s an tests one's knowledge in an end-to-end way. [[Proof card]]s are an example.
+
+[[Category:Spaced repetition]]
