@@ -5,3 +5,7 @@
 * "Do the math, then burn the math and go with your gut": writing down actual calculations and probabilities and so forth enforces consistency and a crisp model in a way that just using verbal reasoning + intuition doesn't.
 * [[Redlink]]s on a MediaWiki wiki makes the divergence between ''intent'' and ''execution'' obvious, in a way that "just don't link to it if the page doesn't exist" (the default on the web) doesn't.
 * Empty sections similarly make intent vs execution obvious.
+
+Non-examples:
+
+* [[Uncertainty fetish]] that [[Vipul]] complained about.
