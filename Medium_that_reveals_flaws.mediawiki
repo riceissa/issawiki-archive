@@ -3,3 +3,5 @@
 * A table makes it obvious when one of its cells is missing information. Once you specify the column names and instances (rows), that automatically gives a spot for n*m cells which must be filled. If the same information is presented as an essay or new reporting, it is not so obvious which pieces of info are missing.
 * [[Jonathan Blow]] makes the point that a video game designer must create a system with consistent laws/mechanics, whereas a novelist does not need to do so.
 * "Do the math, then burn the math and go with your gut": writing down actual calculations and probabilities and so forth enforces consistency and a crisp model in a way that just using verbal reasoning + intuition doesn't.
+* [[Redlink]]s on a MediaWiki wiki makes the divergence between ''intent'' and ''execution'' obvious, in a way that "just don't link to it if the page doesn't exist" (the default on the web) doesn't.
+* Empty sections similarly make intent vs execution obvious.
