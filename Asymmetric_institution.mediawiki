@@ -1,0 +1,8 @@
+An '''asymmetric institution''' is an institution or mechanism which gives influence asymmetrically based on some property.
+
+==External links==
+
+* [https://ea.greaterwrong.com/posts/4oGYbvcy2SRHTWgWk/improving-the-future-by-influencing-actors-benevolence/comment/vtJg9v9PFdTiWfPgy Comment] by [[Carl Shulman]] on "Improving the future by influencing actors' benevolence, intelligence, and power"
+* https://slatestarcodex.com/2017/03/24/guided-by-the-beauty-of-our-weapons/
+
+[[Category:AI safety]]
