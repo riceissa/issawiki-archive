@@ -1,5 +1,20 @@
 An '''asymmetric institution''' is an institution or mechanism which gives influence asymmetrically based on some property.
 
+==Examples of asymmetric institutions==
+
+* science
+* betting
+* debate (of the civil/rational kind, not a shouting match)
+* charity evaluation based on some strict criteria
+
+==Examples of symmetric institutions==
+
+* violence
+* shouting match
+* spreading viral content
+* persuasion tactics
+* info warfare
+
 ==External links==
 
 * [https://ea.greaterwrong.com/posts/4oGYbvcy2SRHTWgWk/improving-the-future-by-influencing-actors-benevolence/comment/vtJg9v9PFdTiWfPgy Comment] by [[Carl Shulman]] on "Improving the future by influencing actors' benevolence, intelligence, and power"
