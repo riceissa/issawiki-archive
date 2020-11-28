@@ -15,6 +15,14 @@ An '''asymmetric institution''' is an institution or mechanism which gives influ
 * persuasion tactics
 * info warfare
 
+==Concerns==
+
+Even asymmetric institutions aren't ''that'' good. Some thoughts here:
+
+* lots of low hanging fruit remain unpicked / inability to resolve coordination failures (e.g. look at all of the criticisms of science in recent years)
+* even asymmetric institutions can be corrupted
+* halo effect to areas where these institutions don't have expertise
+
 ==External links==
 
 * [https://ea.greaterwrong.com/posts/4oGYbvcy2SRHTWgWk/improving-the-future-by-influencing-actors-benevolence/comment/vtJg9v9PFdTiWfPgy Comment] by [[Carl Shulman]] on "Improving the future by influencing actors' benevolence, intelligence, and power"
