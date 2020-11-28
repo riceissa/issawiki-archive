@@ -3,3 +3,5 @@
 ==External links==
 
 * https://timelines.issarice.com/wiki/Timeline_of_Carl_Shulman_publications
+
+[[Category:AI safety]]
