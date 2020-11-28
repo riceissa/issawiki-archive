@@ -1,0 +1,7 @@
+It seems like the type of diversity one seeks in a given environment depends on the task at hand. For example:
+
+* For an edtech startup, one might want to hire people with learning disabilities, who will have unique insights about how to present content in understandable ways.
+* For an EA org one want people with many different value systems and cognitive styles and so on, to prevent blindspots.
+* For a software company making normal software... I'm not sure what kind of diversity matters; maybe having people with different areas of expertise, which seems to happen naturally.
+
+In contrast, the typical way to deal with diversity in the Western world in recent decades seems to be to focus on certain kinds of diversity as "good/essential" (regardless of the task), and to ignore other kinds of diversity.
