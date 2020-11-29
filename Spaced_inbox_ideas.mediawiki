@@ -1,5 +1,11 @@
 Some ideas for a [[spaced inbox]] app that I might make in the future.
 
+tagging seems important. and schedule changes based on tags. e.g. i think having todo items in spaced inbox is good, so that you can work through lower priority items at longer intervals. for this, you could do like #todo or whatever, and it would get the "todo item review schedule", which might be different from an #idea or a #readlater or #quote. it doesn't have to be called "tags"; just some way to have separate scheduling.
+
+another important thing is to be able to have separate topics, like my default inbox vs ai safety vs day job.
+
+----
+
 i had the idea that one's LW shortform feed could act as one's spaced inbox -- just build your own UI and interact with LW using the API.
 the problem is that posting to LW might be scary for some ppl (including me) and the whole point of spaced inbox is to make the note-taking process friction-free.
 
