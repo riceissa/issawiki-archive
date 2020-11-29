@@ -1,6 +1,6 @@
 When reviewing in my [[spaced writing inbox]], sometimes i am like, "oh i would deal with this item if i had more energy, but not right now". should i just press "good"? or is that where "again" is useful? Spaced repetition was supposed to be a [[soft alarm clock]] that could gently push back items into the future, but if I can't deal with items when they show up for review, that is adding another "epicycle": I am wanting to hit snooze on the snooze itself.
 
-The way to make this more interesting is to imagine that I had an item in my inbox that's already been there for a while. It comes up for review. If I hit "good", then it's going to next come back in 5 years. That feels like too much time! So I want to hit "snooze" on the review itself -- remind me about ''the fact that this item is due for review'' in, say, a week.
+The way to make this more interesting is to imagine that I had an item in my inbox that's already been there for a while. It comes up for review. If I hit "good", then it's going to next come back in 5 years. That feels like too much time! (another way to explain this feeling: if I had been less busy on that week, I totally would have reviewed this item; it's only because of X, Y, and Z being higher priorities that I don't have the mental energy to do this review.) So I want to hit "snooze" on the review itself -- remind me about ''the fact that this item is due for review'' in, say, a week.
 
 ==See also==
 
