@@ -2,10 +2,10 @@ An '''asymmetric institution''' is an institution or mechanism which gives influ
 
 ==Examples of asymmetric institutions==
 
-* science
-* betting
-* debate (of the civil/rational kind, not a shouting match)
-* charity evaluation based on some strict criteria
+* science: gives status/influence to researchers who generate hypotheses that third parties can replicate; this means that most people's pet theories do not be promoted by science
+* betting: 
+* debate (of the civil/rational kind, not a shouting match): 
+* charity evaluation based on some strict criteria: [[GiveWell]] gains influence by evaluating charities, but it cannot promote any charity it wishes; it can only promote e.g. charities whose interventions perform well under a randomized controlled trial
 
 ==Examples of symmetric institutions==
 
