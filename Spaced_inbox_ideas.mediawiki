@@ -1,5 +1,11 @@
 Some ideas for a [[spaced inbox]] app that I might make in the future.
 
+some kind of "all notes" view that just lists things chronologically either by creation timestamp or last modification timestamp. [[Roam]] has this too if you go to https://roamresearch.com/#/app/YOUR_GRAPH_NAME/search
+
+my current "spaced inbox" in inbox.txt has _only_ this view. but there should also be a default "inbox" view. sort of like how gmail has both inbox and 'all mail'.
+
+----
+
 essential features/"main modes" for a note taking/spaced inbox app?
 
 * daily notes/org capture/wordpress p2 theme/single place where new thoughts go in, with ability to just scroll through most recent notes
