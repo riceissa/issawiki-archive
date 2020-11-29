@@ -2,4 +2,8 @@ One problem with a naive implementation of a [[spaced inbox]] seems to be that i
 
 A similar thing thing happens when a blog post first appears in a place like [[LessWrong]] or Hacker News during a week when you're super busy. You might just skip reading these posts even when you should have read them. (Alternatively, maybe you are reading too many things when you aren't as busy.)
 
+==See also==
+
+* [[Snoozing epicycle]]
+
 [[Category:Spaced repetition]]
