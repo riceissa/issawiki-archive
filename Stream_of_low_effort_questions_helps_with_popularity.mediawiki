@@ -6,6 +6,8 @@ By "low effort and somewhat low quality", I mean that it's possible to find answ
 
 it's the opposite of my stack exchange / "do your homework" / MVP/[https://robertheaton.com/2019/09/24/how-to-come-up-with-blog-post-ideas/ made up award principle] mentality
 
+a corollary here is that the "do your homework" approach will make it harder for other ppl to comment on, so you get less engagement
+
 these kinds of "watercooler" discussions seem to be serving an important social function (making the asker more popular for hosting the discussion, and maybe people in the discussion threads can signal their intelligence/wisdom/knowledge and also find new friends). But I wish they could happen in a way that's consistent with producing [[canonical]] content.
 
 ==See also==
