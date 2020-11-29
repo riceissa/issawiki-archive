@@ -1,4 +1,4 @@
-When reviewing in my [[spaced writing inbox]], sometimes i am like, "oh i would deal with this item if i had more energy, but not right now". should i just press "good"? or is that where "again" is useful? i feel like the "rules of the game" haven't been established yet so it is hard to say what I should do ... i.e. idk how to convert my mental motions (like flinch, or excitement, or tiredness) into a piece or parameter of the algorithm for the scheduling algorithm.
+When reviewing in my [[spaced writing inbox]], sometimes i am like, "oh i would deal with this item if i had more energy, but not right now". should i just press "good"? or is that where "again" is useful? Spaced repetition was supposed to be a [[soft alarm clock]] that could gently push back items into the future, but if I can't deal with items when they show up for review, that is adding another "epicycle": I am wanting to hit snooze on the snooze itself.
 
 ==See also==
 
