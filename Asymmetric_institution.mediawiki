@@ -9,6 +9,8 @@ An '''asymmetric institution''' is an institution or mechanism which gives influ
 
 ==Examples of symmetric institutions==
 
+Symmetric institutions/weapons have the property that the effectiveness does not depend on who is using it (although there are things like offense vs defense issues).
+
 * violence
 * shouting match
 * spreading viral content
