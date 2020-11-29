@@ -1,3 +1,5 @@
+Some ideas for a [[spaced inbox]] app that I might make in the future.
+
 essential features/"main modes" for a note taking/spaced inbox app?
 
 * daily notes/org capture/wordpress p2 theme/single place where new thoughts go in, with ability to just scroll through most recent notes
