@@ -3,3 +3,5 @@ essential features/"main modes" for a note taking/spaced inbox app?
 * daily notes/org capture/wordpress p2 theme/single place where new thoughts go in, with ability to just scroll through most recent notes
 * inbox feature, where the stuff to review shows up all in one place
 * web of concepts/pages that are <nowiki>[[wikilinked]]</nowiki> together
+
+[[Category:Spaced repetition]]
