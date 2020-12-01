@@ -1,0 +1,6 @@
+I think there's a somewhat popular meme in some [[rationalist]] circles that goes something like: "To make intellectual progress, we just need to create a space where people can propose lots of ideas rapidly, not worrying about the quality so much. Then, we can come back and organize all of the good stuff into a distilled form." This leads to things like [[LessWrong shortform]], [[LessWrong annual review]], blog posts like [[babble and prune]], and so on.
+
+I think the two parts of this meme are important, but I think on their own they are not enough, so I feel like extending this to include more things like exercises, [[spaced repetition]], [[asynchronous support]], etc.
+
+[[Category:Spaced repetition]]
+[[Category:Intellectual progress]]
