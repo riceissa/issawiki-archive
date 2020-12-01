@@ -1,0 +1,5 @@
+'''Existential win''' is a phrase that is sometimes used to refer to the state where humanity has successfully navigated [[existential risk]]s and has now reached a stable point in history.
+
+(any nuances I am missing?)
+
+[[Category:AI safety]]
