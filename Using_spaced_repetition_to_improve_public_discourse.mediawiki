@@ -1,0 +1,5 @@
+some random ideas i came up with:
+
+* an "i want a reply to this" button on public forums, that if it crosses some threshold (set by the user) would notify them at spaced intervals bugging them to give a reply. and the public would at least be able to see the non-response when the person "snoozes" on replying.
+
+[[Category:Spaced repetition]]
