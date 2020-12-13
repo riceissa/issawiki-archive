@@ -4,6 +4,6 @@ Something is '''ankifiable''' if it is easy to turn into an [[Anki]] card. As so
 
 It seems to me that quotable things and ankifiable things both have the property of ''locality'': the punch is packed into a small part of the text, which you can "clip out" into an atomic insight. When an insight is developed over time, such that there is no single sentence or paragraph that contains the insight (such as in a [[Discursive texts are difficult to ankify|discursive text]]), it is much more difficult to ankify.
 
-In some sense, [[incremental reading]] can be seen as giving up on ankifiability and instead using quotability as a proxy for what content to add to one's deck.
+In some sense, [[incremental reading]] can be seen as giving up on ankifiability of a text (as ankifiability seems like a much more restrictive property compared to quotability) and instead using quotability as a proxy for what content to add to one's deck.
 
 [[Category:Spaced repetition]]
