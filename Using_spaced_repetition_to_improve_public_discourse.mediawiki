@@ -1,5 +1,6 @@
 some random ideas i came up with:
 
 * an "i want a reply to this" button on public forums, that if it crosses some threshold (set by the user) would notify them at spaced intervals bugging them to give a reply. and the public would at least be able to see the non-response when the person "snoozes" on replying.
+* [[incremental reading]] instead of upvotes: instead of upvotes, a forum could have the ability to highlight any text in a post or comment and put it in your incremental reading stack. Then each person would be highlighting for themselves instead of highlighting because they want the thing to have higher visibility. It focuses attention to the first order "is this useful to me" instead of "do I want other people to see this" (one forums with anonymous voting like [[LessWrong]]) or "do I want to be seen endorsing this" (on forums with names attached to votes, like on Facebook). There would be a more collaborative flavor to this like "how can I get the most interesting things here and help the community think better".
 
 [[Category:Spaced repetition]]
