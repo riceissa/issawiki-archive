@@ -2,6 +2,7 @@ The '''expert response heuristic for prompt writing''' says that when writing [[
 
 Pros:
 
+* people can have different mental representations for the same object, and I think this heuristic encourages freedom in having these different representations (it's sort of similar to the heuristic of how, if you can get the right answer, then it doesn't matter how you solved it).
 * easier to share cards with others. It's annoying to use prompts someone else has written for material that you basically know well, but the prompt writer used a different source text or a source text you don't particularly care for, and then you're sort of forced to memorize contingent facts ''about'' the source material instead of facts about the subject in general.
 
 Cons:
