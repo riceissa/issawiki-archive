@@ -8,6 +8,8 @@ What is interesting about asymmetric institutions is that (1) they selectively g
 * betting: 
 * debate (of the civil/rational kind, not a shouting match): 
 * charity evaluation based on some strict criteria: [[GiveWell]] gains influence by evaluating charities, but it cannot promote any charity it wishes; it can only promote e.g. charities whose interventions perform well under a randomized controlled trial
+* Wikipedia's policies like notability and reliable source
+* Criteria for acceptable questions on Stack Exchange sites
 
 ==Examples of symmetric institutions==
 
