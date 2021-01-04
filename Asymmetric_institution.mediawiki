@@ -20,6 +20,8 @@ Symmetric institutions/weapons have the property that the effectiveness does not
 * spreading viral content
 * persuasion tactics
 * info warfare
+* coordination mechanisms like Kickstarter
+* [[Donor lottery]]
 
 ==Concerns==
 
