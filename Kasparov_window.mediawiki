@@ -2,4 +2,6 @@ https://www.google.com/search?q=%22kasparov+window%22
 
 I think [[Eliezer]]'s point is that when there's more hardware behind an AI project, the Kasparov window is narrower.
 
+see also the "time for AI to cross" series of blog posts from [[AI Impacts]] https://aiimpacts.org/?s=time+for+ai+to+cross
+
 [[Category:AI safety]]
