@@ -10,3 +10,4 @@ I've been thinking about switching costs of software ever since I saw [https://b
 * Software that promises "sane defaults" are easier to switch to.
 
 [[Category:Economics]]
+[[Category:Software]]
