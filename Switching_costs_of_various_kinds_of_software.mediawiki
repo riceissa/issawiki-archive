@@ -6,5 +6,6 @@ I've been thinking about switching costs of software ever since I saw [https://b
 * Note-taking apps are kinda hard to switch because your notes might be in incompatible formats between different programs. otoh, i think some ppl want to declare bankruptcy on their notes, and having a "fresh start" is appealing to them, so they are more open to switching.
 * It's super easy to switch between terminal emulators if you use tmux/screen; you can just detach, close the old terminal, then reattach in the new terminal. You don't need to close any programs or anything.
 * Any kind of social software (e.g. social networking sites, instant messaging) is hard to switch because it requires also convincing other people to switch with you.
+* Software that promises "sane defaults" are easier to switch to.
 
 [[Category:Economics]]
