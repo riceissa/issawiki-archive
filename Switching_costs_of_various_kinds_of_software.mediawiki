@@ -1,0 +1,5 @@
+I've been thinking about switching costs of software ever since I saw [https://blog.robenkleene.com/2020/09/21/the-era-of-visual-studio-code/#fn:whytexteditorshavechurn this footnote] in a blog post about text editors.
+
+* Spaced repetition software is pretty easy to switch, because the old SRS you abandon will gradually have fewer and fewer reviews, so you can just add your new content to the new SRS and it will basically be a "soft switch" to the new one.
+
+[[Category:Economics]]
