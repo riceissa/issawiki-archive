@@ -2,7 +2,8 @@ I've been thinking about switching costs of software ever since I saw [https://b
 
 * Spaced repetition software is pretty easy to switch, because the old SRS you abandon will gradually have fewer and fewer reviews, so you can just add your new content to the new SRS and it will basically be a "soft switch" to the new one.
 * Text editors are unique in that the ''format'' is universal (because it's either plain text or controlled by programming languages rather than the text editor itself). There are however "soft" lockin via formats, e.g. a programming language with a lot of boilerplate will be difficult to program in without fancy autocompletion.
+** Some reasons mentioned in the Roben Kleene article: most text editors have the same keybindings, and so you can pretty much start using it without reading a manual.
 * Note-taking apps are kinda hard to switch because your notes might be in incompatible formats between different programs. otoh, i think some ppl want to declare bankruptcy on their notes, and having a "fresh start" is appealing to them, so they are more open to switching.
-
+* It's super easy to switch between terminal emulators if you use tmux/screen; you can just detach, close the old terminal, then reattach in the new terminal. You don't need to close any programs or anything.
 
 [[Category:Economics]]
