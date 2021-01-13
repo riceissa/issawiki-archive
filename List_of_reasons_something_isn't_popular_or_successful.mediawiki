@@ -1,6 +1,6 @@
 (i probably need a better title for the thing i am trying to point to)
 
-For a few different values of interests X, I often have thoughts like "Why isn't X more popular? Why doesn't X have a community around it? Why aren't there people getting paid to do X?"
+For a few different values of interests X, I often have thoughts like "Why isn't X more popular? Why doesn't X have a community around it? Why aren't there people getting paid to do X? Why is Y a thing when X isn't?" I want to understand this better, in particular by listing out reasons this can happen.
 
 * from [https://www.facebook.com/groups/674486385982694/permalink/761458527285479/?comment_id=763779440386721 this comment] by [[Eliezer Yudkowsky]] (for anywhere with a stream of rent/where gullible people exist):
 ** heavy competition
