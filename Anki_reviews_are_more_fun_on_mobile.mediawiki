@@ -1,0 +1,7 @@
+For reasons I don't yet understand, I find [[Anki]] reviews to be much more fun/motivating on a mobile device than on my laptop, even though I prefer my laptop for almost everything (and even dislike mobile devices in general!).
+
+[[AnkiDroid]] also seems to have gotten better in the last few years, as it now supports MathJax out of the box.
+
+The one exception to this is [[proof card]]s: these require substantially more writing than any of my [[small card]]s so I can't do these even with my tablet.
+
+[[Category:Spaced repetition]]
