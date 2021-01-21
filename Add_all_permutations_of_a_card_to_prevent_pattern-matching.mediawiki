@@ -1,0 +1,12 @@
+One of the common problems when writing cards (especially [[cloze deletion]] cards) is that the brain just pattern-matches the "shape" of a card without really processing the information on it, so that you can give the correct answer without really thinking. This happens because your brain knows which cards are in you Anki deck vs what isn't in there. One way to prevent such pattern matching is to add all the "permutations" of a card so that your brain must do some extra work to distinguish which of the cards is the one that just showed up.
+
+Here's an example:
+
+* if E is an elementary matrix, then how are the column spaces of A and EA related?
+* if E is an elementary matrix, then how are the row spaces of A and EA related?
+* if E is an elementary matrix, then how are the column spaces of A and AE related?
+* if E is an elementary matrix, then how are the row spaces of A and AE related?
+
+So the general principle is: if you make all the permutations of a card, then your brain ''can't'' pattern-match the answer, which is a good thing. Because if you just added one of the cards like that, your brain would automatically go "they're the same!" or whatever whenever it just sees the "shape" of the card.
+
+[[Category:Spaced repetition]]
