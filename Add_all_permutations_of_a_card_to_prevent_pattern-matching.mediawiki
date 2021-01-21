@@ -9,4 +9,6 @@ Here's an example:
 
 So the general principle is: if you make all the permutations of a card, then your brain ''can't'' pattern-match the answer, which is a good thing. Because if you just added one of the cards like that, your brain would automatically go "they're the same!" or whatever whenever it just sees the "shape" of the card.
 
+How would this work for a cloze deletion card? I don't think it would work in a case like that. I think you'd need to convert it to basic question-answer cards.
+
 [[Category:Spaced repetition]]
