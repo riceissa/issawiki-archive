@@ -24,6 +24,8 @@ vacation tier = I need more than a day or two of concentrated "good" time to foc
 * think about [[AI polarization]], using examples like COVID and climate change (vacation tier)
 * write up my understanding of people's views on [[whole brain emulation]] (vacation tier)
 * clarify my thoughts on probability of saving the world via x-risk reduction (vacation tier)
+* Philosophy
+** human values/[[deliberation]] (vacation tier)
 
 ==Technical AI safety==
 
@@ -55,10 +57,6 @@ vacation tier = I need more than a day or two of concentrated "good" time to foc
 ==Personal reflection==
 
 * reflection post about getting involved with AI safety (vacation tier)
-
-==Philosophy==
-
-* human values/[[deliberation]] (vacation tier)
 
 ==Learn stuff==
 
