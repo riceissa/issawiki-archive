@@ -6,6 +6,8 @@ This suggests that the buttons "Good", "Again", "Hard", "Easy" are not the right
 
 Related idea: so interestingly, if you want to implement like a SRS for note taking, then there are two distinct reasons why you might want to "push back" a note further into the future: (1) you're like "meh, this ideas sucks, don't need to see it for a long time"; (2) you're like "this is a great idea! but I know it very well/remembered it all this time, so I don't need to be reminded about it for a long time".
 
+One idea is to use [[dual ratings for spaced inbox]].
+
 ==References==
 
 <references/>
