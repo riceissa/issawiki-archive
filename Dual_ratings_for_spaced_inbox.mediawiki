@@ -1,0 +1,7 @@
+Dual ratings for incremental reading and spaced inbox? One for insightfulness and one for whether you still remembered the idea. E.g. today's [[incremental reading]] card about Paul Graham aiming precisely at a target, I totally forgot I even added this card but I also didn't see it as too insightful, so I was like whatever and wouldn't mind not seeing it for a long time. There are other cases where I think a card is insightful but where I already keep thinking about it so don't need to reminder. The cards I'd like to "keep closer" to me by contracting the schedules are the ones that are both insightful and that I totally forgot about/keep forgetting about.
+
+==See also==
+
+* [[Interaction reversal between knowledge-to-be-memorized and ideas-to-be-developed]]
+
+[[Category:Spaced repetition]]
