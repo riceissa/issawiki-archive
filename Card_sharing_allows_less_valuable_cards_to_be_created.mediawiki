@@ -2,4 +2,6 @@ With [[Anki]] deck sharing and with things like [[Quantum Country]] and [[Orbit]
 
 Another way to phrase this is that the only cards that are being created by self-studiers right now is the ones that are ''so'' useful that even without distributing the cost of creating the card across many users, the card is ''still'' useful, i.e. only like the top percentile cards or something. There must be a huge space of cards that start being useful once you distribute the costs among multiple users. (I don't actually know what the distribution of usefulness looks like, and where the cost cutoff is, so I'm sort of just going intuitively by my own experience here.)
 
+I'm not even talking about economies of scale here: like sure, if a single big entity made all the cards, they can be more efficient at making cards, but that seems like a smaller effect than what I'm describing above.
+
 [[Category:Spaced repetition]]
