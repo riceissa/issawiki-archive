@@ -8,6 +8,8 @@ This is a list of men along with their number of sons, daughters, and wives. For
 ! data-sort-type=number | Wives
 ! Sources
 |-
+| Hermann Hesse || 3 || 0 || 3 || 3 || <ref>"Spouse(s): Maria Bernoulli (1904-1923), Ruth Wenger (1924-1927), Ninon Dolbin (1931-his death)" "Children: Bruno Hesse, Heiner Hesse, Martin Hesse" https://www.thoughtco.com/biography-of-hermann-hesse-4775337</ref>
+|-
 | Charles Murray || ? || ? || 4 || 2 || <ref>https://en.wikipedia.org/wiki/Charles_Murray_(political_scientist)#Divorce_and_remarriage "Murray has four children, two by each wife."</ref>
 |-
 | John Maynard Keynes || 0 || 0 || 0 || 1 || <ref>https://en.wikipedia.org/wiki/John_Maynard_Keynes#Marriage</ref>
