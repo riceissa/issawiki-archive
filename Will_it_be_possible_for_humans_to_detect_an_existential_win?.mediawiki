@@ -1,5 +1,5 @@
 '''Will it be possible for humans to detect an existential win?''' If we take [[metaphilosophy]] and [[human safety]] issues seriously, then in many scenarios where humanity doesn't immediately go extinct, it seems difficult to tell whether we've "won" or not. For example, an AI might convincingly explain to us that things are going well even when they aren't, or we might be so completely brainwashed that we lose the ability to figure out whether the world is going well.
 
-I think a big part of why I am more pessimistic than most people in the [[AI safety community]] is that others thing detecting an "[[existential win]]" will be obvious.
+I think a big part of why I am more pessimistic than most people in the [[AI safety community]] is that others think detecting an "[[existential win]]" will be obvious.
 
 [[Category:AI safety]]
