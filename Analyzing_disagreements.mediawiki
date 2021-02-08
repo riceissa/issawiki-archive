@@ -52,6 +52,8 @@ another point: gary drescher mentions this in ''[[Good and Real]]'', but if you 
 
 https://www.econlib.org/archives/2017/12/whats_my_core_m.html/#comment-174163 -- this is an interesting comment about how to identify correct contrarians. but for AI safety arguments the heuristics he uses don't discriminate between the various views, so it's not useful.
 
+see also [[Justin Shovelain]]'s https://lw2.issarice.com/posts/DYWXntS3ybp8x3cKq/causes-of-disagreements
+
 ==See also==
 
 * [[List of disagreements in AI safety]]
