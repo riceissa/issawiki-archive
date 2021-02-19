@@ -1,5 +1,9 @@
 Something I thought of while working through [[Exercism]]: when someone gives you good feedback, it should go in Anki so that you don't forget this insight. It can take a bit of work to formulate this as a card, but you want to record the insight somehow.
 
+It can be quite rare to get useful feedback in the real world, so it seems good to make use of whatever small amount of feedback you can get (although you don't want to overfit to this feedback). This also means that "feedback cards" won't be overwhelming, so you can afford to make them almost every time.
+
+I also think of this as a common courtesy type of gesture: someone took the time to give you useful feedback, so it is now your duty to not forget it.
+
 ==See also==
 
 * [[Make new cards when you get stuck]]
