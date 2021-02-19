@@ -3,5 +3,6 @@ When doing [[spaced proof review]] or even during normal Anki reviews, if you ge
 ==See also==
 
 * [[Dealing with bad problems in spaced proof review]]
+* [[Make Anki cards based on feedback you receive]]
 
 [[Category:Spaced repetition]]
