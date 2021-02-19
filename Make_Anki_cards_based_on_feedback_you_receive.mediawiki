@@ -1,0 +1,3 @@
+Something I thought of while working through [[Exercism]]: when someone gives you good feedback, it should go in Anki so that you don't forget this insight. It can take a bit of work to formulate this as a card, but you want to record the insight somehow.
+
+[[Category:Spaced repetition]]
