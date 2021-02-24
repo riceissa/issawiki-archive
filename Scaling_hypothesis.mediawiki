@@ -1,0 +1,13 @@
+The '''scaling hypothesis''' is one of several statements stating roughly that once we find some "scalable" architecture, throwing more computing power and data at a problem to get to AGI.
+
+==See also==
+
+* [[Prosaic AI]] -- how is the scaling hypothesis different from prosaic AI? I think the scaling hypothesis implies prosaic AI, but a prosaic AI can make use of lots of different algorithms?
+
+==External links==
+
+* https://www.gwern.net/newsletter/2020/05#scaling-hypothesis
+* https://www.greaterwrong.com/posts/N6vZEnCn6A95Xn39p/are-we-in-an-ai-overhang/comment/jbD8siv7GMWxRro43
+* https://www.greaterwrong.com/posts/kpK6854ArgwySuv7D/probability-that-other-architectures-will-scale-as-well-as/answer/PEqsLsDswcRNKRhje
+
+[[Category:AI safety]]
