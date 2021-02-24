@@ -1,4 +1,8 @@
 
 * the word "continuous" in continuous takeoff does not mean the mathematical definition of continuity; even in a [[hard takeoff]] (i.e. "discontinuous takeoff") scenario, the AI system's capability can be modeled as a continuous function.
 
+pages about continuous takeoff:
+
+* [[Changing selection pressures argument]]
+
 [[Category:AI safety]]
