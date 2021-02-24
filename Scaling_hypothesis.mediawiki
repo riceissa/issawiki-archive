@@ -3,6 +3,7 @@ The '''scaling hypothesis''' is one of several statements stating roughly that o
 ==See also==
 
 * [[Prosaic AI]] -- how is the scaling hypothesis different from prosaic AI? I think the scaling hypothesis implies prosaic AI, but a prosaic AI can make use of lots of different algorithms?
+* [[Resource overhang]]
 
 ==External links==
 
