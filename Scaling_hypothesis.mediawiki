@@ -1,4 +1,4 @@
-The '''scaling hypothesis''' is one of several statements stating roughly that once we find some "scalable" architecture, throwing more computing power and data at a problem to get to AGI.
+The '''scaling hypothesis''' is one of several statements stating roughly that once we find some "scalable" architecture, we can get to AGI by throwing more computing power and data at a problem.
 
 ==See also==
 
