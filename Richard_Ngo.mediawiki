@@ -1,4 +1,4 @@
-'''Richard Ngo''' is a PhD student in philosophy of machine learning at Cambridge.<ref>https://www.greaterwrong.com/users/ricraz</ref> He was formerly an AI safety research engineer at [[Google DeepMind]].<ref>[https://forum.effectivealtruism.org/users/richard_ngo richard_ngo]. "AI safety research engineer at DeepMind (all opinions my own, not theirs). I'm from New Zealand and now based in London; I also did my undergrad and masters degrees in the UK (in Computer Science, Philosophy, and Machine Learning)."</ref>
+'''Richard Ngo''' is a PhD student in philosophy of machine learning at Cambridge University.<ref>https://www.greaterwrong.com/users/ricraz</ref> He was formerly an AI safety research engineer at [[Google DeepMind]].<ref>[https://forum.effectivealtruism.org/users/richard_ngo richard_ngo]. "AI safety research engineer at DeepMind (all opinions my own, not theirs). I'm from New Zealand and now based in London; I also did my undergrad and masters degrees in the UK (in Computer Science, Philosophy, and Machine Learning)."</ref>
 
 ==References==
 
