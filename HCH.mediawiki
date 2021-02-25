@@ -1,3 +1,3 @@
-'''HCH''' (a recursive acronym for '''humans consulting HCH''') is a theoretical scheme for [[amplification]], where a human performs tasks by consulting a team of other humans, who in turn each have a team of other humans to consult, forming a tree of humans.
+'''HCH''' (a recursive acronym for '''humans consulting HCH''') is a theoretical scheme for [[amplification]], where a human performs tasks by consulting a team of other humans, who in turn each have a team of other humans to consult, forming a tree of humans. It is closely associated with [[Paul Christiano]]'s [[iterated amplification]] research agenda.
 
 [[Category:AI safety]]
