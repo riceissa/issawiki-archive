@@ -1,5 +1,9 @@
 In a 2018 blog post, [[Paul Christiano]] provided the following operationalization of [[slow takeoff]]: "There will be a complete 4 year interval in which world output doubles, before the first 1 year interval in which world output doubles. (Similarly, we’ll see an 8 year doubling before a 2 year doubling, etc.)"<ref>https://sideways-view.com/2018/02/24/takeoff-speeds/</ref> Subsequently, this operationalization has been cited by many others in discussions of [[AI takeoff]].
 
+==External links==
+
+* https://www.greaterwrong.com/posts/AfGmsjGPXN97kNp57/arguments-about-fast-takeoff/comment/ZyJwKwDrX5jWujXxo
+
 ==References==
 
 <references/>
