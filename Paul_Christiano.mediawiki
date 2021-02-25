@@ -1,0 +1,3 @@
+'''Paul Christiano''' is an AI safety researcher, previously at [[OpenAI]] and currently for some unknown project.
+
+[[Category:AI safety]]
