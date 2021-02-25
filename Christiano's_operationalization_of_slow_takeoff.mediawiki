@@ -4,7 +4,7 @@ In a 2018 blog post, [[Paul Christiano]] provided the following operationalizati
 
 * https://www.greaterwrong.com/posts/AfGmsjGPXN97kNp57/arguments-about-fast-takeoff/comment/ZyJwKwDrX5jWujXxo -- a technical point about the mathematics of this operationalization
 * https://www.greaterwrong.com/posts/aFaKhG86tTrKvtAnT/against-gdp-as-a-metric-for-timelines-and-takeoff-speeds
-* I think [[Daniel Kokotajlo]] had another post that gave counterexamples to the operationalization looking at historical GDP progress
+* https://aiimpacts.org/precedents-for-economic-n-year-doubling-before-4n-year-doubling/ -- counterexamples to the operationalization looking at historical GDP progress
 
 ==References==
 
