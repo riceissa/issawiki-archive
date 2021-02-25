@@ -1,3 +1,5 @@
+'''AI takeoff''' refers to the events surrounding the creation of advanced AI systems including [[artificial general intelligence]]. In the field of [[AI alignment]], the most discussed aspect of AI takeoff is the [[AI takeoff shape]] (roughly, whether the emergence of an AGI will be sudden or gradual, how quickly economic activity will accelerate after advanced AI systems appear, and so on).
+
 ==See also==
 
 * [[List of disagreements in AI safety#Takeoff dynamics]]
