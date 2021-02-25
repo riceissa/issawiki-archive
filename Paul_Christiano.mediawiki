@@ -1,3 +1,10 @@
 '''Paul Christiano''' is an AI safety researcher, previously at [[OpenAI]] and currently for some undisclosed project.
 
+==See also==
+
+* [[Iterated amplification]]
+* [[Debate]]
+* [[HCH]]
+* [[Continuous takeoff]]
+
 [[Category:AI safety]]
