@@ -2,7 +2,7 @@ In a 2018 blog post, [[Paul Christiano]] provided the following operationalizati
 
 ==External links==
 
-* https://www.greaterwrong.com/posts/AfGmsjGPXN97kNp57/arguments-about-fast-takeoff/comment/ZyJwKwDrX5jWujXxo
+* https://www.greaterwrong.com/posts/AfGmsjGPXN97kNp57/arguments-about-fast-takeoff/comment/ZyJwKwDrX5jWujXxo -- a technical point about the mathematics of this operationalization
 
 ==References==
 
