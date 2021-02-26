@@ -1,4 +1,4 @@
-This is a list of men along with their number of sons, daughters, and wives. I focus on men because I believe the psychology and economics are drastically different for women, so data from women matter much less for me when making decisions about my life. For children, only biological children who survive past infancy are counted. I make absolutely no claims about how these men were chosen to be on this list.
+This is a list of men along with their number of sons, daughters, and wives. I focus on men because I believe the psychology and economics are drastically different for women, so data from women matter much less to me when making decisions about my life. For children, only biological children who survive past infancy are counted. I make absolutely no claims about how these men were chosen to be on this list.
 
 {| class="sortable wikitable"
 ! Name
