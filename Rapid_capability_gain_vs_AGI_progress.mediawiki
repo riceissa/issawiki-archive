@@ -10,3 +10,5 @@ these two notions might eventually coincide, if the AI is the one doing AI resea
 ==External links==
 
 * https://www.greaterwrong.com/posts/PzAnWgqvfESgQEvdg/any-rebuttals-of-christiano-and-ai-impacts-on-takeoff-speeds/answer/TCqBaYgoJYhbayqFp
+
+[[Category:AI safety]]
