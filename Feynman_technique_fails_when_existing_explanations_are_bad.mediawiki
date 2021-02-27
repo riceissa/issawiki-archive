@@ -1,3 +1,6 @@
 The [https://learning.subwiki.org/wiki/Feynman_technique Feynman technique] is great when you really want to internalize something. But the technique has a problem when all existing explanations suck. In that case you can try to explain it yourself, but when you get stuck, there is nowhere to turn to.
 
+Even explanations of the technique use these bad explanations e.g. this site that explains the feynman technique using the pythagorean theorem as the example sucks: https://collegeinfogeek.com/feynman-technique/ -- this is hardly an explanation of the theorem, and they only show a proof at the very end and it's a rearrangement proof that doesn't give any insight.
+
+
 [[Category:Learning]]
