@@ -9,3 +9,5 @@ Here's my current (April 2020) views on 3Blue1Brown's math videos:
 * i'm skeptical of viewers' ability to use videos as a tool to really further and retain their understanding. my guess is that like 99.9% of people just watch the video, then forget about it. there's no force that pulls people back to review the material, to continue thinking about it, to try to reinvent it, etc.
 
 """There's a flipside to this emotional connection, however. We've often heard people describe Sanderson's videos as about “teaching mathematics”. But in conversation he's told us he doesn't think more than a small fraction of viewers are taking away much detailed understanding of mathematics. We suspect this is generally true, that high affect videos usually do little to change people's detailed intellectual understanding. Rather, the extraordinary value of the videos lies in the emotional connection they create.""" https://numinous.productions/ttft/
+
+[[Category:Learning]]
