@@ -12,3 +12,5 @@ see also discussions in https://arbital.com/p/general_intelligence/ about how th
 
 * [[Hardware-driven vs software-driven progress]]
 * [[Secret sauce for intelligence]]
+
+[[Category:AI safety]]
