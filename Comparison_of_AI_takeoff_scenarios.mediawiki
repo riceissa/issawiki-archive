@@ -30,3 +30,5 @@ There are some other comparison axes for different views on takeoff (wall clock 
 ==Notes==
 
 <references group=notes/>
+
+[[Category:AI safety]]
