@@ -1,4 +1,4 @@
-Explorable and interactive media (especially [[explorable explanation]]s) seem to bake in an assumption of finiteness, which makes it challenging to interact with the infinite and arbitrary objects that appear in mathematics.
+'''Video games work with finite and discrete objects'''. Explorable and interactive media (especially [[explorable explanation]]s) seem to bake in an assumption of finiteness, which makes it challenging to interact with the infinite and arbitrary objects that appear in mathematics.
 
 Examples:
 
