@@ -26,3 +26,5 @@ How do we classify something as an example or non-example? some things to pay at
 
 
 To some extent, whether a medium reveals flaws is a matter of degree. For example, speech allows people to mumble their way through the parts they are uncertain about, which written text does not allow. So relatively speaking, even prose is a medium that reveals flaws, just not as much compared to something like a table.
+
+[[Category:Learning]]
