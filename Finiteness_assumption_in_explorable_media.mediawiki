@@ -6,3 +6,9 @@ Examples:
 * [https://www.youtube.com/playlist?list=PL5dr1EHvfwpNYbS_yqCZg30lEnpiEF6O2 The Witness] builds up complex puzzles starting from simple ones. But each puzzle is finite (finite board size, finite state space)
 
 The kind of explorable medium that I'm interested in would somehow encode the proof-writing/proof-generating process so the user can do real math. But how do you prove things about e.g. an arbitrary compact metric space? How would you "explore" something that requires a proof by contradiction (which would require representing impossible situations)?
+
+==See also==
+
+* [[Video games comparison to math]]
+
+[[Category:Learning]]
