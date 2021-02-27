@@ -29,3 +29,5 @@ an important question for me is something like, if paul's approach doesn't work,
 ==See also==
 
 * [[Analyzing disagreements]]
+
+[[Category:AI safety]]
