@@ -44,3 +44,5 @@ one thing i don't understand at all is: when would the AI "leave earth" and go o
 ==References==
 
 <references/>
+
+[[Category:AI safety]]
