@@ -11,3 +11,5 @@ see my question here: https://www.greaterwrong.com/posts/hL9ennoEfJXMj7r2D/two-c
 ==References==
 
 <references/>
+
+[[Category:AI safety]]
