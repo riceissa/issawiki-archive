@@ -3,3 +3,5 @@
 ==References==
 
 <references/>
+
+[[Category:AI safety]]
