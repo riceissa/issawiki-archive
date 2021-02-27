@@ -5,3 +5,5 @@
 |-
 | [[Realism about rationality discussion]] || ||
 |}
+
+[[Category:AI safety]]
