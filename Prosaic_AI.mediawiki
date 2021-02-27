@@ -4,3 +4,5 @@ what are the possibilities for prosaic AI? i.e. if prosaic AI happened, then wha
 * all of the things we humans do with our general intelligence turns out to be possible to do without actually "understanding" anything. i.e. in the same way that [[AlphaGo]] can play Go "without understanding" what it is doing, and how [[GPT-2]] can write an essay "without understanding" its meaning, it turns out that all of the things humans do (including AI research) is possible without such understanding.
 
 What is the relationship between prosaic AI and [[secret sauce for intelligence]]? One interpretation is that the prosaic AI hypothesis is saying that ''humans'' won't make any conceptual breakthrough prior to building AGI (which still allows for an AI to rapidly improve its capabilities in a discontinuous way by discovering a conceptual breakthrough on its own), while the "no secret sauce" hypothesis is saying that there won't be a conceptual breakthrough at all.
+
+[[Category:AI safety]]
