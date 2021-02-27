@@ -10,5 +10,6 @@ The kind of explorable medium that I'm interested in would somehow encode the pr
 ==See also==
 
 * [[Video games comparison to math]]
+* [[Probability and statistics as fields with an exploratory medium]]
 
 [[Category:Learning]]
