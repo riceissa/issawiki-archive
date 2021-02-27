@@ -1,4 +1,4 @@
-I want to understand better the MIRI case for thinking that ML-based safety approaches (like [[paul christiano]]'s agenda) are so hopeless as to not be worth working on (or something like that).
+I want to understand better the MIRI case for thinking that ML-based safety approaches (like [[Paul Christiano]]'s agenda) are so hopeless as to not be worth working on (or something like that).
 
 in particular, which one of the following is the case closest to?
 
