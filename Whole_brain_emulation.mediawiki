@@ -84,3 +84,5 @@ https://link.springer.com/chapter/10.1007/978-3-642-31674-6_19
 https://content.sciendo.com/configurable/contentpage/journals$002fjagi$002f4$002f3$002farticle-p170.xml
 
 https://www.youtube.com/results?search_query=carl+shulman&page=&utm_source=opensearch
+
+[[Category:AI safety]]
