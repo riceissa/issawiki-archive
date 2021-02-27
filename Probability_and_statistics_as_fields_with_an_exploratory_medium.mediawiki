@@ -9,3 +9,5 @@ I think graphing calculators/plotting software are kind of a step in this direct
 ----
 
 <references group=notes/>
+
+[[Category:Learning]]
