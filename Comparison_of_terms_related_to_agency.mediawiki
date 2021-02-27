@@ -75,3 +75,5 @@ https://www.lesswrong.com/posts/ZDZmopKquzHYPRNxq/selection-vs-control
 https://www.lesswrong.com/posts/rvxcSc6wdcCfaX6GZ/two-senses-of-optimizer
 
 https://www.lesswrong.com/posts/Q4hLMDrFd8fbteeZ8/measuring-optimization-power
+
+[[Category:AI safety]]
