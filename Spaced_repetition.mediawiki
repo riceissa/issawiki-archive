@@ -1,1 +1,3 @@
 For now, see [[:Category:Spaced repetition]].
+
+[[Category:Spaced repetition]]
