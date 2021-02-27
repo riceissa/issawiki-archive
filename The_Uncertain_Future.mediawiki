@@ -7,3 +7,5 @@ LW discussion: https://www.greaterwrong.com/posts/yMb34LxmfCytKJ8gB/link-the-unc
 Source: https://github.com/kanzure/uncertainfuture/
 
 Announcement blog post: http://web.archive.org/web/20091216063446/http://singinst.org/blog/2009/12/12/the-uncertain-future/
+
+[[Category:AI safety]]
