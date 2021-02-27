@@ -19,3 +19,5 @@ https://www.greaterwrong.com/posts/TE5nJ882s5dCMkBB8/conclusion-to-the-sequence-
 
 * [[Comparison of terms related to agency]]
 * [[List of terms used to describe the intelligence of an agent]]
+
+[[Category:AI safety]]
