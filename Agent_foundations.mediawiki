@@ -12,3 +12,5 @@ There are many different terms used to describe MIRI's research, and it's a litt
 ==References==
 
 <references/>
+
+[[Category:AI safety]]
