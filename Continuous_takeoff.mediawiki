@@ -4,5 +4,6 @@
 pages about continuous takeoff:
 
 * [[Changing selection pressures argument]]
+* [[Christiano's operationalization of slow takeoff]]
 
 [[Category:AI safety]]
