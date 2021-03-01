@@ -1,3 +1,4 @@
+'''Continuous takeoff''' (also called '''slow takeoff''', '''soft takeoff''', or '''gradual takeoff''') is any of a number of views about [[AI takeoff]]. All views present an alternative to [[Eliezer Yudkowsky]]'s [[FOOM]] scenario, arguing that the transition from early AI systems to superintelligent systems will not be so immediate, but these views disagree on the details.
 
 * the word "continuous" in continuous takeoff does not mean the mathematical definition of continuity; even in a [[hard takeoff]] (i.e. "discontinuous takeoff") scenario, the AI system's capability can be modeled as a continuous function.
 
