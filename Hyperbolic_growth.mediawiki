@@ -9,4 +9,6 @@ My personal confusion with this whole topic is something like: how does our beli
 
 "GWP acceleration is the effect, not the cause, of advances in AI capabilities. I agree that it could also be a cause, but I think this is very unlikely: what else could accelerate GWP? Space mining? Fusion power? 3D printing? Even if these things could in principle kick the world economy into faster growth, it seems unlikely that this would happen in the next twenty years or so. Robotics, automation, etc. plausibly might make the economy grow faster, but if so it will be because of AI advances in vision, motor control, following natural language instructions, etc. So I conclude: GWP growth will come some time after we get certain GWP-growing AI capabilities. (Tangent: This is one reason why we shouldn’t use GDP extrapolations to predict AI timelines. It’s like extrapolating global mean temperature trends into the future in order to predict fossil fuel consumption.)" https://www.greaterwrong.com/posts/aFaKhG86tTrKvtAnT/against-gdp-as-a-metric-for-timelines-and-takeoff-speeds
 
+[[Daniel Kokotajlo]] still seems interested in Roodman's report though, and I feel like I don't understand why.
+
 [[Category:AI safety]]
