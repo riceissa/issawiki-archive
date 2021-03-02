@@ -1,6 +1,7 @@
+in math, you often deal with impossible situations (such as within a proof by contradiction). How do you reliably represent these impossibilities within the [[explorable explanation]]s framework?
+
 if you want to do a proof by contradiction, you somehow have to visually represent impossible situations!
 
 ==See also==
 
-* [[Explorable explanation]]
 * [[Finiteness assumption in explorable media]]
