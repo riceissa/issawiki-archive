@@ -15,6 +15,6 @@ There is a similar thing that sometimes happens in talks where the lecturer will
 
 I first had these thoughts after doing the prompts in [[Andy Matuschak]]'s prompt writing guide. I read the guide pretty quickly, then just went for the prompts. I thought that since I've already been writing prompts for a couple years, and since the guide didn't seem to contain new material for me, that I could easily answer the prompts. I found that a lot of the prompts asked for pretty weird phrases/words like "vivid" and so forth, so that even though there was nothing really new in a sense, that I was being forced to stick to the very contingent facts appearing in the text.
 
-The expert response heuristic seems more useful in "hard" topics like math and CS, and less useful in things like life advice or whatever (it's hard to write prompts about "what do you do in this situation" without referring to specific strategies that other experts might not know about? maybe the problem is that there is no agreed-upon discipline here).
+The expert response heuristic seems more useful in "hard" topics like math and CS, and less useful in things like life advice or whatever (it's hard to write prompts about "what do you do in this situation" without referring to specific strategies that other experts might not know about? maybe the problem is that there is no agreed-upon discipline/answers here).
 
 [[Category:Spaced repetition]]
