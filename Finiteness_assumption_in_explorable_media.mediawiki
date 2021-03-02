@@ -7,6 +7,8 @@ Examples:
 
 The kind of explorable medium that I'm interested in would somehow encode the proof-writing/proof-generating process so the user can do real math. But how do you prove things about e.g. an arbitrary compact metric space? How would you "explore" something that requires a proof by contradiction (which would require representing impossible situations)?
 
+The tricky thing about math is that you regularly have to deal with infinity, i.e. you need to figure out how to draw objects (such as sequences) which are not finitely representable. You could retreat to finite objects in fields like [[Probability and statistics as fields with an exploratory medium|combinatorics]] i think, but it feels more satisfying to come up with a general solution that would work in any field.
+
 ==See also==
 
 * [[Video games comparison to math]]
