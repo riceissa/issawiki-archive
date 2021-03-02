@@ -11,5 +11,6 @@ The kind of explorable medium that I'm interested in would somehow encode the pr
 
 * [[Video games comparison to math]]
 * [[Probability and statistics as fields with an exploratory medium]]
+* [[Representing impossibilities]]
 
 [[Category:Learning]]
