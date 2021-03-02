@@ -17,4 +17,8 @@ I first had these thoughts after doing the prompts in [[Andy Matuschak]]'s promp
 
 The expert response heuristic seems more useful in "hard" topics like math and CS, and less useful in things like life advice or whatever (it's hard to write prompts about "what do you do in this situation" without referring to specific strategies that other experts might not know about? maybe the problem is that there is no agreed-upon discipline/answers here).
 
+Some things, like notation (which can vary across textbooks) can't be phrased in this way.
+
+With [[Tao Analysis Flashcards]], I can trying to phrase things such that people reading the textbook will retain the material well. And since I already have worked through the book, I know which pieces of knowledge will be more useful later on. But at the same time, I am also sticking closely to the text's material, so I fear the cards are not comprehensible to people who studied analysis from a different book.
+
 [[Category:Spaced repetition]]
