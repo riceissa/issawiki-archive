@@ -4,6 +4,8 @@
 * Working to mitigate specific threats: e.g. if one expects AI-powered propaganda to be a thing during AI takeoff, then it makes sense to spend time thinking about it now.
 * Under some scenarios we should expect to see [[warning shots]]/early misalignment, whereas in others we should expect a [[treacherous turn]]. This has consequences for how careful we should be about alignment/how much of an "on-paper understanding" we should have about alignment.
 
+TODO: more listed at the bottom of https://sideways-view.com/2018/02/24/takeoff-speeds/
+
 ==See also==
 
 * [[Importance of knowing about AI timelines]]
