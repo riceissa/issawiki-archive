@@ -1,0 +1,3 @@
+'''Importance of knowing about AI takeoff''' is about the "so what?" of knowing which [[AI takeoff]] scenario will happen. How will our actions change if we expect a [[FOOM]] or a [[continuous takeoff]] or some other scenario?
+
+[[Category:AI safety]]
