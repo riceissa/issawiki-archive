@@ -3,6 +3,7 @@
 ==See also==
 
 * [[List of disagreements in AI safety#Takeoff dynamics]]
+* [[Importance of knowing about AI takeoff]]
 * [[Comparison of AI takeoff scenarios]]
 * [[Continuous takeoff]]
 * [[Soft-hard takeoff]]
