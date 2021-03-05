@@ -1,4 +1,10 @@
+'''AI timelines''' refers to the question of when we will see advanced AI technology.
+
 For now, see [[List of disagreements in AI safety#AI timelines]]
+
+==Usage of the term==
+
+TODO: explain things like "short timelines", "long timelines", "my timelines"
 
 ==See also==
 
