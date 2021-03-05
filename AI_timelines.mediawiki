@@ -1,3 +1,7 @@
 For now, see [[List of disagreements in AI safety#AI timelines]]
 
+==See also==
+
+* [[Importance of knowing about AI timelines]]
+
 [[Category:AI safety]]
