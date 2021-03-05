@@ -1,3 +1,5 @@
 '''Importance of knowing about AI takeoff''' is about the "so what?" of knowing which [[AI takeoff]] scenario will happen. How will our actions change if we expect a [[FOOM]] or a [[continuous takeoff]] or some other scenario?
 
+* Weight on [[AI prepping]]: In a FOOM scenario it is unlikely that there are any selfish actions that benefit individuals, so one should shift those resources into either altruistic actions (like helping with alignment) or short-term consumption. In contrast, with more continuous takeoff, AI prepping becomes relatively more important.
+
 [[Category:AI safety]]
