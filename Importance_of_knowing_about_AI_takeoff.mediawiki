@@ -3,4 +3,8 @@
 * Weight on [[AI prepping]]: In a FOOM scenario it is unlikely that there are any selfish actions that benefit individuals, so one should shift those resources into either altruistic actions (like helping with alignment) or short-term consumption. In contrast, with more continuous takeoff, AI prepping becomes relatively more important.
 * Working to mitigate specific threats: e.g. if one expects AI-powered propaganda to be a thing during AI takeoff, then it makes sense to spend time thinking about it now.
 
+==See also==
+
+* [[Importance of knowing about AI timelines]]
+
 [[Category:AI safety]]
