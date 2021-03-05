@@ -2,7 +2,7 @@
 
 * Weight on [[AI prepping]]: In a FOOM scenario it is unlikely that there are any selfish actions that benefit individuals, so one should shift those resources into either altruistic actions (like helping with alignment) or short-term consumption. In contrast, with more continuous takeoff, AI prepping becomes relatively more important.
 * Working to mitigate specific threats: e.g. if one expects AI-powered propaganda to be a thing during AI takeoff, then it makes sense to spend time thinking about it now.
-* Under some scenarios we should expect to see [[warning shots]]/early misalignment, whereas in others we should expect a [[treacherous turn]]. This has consequences for how careful we should be about alignment/how much of an "on paper understanding" we should have about alignment.
+* Under some scenarios we should expect to see [[warning shots]]/early misalignment, whereas in others we should expect a [[treacherous turn]]. This has consequences for how careful we should be about alignment/how much of an "on-paper understanding" we should have about alignment.
 
 ==See also==
 
