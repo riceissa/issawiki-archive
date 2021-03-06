@@ -4,6 +4,8 @@ I think something like [[Tao Analysis Flashcards]] can be extremely ''fun'' to c
 
 When I think of "memorization", I think of like a complacency at having accumulated a bunch of knowledge, like "look at how many facts I know about the world" kind of ethos. But for me spaced repetition is much more future-oriented, like "what else can I learn, now that I have this prosthetic?"
 
+Some of you may have expected a cynical Hansonian model when you saw the title, and maybe there is something like that too: people use spaced repetition software with all kinds of social motives like trying to look smart, to feed some kind of tinkering urge, etc.
+
 ==See also==
 
 * [[Spaced proof review is not about memorizing proofs]]
