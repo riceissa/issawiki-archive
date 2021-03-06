@@ -2,6 +2,8 @@
 
 I think something like [[Tao Analysis Flashcards]] can be extremely ''fun'' to consume -- way more fun than playing [[Braid]]. And understanding how that "funness" is created is more important than actually making sure people retain all of what they've learned in real analysis.
 
+When I think of "memorization", I think of like a complacency at having accumulated a bunch of knowledge, like "look at how many facts I know about the world" kind of ethos. But for me spaced repetition is much more future-oriented, like "what else can I learn, now that I have this prosthetic?"
+
 ==See also==
 
 * [[Spaced proof review is not about memorizing proofs]]
