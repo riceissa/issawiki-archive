@@ -19,6 +19,10 @@ using anki as a problem bank (with my proofs deck): the spacing is more to make 
 
 See also [[Tim Gowers]] on memorizing proofs, e.g. <ref>https://gowers.wordpress.com/2011/09/23/welcome-to-the-cambridge-mathematical-tripos/</ref>, <ref>https://mathoverflow.net/a/3957</ref>
 
+==See also==
+
+* [[Spaced repetition isn't about memorization]]
+
 ==References==
 
 <references/>
