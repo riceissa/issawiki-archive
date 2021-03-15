@@ -1,0 +1,4 @@
+the reason [[MIRI]] vs [[Paul Christiano]] debates are useful isn't to shift MIRI or paul; it's so that new people coming into AI safety will pick the "correct" agenda to work on with higher probability.
+
+[[Category:AI safety]]
+[[Category:AI safety meta]]
