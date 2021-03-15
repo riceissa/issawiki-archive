@@ -6,6 +6,8 @@
 
 [[Eliezer]]: "I'm not sure to what degree you think it's likely, but you do seem to be conceding much more probability that there is, in principle, some program where if it was magically transmitted to us, we could take a modern day large computing cluster and turn it into something that could generate what you call content a million times faster." "In other words, the question, I'm trying to separate out the question of, "How dumb is this thing, [points to head] how much smarter can you build an agent, if that agent were teleported into today's world, could it take over?" versus the question of "Who develops it, in what order, and were they all trading insights or was it more like a modern-day financial firm where you don't show your competitors your key insights, and so on, or, for that matter, modern artificial intelligence programs?"" [https://docs.google.com/document/pub?id=17yLL7B7yRrhV3J9NuiVuac3hNmjeKTVHnqiEa6UQpJk]
 
+there's something similar to the error of "let's try to get WBE first, since that's safer". yes, _if_ you can magically get WBE that would be safer, but by pushing on WBE, you also inadvertently push on de novo/neuromorphic AGI. similarly here, _if_ you could magically get to "the first de novo AGI", then that AGI could rapidly self-improve/gain capabilities. but before we get to that, we would have had slightly worse "AGIs".
+
 ==See also==
 
 * [[Discontinuities in whole brain emulation technology]]
