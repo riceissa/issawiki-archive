@@ -1,0 +1,10 @@
+'''Scenius''' is a term used in contrast to "genius", to emphasize that great work is often accomplished not solely by intrinsic talent, but by being embedded in a social context that provides motivation, sharing of tips, etc.
+
+==See also==
+
+==External links==
+
+* https://github.com/mnielsen/finding_scenius/blob/master/finding_scenius.md
+
+[[Category:Creativity]]
+[[Category:AI safety meta]]
