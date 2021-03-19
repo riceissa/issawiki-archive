@@ -1,3 +1,7 @@
 '''Maintaining habits is hard, and spaced repetition is a habit'''. It's hard to start a habit, and hard to maintain a habit. But unlike many habits, spaced repetition is one that penalizes you via piled up "due" cards if you ever miss a day, so once you start to get out of habit, it disincentivizes you from getting back in the habit.
 
+==See also==
+
+* [[Emotional difficulties of spaced repetition]]
+
 [[Category:Spaced repetition]]
