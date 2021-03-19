@@ -1,3 +1,7 @@
 For now, see [[:Category:Spaced repetition]].
 
+Pages that link out to more pages:
+
+* [[Emotional difficulties of spaced repetition]]
+
 [[Category:Spaced repetition]]
