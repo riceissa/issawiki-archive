@@ -1,5 +1,6 @@
 * [[Feeling like a perpetual student in a subject due to spaced repetition]]
 * [[Competence vs learning distinction means spaced repetition feels like effort without progress]]
 * [[Spaced repetition constantly reminds one of inadequacies]]
+* [[Iteration cadence for spaced repetition experiments]] -- slow feedback loop means you're often not sure if you're doing the right thing until months later
 
 [[Category:Spaced repetition]]
