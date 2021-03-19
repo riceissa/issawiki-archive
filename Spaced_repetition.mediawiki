@@ -4,5 +4,6 @@ Pages that link out to more pages:
 
 * [[Emotional difficulties of spaced repetition]]
 * [[Spaced proof review]]
+* [[Spaced writing inbox]]
 
 [[Category:Spaced repetition]]
