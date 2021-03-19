@@ -1,3 +1,5 @@
+A few people ([[Piotr Wozniak]]? [[Andy Matuschak]]? [[Michael Nielsen]]?) have talked about things like "why isn't spaced repetition more popular/mainstream?" Without digging into the literature, here's my own brainstorm of what makes [[spaced repetition]] emotionally hard for me:
+
 * [[Feeling like a perpetual student in a subject due to spaced repetition]]
 * [[Competence vs learning distinction means spaced repetition feels like effort without progress]]
 * [[Spaced repetition constantly reminds one of inadequacies]]
