@@ -1,8 +1,9 @@
-The two main things that are going on here:
+The main things that are going on here:
 
 * [[:Category:AI safety]] -- notes on AI safety strategy
 * [[:Category:Spaced repetition]] -- detailing my approach to using spaced repetition software
+* [[:Category:Learning]] -- pages about learning that aren't about spaced repetition
 
 For math, see [https://machinelearning.subwiki.org/wiki/User:IssaRice my ML Subwiki userspace pages].
 
-For learning, see [https://learning.subwiki.org/w/index.php?title=Special:Contributions&limit=500&contribs=user&target=Issa+Rice&newOnly=1 my page creations on the Learning Subwiki].
+For more on learning, see [https://learning.subwiki.org/w/index.php?title=Special:Contributions&limit=500&contribs=user&target=Issa+Rice&newOnly=1 my page creations on the Learning Subwiki].
