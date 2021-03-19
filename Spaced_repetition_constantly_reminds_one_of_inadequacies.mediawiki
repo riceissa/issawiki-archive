@@ -1,0 +1,5 @@
+Atomic cards allow different pieces of knowledge to be scheduled at different intervals. Easy cards get spaced out a lot, which means you are often stuck working through and spending the most time on the difficult items. Hence, while using spaced repetition you are constantly reminded of how much you have forgotten.
+
+One way to deal with this is to [[constantly add a stream of easy cards]].
+
+[[Category:Spaced repetition]]
