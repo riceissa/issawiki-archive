@@ -3,7 +3,7 @@
 It's not clear whether any really good actions for AI prepping exist. Some reasons for optimism are:
 
 * Nobody has thought about this much, even within AI safety and effective altruist circles. (I've seen very little private discussion, and basically zero public discussion.)
-* It would be pretty surprising if the best ''altruistic'' actions turnout out to also be the best ''selfish'' actions, in terms of acting with regard to future AI.
+* It would be pretty surprising if the best ''altruistic'' actions turn out to also be the best ''selfish'' actions, in terms of acting with regard to future AI.
 
 usefulness of selfish actions for AI safety depends on how likely it is that ''some'' humans can do well without ''all'' humans doing well. I think I (and many AI safety people) are inclined to think that if ''some'' humans are doing well, then that's because we succeeded in alignment, which means ''all'' humans are doing well.
 
