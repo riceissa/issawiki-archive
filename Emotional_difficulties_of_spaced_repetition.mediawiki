@@ -6,4 +6,8 @@ A few people ([[Piotr Wozniak]]? [[Andy Matuschak]]? [[Michael Nielsen]]?) have 
 * [[Iteration cadence for spaced repetition experiments]] -- slow feedback loop means you're often not sure if you're doing the right thing until months later
 * [[Maintaining habits is hard, and spaced repetition is a habit]]
 
+==See also==
+
+* [[Emotional difficulties of AI safety research]]
+
 [[Category:Spaced repetition]]
