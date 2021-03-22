@@ -10,4 +10,4 @@ listing out only the difficulties arising from the subject matter itself, withou
 
 * [[Emotional difficulties of spaced repetition]]
 
-[[Category:AI safety community]]
+[[Category:AI safety meta]]
