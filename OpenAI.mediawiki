@@ -4,3 +4,4 @@
 * [[List of teams at OpenAI]]
 
 [[Category:AI safety]]
+[[Category:AI safety organizations]]
