@@ -1,6 +1,6 @@
 listing out only the difficulties arising from the subject matter itself, without reference to the [[AI safety community]]
 
-* [[Predicting the future is hard]]
+* [[Predicting the future is hard, predicting a future with futuristic technology is even harder]]
 * [[One cannot tinker with AGI safety because no AGI has been built yet]]
 * [[Thinking about death is painful]]
 * [[Abstract utilitarianish thinking can infect everyday life activities]] (see [[Anna Salamon]]'s post about this for more details)
