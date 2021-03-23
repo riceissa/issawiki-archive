@@ -1,0 +1,7 @@
+'''Jelly no Puzzle''' is a free puzzle game for Windows (works under Wine on Linux).
+
+==External links==
+
+* [http://qrostar.skr.jp/en/jelly/ Official webpage]
+
+[[Category:Learning]]
