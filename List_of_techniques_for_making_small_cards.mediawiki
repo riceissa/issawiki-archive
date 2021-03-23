@@ -1,0 +1,7 @@
+* [[Self-graded prompts made for others must provide guidance for grading]]
+* [[Add all permutations of a card to prevent pattern-matching]]
+* [[Central node trick for remembering equivalent properties]]
+* [[Expert response heuristic for prompt writing]]
+* [[Linked list proof card]]
+
+[[Category:Spaced repetition]]
