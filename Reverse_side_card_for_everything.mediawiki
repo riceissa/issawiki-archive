@@ -1,4 +1,4 @@
-'''Reverse side card for everything''' is the idea that in Anki, you should never use the basic note type (front->back), that you should instead use a "Basic (and reversed card)" note type (front<->back) for everything. For every novel term, you want to be able to recall the idea, but also the term itself (so you can use the term). For every question, you want to play a version of Jeopardy. "Every thought has a counterpart".
+'''Reverse side card for everything''' is the idea that in Anki, you should never use the basic note type (front->back), that you should instead use a "Basic (and reversed card)" note type (front<->back) for everything. For every novel term, you want to be able to recall the idea, but also the term itself (so you can use the term). For every question, you want to play a version of Jeopardy. "Every thought has a counterpart/dual".
 
 when making an anki card, it's a good idea to always ask yourself "could this card have a useful reverse side?" more and more, i find that the answer is "yes", and the cost is small (you usually just have to phrase it in a slightly different way so that the card makes sense going from both directions).
 
