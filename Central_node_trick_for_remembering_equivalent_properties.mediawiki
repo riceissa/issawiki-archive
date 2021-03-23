@@ -4,6 +4,10 @@ from a strictly mathematical perspective, this is less efficient than a "round r
 
 this still won't let you list all the properties, but i think knowing the "why"s/reasoning behind each will just make it a part of you.
 
+==See also==
+
+* [[List of techniques for making small cards]]
+
 ==External links==
 
 * This reminds me of Network 2 in [https://www.lesswrong.com/posts/yA4gF5KrboK2m2Xu7/how-an-algorithm-feels-from-inside How an algorithm feels from inside]
