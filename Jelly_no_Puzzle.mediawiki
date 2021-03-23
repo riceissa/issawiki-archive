@@ -2,8 +2,8 @@
 
 Some observations:
 
-* there is not much text ([[vow of silence]]) which is good, but I think the game could have probably eliminated words entirely by adding slightly simpler levels to introduce mechanics.
-* many puzzles can be divided into "big picture strategy" part, and "low level tactics" part. Getting the big picture strategy right can take you most of the way, but then sometimes getting the low level tactics right can be quite difficult. Some puzzles are just low level tactics.
+* there is not much text ([[vow of silence]]) which is good, but I think the game could have probably eliminated words entirely by adding slightly simpler levels to introduce mechanics. For example, the controls could be introduced in an easy level with signs in the background highlighting left and right mouse clicks. Joining can be introduced via a simple level in which there are three jellys and one pit of unit size, arranged like [red] [pit] [red] [red]. The only way to solve this is to join the two red jellys on the right side of the pit, and the player learns that mechanic.
+* many puzzles can be divided into "big picture strategy" part, and "low level tactics" part (level 17 is the clearest example of this). Getting the big picture strategy right can take you most of the way, but then sometimes getting the low level tactics right can be quite difficult. Some puzzles are just low level tactics.
 
 ==External links==
 
