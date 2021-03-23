@@ -3,5 +3,9 @@
 * [[Central node trick for remembering equivalent properties]]
 * [[Expert response heuristic for prompt writing]]
 * [[Linked list proof card]]
+* [[Make Anki cards based on feedback you receive]]
+* [[Make new cards when you get stuck]]
+* [[One-sentence summary card]]
+* [[Reverse side card for everything]]
 
 [[Category:Spaced repetition]]
