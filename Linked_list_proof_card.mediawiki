@@ -12,6 +12,10 @@ One thing I've been frustrated about recently is that when I add cards about dif
 
 Another thing I've noticed, which is related to the above, is that I often have these cards that just strengthen one particular association. But what I need to do is to continue making cards so that the graph becomes denser and denser.
 
+==See also==
+
+* [[Spaced proof review]]
+* [[List of techniques for making small cards]]
 
 [[Category:Spaced repetition]]
 [[Category:Anki]]
