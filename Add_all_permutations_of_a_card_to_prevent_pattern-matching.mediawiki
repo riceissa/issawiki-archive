@@ -11,4 +11,8 @@ So the general principle is: if you make all the permutations of a card, then yo
 
 How would this work for a cloze deletion card? I don't think it would work in a case like that. I think you'd need to convert it to basic question-answer cards.
 
+==See also==
+
+* [[List of techniques for making small cards]]
+
 [[Category:Spaced repetition]]
