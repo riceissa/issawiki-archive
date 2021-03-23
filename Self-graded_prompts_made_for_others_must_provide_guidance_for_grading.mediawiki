@@ -1,5 +1,5 @@
 a thought I had while doing [[Quantum Country]] reviews. The card I got was "What does the Schroedinger equation describe?" The answer I said in my head was something like "describes the change in an isolated system". The actual answer was "The time rate of change of the quantum state of an isolated system." Was it important to say "time rate of change" instead of just "change"? Was it important to say "quantum state"? The prompt itself does not provide guidance to do the self-grading. And I, the [[learner]], am not an expert in quantum computing.
 
-This problem arises because [[Prompts made of others can violate the rule to learn before you memorize]].
+This problem arises because [[prompts made for others can violate the rule to learn before you memorize]].
 
 [[Category:Spaced repetition]]
