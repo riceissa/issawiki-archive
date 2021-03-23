@@ -1,5 +1,10 @@
 '''Jelly no Puzzle''' is a free puzzle game for Windows (works under Wine on Linux).
 
+Some observations:
+
+* there is not much text ([[vow of silence]]) which is good, but I think the game could have probably eliminated words entirely by adding slightly simpler levels to introduce mechanics.
+* many puzzles can be divided into "big picture strategy" part, and "low level tactics" part. Getting the big picture strategy right can take you most of the way, but then sometimes getting the low level tactics right can be quite difficult. Some puzzles are just low level tactics.
+
 ==External links==
 
 * [http://qrostar.skr.jp/en/jelly/ Official webpage]
