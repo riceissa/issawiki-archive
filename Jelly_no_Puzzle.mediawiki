@@ -6,6 +6,7 @@ Some observations:
 * many puzzles can be divided into "big picture strategy" part, and "low level tactics" part (level 17 is the clearest example of this). Getting the big picture strategy right can take you most of the way, but then sometimes getting the low level tactics right can be quite difficult. Some puzzles are just low level tactics.
 * I like that there is no timing aspect (something that made Braid frustrating for no good reason)
 * even later in the game, it feels like I am not really gaining a generic ability to solve puzzles better. It feels like a brute force search almost. I think this contrasts to games like [[Braid]] where you are sort of "doing science" -- trying to understand the reality in the game better.
+* i think jelly no puzzle is a good way to train your intuition about which things are possible vs impossible, in particular, at shifting more of the things that seem 'impossible' into the possible realm. this is sort of riffing off eliezer's post about doing the impossible. once you do enough of these puzzles, your brain's native 'this is impossible' reaction gets converted into 'let me see how to do this'. A similar thing happens when one first starts programming: you are routinely confronted with the fact that your mental model of an algorithm ''does not match'' the output you see on the screen, so you being to get skeptical of your ability to do machine-like thought.
 
 ==External links==
 
