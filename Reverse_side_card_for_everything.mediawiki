@@ -2,7 +2,7 @@
 
 When making an Anki card, it's a good idea to always ask yourself "could this card have a useful reverse side?" More and more, I find that the answer is "yes", and the cost is small (you usually just have to phrase it in a slightly different way so that the card makes sense going from both directions).
 
-So... this idea is obviously crazy. I'm not actually a proponent of this philosophy... I just had this idea, and I think it's an interesting one. It's the sort of idea that maybe you should think about seriously over the course of a month, try to actually implement, then give up so that you can steal the good parts (i.e. the ability to ''notice'' when a reverse side should be added, rather than reflexively adding a basic note type). You force yourself to do something, you develop an instinct, then you free yourself from the constraint (but you still keep the instinct).
+So... this idea is obviously crazy. I'm not actually a proponent of this philosophy... I just had this idea, and I think it's an interesting one. It's the sort of idea that maybe you should think about seriously over the course of a month, try to actually implement, then give up so that you can steal the good parts (i.e. the ability to ''notice'' when a reverse side should be added, and the skill to quickly convert wording from basic to basic-with-reverse, rather than reflexively adding a basic note type). You force yourself to do something, you develop an instinct, then you free yourself from the constraint (but you still keep the instinct).
 
 ==See also==
 
