@@ -1,0 +1,8 @@
+'''Card sharing''' is the tentative generic term I'm using for all kinds of situations where the person doing the [[spaced repetition]] reviews is not the same as the person who wrote the cards. This can happen for instance via deck sharing in [[Anki]], or in the [[mnemonic medium]] like in [[Quantum Country]] and [[Orbit]].
+
+Related pages:
+
+* [[Self-graded prompts made for others must provide guidance for grading]]
+* [[Card sharing allows less valuable cards to be created]]
+
+[[Category:Spaced repetition]]
