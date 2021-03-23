@@ -2,4 +2,8 @@ a thought I had while doing [[Quantum Country]] reviews. The card I got was "Wha
 
 This problem arises because [[prompts made for others can violate the rule to learn before you memorize]].
 
+==See also==
+
+* [[Card sharing]]
+
 [[Category:Spaced repetition]]
