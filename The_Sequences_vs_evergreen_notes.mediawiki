@@ -1,0 +1,13 @@
+[[Eliezer Yudkowsky]]'s Sequences on [[LessWrong]] and [[evergreen notes]] in the style of [[Andy Matuschak]] have a number of similarities:
+
+* they try to give labels to concepts, and are not afraid of coining new jargon in order to make subsequent thinking clearer
+* they package atomic insights into notes or blog posts, to be cited in other places in the work
+* the link out in a wiki-like fashion so readers can crawl the site to find prerequisites, related thoughts, and so on
+
+Some big differences are:
+
+* Andy does not seem to view his evergreen notes as a final product; rather, they are a base of knowledge to pull from when writing an actual public-facing product such as an essay. In contrast, Eliezer views the Sequences as the main product.
+* Evergreen notes are constantly revised, whereas the Sequences were written down so as to externalize a coherent worldview that Eliezer already held.
+* Evergreen notes pages tend to be much smaller than a typical post from the Sequences.
+
+[[Category:Learning]]
