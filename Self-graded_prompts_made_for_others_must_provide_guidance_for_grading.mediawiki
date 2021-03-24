@@ -6,6 +6,4 @@ This problem arises because [[prompts made for others can violate the rule to le
 
 * [[Card sharing]]
 
-{{Special:WhatLinksHere}}
-
 [[Category:Spaced repetition]]
