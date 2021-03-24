@@ -1,4 +1,4 @@
-'''Card sharing''' is the tentative generic term I'm using for all kinds of situations where the person doing the [[spaced repetition]] reviews is not the same as the person who wrote the cards. This can happen for instance via deck sharing in [[Anki]], or in the [[mnemonic medium]] like in [[Quantum Country]] and [[Orbit]].
+'''Card sharing''' is the tentative generic term I'm using for all kinds of situations where the person doing the [[spaced repetition]] reviews is not the same as the person who wrote the cards. This can happen for instance via deck sharing in [[Anki]], or in the [[mnemonic medium]] like in [[Quantum Country]] and [[Orbit]], or in a group study setting where you collaborate with study partners to make cards.
 
 Related pages:
 
