@@ -1,0 +1,5 @@
+One way to frame why we keep forgetting things: most knowledge isn't useful most of the time, so e.g. i might learn real analysis, but when will i use it next? it might be months in the future when i just need to know something about real analysis. for almost everything else that i do in the meantime, real analysis turns out to not be helpful! So the utility of spaced repetition can be phrased in terms of the sparseness of the applicability of most kinds of knowledge. (and, for the knowledge that is most applicable almost everywhere, like say ability to read english, people just learn that naturally without a need for SRS.) see [https://news.ycombinator.com/item?id=18527836 this HN comment] for someone who explicitly argues against this view.
+
+This is related to [[Andy Matuschak]]'s (or gwern's?) point that spaced repetition widens the baader-meinhof window.
+
+[[Category:Spaced repetition]]
