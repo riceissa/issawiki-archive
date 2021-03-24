@@ -2,4 +2,8 @@ Back in the 1990s up until 2013 or so, AI safety work was almost entirely a volu
 
 Still, what do you do when something you are interested in, or believe to be the most important cause, is no longer a [[scenius]]? Do you give up and find some other fertile small field to work on, letting the prestige-seekers to take care of AI safety? Or do you say "I still think AI safety is the most important cause, so I'll figure out some way to work in it even if it kinda sucks"? Maybe start some small sub-field inside of AI safety that functions as scenius? Or try to work on [[mechanism design]] so that the larger [[AI safety community]] is more functional than existing "eternal september" type events?
 
+[[Michael Nielsen]]: """Competition is sometimes good for motivating you, but you will always want to be in pool small enough that it's actually, to some considerable extent, friendly competition.
+
+The kind I hate is when you're getting crowded out and there's 17 people all trying to do exactly the same thing, and it doesn't even feel that important anyway because in fact, there's just too many people trying to do the same sort of thing. That's the toxic version.""" https://www.notion.so/blog/a-roundtable-on-richard-hamming
+
 [[Category:AI safety meta]]
