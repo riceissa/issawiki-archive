@@ -7,5 +7,6 @@
 * [[Make new cards when you get stuck]]
 * [[One-sentence summary card]]
 * [[Reverse side card for everything]]
+* [[Large graduating interval as substitute for putting effort into making atomic cards]]
 
 [[Category:Spaced repetition]]
