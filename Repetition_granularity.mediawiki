@@ -1,3 +1,3 @@
-'''Repetition granularity''' is the size of the "unit of review". For example, in [[Anki]] the repetition granularity is the card, usually a [[small card]]. In [[spaced proof review]], the granularity is the proof. In [[Duolingo]], it is the [[Duolingo does repetition at the lesson level|lesson]].
+'''Repetition granularity''' is the size of the "unit of review". For example, in [[Anki]] the repetition granularity is the card, usually a [[small card]] (which usually corresponds to an atomic fact or single-chunk size of info). In [[spaced proof review]], the granularity is the proof. In [[Duolingo]], it is the [[Duolingo does repetition at the lesson level|lesson]].
 
 [[Category:Spaced repetition]]
