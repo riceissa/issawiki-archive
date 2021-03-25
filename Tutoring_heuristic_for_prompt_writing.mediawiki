@@ -1,7 +1,9 @@
+The '''tutoring heuristic for prompt writing''' (or maybe '''party conversation heuristic''') says that you should aim to write prompts so that if someone (a student or someone you meet at a party) asks you about a topic, you can give a fluent response. For example, if you are writing prompts about a blog post, a student will ask something like "So, summarize it for me?" or something. The idea is to then write enough prompts (and possibly [[integration card]]s) to be prepared for such a question. So you can think of the back side of a card (or collection of cards) as what you'd say to someone who prompted you to summarize the article.
 
+but you can't just have tiny facts -- the person will ask for a coherent summary, so you need to be able to integrate/put it all together. so it's a practice of recalling the facts and also putting stuff together to form a story.
 
 ==See also==
 
-* [[Expert response heuristic for prompt writing]]
+* [[Expert response heuristic for prompt writing]] -- the expert response heuristic applies to single prompts, but the tutoring heuristic is more a heuristic for coming up with ideas for multiple prompts and checking the quality of multiple prompts together
 
 [[Category:Spaced repetition]]
