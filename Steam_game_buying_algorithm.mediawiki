@@ -1,7 +1,7 @@
 Here's the algorithm I currently use for buying games on [[Steam]]. I am not a gamer and didn't even know about any of this until very recently.
 
 # Keep games you are interested in in your wishlist.
-# Don't buy a game that came out less than two years ago.
+# Don't buy a game that came out less than two years ago. (This is to generate enough historical pricing data in step 4.)
 # Never buy a game that isn't on sale.
 # When a game goes on sale, check https://steamdb.info/ to see if the current sale is good relative to previous sales.
 # If the game is on a good sale and is sufficiently interesting, buy it.
