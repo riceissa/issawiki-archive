@@ -1,3 +1,5 @@
 '''Vow of silence''' is a phrase from the talk [https://www.youtube.com/watch?v=xrDZ--AuiL8 'Wordy tutorials need to end. Why Game Designers should take a "Vow of Silence" '] by [[Hamish Todd]].
 
+[[What would a vow of silence look like for math?]]
+
 [[Category:Learning]]
