@@ -1,0 +1,3 @@
+I've noticed that if you don't feel like putting a lot of effort into making good atomic cards, you can often substitute by doing something else, and still get a lot of the same benefit. One idea is to add more [[passive review card]]s with large [[graduating interval]]s. This means you aren't forced to see the so often, but because it's a passive review, the card is still not frustrating.
+
+[[Category:Spaced repetition]]
