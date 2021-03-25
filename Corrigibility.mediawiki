@@ -4,6 +4,10 @@ I think the term was originally used by [[MIRI]] to mean something like an AI th
 
 Then the idea was generalized by [[Paul Christiano]] to mean something like an AI assistant that is trying to be helpful to humans.
 
+==See also==
+
+* [[Corrigibility may be undesirable]]
+
 ==External links==
 
 * https://parallel-forecast.github.io/AI-dict/docs/dictionary.html#corrigibility
