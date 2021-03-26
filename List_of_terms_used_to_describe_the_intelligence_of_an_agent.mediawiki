@@ -1,4 +1,4 @@
-[[Eliezer]] has lots of terms to describe how intelligent/powerful/whatever an agent is.
+[[Eliezer]] has lots of terms to describe how intelligent/powerful/whatever an agent is. These were mostly introduced publicly in his [[Arbital]] writings, and most of them have not caught on or been explained very well.
 
 * Relevant
 * Pivotal (is this only for actions, or also for agents, as in "agent who can perform a pivotal action"?)
