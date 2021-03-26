@@ -4,5 +4,6 @@ Related pages:
 
 * [[Self-graded prompts made for others must provide guidance for grading]]
 * [[Card sharing allows less valuable cards to be created]]
+* [[Booster card]]
 
 [[Category:Spaced repetition]]
