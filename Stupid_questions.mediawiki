@@ -9,3 +9,5 @@
 * does subagent imply [[mesa-optimizer]]? (also in the mesa-optimizers paper, "learned algorithm" doesn't seem like it needs to be learned, which is confusing)
 * i'm confused about whether/how the distilled agent in [[IDA]] is producing explanations of its own outputs, and also what these explanations look like.
 * was the timeline discrepancy between [[eliezer]] and [[carl]] ever resolved? if so, what was the resolution/new estimate?
+
+[[Category:AI safety]]
