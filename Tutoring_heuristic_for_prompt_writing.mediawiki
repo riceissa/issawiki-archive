@@ -4,6 +4,6 @@ but you can't just have tiny facts -- the person will ask for a coherent summary
 
 ==See also==
 
-* [[Expert response heuristic for prompt writing]] -- the expert response heuristic applies to single prompts, but the tutoring heuristic is more a heuristic for coming up with ideas for multiple prompts and checking the quality of multiple prompts together
+* [[Expert response heuristic for prompt writing]] -- the expert response heuristic applies to single prompts, but the tutoring heuristic is more a heuristic for coming up with ideas for multiple prompts and checking the quality of all of your prompts for a single topic together
 
 [[Category:Spaced repetition]]
