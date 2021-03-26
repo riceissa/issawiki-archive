@@ -12,7 +12,7 @@ Above, I am not including "gamification"/achievements stuff that Duolingo does (
 
 I don't like how the later lessons in duolingo are much longer/have way more components but count for the same amount of experience. when i am feeling tired i feel tempted to just do some easy lessons to keep my streak, instead of doing more of the new content (which i feel is a better use of my time).
 
-I think it's weird that duolingo penalizes mistakes so much (you get less XP if you get questions wrong). i often feel that i am learning the most when i make mistakes and have to internalize a new subtlety of the grammar or word choice or whatever. i feel like if i get something wrong, then get it right the next time (after some other questions in between) that's good evidence i have learned something new, and that behavior should be rewarded.
+I think it's weird that duolingo penalizes mistakes so much (you get less XP if you get questions wrong). i often feel that i am learning the most when i make mistakes and have to internalize a new subtlety of the grammar or word choice or whatever. i feel like if i get something wrong, then get it right the next time (after some other questions in between) that's good evidence i have learned something new, and that behavior should be rewarded ([[learning vs competence]]).
 
 ==See also==
 
