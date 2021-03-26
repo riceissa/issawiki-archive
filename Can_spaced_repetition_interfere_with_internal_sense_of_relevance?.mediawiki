@@ -2,4 +2,8 @@ There's a [[Matt vs Japan]] video that says that [[Anki]] can mess up your inter
 
 I wonder how much this applies to SRS in other subjects. e.g. could it mess up a mathematician's intuitions for which theorems one could apply in a given situation?
 
+==See also==
+
+* [[Spaced repetition is useful because most knowledge is sparsely applicable]]
+
 [[Category:Spaced repetition]]
