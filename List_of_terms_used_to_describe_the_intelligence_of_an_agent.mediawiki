@@ -14,3 +14,5 @@
 
 * [[Comparison of terms related to agency]]
 * [[Coherence and goal-directed agency discussion]]
+
+[[Category:AI safety]]
