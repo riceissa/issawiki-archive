@@ -1,0 +1,6 @@
+
+
+
+I think that something like [[Quantum Country]] would benefit from having additional cards that you can collect by reading a separate page a month or so after you read the original article. It would cover cards that are less essential but still solidify your understanding -- the stuff in the original article that would have "fallen through the cracks" if you just did the given prompts without re-reading the article. These additional facts might be annoying to collect on a first pass, as you are still trying to make sense of the "main thread" of the article, but become important over time. This might be one escape from [[Feeling like a perpetual student in a subject due to spaced repetition]], and [[Andy Matuschak]]'s [https://notes.andymatuschak.org/z7MWDLQ7ni6kp4ziDawQG1xYC9Um741WsUQ4h Efficient review scheduling is in tension with gated course sequences].
+
+[[Category:Spaced repetition]]
