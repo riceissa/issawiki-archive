@@ -8,6 +8,8 @@ This is a list of men along with their number of sons, daughters, and wives. I f
 ! data-sort-type=number | Wives
 ! Sources
 |-
+| Charles C. Pinter || 4? || 0? || 4? || 1? || <ref>Dedication page of ''A Book of Abstract Algebra'' (2nd ed).</ref>
+|-
 | Hermann Grassmann || ? || ? || 7 || 1 || <ref>"Earlier in 1849 he had married Therese Knappe, the daughter of a landowner, on 12 April. They had eleven children of whom seven reached adulthood." https://mathshistory.st-andrews.ac.uk/Biographies/Grassmann/</ref><ref>"Grassmann had eleven children, seven of whom reached adulthood." https://en.wikipedia.org/wiki/Hermann_Grassmann</ref>
 |-
 | Hermann Hesse || 3 || 0 || 3 || 3 || <ref>"Spouse(s): Maria Bernoulli (1904-1923), Ruth Wenger (1924-1927), Ninon Dolbin (1931-his death)" "Children: Bruno Hesse, Heiner Hesse, Martin Hesse" https://www.thoughtco.com/biography-of-hermann-hesse-4775337</ref>
