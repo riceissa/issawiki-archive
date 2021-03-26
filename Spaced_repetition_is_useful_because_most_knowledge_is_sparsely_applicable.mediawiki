@@ -2,4 +2,8 @@ One way to frame why we keep forgetting things: most knowledge isn't useful most
 
 This is related to [[Andy Matuschak]]'s (or gwern's?) point that spaced repetition widens the baader-meinhof window.
 
+==See also==
+
+* [[Can spaced repetition interfere with internal sense of relevance?]]
+
 [[Category:Spaced repetition]]
