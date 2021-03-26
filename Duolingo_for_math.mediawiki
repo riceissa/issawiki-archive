@@ -2,6 +2,7 @@ An idea I roll around in my head from time to time, not as an idea to be taken l
 
 ==See also==
 
+* [[Braid for math]]
 * [[Live math video]]
 
 [[Category:Spaced repetition]]
