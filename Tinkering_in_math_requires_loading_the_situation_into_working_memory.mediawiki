@@ -1,0 +1,8 @@
+'''Tinkering in math requires loading the situation into working memory'''.
+
+==See also==
+
+* [[Duolingo for math]]
+* [[Braid for math]]
+
+[[Category:Learning]]
