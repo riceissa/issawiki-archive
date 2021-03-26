@@ -1,0 +1,3 @@
+A big difference between '''physical and digital clutter''' is that the latter doesn't take up space, so there is little cost to keeping stuff around. You aren't taking up space that could be used for something else. So something like [[spaced repetition]] works well on digital clutter: you just keep punting the final decision to future versions of yourself, in a sustainable way.
+
+[[Category:Spaced repetition]]
