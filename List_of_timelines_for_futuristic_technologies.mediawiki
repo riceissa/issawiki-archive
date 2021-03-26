@@ -1,6 +1,6 @@
 what are all of the "default timelines" of various technologies?
 
-* de novo AGI
+* de novo AGI; see [[AI timelines]]
 * [[whole brain emulation]]
 * [[nanotechnology]]
 * human intelligence enhancement
