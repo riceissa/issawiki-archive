@@ -2,4 +2,6 @@ One of the key difficulties in math, [[Video games comparison to math|compared t
 
 ==See also==
 
+* [[Spaced proof review as a way to understand key insights in a proof]]
+
 [[Category:Learning]]
