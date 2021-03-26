@@ -1,4 +1,7 @@
 * [[Video games allow immediate exploration]]
 * [[Video games work with finite and discrete objects]]
+* [[Combinatorial explosion in math]]
+* [[Braid for math]]
+* [[Duolingo for math]]
 
 [[Category:Learning]]
