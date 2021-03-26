@@ -2,6 +2,6 @@ One of the key difficulties in math, [[Video games comparison to math|compared t
 
 ==See also==
 
-* [[Spaced proof review as a way to understand key insights in a proof]]
+* [[Spaced proof review as a way to understand key insights in a proof]] -- one way to combat combinatorial explosion is to repeatedly try to prove a theorem
 
 [[Category:Learning]]
