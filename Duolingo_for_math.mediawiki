@@ -1,6 +1,6 @@
 An idea I roll around in my head from time to time, not as an idea to be taken literally (i.e. not as something to implement literally), but as a tool to generate new ideas, is trying to imagine what a '''[[Duolingo]] for math''' would look like.
 
-One problem with "duolingo for math" is that in math, if you want to think about a problem or a theorem or whatever, you often need to load a lot of things into your [[working memory]]. So even just being able to "play" requires this initial loading. Once you have loaded things into WM however, you can often play in a fun way, and mini-tasks like in duolingo can work well.
+[[Tinkering in math requires loading the situation into working memory]]
 
 ==See also==
 
