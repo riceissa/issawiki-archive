@@ -5,3 +5,5 @@ if you want to do a proof by contradiction, you somehow have to visually represe
 ==See also==
 
 * [[Finiteness assumption in explorable media]]
+
+[[Category:Learning]]
