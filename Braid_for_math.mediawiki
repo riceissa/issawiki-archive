@@ -2,6 +2,8 @@ The amazing thing about [[Braid]] is you can immediately and intuitively underst
 
 How can I bring ''this Braidness'' into teaching math? One challenge is that [[tinkering in math requires loading the situation into working memory]].
 
+Another challenge: [[Different mental representations of mathematical objects is a blocker for an exploratory medium of math]].
+
 ==See also==
 
 * [[Duolingo for math]]
