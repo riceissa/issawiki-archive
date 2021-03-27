@@ -1,6 +1,7 @@
 * [[Video games allow immediate exploration]]
 * [[Video games work with finite and discrete objects]]
 * [[Combinatorial explosion in math]]
+* [[Tinkering in math requires loading the situation into working memory]]
 * [[Braid for math]]
 * [[Duolingo for math]]
 
