@@ -1,6 +1,6 @@
 The amazing thing about [[Braid]] is you can immediately and intuitively understand and appreciate it. No need to read a manual or look at statistics or whatever. You just play -- explore.
 
-How can I bring ''this Braidness'' into teaching math? [[Tinkering in math requires loading the situation into working memory]]
+How can I bring ''this Braidness'' into teaching math? One challenge is that [[tinkering in math requires loading the situation into working memory]].
 
 ==See also==
 
