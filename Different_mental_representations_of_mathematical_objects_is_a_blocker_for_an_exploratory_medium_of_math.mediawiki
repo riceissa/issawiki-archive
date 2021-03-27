@@ -1,0 +1,11 @@
+If we want something like a [[Braid for math]], one blocker is that the same mathematical object might have completely different ways of thinking about it (i.e. completely different mental representations of the same object), and using that object well may involve flipping between those different ways repeatedly. It is not enough to just implement ''one'' representation, the way a [[video game]] implements a puzzle.
+
+Some examples:
+
+* Thurston's proof and progress paper shows all the different ways you can think about derivatives.
+* [[Michael Nielsen]]'s tweet about how a substantial portion of math is about going back and forth between different ways of thinking about an object.
+* At the end of [https://gowers.wordpress.com/2011/11/06/group-actions-i/ this post], [[Tim Gowers]] gives two ways (concrete and abstract) of looking at the dihedral group of order 2n.
+
+i think this makes it much harder to do a "braid for math", since if you build some representation in a video-game-like environment, you are privileging/baking in a particular way of viewing the object.
+
+[[Category:Learning]]
