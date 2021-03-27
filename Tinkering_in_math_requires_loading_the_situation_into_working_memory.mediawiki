@@ -1,4 +1,4 @@
-'''Tinkering in math requires loading the situation into working memory'''.
+'''Tinkering in math requires loading the situation into working memory'''. In a [[video game]] or application such as [[Duolingo]], all of the objects are presented to you and you can immediately interact with them. In math, the objects are ''described'' on a piece of paper, but that description is not the same thing as the object itself. To be able to play with those objects -- to engage in tinkering -- you must first "load up" the objects into your [[working memory]].
 
 One thing is that once you "load" a problem into working memory, you can tinker with it like a game. It's just the translation from written to cognitive medium -- the "downloading into your brain" process -- that takes verbal effort. Can we present the intimate "cognitive medium stuff" as a computer simulation?
 
