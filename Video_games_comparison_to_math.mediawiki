@@ -1,6 +1,7 @@
 * [[Video games work with finite and discrete objects]]
 * [[Combinatorial explosion in math]]
 * [[Video games allow immediate exploration]], whereas [[tinkering in math requires loading the situation into working memory]]
+* [[Different mental representations of mathematical objects is a blocker for an exploratory medium of math]]
 * [[Braid for math]]
 * [[Duolingo for math]]
 
