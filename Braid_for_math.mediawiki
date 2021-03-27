@@ -1,6 +1,6 @@
 The amazing thing about [[Braid]] is you can immediately and intuitively understand and appreciate it. No need to read a manual or look at statistics or whatever. You just play -- explore.
 
-How can I bring ''this Braidness'' into teaching math? One thing is that once you "load" a problem into working memory, you can tinker with it like a game. It's just the translation from written to cognitive medium -- the "downloading into your brain" process -- that takes verbal effort. Can we present the intimate "cognitive medium stuff" as a computer simulation?
+How can I bring ''this Braidness'' into teaching math? [[Tinkering in math requires loading the situation into working memory]]
 
 ==See also==
 
