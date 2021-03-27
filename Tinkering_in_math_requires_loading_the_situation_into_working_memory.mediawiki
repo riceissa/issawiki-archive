@@ -1,5 +1,7 @@
 '''Tinkering in math requires loading the situation into working memory'''.
 
+One thing is that once you "load" a problem into working memory, you can tinker with it like a game. It's just the translation from written to cognitive medium -- the "downloading into your brain" process -- that takes verbal effort. Can we present the intimate "cognitive medium stuff" as a computer simulation?
+
 One problem with "[[Duolingo for math]]" is that in math, if you want to think about a problem or a theorem or whatever, you often need to load a lot of things into your [[working memory]]. So even just being able to "play" requires this initial loading. Once you have loaded things into WM however, you can often play in a fun way, and mini-tasks like in duolingo can work well.
 
 ==See also==
