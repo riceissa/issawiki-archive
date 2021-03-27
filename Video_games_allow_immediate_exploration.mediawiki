@@ -1,0 +1,9 @@
+Video games typically have a one-to-one relationship between the objects that the game is about, and the objects on the screen. This makes exploration immediate, intuitive, and also makes things possible to program.
+
+The situation is quite different in math, since [[tinkering in math requires loading the situation into working memory]].
+
+==See also==
+
+* [[Braid for math]]
+
+[[Category:Learning]]
