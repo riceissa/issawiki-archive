@@ -1,4 +1,4 @@
-Here's my current (April 2020) views on 3Blue1Brown's math videos:
+Here's my current (originally April 2020; updated March 2021) views on 3Blue1Brown's math videos:
 
 * he puts in a lot of effort into the visualizations, so they look pretty. these visualizations are actually pretty good ones (i.e. not just pretty, but actually helpful).
 * the videos contain real math, not the kinds of fake math that you see in a lot of math/physics popularizations. (so to give an example, i think numberphile is much worse in this regard.)
