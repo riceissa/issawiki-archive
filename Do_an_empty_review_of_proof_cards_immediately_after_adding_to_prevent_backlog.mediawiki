@@ -5,3 +5,4 @@ One trick to fixing this problem is to do an [[empty review]] immediately after 
 Doing an empty review also helps because it allows you to [[bury]] the card and have it work as expected (i.e. it will show up tomorrow). I've noticed in the past (though I didn't investigate this very closely so I might have misunderstood) that burying a new card will cycle it back to the very end of the new cards queue, which isn't what I want.
 
 [[Category:Spaced repetition]]
+[[Category:Command]]
