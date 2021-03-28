@@ -16,3 +16,4 @@ How would this work for a cloze deletion card? I don't think it would work in a 
 * [[List of techniques for making small cards]]
 
 [[Category:Spaced repetition]]
+[[Category:Claim]]
