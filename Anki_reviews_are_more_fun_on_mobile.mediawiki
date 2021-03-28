@@ -5,3 +5,4 @@ For reasons I don't yet understand, I find [[Anki]] reviews to be much more fun/
 The one exception to this is [[proof card]]s: these require substantially more writing than any of my [[small card]]s so I can't do these even with my tablet.
 
 [[Category:Spaced repetition]]
+[[Category:Claim]]
