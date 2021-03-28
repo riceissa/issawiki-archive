@@ -2,3 +2,4 @@ the reason [[MIRI]] vs [[Paul Christiano]] debates are useful isn't to shift MIR
 
 [[Category:AI safety]]
 [[Category:AI safety meta]]
+[[Category:Claim]]
