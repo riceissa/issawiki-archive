@@ -5,3 +5,4 @@ The people who can give the most useful feedback tend to be very busy
 * [[It is difficult to get feedback on published work]]
 
 [[Category:AI safety meta]]
+[[Category:Claim]]
