@@ -8,3 +8,4 @@ I don't write the answer down for all (or even most) of my cards. For cards wher
 I think at least the AnkiDroid app has an ability to draw on the screen while reviewing, but I remember not liking it (I haven't used the app in a while so I don't remember the details). For cards where the response is an image, I can't really write the answer down (I just form a vague mental image).
 
 [[Category:Spaced repetition]]
+[[Category:Command]]
