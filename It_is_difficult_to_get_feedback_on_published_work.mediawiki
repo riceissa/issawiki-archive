@@ -9,3 +9,4 @@ i think it's harder to get feedback on technical ideas, and in fields where ther
 * [[It is difficult to find people to bounce ideas off of]]
 
 [[Category:AI safety meta]]
+[[Category:Claim]]
