@@ -9,3 +9,4 @@ e.g. today i was reviewing the definition of C\_f(x) in algorithmic complexity (
 * [[Use paper during spaced repetition reviews]]
 
 [[Category:Spaced repetition]]
+[[Category:Command]]
