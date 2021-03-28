@@ -3,3 +3,4 @@ i also now think that putting the full solution on the card, rather than just a 
 When I started out with [[spaced proof review]], I used to just add a reference to a textbook (e.g. textbook name and page number). This meant that when reviewing, I had to pull out the text and open to the correct page, etc., which was a lot of friction.
 
 [[Category:Spaced repetition]]
+[[Category:Command]]
