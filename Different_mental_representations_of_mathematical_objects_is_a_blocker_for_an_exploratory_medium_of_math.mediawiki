@@ -9,3 +9,4 @@ Some examples:
 i think this makes it much harder to do a "braid for math", since if you build some representation in a video-game-like environment, you are privileging/baking in a particular way of viewing the object.
 
 [[Category:Learning]]
+[[Category:Claim]]
