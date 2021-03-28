@@ -1,3 +1,4 @@
 When an uninsightful article repeats an insight from a previous article, it acts as a spaced repetition mechanism for that particular insight, which our brains interpret as useful. To the unprepared (i.e. those who don't regularly use [[spaced repetition]]) this might be one of the ''only'' ways to get repetition of insights.
 
 [[Category:Spaced repetition]]
+[[Category:Claim]]
