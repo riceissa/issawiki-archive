@@ -11,3 +11,4 @@ https://www.facebook.com/yudkowsky/posts/10154597918309228 -- this post seems to
 * [[Soft-hard takeoff]]
 
 [[Category:AI safety]]
+[[Category:Question]]
