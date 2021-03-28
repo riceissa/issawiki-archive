@@ -3,3 +3,4 @@ Atomic cards allow different pieces of knowledge to be scheduled at different in
 One way to deal with this is to [[constantly add a stream of easy cards]].
 
 [[Category:Spaced repetition]]
+[[Category:Claim]]
