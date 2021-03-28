@@ -28,3 +28,4 @@ See also [[Tim Gowers]] on memorizing proofs, e.g. <ref>https://gowers.wordpress
 <references/>
 
 [[Category:Spaced repetition]]
+[[Category:Claim]]
