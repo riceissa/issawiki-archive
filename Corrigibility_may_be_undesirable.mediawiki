@@ -1,3 +1,4 @@
 * a point originally made by [[Wei Dai]] is that if an AI is corrigible to its human operators, then it may have to forgo certain kinds of trades with other AIs such as [[Merging of utility functions|merging utility functions]].
 
 [[Category:AI safety]]
+[[Category:Claim]]
