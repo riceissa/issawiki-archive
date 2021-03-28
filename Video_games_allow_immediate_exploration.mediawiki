@@ -7,3 +7,4 @@ The situation is quite different in math, since [[tinkering in math requires loa
 * [[Braid for math]]
 
 [[Category:Learning]]
+[[Category:Claim]]
