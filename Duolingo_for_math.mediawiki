@@ -2,6 +2,8 @@ An idea I roll around in my head from time to time, not as an idea to be taken l
 
 [[Tinkering in math requires loading the situation into working memory]]
 
+ok so what if you made a bunch of evaluation problems for a language like haskell, in the style of [[Duolingo]]? you'd have levels like "map", where the prompts are expressions like 'map (+9) [1..10]' or whatever, and you'd have to select the correct response. The idea is to unconsciously figure out the rules of the language, just like you do in the actual duolingo. Can you do this for more complicated things in programming? e.g. instead of solving a programming problem, can you just do it through multiple choice? I'm thinking about [[Hamish Todd]]'s "[[vow of silence]]" for video game development. Is that even possible when teaching things like math and programming? My reductions anki cards kind of have this flavor, though in that case i already ''have'' learned the formal definitions, and i'm just now trying to make them intuitive. Maybe [[Execute Program]] already sort of does this?
+
 ==See also==
 
 * [[Braid for math]]
