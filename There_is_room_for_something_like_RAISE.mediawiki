@@ -21,3 +21,4 @@ Here are some more concrete ideas:
 
 [[Category:AI safety meta]]
 [[Category:RAISE]]
+[[Category:Claim]]
