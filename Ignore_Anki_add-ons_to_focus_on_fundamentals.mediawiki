@@ -4,3 +4,4 @@ I think just learning how to write cards well, and integrating Anki into your st
 
 [[Category:Spaced repetition]]
 [[Category:Anki]]
+[[Category:Command]]
