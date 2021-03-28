@@ -5,3 +5,4 @@ Back in 2008-2011 when people were talking about AI safety on [[LessWrong]], the
 * [[There is pressure to rush into a technical agenda]]
 
 [[Category:AI safety meta]]
+[[Category:Claim]]
