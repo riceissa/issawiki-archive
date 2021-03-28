@@ -7,3 +7,4 @@ This is related to [[Andy Matuschak]]'s (or gwern's?) point that spaced repetiti
 * [[Can spaced repetition interfere with internal sense of relevance?]]
 
 [[Category:Spaced repetition]]
+[[Category:Claim]]
