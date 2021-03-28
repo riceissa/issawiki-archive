@@ -9,3 +9,4 @@ I also think of this as a common courtesy type of gesture: someone took the time
 * [[Make new cards when you get stuck]]
 
 [[Category:Spaced repetition]]
+[[Category:Command]]
