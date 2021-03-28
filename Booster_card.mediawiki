@@ -4,4 +4,6 @@ I think that something like [[Quantum Country]] would benefit from having additi
 
 Booster cards can also work nicely when a piece of knowledge has multiple prerequisites. For example with [[Tao Analysis Flashcards]], when the successor operation ++ is introduced in Section 2.1, the reader does not yet have the vocabulary to state that ++ is an injective function (even though this is fact is already implicit in the Peano axioms). Once functions and injectivity are introduced in Chapter 3, Tao does not go out of his way to highlight that ++ is an injective function. But a booster card could be added that reinforces the old knowledge given this new vocabulary.
 
+[[Optimal unlocking mechanism for booster cards is unclear]].
+
 [[Category:Spaced repetition]]
