@@ -9,3 +9,4 @@ When you've been at AI safety for too long, you're so used to just "[staring] at
 <references/>
 
 [[Category:AI safety meta]]
+[[Category:Claim]]
