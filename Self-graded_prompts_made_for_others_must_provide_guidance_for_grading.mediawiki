@@ -7,3 +7,4 @@ This problem arises because [[prompts made for others can violate the rule to le
 * [[Card sharing]]
 
 [[Category:Spaced repetition]]
+[[Category:Claim]]
