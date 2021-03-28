@@ -18,3 +18,4 @@ What can be done about this? Some ideas:
 * something something mentorship (I have no solutions here)
 
 [[Category:AI safety meta]]
+[[Category:Claim]]
