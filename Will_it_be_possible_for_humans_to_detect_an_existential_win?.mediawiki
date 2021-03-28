@@ -3,3 +3,4 @@
 I think a big part of why I am more pessimistic than most people in the [[AI safety community]] is that others think detecting an "[[existential win]]" will be obvious.
 
 [[Category:AI safety]]
+[[Category:Question]]
