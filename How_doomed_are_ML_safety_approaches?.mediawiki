@@ -31,3 +31,4 @@ an important question for me is something like, if paul's approach doesn't work,
 * [[Analyzing disagreements]]
 
 [[Category:AI safety]]
+[[Category:Question]]
