@@ -4,3 +4,4 @@ I often go back and forth between the following two approaches to AI safety:
 # Dogged focus on object level, "eye on the ball". just get the damn job done. there isn't much time, there aren't many capable people around, so we just need (almost) every capable person to basically just have laser focus at Doing The Thing instead of fooling around with community building or pipeline management or whatever.
 
 [[Category:AI safety meta]]
+[[Category:Question]]
