@@ -13,3 +13,4 @@ What is the name of the thing that finally makes someone snap out of whatever th
 * https://patrickcollison.com/questions e.g. "How do people decide to make major life changes?", "Why is there no canon for life's most important questions?"
 
 [[Category:AI safety meta]]
+[[Category:Claim]]
