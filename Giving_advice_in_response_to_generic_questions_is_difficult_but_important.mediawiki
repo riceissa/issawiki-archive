@@ -7,3 +7,4 @@ On the other hand, generic questions like "what should i do with my life" are ex
 I feel like [[Cognito Mentoring]] was trying to do this, but in the end they couldn't get funding (?).
 
 [[Category:AI safety meta]]
+[[Category:Claim]]
