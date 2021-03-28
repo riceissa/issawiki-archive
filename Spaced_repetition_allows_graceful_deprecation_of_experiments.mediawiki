@@ -12,3 +12,4 @@ Other examples where terminating an experiment can be costly (near the end of a 
 * [[Spaced repetition as soft alarm clock]] -- graceful deprecation is one aspect of spaced repetition's general [[softification]] ability
 
 [[Category:Spaced repetition]]
+[[Category:Claim]]
