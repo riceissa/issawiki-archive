@@ -12,3 +12,4 @@ Still, what do you do when something you are interested in, or believe to be the
 <references/>
 
 [[Category:AI safety meta]]
+[[Category:Question]]
