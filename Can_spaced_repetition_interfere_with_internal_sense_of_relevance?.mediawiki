@@ -1,3 +1,5 @@
+'''Can spaced repetition interfere with internal sense of relevance?''' I also called this '''distortion of true frequency of piece of knowledge due to spaced repetition'''.
+
 There's a [[Matt vs Japan]] video that says that [[Anki]] can mess up your internal sense of how frequent certain words are (especially if those words are very infrequent/rare versions) -- these rare words become more available to your mind due to SRS even if nobody uses them.
 
 I wonder how much this applies to SRS in other subjects. e.g. could it mess up a mathematician's intuitions for which theorems one could apply in a given situation?
