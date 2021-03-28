@@ -6,3 +6,4 @@ When doing [[spaced proof review]] or even during normal Anki reviews, if you ge
 * [[Make Anki cards based on feedback you receive]]
 
 [[Category:Spaced repetition]]
+[[Category:Command]]
