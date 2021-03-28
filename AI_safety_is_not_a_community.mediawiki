@@ -8,3 +8,4 @@ Some aspects of this:
 TODO: give specific examples of communities.
 
 [[Category:AI safety meta]]
+[[Category:Claim]]
