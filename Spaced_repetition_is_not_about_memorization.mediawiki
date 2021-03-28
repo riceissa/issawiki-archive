@@ -11,3 +11,4 @@ Some of you may have expected a cynical Hansonian model when you saw the title, 
 * [[Spaced proof review is not about memorizing proofs]]
 
 [[Category:Spaced repetition]]
+[[Category:Claim]]
