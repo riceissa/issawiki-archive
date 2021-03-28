@@ -9,3 +9,4 @@ By "struggles", I mean things like:
 # How do people feel about the state of learning materials relevant to AI safety? Do they find it easy to catch up, or do they feel like they're drowning in a huge pile of mess?
 
 [[Category:AI safety meta]]
+[[Category:Claim]]
