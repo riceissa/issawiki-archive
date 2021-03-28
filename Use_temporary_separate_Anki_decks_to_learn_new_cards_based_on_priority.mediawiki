@@ -5,3 +5,4 @@ if you want to prioritize some cards over another, you can set up separate decks
 * [[Anki deck philosophy]]
 
 [[Category:Spaced repetition]]
+[[Category:Command]]
