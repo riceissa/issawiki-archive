@@ -12,3 +12,4 @@ Some services like Quora are even less reliable; I would say Quora probably give
 <references/>
 
 [[Category:AI safety meta]]
+[[Category:Claim]]
