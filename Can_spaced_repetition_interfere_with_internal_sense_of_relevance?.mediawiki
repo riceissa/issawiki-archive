@@ -7,3 +7,4 @@ I wonder how much this applies to SRS in other subjects. e.g. could it mess up a
 * [[Spaced repetition is useful because most knowledge is sparsely applicable]]
 
 [[Category:Spaced repetition]]
+[[Category:Question]]
