@@ -4,6 +4,8 @@ How can I bring ''this Braidness'' into teaching math? One challenge is that [[t
 
 Another challenge: [[Different mental representations of mathematical objects is a blocker for an exploratory medium of math]].
 
+Many of these problems don't apply to [[broad augmentation]]. But of course, if we limit ourselves to broad augmentation, we miss out on some of the magic contained in Braid.
+
 ==See also==
 
 * [[Duolingo for math]]
