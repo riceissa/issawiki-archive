@@ -1,4 +1,5 @@
 * [[Deck options for proof cards]]
 * [[Incremental reading in Anki#My deck options]]
+* [[Cards created by oneself can be scheduled more aggressively]]
 
 [[Category:Spaced repetition]]
