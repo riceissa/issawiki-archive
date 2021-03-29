@@ -1,4 +1,6 @@
 All existing implementations of [[card sharing]] are pretty inconvenient to use if you just want to make some cards and share them with a friend. For example if I want to use [[Anki]], I have to move the cards to a separate deck, export the deck, then email the deck. I have to pay this overhead price even to send a couple of cards. With something like [[Orbit]] (which, to be fair, wasn't built for this application in mind), I have to write a whole new Orbit-compatible page, upload the page, then link it to my friend.
 
+This sort of overhead is significant enough that I don't share cards more often, even if I am working through the same textbook with a friend!
+
 [[Category:Spaced repetition]]
 [[Category:Claim]]
