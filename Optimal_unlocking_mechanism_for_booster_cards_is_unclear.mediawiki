@@ -2,7 +2,7 @@ When creating [[booster card]]s, there are a few different mechanisms for unlock
 
 * time-based unlocking: 3 months after you read the initial essay, you go to collect booster cards, or the booster cards get added to your deck in one or more installments.
 * content-based unlocking: when you complete chapter 5 in a book, you go to a special place to collect the booster cards for chapter 2 (or maybe they just get added to your deck automatically).
-* review-based unlocking: every time you go for a review, a small amount of booster cards get mixed in with material you've already seen.
+* review-based unlocking: each time you go for a review, a small amount of booster cards get mixed in with material you've already seen. I've been doing this informally with [[Dawnguide]]: each time I get an email reminder to review my existing cards, I read a new article (which adds a few new cards about a different-but-related topic).
 
 actually there's two axes here: how the unlocking is paced, and whether you go out of your way to collect the cards (possibly reading some review material or "booster material" as well) or whether they get magically added to your deck.
 
