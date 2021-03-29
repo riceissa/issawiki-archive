@@ -1,0 +1,4 @@
+A similar point was made by [[Andy Matuschak]] about [[Quantum Country]] cards: if you encounter a card as part of an article you're reading, you know/understand the facts well enough that cards can be more aggressively scheduled compared to, say, vocab cards for a foreign language. The same thing applies to cards you create yourself where you understand the material.
+
+[[Category:Spaced repetition]]
+[[Category:Claim]]
