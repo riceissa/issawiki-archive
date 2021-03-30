@@ -6,4 +6,6 @@ Booster cards can also work nicely when a piece of knowledge has multiple prereq
 
 [[Optimal unlocking mechanism for booster cards is unclear]].
 
+[[Should booster cards be marked as new?]]
+
 [[Category:Spaced repetition]]
