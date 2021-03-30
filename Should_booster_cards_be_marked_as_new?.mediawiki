@@ -1,0 +1,4 @@
+In some [[Optimal unlocking mechanism for booster cards is unclear|unlocking mechanisms]] of [[booster cards]], there is the option to either tell the [[learner]] that the card is a booster card or to leave it visually indistinguishable from existing cards in the deck. It's not clear to me which is better. Casually mixing in new cards without telling the learner could be jarring, but it could also help them pay more attention and to not just state their pattern-matched response.
+
+[[Category:Spaced repetition]]
+[[Category:Question]]
