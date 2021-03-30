@@ -1,6 +1,8 @@
 kinds of value learning:
 
-* ambitious value learning
-* narrow value learning
-** paul's definition
-** rohin's definition
+* [[ambitious value learning]]
+* [[narrow value learning]]
+** [[Paul]]'s definition
+** [[Rohin]]'s definition
+
+[[Category:AI safety]]
