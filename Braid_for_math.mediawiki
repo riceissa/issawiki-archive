@@ -6,6 +6,8 @@ Another challenge: [[Different mental representations of mathematical objects is
 
 Many of these problems don't apply to [[broad augmentation]]. But of course, if we limit ourselves to broad augmentation, we miss out on some of the magic contained in Braid.
 
+Looking at instructive concrete examples may be one way to bring a "Braidness" into math.
+
 ==See also==
 
 * [[Duolingo for math]]
