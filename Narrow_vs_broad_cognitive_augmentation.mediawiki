@@ -1,6 +1,6 @@
 Here is one axis I've been paying attention to when thinking about the question of "how to do we make people better at thinking?":
 
-* '''narrow/vertical/specialized''':
-* '''broad/horizontal/universal''':
+* '''narrow/vertical/specialized''': This kind of augmentation looks at a concrete topic and tries to get at its "true nature", and then comes up with tools to help people think specifically about that topic. For instance, Arabic numerals look specifically at numbers, helping people manipulate and think about them. Sure, you might also learn some things about logarithms or Cauchy sequences by studying Arabic numerals, but mostly they only help you think about numbers, not about some completely unrelated topic like linear algebra. (I want to distinguish between how knowing the Arabic numerals helps you ''do'' linear algebra because of course you use numbers while doing linear algebra, which seems totally obvious to me, and Arabic numerals actually giving insight ''about'' linear algebra, which seems false to me.)
+* '''broad/horizontal/universal''': This kind of augmentation looks at ''learning in general''
 
 [[Category:Learning]]
