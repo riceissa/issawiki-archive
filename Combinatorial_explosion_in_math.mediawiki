@@ -1,4 +1,4 @@
-One of the key difficulties in math, [[Video games comparison to math|compared to puzzle games]], is the combinatorial explosion of ideas.
+One of the key difficulties in math, [[Video games comparison to math|compared to puzzle games]], is the combinatorial explosion of ideas. A puzzle may have merely 20 moves you could make at each step, a branching factor of 20. But in math, a problem about analysis might use an insight from algebra which seems totally out of left field. When such "moves" are possible in math, that means the space of potential moves you could make when trying to solve a problem is ''vast''. There is just not much brute force/type tetris type ways you can solve a problem unless it's a very simple problem like the ones where you just apply a definition.
 
 ==See also==
 
