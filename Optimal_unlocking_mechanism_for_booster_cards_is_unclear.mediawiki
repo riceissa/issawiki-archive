@@ -6,5 +6,7 @@ When creating [[booster card]]s, there are a few different mechanisms for unlock
 
 actually there's two axes here: how the unlocking is paced, and whether you go out of your way to collect the cards (possibly reading some review material or "booster material" as well) or whether they get magically added to your deck (in this latter case, there is the further [[Should booster cards be marked as new?|question]] of whether to make booster cards visually distinct from existing cards).
 
+With [[Tao Analysis Flashcards]] I am aiming to do content-based unlocking because there is no other way to incorporate booster cards in [[Orbit]].
+
 [[Category:Spaced repetition]]
 [[Category:Claim]]
