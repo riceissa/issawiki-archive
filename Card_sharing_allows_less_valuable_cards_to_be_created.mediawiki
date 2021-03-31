@@ -4,5 +4,9 @@ Another way to phrase this is that the only cards that are being created by self
 
 I'm not even talking about economies of scale here: like sure, if a single big entity made all the cards, they can be more efficient at making cards, but that seems like a smaller effect than what I'm describing above.
 
+==See also==
+
+* [[Equivalence classes of prompts]] -- writing equivalence classes of prompts also becomes way easier when dividing the workload among multiple people
+
 [[Category:Spaced repetition]]
 [[Category:Claim]]
