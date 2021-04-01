@@ -1,3 +1,5 @@
 In [[Anki]] each card has exactly one way it could appear in reviews. But instead of having a one-to-one relationship between cards-at-review-time and atomic-fact-to-be-learned, you could imagine that each card is instead an equivalence class of prompts. At review time, the program randomly selects (or iterates through to the next) an item, and shows it to you. This is like the [[application prompt]]s in [[Quantum Country]] or problems in [[Edia]]. But I am interested not just in randomizing the numerical inputs, but instead "shining light on the same fact from multiple angles" by hand-writing new prompts.
 
+The extreme view of this is that you should never see the same prompt twice; somehow or other the prompt should be at least slightly different each time.
+
 [[Category:Spaced repetition]]
