@@ -1,7 +1,7 @@
 Some people like [[Eliezer Yudkowsky]] take [[AlphaGo]] to be evidence for a discontinuous takeoff.
 
 lw question: was there a discontinuity in Go capability within deepmind itself? if so, isn't that evidence for discontinuities in general? if not, what is the reason it is not evidence for a discontinuity?
-why aren't people asking things like "how many attempts did deepmind make to hit upon the alphago architecture?" in particular, how good was the second best attempt? If there are many architectures that were thrown away, you'd expect it a more continuous improvement between different attempts.
+why aren't people asking things like "how many attempts did deepmind make to hit upon the alphago architecture?" in particular, how good was the second best attempt? If there are many architectures that were thrown away, you'd expect a more continuous improvement between different attempts.
 actually hanson doesn't care if there's a discontinuity here, even within deepmind. because his point is that Go is like a narrow tech, not like a city or country where you need to do well on lots of tasks. but others like paul might care?
 
 would we have seen a discontinuity in computer Go playing ability if there was economic incentive?
