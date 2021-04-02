@@ -1,3 +1,21 @@
 This is a '''list of technical AI alignment agendas'''.
 
+* [[Iterated amplification]]
+* [[Embedded agency]]
+* [[Comprehensive AI services]]
+* [[Ambitious value learning]]
+* [[Factored cognition]]
+* [[Recursive reward modeling]]
+* [[Debate]]
+* [[Interpretability]]
+* [[Inverse reinforcement learning]]
+* [[Preference learning]]
+* [[Cooperative inverse reinforcement learning]]
+* [[Imitation learning]]
+* [[Alignment for advanced machine learning systems]]
+* [[Learning-theoretic AI alignment]]
+* [[Counterfactual reasoning]]
+
 https://aiwatch.issarice.com/#agendas
+
+[[Category:AI safety]]
