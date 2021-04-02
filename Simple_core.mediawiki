@@ -1,4 +1,4 @@
-'''Simple core''' is a term that has been used to describe various things in AI safety.
+'''Simple core''' is a term that has been used to describe various things in AI safety. I think the "simple" part is intended to capture that the thing is human-understandable or even something like 'able to be described by a few mathematical equations'. And the "core" part is intended to say that there might be other more complicated things in addition.
 
 * Simple core to [[corrigibility]]<ref>https://ai-alignment.com/corrigibility-3039e668638</ref><ref>https://www.greaterwrong.com/posts/Djs38EWYZG8o7JMWY/paul-s-research-agenda-faq/comment/79jM2ecef73zupPR4</ref>
 * [[Simple core of consequentialist reasoning]]
