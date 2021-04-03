@@ -9,4 +9,6 @@ For a few different values of interests X, I often have thoughts like "Why isn't
 * I have higher standards (e.g. "be able to make a living doing X") for my interest and lower standards for other interests, e.g. probably none of the mountain climbers in the [https://kk.org/thetechnium/scenius-or-comm/ scenius article] (see also [[scenius]]) were getting paid to do it.
 * X requires expertise in many different domains, so there are very few people who are qualified to work on it.
 
+some discussion of similar topics at https://lw2.issarice.com/posts/Sx6SBmyut73u6atgB/the-best-frequently-don-t-rise-to-the-top [[gwern]]'s comment gives some calculations about how much luck is involved.
+
 [[Category:Economics]]
