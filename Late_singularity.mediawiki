@@ -9,3 +9,5 @@ are late singularities actually better? if AGI is developed in 200 years, what d
 # we will likely have a lot more hardware than we do today, and lots of other technologies as well, so the world will look pretty different prior to AGI.
 
 in other words, finding P(doom | AGI after 2220) seems tricky to figure out, since there could be multiple reasons for why AGI happens after 2220, and each thing says something pretty different about probability of doom.
+
+[[Category:AI safety]]
