@@ -4,6 +4,8 @@ lw question: was there a discontinuity in Go capability within deepmind itself? 
 why aren't people asking things like "how many attempts did deepmind make to hit upon the alphago architecture?" in particular, how good was the second best attempt? If there are many architectures that were thrown away, you'd expect a more continuous improvement between different attempts.
 actually hanson doesn't care if there's a discontinuity here, even within deepmind. because his point is that Go is like a narrow tech, not like a city or country where you need to do well on lots of tasks. but others like paul might care?
 
+another way to ask a question i have: how many different permutations/iterations of an AI system are there, for every AI system that gets published out into the world as a finished thing? how many trial and error iterations do ML systems go through before they make it out to the world? this question matters mostly for AI systems that produce a large qualitative shift in how good they are (like alphago).
+
 would we have seen a discontinuity in computer Go playing ability if there was economic incentive?
 theoretically we *could* run this experiment.
 This is similar to the project outlined here: """1.2.C Apply early software understanding to modern hardware ∑2,000 ∆8
