@@ -12,6 +12,7 @@ TODO: explain things like "short timelines", "long timelines", "my timelines"
 * [[Hardware argument for AI timelines]]
 * [[Laplace's rule of succession argument for AI timelines]]
 * [[Statistical analysis of expert timelines argument for AI timelines]]
+* [[Reference class forecasting on human achievements argument for AI timelines]]
 
 ==See also==
 
