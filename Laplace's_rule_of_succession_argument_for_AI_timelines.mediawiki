@@ -2,4 +2,11 @@ The '''Laplace's rule of succession argument for AI timelines''' uses [[wikipedi
 
 see https://eaforum.issarice.com/posts/Ayu5im98u8FeMWoBZ/my-personal-cruxes-for-working-on-ai-safety#AI_timelines
 
+[[Tom Davidson]] argues against using Laplace's rule in his semi-informative priors report.<ref>https://www.openphilanthropy.org/blog/report-semi-informative-priors Search for "I’m skeptical about simple priors." and "I’m suspicious of Laplace’s rule, an example of an uninformative prior."</ref> I don't quite agree with Davidson's reasoning here. If we're trying to estimate how long a building would stay standing, it seems like we should use evidence from all other buildings we know about. If we had never seen a building before, then the naive reasoning he uses would be wrong but still reasonable (in the sense that with so little data, everything else would get it wrong as well).
+
+==References==
+
+<references/>
+
+[[Category:AI safety]]
 [[Category:AI timelines arguments]]
