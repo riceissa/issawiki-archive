@@ -5,3 +5,4 @@
 <references/>
 
 [[Category:AI safety]]
+[[Category:AI timelines arguments]]
