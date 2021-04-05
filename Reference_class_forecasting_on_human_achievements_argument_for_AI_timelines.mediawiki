@@ -1,0 +1,7 @@
+'''Reference class forecasting on human achievements''' uses various [[reference class]]es like "ambitious STEM technology" or "notable mathematical conjectures" to get an [[outside view]] probability of [[AI timelines]]. The [[Open Philanthropy]] report on semi-informative priors is an example of this type of forecasting.<ref>https://www.openphilanthropy.org/blog/report-semi-informative-priors</ref>
+
+==References==
+
+<references/>
+
+[[Category:AI safety]]
