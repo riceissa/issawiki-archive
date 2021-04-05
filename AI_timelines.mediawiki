@@ -6,6 +6,13 @@ For now, see [[List of disagreements in AI safety#AI timelines]]
 
 TODO: explain things like "short timelines", "long timelines", "my timelines"
 
+==Standalone estimates of AI timelines==
+
+* [[Fractional progress argument for AI timelines]]
+* [[Hardware argument for AI timelines]]
+* [[Laplace's rule of succession argument for AI timelines]]
+* [[Statistical analysis of expert timelines argument for AI timelines]]
+
 ==See also==
 
 * [[Importance of knowing about AI timelines]]
