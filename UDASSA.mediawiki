@@ -77,3 +77,5 @@ what does UDT say? well, you can read the stuart armstrong paper. basically, udt
 ==References==
 
 <references/>
+
+[[Category:AI safety]]
