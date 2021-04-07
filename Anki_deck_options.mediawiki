@@ -1,4 +1,4 @@
-For the first year or so of using [[Anki]] (after returning to it after a several-year break), I did not modify the deck options much so that I could focus on learning how to write better cards. Since then, I've gradually learned more about the options.
+For the first year or so of using [[Anki]] (after returning to it after a several-year break), I did not modify the deck options much so that I could focus on learning how to write better cards. Since then, I've gradually learned more about the options. I think the worst option in the default Anki is the "new interval" of 0%, which means if you get a card wrong, the interval resets to the initial state. This leads to a huge amount of wasted reviews if you happen to get a card wrong, and also makes getting a card wrong feel bad.
 
 * [[Deck options for small cards]]
 * [[Deck options for proof cards]]
