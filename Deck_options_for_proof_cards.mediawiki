@@ -39,6 +39,7 @@ Something I might do in the future is to make multiple deck options, because for
 
 ==See also==
 
+* [[Anki deck options]]
 * [[Spaced proof review routine]]
 
 [[Category:Spaced repetition]]
