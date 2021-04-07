@@ -1,4 +1,37 @@
+Here are my deck options (as of 2021-04-07) for my [[small card]]s decks.
 
+New Cards:
+
+* Steps: 10 7200
+* Order: Show new cards in order added
+* New cards/day: 6
+* Graduating interval: 13 days
+* Easy interval: 14 days
+* Starting ease: 250%
+* Bury related new cards until the next day: yes
+
+Reviews:
+
+* Maximum reviews/day: 100
+* Easy bonus: 130%
+* Interval modifier: 100%
+* Maximum interval: 36500 days
+* Bury related reviews until the next day: yes
+
+Lapses:
+
+* Steps: 10
+* New interval: 70%
+* Minimum interval: 1 days
+* Leech threshold: 8 lapses
+* Leech action; Suspend Card
+
+General:
+
+* Ignore answer times longer than 60 seconds
+* Show answer timer: no
+* Automatically play audio: yes
+* Always include question side when replaying audio: yes
 
 [[Category:Spaced repetition]]
 [[Category:Anki]]
