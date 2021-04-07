@@ -1,3 +1,5 @@
+For the first year or so of using [[Anki]] (after returning to it after a several-year break), I did not modify the deck options much so that I could focus on learning how to write better cards. Since then, I've gradually learned more about the options.
+
 * [[Deck options for small cards]]
 * [[Deck options for proof cards]]
 * [[Incremental reading in Anki#My deck options]]
