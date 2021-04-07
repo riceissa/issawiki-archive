@@ -33,5 +33,9 @@ General:
 * Automatically play audio: yes
 * Always include question side when replaying audio: yes
 
+==See also==
+
+* [[Anki deck options]]
+
 [[Category:Spaced repetition]]
 [[Category:Anki]]
