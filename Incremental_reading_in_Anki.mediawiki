@@ -2,7 +2,7 @@
 
 ==My deck options==
 
-As of 2020-04-24, here are my deck options for my incremental reading deck. The main things to note are that the graduating interval is 30 days, so you get to skip the "1 day, 3 days, 1 week, 2.5 weeks", steps that you normally get (if you haven't tweaked your Anki settings much). This is good for incremental reading, since you don't want to be reading stuff so often. (I normally paste 1-3 paragraphs of text per card.) I almost always just press "good" when reviewing.
+As of 2020-04-24, here are my [[Anki deck options|deck options]] for my incremental reading deck. The main things to note are that the graduating interval is 30 days, so you get to skip the "1 day, 3 days, 1 week, 2.5 weeks", steps that you normally get (if you haven't tweaked your Anki settings much). This is good for incremental reading, since you don't want to be reading stuff so often. (I normally paste 1-3 paragraphs of text per card.) I almost always just press "good" when reviewing.
 
 New Cards:
 
