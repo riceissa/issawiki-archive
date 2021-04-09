@@ -2,4 +2,5 @@ This is a kind of higher-order/meta-level argument that simply performs a statis
 
 The class of experts is variable, which means this argument produces multiple estimates depending on the class of experts used (e.g. "AI researchers attending X conference", "AI researchers in general", "AI safety researchers").
 
+[[Category:AI safety]]
 [[Category:AI timelines arguments]]
