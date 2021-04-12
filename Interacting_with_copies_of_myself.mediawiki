@@ -24,3 +24,5 @@ i think this kind of thinking is not ''completely'' unprecedented, e.g.
 * rawlsian veil of ignorance: "This is interesting because it gets us most of the way to Rawls’ veil of ignorance. We imagine a poor person coming up to a rich person and saying “God decided which of us should be rich and which of us should be poor. Before that happened, I resolved that if I were rich and you were poor, I would give you charity if and only if I predicted, in the opposite situation, that you would give me charity. Well, turns out you’re rich and I’m poor and the other situation is counterfactual, but will you give me money anyway?”" https://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/
 
 i want to think more about related ideas like, if i were the kind of organism that had evolved in an environment where minds were regularly copied and merged and so forth, what kinds of intuitions would i have wrt this kind of question?
+
+[[Category:Philosophy]]
