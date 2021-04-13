@@ -1,3 +1,5 @@
+'''Thinking Mathematics''' or '''Thinking Physics for math''' is a hypothetical book that teaches math in the style of [[Thinking Physics]].
+
 is there a [[Thinking Economics]]? basically a [[Thinking Physics]] for econ.
 
 actually, is there a Thinking Mathematics? (maybe AOPS books are it?) it feels like math would work less well for some reason, but i am having trouble articulating why. maybe because [[Tinkering in math requires loading the situation into working memory|you need to introduce a lot of terminology and concepts into someone's ontology first before you can even ask the question]]? probability/combinatorics is like one of the few branches where you don't need to do this (and this might be why the AoPS book is so enjoyable).
