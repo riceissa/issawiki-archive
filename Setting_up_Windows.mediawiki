@@ -1,0 +1,8 @@
+stuff...
+
+* Emacs: need to use weird trick so that opening from task bar doesn't leave the blank console open; magit doesn't work so I gave up and am using git bash
+* neovim: still haven't figured out how to change the home dir. I've just been using vim via git bash for now.
+* Anki: getting the v2.1 scheduler thing nagging me every time I open it.
+* for running linux-only programs like newsboat, I've been using vmware player after trying that and virtualbox (couldn't easily screen resolution, and didn't see any advantages) and hyper-v (cursor was laggy and I supposedly need to install via the pre-approved Ubuntu versions to get it to not lag).
+
+[[Category:Computing]]
