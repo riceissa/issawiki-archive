@@ -5,6 +5,7 @@ stuff...
 * git bash: .minttyrc for colorscheme (I wish the UI explained this rather than just sending you to some random website; also the "data:" url on that site didn't work on firefox). had to right click on taskbar icon, then right click again and go to properties and add the --cd-to-home flag for it to open the terminal in the home dir.
 * Anki: getting the v2.1 scheduler thing nagging me every time I open it.
 * for running linux-only programs like newsboat, I've been using vmware player after trying that and virtualbox (couldn't easily screen resolution, and didn't see any advantages) and hyper-v (cursor was laggy and I supposedly need to install via the pre-approved Ubuntu versions to get it to not lag).
+* dotfile management is complicated by the fact that git bash by default does not have symlinks, so I have to manually copy files over when I make changes.
 
 not sure how much effort I should spend on documenting the setup since I suspect by the time I need to do this again, the steps will have changed.
 
