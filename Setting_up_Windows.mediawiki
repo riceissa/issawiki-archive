@@ -6,4 +6,6 @@ stuff...
 * Anki: getting the v2.1 scheduler thing nagging me every time I open it.
 * for running linux-only programs like newsboat, I've been using vmware player after trying that and virtualbox (couldn't easily screen resolution, and didn't see any advantages) and hyper-v (cursor was laggy and I supposedly need to install via the pre-approved Ubuntu versions to get it to not lag).
 
+not sure how much effort I should spend on documenting the setup since I suspect by the time I need to do this again, the steps will have changed.
+
 [[Category:Computing]]
