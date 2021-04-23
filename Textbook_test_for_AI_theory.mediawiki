@@ -1,4 +1,4 @@
-Textbook test/paper test: so my question for [[Robin Hanson]] is, once you have a complete theory of AI, how many pages of text does it take to describe that theory in sufficient detail that a team of programmers can build the AI in less than a year?
+Textbook test/paper test: so my question for [[Robin Hanson]] is, once you have a complete theory of AI, how many pages of text does it take to describe that theory in sufficient detail that a team of human programmers can build the AI in less than a year?
 
 I feel like [[Eliezer]] would say it fits in a couple of pages, and Hanson would say it's going to require many books to store all the insights.
 
