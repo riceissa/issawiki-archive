@@ -1,0 +1,7 @@
+The '''potpourri hypothesis for math education''' states that when thinking about an ideal math education, there will be various interventions that each add value, instead of the ideal education being the result of a single big/coherent intervention.
+
+potpourri model of improving math explanations: there's several distinct and independent ways to make explanations better, e.g. adding spaced repetition cards, writing the explanations more clearly, having good solutions manuals, having a support network like discord chats/tutors, having multiple choice quizzes, etc., and there is no single thing that will dramatically improve people's ability to understand math: you just add in more and more of these things, and they each help, and at the end of it, you've really done a lot, but there wasn't a "single idea", in the way that something like [[Braid]] or [[the Witness]] have a "single idea".
+
+The alternative is like the kind of thing [[Michael Nielsen]] likes to talk about -- you want to find "the next writing" or "the next arabic numeral system". basically, a single technology that will dramatically improve people's way of thinking about math or whatever.
+
+[[Category:Learning]]
