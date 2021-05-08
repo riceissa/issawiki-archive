@@ -8,6 +8,7 @@ I've been thinking about switching costs of software ever since I saw [https://b
 ** there are other "enabling" software like virtual machine software (which makes it easy to shop around between different operating systems)
 * Any kind of social software (e.g. social networking sites, instant messaging) is hard to switch because it requires also convincing other people to switch with you.
 * Software that promises "sane defaults" are easier to switch to.
+* For operating systems, it really depends on what kinds of things you do on the computer. If all you do is stuff in the browser, then it is easy to switch to pretty much anything (ignoring things like installation difficulty for some more obscure Linux distros).
 
 [[Category:Economics]]
 [[Category:Software]]
