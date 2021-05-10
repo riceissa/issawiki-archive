@@ -1,3 +1,5 @@
 [[Anki]] as a way to ask questions about things: i quite often have questions about stuff as i'm reviewing on anki. i stop to write these down before continuing. if i hadn't entered these in as cards into anki, i wouldn't have asked these questions, i think — because if i would have, then i should also have asked them originally at the time when i was entering the cards into anki. maybe using some other review mechanism, like periodically revisiting the wikipedia page about the concept, would also work as a way to generate questions/iteratively deepen your knowledge. But the whole point of anki is to automate that kind of scheduling.
 
+This kind of pattern shows up ''a lot'' more in [[incremental reading]] with [[SuperMemo]]. There you are continually refining the piece of text, but also adding questions and thoughts to it.
+
 [[Category:Spaced repetition]]
