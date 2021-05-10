@@ -1,3 +1,14 @@
+'''Anki''' is a [[spaced repetition]] software.
+
+* [[Anki deck philosophy]]
+* [[Incremental reading in Anki]]
+* [[List of experiments with Anki]]
+* [[Ignore Anki add-ons to focus on fundamentals]]
+* [[Anki deck options]]
+* [[Using Anki for math]]
+* [[Anki reviews are more fun on mobile]]
+* [[Use temporary separate Anki decks to learn new cards based on priority]]
+* [[Make Anki cards based on feedback you receive]]
 * https://issarice.com/anki
 
 [[Category:Spaced repetition]]
