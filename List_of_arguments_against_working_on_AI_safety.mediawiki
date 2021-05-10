@@ -11,4 +11,6 @@ This is a '''list of arguments against working on AI safety'''. Personally I thi
 
 [[Buck]] lists a few more at https://eaforum.issarice.com/posts/53JxkvQ7RKAJ4nHc4/some-thoughts-on-deference-and-inside-view-models#Proofs_vs_proof_sketches but actually i don't think those are such good counter-arguments.
 
+more reasons listed here: https://arxiv.org/ftp/arxiv/papers/2105/2105.02704.pdf#page=6
+
 [[Category:AI safety]]
