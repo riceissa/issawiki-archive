@@ -1,3 +1,5 @@
+Some pages about how to use [[Anki]] to study math:
+
 * [[Spaced proof review]]
 * [[Add easy problems as cards with large graduating interval]]
 
