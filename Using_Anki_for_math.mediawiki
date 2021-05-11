@@ -1,5 +1,4 @@
-
-
-[[Spaced proof review]]
+* [[Spaced proof review]]
+* [[Add easy problems as cards with large graduating interval]]
 
 [[Category:Spaced repetition]]
