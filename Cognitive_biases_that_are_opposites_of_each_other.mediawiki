@@ -1,3 +1,9 @@
+fundamental attribution error and typical mind fallacy are basically opposites. so if you make one bias instead of the other, that just means your priors are slightly off, which isn't a huge problem imo. it's similar to what critch said about bystander effect and unilateralist's curse being opposites.
+
+i guess this fits into that SSC post about equal and opposite advice. and how proverbs often have inverses.
+
+i wonder what fraction of cognitive biases are like this. like there is some quantity X, and there is a "just right" amount of X, and there are two biases for "too little X" and "too much X". and so while the callout that the amount of X is at a suboptimal level lands, it's still not a satisfying bias because it's like, some ppl have too little and some have too much and it's hard to get the right amount as bounded reasoners. it would be like if there is a perfect height and calling the short ppl too short and the tall ppl too tall. like yes that's true but calling human height "biased" seems wrong; there's just a distribution of abilities.
+
 halo effect vs positive manifold? this seems like another one of those things where it's called a "bias" if it goes either above or below some optimal threshold. but it's unrealistic to get that optimal level.
 
 confirmation bias vs 'probability vs likelihoods' thing where ppl confuse the posterior with likelihood and then change their views too much? i feel like this might be another instance where you have two extremes and the ideal is in the middle?
