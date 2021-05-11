@@ -1,6 +1,10 @@
+https://en.wikipedia.org/wiki/Escalation_of_commitment -- this and sunk cost fallacy is another case where some people just give up too early, and other people don't give up at all, and it's like, sure, you can call both of them biases but it's more that the right balance is just a single point along some axis, and you're almost always going to be wrong.
 
+"false consensus effect" too -- this is just the opposite of SSC's "bravery debates"...
 
-critch's bystander effect vs unilateralist's curse is another example of opposite biases.
+"satisfaction of search" too -- this is the opposite of the thing with the colliders making the other less likely. like if you find out sprinklers are on, it makes it less likely that it was raining, or whatever the example was.
+
+[[Critch]]'s bystander effect vs unilateralist's curse is another example of opposite biases.
 
 cognitive biases: but then there are ones like dunning-kruger, which give _differential diagnoses_ depending on some attribute, like skill level. i think these ones _are_ useful to point out.
 
