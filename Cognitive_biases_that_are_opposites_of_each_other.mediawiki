@@ -1,3 +1,9 @@
+confirmation bias vs 'probability vs likelihoods' thing where ppl confuse the posterior with likelihood and then change their views too much? i feel like this might be another instance where you have two extremes and the ideal is in the middle?
+
+see also https://en.wikipedia.org/wiki/Conservatism_(belief_revision) which actually gives an even better example! -- i should post this example to abram's probabilities vs likelihoods post. but i should work out the math in the red/blue chips example first.
+
+law of the instrument is just overlearning right? it seems like a _good_ thing! "I call it the law of the instrument, and it may be formulated as follows: Give a small boy a hammer, and he will find that everything he encounters needs pounding."
+
 https://en.wikipedia.org/wiki/Escalation_of_commitment -- this and sunk cost fallacy is another case where some people just give up too early, and other people don't give up at all, and it's like, sure, you can call both of them biases but it's more that the right balance is just a single point along some axis, and you're almost always going to be wrong.
 
 "false consensus effect" too -- this is just the opposite of SSC's "bravery debates"...
