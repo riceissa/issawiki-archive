@@ -1,3 +1,5 @@
+halo effect vs positive manifold? this seems like another one of those things where it's called a "bias" if it goes either above or below some optimal threshold. but it's unrealistic to get that optimal level.
+
 confirmation bias vs 'probability vs likelihoods' thing where ppl confuse the posterior with likelihood and then change their views too much? i feel like this might be another instance where you have two extremes and the ideal is in the middle?
 
 see also https://en.wikipedia.org/wiki/Conservatism_(belief_revision) which actually gives an even better example! -- i should post this example to abram's probabilities vs likelihoods post. but i should work out the math in the red/blue chips example first.
