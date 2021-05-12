@@ -20,7 +20,7 @@ https://en.wikipedia.org/wiki/Escalation_of_commitment -- this and sunk cost fal
 
 [[Critch]]'s bystander effect vs unilateralist's curse is another example of opposite biases.
 
-cognitive biases: but then there are ones like dunning-kruger, which give _differential diagnoses_ depending on some attribute, like skill level. i think these ones _are_ useful to point out.
+cognitive biases: but then there are ones like dunning-kruger, which give _differential diagnoses_ depending on some attribute, like skill level. i think these ones _are_ useful to point out. More generally a result like "in situation X, people have bias A, and in situation Y, people have bias B, even though A and B are opposites" would be useful. it's just the kind of blanket "people have this bias" that feels unfair to humans.
 
 
 [[Category:Rationality]]
