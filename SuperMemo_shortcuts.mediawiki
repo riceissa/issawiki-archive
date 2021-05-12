@@ -15,6 +15,7 @@ Things I use much more rarely:
 
 * Alt-z -- create cloze deletion
 * q -- takes you into editing mode
+* F6 -- applies a filter to the HTML to clean it up
 * Ctrl-F8 -- then check, to process images to be saved in sidebar
 * Shift-Ctrl-m -- choose template to use
 * Shift-Ctrl-a -- imports from IE; check article, then check "close browser" (alt-c); then import
