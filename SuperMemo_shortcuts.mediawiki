@@ -1,0 +1,19 @@
+Here are some shortcuts for [[SuperMemo]]. Most of them were introduced to me by Raj on our first tutorial call.
+
+* alt-x -- extract the highlighted text
+* q -- takes you into editing mode
+* alt-p -- modify priority. For priority, use 33 for highly applicable, 66 for interesting but not necessarily immediately applicable, and 88 for probably kinda useless but might be worth exploring later
+* Ctrl-F8 -- then check, to process images to be saved in sidebar
+* Shift-Ctrl-m -- choose template to use
+* Shift-Ctrl-a -- imports from IE; check article, then check "close browser" (alt-c); then import
+* Ctrl-F7 -- set readpoint
+* alt-t -- change title
+* Ctrl-Shift-r/Ctrl-j (these two are subtly different) -- set when you will next see the article
+* Ctrl-Shift-p -- change concept; alt-g to change group
+* Ctrl-d -- dismiss element
+* Ctrl-Enter -- SuperMemo commander; then type split
+* Ctrl-Space -- priorities view for spreading; click on subset you want to spread first
+
+
+[[Category:SuperMemo]]
+[[Category:Spaced repetition]]
