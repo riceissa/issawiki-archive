@@ -9,7 +9,7 @@ Things I use all the time (almost every time in each study session):
 * Alt-q -- use highlighted text for metadata
 * Ctrl-F7 -- set readpoint
 * Ctrl-F5 -- apply default layout (for some reason SuperMemo keeps reverting to an odd layout every time I reopen it)
-* Ctrl-d -- dismiss element
+* Ctrl-d -- dismiss element (you won't see it during reviews, but it will not be deleted)
 
 Things I use much more rarely:
 
