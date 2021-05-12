@@ -2,17 +2,17 @@ Here are some shortcuts for [[SuperMemo]]. Most of them were introduced to me by
 
 Things I use all the time (almost every time in each study session):
 
-* alt-x -- extract the highlighted text
-* alt-p -- modify priority. For priority, use 33 for highly applicable, 66 for interesting but not necessarily immediately applicable, and 88 for probably kinda useless but might be worth exploring later
+* Alt-x -- extract the highlighted text
+* Alt-p -- modify priority. For priority, use 33 for highly applicable, 66 for interesting but not necessarily immediately applicable, and 88 for probably kinda useless but might be worth exploring later
 * Ctrl-Shift-r/Ctrl-j (these two are subtly different) -- set when you will next see the article
-* alt-t -- use highlighted text for title
-* alt-q -- use highlighted text for metadata
+* Alt-t -- use highlighted text for title
+* Alt-q -- use highlighted text for metadata
 * Ctrl-F7 -- set readpoint
 * Ctrl-d -- dismiss element
 
 Things I use much more rarely:
 
-* alt-z -- create cloze deletion
+* Alt-z -- create cloze deletion
 * q -- takes you into editing mode
 * Ctrl-F8 -- then check, to process images to be saved in sidebar
 * Shift-Ctrl-m -- choose template to use
