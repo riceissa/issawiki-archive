@@ -18,7 +18,7 @@ Things I use much more rarely:
 * F6 -- applies a filter to the HTML to clean it up
 * Ctrl-F8 -- then check, to process images to be saved in sidebar
 * Shift-Ctrl-m -- choose template to use
-* Shift-Ctrl-a -- imports from IE; check article, then check "close browser" (alt-c); then import
+* Shift-Ctrl-a -- imports from IE; check article, then check "close browser" (Alt-c); then import
 * Ctrl-Shift-p -- change concept; alt-g to change group
 * Ctrl-Enter -- SuperMemo commander; then type split
 * Ctrl-Space -- priorities view for spreading; click on subset you want to spread first
