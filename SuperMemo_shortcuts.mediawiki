@@ -23,6 +23,9 @@ Things I use much more rarely:
 * Ctrl-Enter -- SuperMemo commander; then type split
 * Ctrl-Space -- priorities view for spreading; click on subset you want to spread first
 
+==See also==
+
+* [[My beginner incremental reading questions]]
 
 [[Category:SuperMemo]]
 [[Category:Spaced repetition]]
