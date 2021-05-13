@@ -10,6 +10,7 @@ Things I use all the time (almost every time in each study session):
 * Ctrl-F7 -- set readpoint (I've found that my readpoint is more reliably saved if I do this before switching to the next item (with Enter), unless that last action I did was to create an extract (rather than just reading), in which case the readpoint is set automatically)
 * Ctrl-F5 -- apply default layout (for some reason SuperMemo keeps reverting to an odd layout every time I reopen it)
 * Ctrl-d -- dismiss element (you won't see it during reviews, but it will not be deleted)
+* Ctrl-n -- create a new item by pasting in whatever is on your clipboard (if you don't want to paste in anything, use Alt-n instead)
 
 Things I use much more rarely:
 
