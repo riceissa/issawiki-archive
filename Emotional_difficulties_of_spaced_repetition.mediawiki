@@ -5,6 +5,7 @@ A few people ([[Piotr Wozniak]]? [[Andy Matuschak]]? [[Michael Nielsen]]? [[hnou
 * [[Spaced repetition constantly reminds one of inadequacies]]
 * [[Iteration cadence for spaced repetition experiments]] -- slow feedback loop means you're often not sure if you're doing the right thing until months later
 * [[Maintaining habits is hard, and spaced repetition is a habit]]
+** [[Are due counts harmful?]]
 * [[Spaced repetition systems remind you when you are beginning to forget something]]
 * [[There are not many established best practices for how to do spaced repetition well]] (even things like the [[20 rules]] have counter-examples)
 
