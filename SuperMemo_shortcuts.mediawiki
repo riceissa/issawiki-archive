@@ -23,7 +23,7 @@ Things I use much more rarely:
 * Ctrl-Shift-p -- change concept; Alt-g to change group
 * Ctrl-Enter -- SuperMemo commander; then type split
 * Ctrl-Space -- priorities view for spreading; click on subset you want to spread first
-* Ctrl-Shift-h -- see how many times I have reviewed this item and the review history
+* Ctrl-Shift-h -- see how many times I have reviewed this item and the review history. The bottom-most row is created at import time, so the actual number of reviews is one less than the number of rows.
 
 ==See also==
 
