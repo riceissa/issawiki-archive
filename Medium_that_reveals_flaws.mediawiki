@@ -9,7 +9,7 @@ Examples:
 * [[Redlink]]s on a MediaWiki wiki makes the divergence between ''intent'' and ''execution'' obvious, in a way that "just don't link to it if the page doesn't exist" (the default on the web) doesn't.
 * Empty sections similarly make intent vs execution obvious.
 * Designed interfaces: "But the new representations you develop may be held entirely in your mind, and so are not constrained by traditional static media forms. Or even if based on static media, they may break social norms about what is an “acceptable” argument. Whatever the reason, they may be difficult to communicate using traditional media. And so they remain private, or are only discussed informally with expert colleagues." [http://cognitivemedium.com/tat/index.html]
-* Writing in general has a little bit of this flavor (see, e.g. [https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg Writing forces sharper understanding]), but in my view it is not sufficiently exacting. Jonathan Blow likes to talk about how fiction writers can write any bullshit they want.
+* Writing/language in general has a little bit of this flavor (see, e.g. [https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg Writing forces sharper understanding], and "Converting thoughts to speech slows down the thinking, but increases the discipline and may dramatically enhance creative outcomes"<ref>https://help.supermemo.org/wiki/Creativity_and_problem_solving_in_SuperMemo</ref>), but in my view it is not sufficiently exacting. Jonathan Blow likes to talk about how fiction writers can write any bullshit they want.
 
 Non-examples:
 
