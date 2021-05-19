@@ -4,3 +4,5 @@ In discussions of AI risk, evolution is often used as an analogy/source of insig
 ** [[Changing selection pressures argument]]
 * [[optimization daemon]]s/inner optimizers/mesa-optimization: organisms (including humans) are optimized for inclusive genetic fitness, but humans have come to value many different things (happiness, taste of food, love, curiosity, etc.), and these things can "come apart" (e.g. humans eating candy)
 * the plausibility of AGI
+
+[[Category:AI safety]]
