@@ -1,4 +1,4 @@
-In discussions of AI risk, evolution is often used as an analogy/source of insights for the development of AGI. here are some examples:
+In discussions of AI risk, evolution (especially hominid evolution, as it is the only example we have of fully general human-level intelligence) is often used as an analogy/source of insights for the development of AGI. here are some examples:
 
 * chimpanzee vs human intelligence
 ** [[Changing selection pressures argument]]
