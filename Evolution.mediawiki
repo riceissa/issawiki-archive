@@ -3,6 +3,7 @@ In discussions of AI risk, evolution (especially hominid evolution, as it is the
 * chimpanzee vs human intelligence
 ** [[Changing selection pressures argument]]
 ** see also "hominid evolution" in [[Secret_sauce_for_intelligence#Evidence]]
+** [[Missing_gear_for_intelligence#Evidence]]
 * [[optimization daemon]]s/inner optimizers/mesa-optimization: organisms (including humans) are optimized for inclusive genetic fitness, but humans have come to value many different things (happiness, taste of food, love, curiosity, etc.), and these things can "come apart" (e.g. humans eating candy)
 * the plausibility of AGI
 
