@@ -6,6 +6,8 @@ e.g. my cloze deletion "read only" cards weren't so useful and i eventually swit
 
 Other examples where terminating an experiment can be costly (near the end of a failed experiment): dating, switching text editors or operating systems (need to rewire your brain), switching jobs (e.g. need savings to be able to quit).
 
+In [[SuperMemo]] when [[incremental reading]], you have a lot of options to see an article less, like just hitting enter, lowering the priority, or doing Ctrl-Shift-R and then entering something like a year to not see the article for a long time. So there is definitely much less pressure than usual to skip things.
+
 ==See also==
 
 * [[Spaced repetition experiments take months to complete]]
