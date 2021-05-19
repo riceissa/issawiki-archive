@@ -1,3 +1,5 @@
 For [[spaced inbox]] and [[incremental reading]], dual ratings (in contrast the single rating of again-hard-good-easy) might be one solution to the [[interaction reversal between knowledge-to-be-memorized and ideas-to-be-developed]]. One rating can be for insightfulness and one for whether you still remembered the idea. E.g. today's [[incremental reading]] card about Paul Graham aiming precisely at a target, I totally forgot I even added this card but I also didn't see it as too insightful, so I was like whatever and wouldn't mind not seeing it for a long time. There are other cases where I think a card is insightful but where I already keep thinking about it so don't need to reminder. The cards I'd like to "keep closer" to me by contracting the schedules are the ones that are both insightful and that I totally forgot about/keep forgetting about.
 
+There's a similar thing when [[incremental reading]] on [[SuperMemo]], where you can make an extract because you don't quite understand it and want to pay more attention to it later vs when you make an extract because you think it's an actually good point (and you understand it).
+
 [[Category:Spaced repetition]]
