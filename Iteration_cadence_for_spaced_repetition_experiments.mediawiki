@@ -10,6 +10,8 @@ on the other hand, some feedback ''is'' immediate. if your card is too [[Big car
 
 I'm not sure if there is a way to speed up the feedback you get.
 
+I'm feeling this a lot now when trying out [[incremental reading]] on [[SuperMemo]]. Even after a month or so of IR, it's very hard for me to tell how much more efficient it is. The final steps, like going from the extracts to cloze deletions or q&a cards, don't really happen until you've seen an article multiple times, which might take a few weeks if you've imported many articles. So you can't even see the full benefit of IR in the first few months of using it. Incremental/spaced things are easier to use but harder to assess.
+
 ==See also==
 
 * [[Spaced repetition allows graceful deprecation of experiments]]
