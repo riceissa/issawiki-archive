@@ -1,4 +1,4 @@
 * [[Incremental reading in Anki]]
-* See also [[SuperMemo]]
+* See also [[SuperMemo]] and [[My beginner incremental reading questions]]
 
 [[Category:Spaced repetition]]
