@@ -1,0 +1,19 @@
+In [[AI takeoff]], '''explosive aftermath''' (also sometimes called things like '''discontinuity ''from'' AGI''') is the hypothesis that once the first highly capable AI system is developed, thereafter AI systems will extremely rapidly improve to the level of [[superintelligence]]. Another way to phrase sudden emergence is as "a discontinuity ''from'' (rather than ''to'') AGI". The term is used in contrast to the [[sudden emergence]] hypothesis, as it is often unclear which of the two someone means when saying "[[hard takeoff]]".
+
+==History==
+
+The term was coined by [[Ben Garfinkel]] in "[[On Classic Arguments for AI Discontinuities]]".<ref>https://docs.google.com/document/d/1lgcBauWyYk774gBwKn8P_h8_wL9vLLiWBr6JMmEd_-I/edit</ref>
+
+==See also==
+
+* [[Will there be significant changes to the world prior to some critical AI capability threshold being reached?]]
+
+==References==
+
+<references/>
+
+==External links==
+
+* https://ea.greaterwrong.com/posts/7gxtXrMeqw78ZZeY9/ama-or-discuss-my-80k-podcast-episode-ben-garfinkel-fhi/comment/u5wdMuKWr9DwubCrd
+
+[[Category:AI safety]]
