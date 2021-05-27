@@ -1,4 +1,4 @@
-'''Linked list proof card''' is a method of memorizing proofs using Anki. In linked list proof cards, each card asks for the next step in a proof so the cards together form a linked list data structure for the proof.
+'''Linked list proof card''' is a method of memorizing proofs using Anki. In linked list proof cards, each card asks for the next step in a proof so the cards together form a linked list data structure for the proof (or rather, more like a "cumulative" linked list where each card has all of the previous steps listed, not just the previous step).
 
 I don't actually like the name "linked list proof card" because it makes it sound like each card is a linked list, rather than that the collection of cards forms a linked list. Maybe "linked list proof method" or something is better?
 
