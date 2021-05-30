@@ -8,6 +8,8 @@ This is a list of men along with their number of sons, daughters, and wives. I f
 ! data-sort-type=number | Wives
 ! Sources
 |-
+| Edsger W. Dijkstra || || || 3 || 1 || <ref>"He and his wife Maria (Ria) Debets were survived by their three children: Marcus, Femke, and the computer scientist Rutger M. Dijkstra." https://en.wikipedia.org/wiki/Edsger_W._Dijkstra#Last_years</ref>
+|-
 | Charles C. Pinter || 4? || 0? || 4? || 1? || <ref>Dedication page of ''A Book of Abstract Algebra'' (2nd ed).</ref>
 |-
 | Hermann Grassmann || ? || ? || 7 || 1 || <ref>"Earlier in 1849 he had married Therese Knappe, the daughter of a landowner, on 12 April. They had eleven children of whom seven reached adulthood." https://mathshistory.st-andrews.ac.uk/Biographies/Grassmann/</ref><ref>"Grassmann had eleven children, seven of whom reached adulthood." https://en.wikipedia.org/wiki/Hermann_Grassmann</ref>
