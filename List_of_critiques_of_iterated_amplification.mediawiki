@@ -1,3 +1,5 @@
+This is a '''list of critiques of [[iterated amplification]]'''.
+
 "critique" in the sense of "specific objection" not "piece of writing containing multiple objections"
 
 places to look:
@@ -12,6 +14,8 @@ places to look:
 ! Critique !! Links making this critique !! Paul's response !! Resolution status
 |-
 |}
+
+I think today I would be more interested in just having the core 1 or 2 points highlighted, rather than trying to make an exhaustive list of all of them.
 
 [[Category:AI safety]]
 [[Category:Iterated amplification]]
