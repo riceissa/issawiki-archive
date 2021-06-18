@@ -4,6 +4,8 @@ This pages lists some questions I had when first starting out with [[incremental
 
 ==Questions about how to do something in SuperMemo==
 
+===Should I worry about Postpone and Auto-postpone?===
+
 ==See also==
 
 * [[SuperMemo shortcuts]]
