@@ -1,0 +1,7 @@
+I was recently reading https://math.stackexchange.com/a/498790/35525 and it reminded me that explanations using only words (no pictures, no video, no interactivity, no animations, no spaced repetition, no multiple choice questions) are already great, if you know how to write them! I think we as a civilization still do not know how to write word explanations, and when we are in this state, no matter how many gimmicks we tack on we will never be able to produce a great explanation. If your explanation does not stand on its own as words, then it sucks.
+
+==See also==
+
+* [[Potpourri hypothesis for math education]]
+
+[[Category:Learning]]
