@@ -6,6 +6,8 @@ This pages lists some questions I had when first starting out with [[incremental
 
 ===Should I worry about Postpone and Auto-postpone?===
 
+===Is there a way to search just in metadata fields like title and author?===
+
 ==See also==
 
 * [[SuperMemo shortcuts]]
