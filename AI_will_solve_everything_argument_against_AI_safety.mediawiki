@@ -8,4 +8,8 @@ Jaan Tallinn [https://manifoldlearning.com/episode-042/]:
 
 <p>So in that sense, if you’d actually do the EV calculation, depending on what your parameters are, you might end up in a situation where it’s just worth taking the risk of killing everyone. Which, I don’t believe that that argument is true, but I certainly wouldn’t give like zero percent to that being true.</p></blockquote>
 
+==See also==
+
+* [[List of arguments against working on AI safety]]
+
 [[Category:AI safety]]
