@@ -1,0 +1,1 @@
+#redirect [[Add all permutations of a card to prevent pattern-matching]]
