@@ -25,6 +25,7 @@ Things I use much more rarely:
 * Ctrl-Space -- priorities view for spreading; click on subset you want to spread first
 * Ctrl-Shift-h -- see how many times I have reviewed this item and the review history. The bottom-most row is created at import time, so the actual number of reviews is one less than the number of rows.
 * Ctrl-f -- search across the text of all articles you have imported so far
+* Alt-shift-a -- ('Use' tab at top, then 'Priority protection' tab at bottom) -- allows you to see how much of your outstanding items/topics you have done (it shows you the lowest priority you got done, so that you know you didn't get to any items with lower priority)
 
 ==See also==
 
