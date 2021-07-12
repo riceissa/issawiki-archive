@@ -1,0 +1,7 @@
+[[Word explanations are already great]], but they are extremely rare and seem to require a very skilled explainer, and may only be possible for some topics. How can we (as a civilization) improve on more systematically/consistently writing great word explanations? This means:
+
+* We want to get better at teaching people to write great explanations; we want to turn it into a science such that anyone (above some minimal level of competence) can reliably learn to do it.
+* We want to learn to do it for a greater variety of topics. I have a feeling that we really only know how to explain things that are mathematically/symbolically simple, and where we don't have to cover too many of the prerequisites at once.
+* We want to learn how to do it faster/more efficiently.
+
+[[Category:Learning]]
