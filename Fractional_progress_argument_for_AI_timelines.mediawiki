@@ -4,5 +4,7 @@ The '''fractional progress argument for AI timelines''' or the '''extrapolation 
 
 "How capable are the best AI systems today compared to AGI? At the current rate of progress, how long will it be before we develop AGI?" https://www.openphilanthropy.org/blog/report-semi-informative-priors
 
+[[MTAIR project]] also uses (as one of its many estimation methods) trends for rate of automation (with the cutoff that at 100% automation we will have AGI).
+
 [[Category:AI safety]]
 [[Category:AI timelines arguments]]
