@@ -1,6 +1,6 @@
 Here are some shortcuts for [[SuperMemo]]. Most of them were introduced to me by Raj on our first tutorial call.
 
-Things I use all the time (almost every time in each study session):
+Things I use in almost every study session:
 
 * Alt-x -- extract the highlighted text
 * Alt-p -- modify priority. For priority, use 33 for highly applicable, 66 for interesting but not necessarily immediately applicable, and 88 for probably kinda useless but might be worth exploring later
