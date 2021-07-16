@@ -4,4 +4,8 @@
 * We want to learn to do it for a greater variety of topics. I have a feeling that we really only know how to explain things that are mathematically/symbolically simple, and where we don't have to cover too many of the prerequisites at once.
 * We want to learn how to do it faster/more efficiently.
 
+==See also==
+
+* [[Explanation science]]
+
 [[Category:Learning]]
