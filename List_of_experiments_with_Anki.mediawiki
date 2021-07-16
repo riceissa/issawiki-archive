@@ -15,7 +15,7 @@ On this page, I want to keep a list of experiments that I have tried or am curre
 |-
 | [[Permutation trick]] || ||
 |-
-| Full proof cards || The front side is a theorem statement or exercise description, and the back side is the full proof or exercise solution. ||
+| Full [[proof card]]s || The front side is a theorem statement or exercise description, and the back side is the full proof or exercise solution. ||
 |-
 | [[Incremental reading in Anki|Poor man's incremental reading]] || ||
 |-
