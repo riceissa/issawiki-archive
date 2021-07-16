@@ -2,6 +2,7 @@
 * Anticipates common misinterpretations/misconceptions and counters them
 * Considers all or many permutations of ideas (see [[permutation trick]] for a similar idea)
 * Alternates between concrete and abstract
+* Actually gives a precise/technical/gears-level/mechanistic model for the reader to tinker with
 
 ==See also==
 
