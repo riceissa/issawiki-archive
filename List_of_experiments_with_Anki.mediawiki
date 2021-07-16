@@ -3,7 +3,7 @@ On this page, I want to keep a list of experiments that I have tried or am curre
 {| class="sortable wikitable"
 ! Name !! Description !! Result
 |-
-| Writing down answers on a piece of paper || ||
+| Writing down answers on a piece of paper || For certain cards like kanji or math formulas, write down the answer on a piece of paper and then compare with the back side, rather than mentally trying to diff what you thought with what's on the back side. || I like doing this and continue to do it. It allows your cards to be slightly [[Big card|bigger]] than would be otherwise, which I think is a good thing. If I don't have a piece of paper, I can always bury the card.
 |-
 | circling things on paper to flag things that need to be fixed || [https://github.com/riceissa/issarice.com/blob/master/drafts/spaced-repetition.md#flagging-things-to-fix-during-review] || 
 |-
