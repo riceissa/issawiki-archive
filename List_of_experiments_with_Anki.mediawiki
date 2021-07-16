@@ -9,7 +9,7 @@ On this page, I want to keep a list of experiments that I have tried or am curre
 |-
 | Linked list to remember lists (e.g. [[linked list proof card]]) || e.g. to memorize A, B, C, you have the cards (blank)->A, A->B, then B->C, and maybe also a card that asks the length of the list. ||
 |-
-| Cumulative prompts to remember lists || e.g. to memorize A, B, C, you have the cards (blank)->A, A->B, (A,B)->C.
+| Cumulative prompts to remember lists || e.g. to memorize A, B, C, you have the cards (blank)->A, A->B, (A,B)->C. || I didn't end up liking this style of card for proofs in math, but I know some people who do it extensively (e.g. [[Paul Raymond-Robichaud]]).
 |-
 | [[Central node trick for remembering equivalent properties]] ||
 |-
