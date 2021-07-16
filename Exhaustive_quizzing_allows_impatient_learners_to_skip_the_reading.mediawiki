@@ -1,0 +1,8 @@
+A strong enough exhaustive quizzing system (e.g. Anki-like prompts that exhaustively cover the material) allows learning to be flip-flopped so that you try to answer questions ''first'', then if you can't, you go back to reading the material; whereas something like [[Quantum Country]]/[[Orbit]] requires the text to be presented first or at all, because the questions don't contain all the info, so a reader will be scared that they might have missed something, even if they could answer all the prompts. This allows for quick checks that can be performed so that you don't waste time trying to read things you already understand.
+
+The big question to me is: how do you make the quizzing both exhaustive and time-efficient? If you literally just convert each piece of info into a quiz question, then answering will take even longer than reading! So quizzing must somehow "summarize" the info in the reading while at the same time being exhaustive.
+
+One idea is instead of ''exhaustive'' quizzing, you try to do some sort of clever "binary search" like thing where you try to determine the expertise level of the learner, and adjust the difficulty level of the questions/reading based on answers. But that seems very difficult to implement.
+
+[[Category:Learning]]
+[[Category:Spaced repetition]]
