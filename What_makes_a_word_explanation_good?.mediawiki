@@ -1,7 +1,7 @@
 * Establishes the prerequisites/background the reader needs, and then builds on that background
 * Simulates the reader's inexperienced state of mind
 ** Anticipates common misinterpretations/misconceptions and counters them
-** Does not assume infinite working memory
+** Does not assume infinite working memory (what goes wrong when this is violated: [[Unbounded working memory assumption in explanations]])
 * Considers all or many permutations of ideas (see [[permutation trick]] for a similar idea)
 * Alternates between concrete and abstract
 * Actually gives a precise/technical/gears-level/mechanistic model for the reader to tinker with
