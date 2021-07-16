@@ -2,6 +2,8 @@ I think there's a somewhat popular meme in some [[rationalist]] circles that goe
 
 I think the two parts of this meme are important, but I think on their own they are not enough, so I feel like extending this to include more things like exercises, [[spaced repetition]], [[asynchronous support]], etc.
 
+Returning to this almost a year later, I'm not entirely sure what I was thinking. I think even just posting poorly-written ideas is sufficient to make intellectual progress (as long as the ideas are good). That's what we had for most of human history. I guess it would be nice if making intellectual progress was also really fun and efficient and not frustrating, and that's where the other stuff comes in. But how do we trade off between just pushing forward vs explaining things more clearly and providing support?
+
 [[Category:Spaced repetition]]
 [[Category:Intellectual progress]]
 [[Category:Claim]]
