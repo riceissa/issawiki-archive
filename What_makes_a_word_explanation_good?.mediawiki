@@ -9,6 +9,7 @@
 * Alternates between concrete and abstract
 * Actually gives a precise/technical/gears-level/mechanistic model for the reader to tinker with
 * Each time you use a phrase, make sure the reader knows what the phrase means (this often turns into a problem when you use a vague phrase that could mean many things, or you use some really abstract-sounding phrase where the reader has no idea which concrete things it connects to; it's similar to vaguebooking)
+* When introducing parameters and variables, consider extreme values
 * Structured as [[discovery fiction]]
 ** Opens with the motivation for studying the topic, the "so what"
 ** Gives motivation for steps throughout
