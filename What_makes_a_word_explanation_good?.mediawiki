@@ -1,5 +1,6 @@
 * Establishes the prerequisites/background the reader needs, and then builds on that background
 * Anticipates common misinterpretations/misconceptions and counters them
+* Considers all or many permutations of ideas (see [[permutation trick]] for a similar idea)
 
 ==See also==
 
