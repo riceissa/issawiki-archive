@@ -7,7 +7,10 @@
 * Considers all or many permutations of ideas (see [[permutation trick]] for a similar idea)
 * Alternates between concrete and abstract
 * Actually gives a precise/technical/gears-level/mechanistic model for the reader to tinker with
-* Opens with the motivation for studying the topic, the "so what"; gives motivation for steps throughout
+* Structured as [[discovery fiction]]
+** Opens with the motivation for studying the topic, the "so what"
+** Gives motivation for steps throughout
+** Mentions obvious but failed approaches to the topic
 
 ==See also==
 
