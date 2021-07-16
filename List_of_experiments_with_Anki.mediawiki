@@ -42,6 +42,7 @@ On this page, I want to keep a list of experiments that I have tried or am curre
 
 * [[Iteration cadence for spaced repetition experiments]]
 * [[Spaced repetition allows graceful deprecation of experiments]]
+* [[Anki deck philosophy]]
 
 [[Category:Spaced repetition]]
 [[Category:Anki]]
