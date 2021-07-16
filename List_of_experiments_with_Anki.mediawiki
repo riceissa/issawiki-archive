@@ -31,7 +31,7 @@ On this page, I want to keep a list of experiments that I have tried or am curre
 |-
 | mixing in reviews during the day rather than doing all reviews at night || || still haven't really tried this; I do my reviews before going to sleep
 |-
-| entering in cards for some definitions/theorems in a single card, and for some as multiple cards, and seeing which are more fun to review/result in remembering things better || ||
+| entering in cards for some definitions/theorems in a single card, and for some as multiple cards, and seeing which are more fun to review/result in remembering things better || || i now think it's best to have both; the holistic ones can go in the proofs deck with other [[big card]]s while the smaller cards can be kept in normal decks
 |-
 | [[One-sentence summary card]] ||
 |-
