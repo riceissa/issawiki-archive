@@ -17,5 +17,9 @@ Another thing I've noticed, which is related to the above, is that I often have 
 * [[Spaced proof review]]
 * [[List of techniques for making small cards]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
 [[Category:Anki]]
