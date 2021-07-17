@@ -4,5 +4,9 @@ It would be cool if there was a survey done to mathematicians, where we could te
 
 something i'm interested in: how to decide how deeply to understand a piece of math. if i'm learning something, how can i better decide whether to ankify or which parts to? this is inevitably a personal question that depends on what your objectives are, but i'd be interested in some "mainline" responses, like, if i'm trying to become a math researcher, how well should i understand analysis/linear algebra/etc? this is a question many people would ask, i think.
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Learning]]
 [[Category:Claim]]
