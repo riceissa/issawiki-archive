@@ -7,4 +7,8 @@ Related pages:
 * [[Existing implementations of card sharing have nontrivial overhead]]
 * [[Booster card]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Spaced repetition]]
