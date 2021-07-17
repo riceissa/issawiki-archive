@@ -2,4 +2,8 @@
 
 [[What would a vow of silence look like for math?]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Learning]]
