@@ -2,4 +2,8 @@ For [[spaced inbox]] and [[incremental reading]], dual ratings (in contrast the 
 
 There's a similar thing when [[incremental reading]] on [[SuperMemo]], where you can make an extract because you don't quite understand it and want to pay more attention to it later vs when you make an extract because you think it's an actually good point (and you understand it).
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
