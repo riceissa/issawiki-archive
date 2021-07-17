@@ -14,7 +14,7 @@ In language learning at least, this seems to happen: matt vs japan youtube chann
 
 ==What links here==
 
-{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
 
 [[Category:Spaced repetition]]
 [[Category:Question]]
