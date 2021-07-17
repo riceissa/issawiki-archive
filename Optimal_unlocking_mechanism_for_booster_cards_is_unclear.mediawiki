@@ -8,5 +8,9 @@ actually there's two axes here: how the unlocking is paced, and whether you go o
 
 With [[Tao Analysis Flashcards]] I am aiming to do content-based unlocking because there is no other way to incorporate booster cards in [[Orbit]].
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Spaced repetition]]
 [[Category:Claim]]
