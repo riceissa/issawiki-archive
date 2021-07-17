@@ -4,5 +4,9 @@ A similar point was made by [[Andy Matuschak]] about [[Quantum Country]] cards: 
 
 * [[Anki deck options]] -- for more thoughts on scheduling
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Spaced repetition]]
 [[Category:Claim]]
