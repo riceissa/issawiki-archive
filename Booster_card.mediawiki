@@ -8,4 +8,8 @@ Booster cards can also work nicely when a piece of knowledge has multiple prereq
 
 [[Should booster cards be marked as new?]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Spaced repetition]]
