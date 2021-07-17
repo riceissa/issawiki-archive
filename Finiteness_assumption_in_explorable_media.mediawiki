@@ -15,4 +15,8 @@ The tricky thing about math is that you regularly have to deal with infinity, i.
 * [[Probability and statistics as fields with an exploratory medium]]
 * [[Representing impossibilities]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Learning]]
