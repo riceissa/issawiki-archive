@@ -6,4 +6,8 @@ Pages that link out to more pages:
 * [[Spaced proof review]]
 * [[Spaced writing inbox]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Spaced repetition]]
