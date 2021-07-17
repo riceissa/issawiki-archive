@@ -19,4 +19,8 @@ Each day:
 
 * [[Deck options for proof cards]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
