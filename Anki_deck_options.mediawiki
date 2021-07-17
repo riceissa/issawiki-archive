@@ -5,4 +5,8 @@ For the first year or so of using [[Anki]] (after returning to it after a severa
 * [[Incremental reading in Anki#My deck options]]
 * [[Cards created by oneself can be scheduled more aggressively]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
