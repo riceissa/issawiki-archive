@@ -7,4 +7,8 @@ This is analogous to the distinction between traditional programming and machine
 * [[Spaced everything]]
 * [[Spaced writing inbox]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
