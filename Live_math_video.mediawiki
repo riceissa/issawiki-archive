@@ -4,4 +4,8 @@ I wrote about this here: https://learning.subwiki.org/wiki/Live_math_video
 
 * [[Duolingo for math]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Learning]]
