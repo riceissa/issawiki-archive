@@ -9,4 +9,8 @@ I've considered playing The Witness, but for now I've decided not to for two mai
 
 * [[The Secret of Psalm 46]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Learning]]
