@@ -1,3 +1,7 @@
 The '''inter-personal comparison test''' is a test of [[people watching]] skill. The test asks: given two people who are superficially similar but in fact very different in quality, can someone reliably tell them apart and pick out the higher quality person?
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:People watching]]
