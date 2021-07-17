@@ -14,4 +14,8 @@ One idea is to use [[dual ratings for spaced inbox]].
 
 <references/>
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
