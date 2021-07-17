@@ -43,4 +43,8 @@ thought about henkin proof: i entered in some cards related to it a long time ag
 ** Cloze deletion for proofs
 ** Adding lots of simple front-back cards, as described by [[Michael Nielsen]] http://cognitivemedium.com/srs-mathematics
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
