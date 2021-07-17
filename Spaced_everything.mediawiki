@@ -5,4 +5,8 @@ https://raw.githubusercontent.com/riceissa/issarice.com/master/drafts/spaced-rep
 * [[Spaced repetition world]]
 * [[Using spaced repetition to improve public discourse]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
