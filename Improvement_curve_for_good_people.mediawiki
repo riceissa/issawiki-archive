@@ -15,4 +15,8 @@ I should more systematically look through examples to see the output/improvement
 
 <references/>
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:People watching]]
