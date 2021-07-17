@@ -25,4 +25,8 @@ With [[Tao Analysis Flashcards]], I can try to phrase things such that people re
 
 * [[Tutoring heuristic for prompt writing]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Spaced repetition]]
