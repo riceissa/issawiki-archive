@@ -18,4 +18,8 @@ A '''spaced writing inbox''' is a [[writing inbox]] that has [[spaced repetition
 
 <references/>
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
