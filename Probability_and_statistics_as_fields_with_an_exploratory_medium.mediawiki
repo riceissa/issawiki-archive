@@ -10,4 +10,8 @@ I think graphing calculators/plotting software are kind of a step in this direct
 
 <references group=notes/>
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Learning]]
