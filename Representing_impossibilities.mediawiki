@@ -6,4 +6,8 @@ if you want to do a proof by contradiction, you somehow have to visually represe
 
 * [[Finiteness assumption in explorable media]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Learning]]
