@@ -14,4 +14,8 @@ Some observations:
 * [http://qrostar.skr.jp/en/jelly/ Official webpage]
 * https://joelthefox.github.io/2018-11-07-Jelly-no-Puzzle/ -- this blog post talks about the Android version, bonus levels that were removed, and some similar puzzles
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Learning]]
