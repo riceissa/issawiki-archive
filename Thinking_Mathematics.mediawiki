@@ -9,4 +9,8 @@ actually, is there a Thinking Mathematics? (maybe AOPS books are it?) it feels l
 * [[Duolingo for math]]
 * [[Braid for math]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Learning]]
