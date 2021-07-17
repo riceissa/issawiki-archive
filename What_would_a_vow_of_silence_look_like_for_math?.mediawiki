@@ -2,5 +2,9 @@ What would a "[[vow of silence]]" look like for math? Maybe we can't take the vo
 
 A math game could have a similar thing where everything is just mechanics that get built up slowly, and nothing is defined/labeled for you.
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Learning]]
 [[Category:Question]]
