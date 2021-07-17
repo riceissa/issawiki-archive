@@ -7,4 +7,8 @@ I think this page (which is written by me, admittedly) is a really good example 
 * [[We still don't know how to systematically write great word explanations]]
 * [[Word explanations are already great]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Learning]]
