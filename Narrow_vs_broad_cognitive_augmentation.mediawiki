@@ -11,4 +11,8 @@ A narrow augmentation is more satisfying to use, but inventing it still takes a 
 
 * [[Explorable explanation]] -- explorable explanations mainly focus on the narrow kind of augmentation
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Learning]]
