@@ -10,4 +10,8 @@
 * [[Large graduating interval as substitute for putting effort into making atomic cards]]
 * [[Equivalence classes of prompts]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Spaced repetition]]
