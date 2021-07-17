@@ -12,4 +12,8 @@ one thought is that language learning is special because the human brain has spe
 * [[Thinking Mathematics]]
 * [[Live math video]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Spaced repetition]]
