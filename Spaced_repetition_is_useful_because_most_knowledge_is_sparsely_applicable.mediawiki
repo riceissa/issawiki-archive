@@ -6,5 +6,9 @@ This is related to [[Andy Matuschak]]'s (or gwern's?) point that spaced repetiti
 
 * [[Can spaced repetition interfere with internal sense of relevance?]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Spaced repetition]]
 [[Category:Claim]]
