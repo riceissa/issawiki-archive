@@ -5,4 +5,8 @@
 * [[Braid for math]]
 * [[Duolingo for math]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Learning]]
