@@ -6,5 +6,9 @@ This problem arises because [[prompts made for others can violate the rule to le
 
 * [[Card sharing]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Spaced repetition]]
 [[Category:Claim]]
