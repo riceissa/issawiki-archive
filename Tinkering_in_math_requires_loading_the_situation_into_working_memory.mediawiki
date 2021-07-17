@@ -11,5 +11,9 @@ One problem with "[[Duolingo for math]]" is that in math, if you want to think a
 * [[Duolingo for math]]
 * [[Braid for math]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Learning]]
 [[Category:Claim]]
