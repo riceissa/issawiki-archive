@@ -13,4 +13,8 @@ Looking at instructive concrete examples may be one way to bring a "Braidness" i
 * [[Duolingo for math]]
 * [[Thinking Mathematics]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Learning]]
