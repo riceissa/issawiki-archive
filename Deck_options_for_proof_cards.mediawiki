@@ -42,4 +42,8 @@ Something I might do in the future is to make multiple deck options, because for
 * [[Anki deck options]]
 * [[Spaced proof review routine]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
