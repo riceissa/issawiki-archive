@@ -10,4 +10,8 @@
 
 * [[Unbounded working memory assumption in explanations]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Learning]]
