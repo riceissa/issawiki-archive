@@ -22,4 +22,8 @@ I think it's weird that duolingo penalizes mistakes so much (you get less XP if 
 * [[Duolingo does repetition at the lesson level]]
 * [[Duolingo for math]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Learning]]
