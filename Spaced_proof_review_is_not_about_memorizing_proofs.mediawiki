@@ -27,5 +27,9 @@ See also [[Tim Gowers]] on memorizing proofs, e.g. <ref>https://gowers.wordpress
 
 <references/>
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
 [[Category:Claim]]
