@@ -4,4 +4,8 @@ I've noticed that if you don't feel like putting a lot of effort into making goo
 
 * [[Large graduating interval as a way to prevent pattern-matching]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
