@@ -16,4 +16,8 @@ Some claims I want to make/opinions I have:
 
 * [[wikipedia:Explorable explanation]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Learning]]
