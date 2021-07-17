@@ -49,4 +49,8 @@ what is the point of all of this?
 * find recommendations that smart people make (sometimes works, but in general goodness is not transitive)
 * start with smart people you already know, and then look for people who recommend/talk about this person. e.g. as of early 2020 i think it's still a reliable indicator of ''some'' quality if someone talks about wei dai unprompted. But obviously this doesn't work for more famous people like eliezer. another example is gary drescher -- very few people seem to know him/talk about him, so it is evidence of goodness if people ''do'' talk about him.
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:People watching]]
