@@ -4,6 +4,7 @@
 ** Anticipates common questions the reader has
 ** Does not assume infinite working memory (what goes wrong when this is violated: [[Unbounded working memory assumption in explanations]])
 ** When different words/terms/phrases are used to point to the same idea, this is explicitly pointed out (synonyms are very common even in technical fields!)
+** Points out which things are not important to worry about as a beginner, to focus the learner's attention
 ** When the same word/term/phrase is used to refer to different ideas, this is pointed out (this is also very common even in technical fields!)
 ** When defining things, give [https://learning.subwiki.org/wiki/Examples_in_mathematics all four kinds of examples]
 * Considers all or many permutations of ideas (see [[permutation trick]] for a similar idea) -- actually it's more like sometimes when people write, they will implicitly establish a "table" with columns for attributes and rows for examples, and then they will fill in some of the cells but not others; example where this doesn't happen: https://github.com/riceissa/project-ideas/issues/18
