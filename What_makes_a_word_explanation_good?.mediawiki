@@ -20,7 +20,7 @@
 ** Doesn't just give the crucial insight, but also the general heuristic one would use to discover such insights
 ** Mentions obvious but failed approaches to the topic/things that don't work
 * Prompting techniques
-** Gently invites the reader to think about things on their own first before reading the solution. But this needs to be done carefully, so as to enhance the reader's interest, rather than as a way to intimidate them.
+** Gently invites the reader to think about things on their own first before reading the solution. But this needs to be done carefully, so as to enhance the reader's interest, rather than as a way to intimidate them. For more, see [[Managing micro-movements in learning]].
 
 ==See also==
 
