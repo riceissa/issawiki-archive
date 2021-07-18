@@ -5,4 +5,8 @@ A big difference between '''physical and digital clutter''' is that the latter d
 * [[Spaced repetition as soft alarm clock]]
 * [[Spaced repetition and cleaning one's room]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
