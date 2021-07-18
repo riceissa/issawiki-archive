@@ -4,4 +4,8 @@ When reviewing in my [[spaced writing inbox]], sometimes i am like, "oh i would 
 
 * [[Snoozing epicycle]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
