@@ -2,7 +2,7 @@ This is a '''list of people who have thought a lot about spaced repetition'''.
 
 * [[Michael Nielsen]]
 * [[Andy Matuschak]]
-* [[hnous]]
+* [[hnous927]]
 * [[Soren Bjornstad]]
 * [[Piotr Wozniak]]
 
