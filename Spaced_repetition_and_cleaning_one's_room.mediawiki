@@ -11,4 +11,8 @@ I feel like when I make clutter in my surroundings, like the desk I am working o
 * [[Spaced repetition world]]
 * [[Spaced everything]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
