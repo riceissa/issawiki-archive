@@ -1,3 +1,7 @@
 '''hnous927''' is the author of the website [[MasterHowToLearn]].
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
