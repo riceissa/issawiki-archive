@@ -2,5 +2,9 @@ A frequent advice in the [[spaced repetition]] community is to make each card [[
 
 I think people should spend more time thinking about how to correctly Ankify knowledge like this.
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
 [[Category:Claim]]
