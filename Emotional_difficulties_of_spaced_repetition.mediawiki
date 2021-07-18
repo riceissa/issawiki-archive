@@ -13,4 +13,8 @@ A few people ([[Piotr Wozniak]]? [[Andy Matuschak]]? [[Michael Nielsen]]? [[hnou
 
 * [[Emotional difficulties of AI safety research]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
