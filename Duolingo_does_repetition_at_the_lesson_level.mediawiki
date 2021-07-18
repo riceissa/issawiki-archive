@@ -2,5 +2,9 @@ One thing I am confused about is that [[Duolingo]] does (spaced?) repetition at 
 
 It might be a way to combat some of the [[emotional difficulties of spaced repetition]], like [[Spaced repetition constantly reminds one of inadequacies]] and [[Spaced repetition systems remind you when you are beginning to forget something]].
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
 [[Category:Claim]]
