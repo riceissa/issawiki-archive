@@ -6,4 +6,8 @@ A similar thing thing happens when a blog post first appears in a place like [[L
 
 * [[Snoozing epicycle]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
