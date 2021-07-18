@@ -21,6 +21,11 @@
 
 * [[Explanation science]]
 
+==External links==
+
+* https://issarice.com/math-explanations
+* https://machinelearning.subwiki.org/wiki/User:IssaRice/Mental_representations_in_mathematics
+
 ==What links here==
 
 {{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
