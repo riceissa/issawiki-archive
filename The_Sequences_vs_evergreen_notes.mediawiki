@@ -10,4 +10,8 @@ Some big differences are:
 * Evergreen notes are constantly revised, whereas the Sequences were written down so as to externalize a coherent worldview that Eliezer already held.
 * Evergreen notes pages tend to be much smaller than a typical post from the Sequences.
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Learning]]
