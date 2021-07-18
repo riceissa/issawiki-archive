@@ -1,3 +1,7 @@
 '''Soren Bjornstad''' has a blog that covers [[spaced repetition]] extensively.
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
