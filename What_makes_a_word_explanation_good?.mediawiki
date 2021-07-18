@@ -8,6 +8,7 @@
 ** When the same word/term/phrase is used to refer to different ideas, this is pointed out (this is also very common even in technical fields!)
 ** When defining things, give [https://learning.subwiki.org/wiki/Examples_in_mathematics all four kinds of examples]
 ** Combat interference: when similar-seeming concepts are introduced in succession, pause to say whether or not they are the same
+** Warn reader about concepts that may become obsolete because they will be improved later on
 * Considers all or many permutations of ideas (see [[permutation trick]] for a similar idea) -- actually it's more like sometimes when people write, they will implicitly establish a "table" with columns for attributes and rows for examples, and then they will fill in some of the cells but not others; example where this doesn't happen: https://github.com/riceissa/project-ideas/issues/18
 * Alternates between concrete and abstract
 * Actually gives a precise/technical/gears-level/mechanistic model for the reader to tinker with
