@@ -11,4 +11,8 @@ listing out only the difficulties arising from the subject matter itself, withou
 
 * [[Emotional difficulties of spaced repetition]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:AI safety meta]]
