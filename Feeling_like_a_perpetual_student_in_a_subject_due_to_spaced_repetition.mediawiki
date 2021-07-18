@@ -2,4 +2,8 @@ Spaced repetition is great, because it allows you to remember the things you stu
 
 Interestingly, [[Andy Matuschak]] highlights the opposite, a positive emotion of "someone who studies quantum computing" to mean someone who is putting in the work to master it, rather than just reading an article and forgetting it all.
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
