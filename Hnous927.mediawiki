@@ -2,6 +2,6 @@
 
 ==What links here==
 
-{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
 
 [[Category:Spaced repetition]]
