@@ -6,4 +6,8 @@ This is most useful when reviewing newly-created [[big card]]s -- there, you mig
 
 * [[Do an empty review of proof cards immediately after adding to prevent backlog]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
