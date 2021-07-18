@@ -5,4 +5,8 @@ A '''proof card''' has the statement of a mathematical theorem on the front side
 * [[Integration card]]
 * [[Big card]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
