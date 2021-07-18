@@ -6,4 +6,8 @@ This is a '''list of people who have thought a lot about spaced repetition'''.
 * [[Soren Bjornstad]]
 * [[Piotr Wozniak]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
