@@ -1,3 +1,7 @@
 * [[List of techniques for making small cards]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
