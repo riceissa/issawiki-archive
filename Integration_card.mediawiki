@@ -4,4 +4,8 @@ An '''integration card''' integrates knowledge from many [[small card]]s an test
 
 * [[Tutoring heuristic for prompt writing]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
