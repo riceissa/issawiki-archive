@@ -1,3 +1,7 @@
 '''Piotr Wozniak''' is the creator of [[SuperMemo]] and author of the [[SuperMemo Guru]] wiki.
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
