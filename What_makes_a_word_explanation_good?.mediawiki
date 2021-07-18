@@ -1,6 +1,7 @@
 * Establishes the prerequisites/background the reader needs, and then builds on that background
 * Simulates the reader's inexperienced state of mind
 ** Anticipates common misinterpretations/misconceptions and counters them
+** Anticipates common questions the reader has
 ** Does not assume infinite working memory (what goes wrong when this is violated: [[Unbounded working memory assumption in explanations]])
 ** When different words/terms/phrases are used to point to the same idea, this is explicitly pointed out (synonyms are very common even in technical fields!)
 ** When the same word/term/phrase is used to refer to different ideas, this is pointed out (this is also very common even in technical fields!)
