@@ -6,4 +6,8 @@ The way to make this more interesting is to imagine that I had an item in my inb
 
 * [[Mapping mental motions to parts of a spaced repetition algorithm]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
