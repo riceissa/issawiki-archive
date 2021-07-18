@@ -19,6 +19,10 @@ Here are some more concrete ideas:
 
 <references/>
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:AI safety meta]]
 [[Category:RAISE]]
 [[Category:Claim]]
