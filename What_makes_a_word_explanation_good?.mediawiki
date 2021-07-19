@@ -13,6 +13,7 @@ I am focusing on [[word explanation]]s here, so ignoring things like spaced repe
 ** Warn reader about concepts that may become obsolete because they will be improved later on
 * Considers all or many permutations of ideas (see [[permutation trick]] for a similar idea) -- actually it's more like sometimes when people write, they will implicitly establish a "table" with columns for attributes and rows for examples, and then they will fill in some of the cells but not others; example where this doesn't happen: https://github.com/riceissa/project-ideas/issues/18
 * Alternates between concrete and abstract
+** Gives lots of examples throughout
 * Actually gives a precise/technical/gears-level/mechanistic model for the reader to tinker with
 * Each time you use a phrase, make sure the reader knows what the phrase means (this often turns into a problem when you use a vague phrase that could mean many things, or you use some really abstract-sounding phrase where the reader has no idea which concrete things it connects to; it's similar to vaguebooking)
 * When introducing parameters and variables, consider extreme values
