@@ -1,3 +1,5 @@
+I am focusing on [[word explanation]]s here, so ignoring things like spaced repetition prompts, visuals, etc.
+
 * Establishes the prerequisites/background the reader needs, and then builds on that background
 * Simulates the reader's inexperienced state of mind
 ** Anticipates common misinterpretations/misconceptions and counters them
