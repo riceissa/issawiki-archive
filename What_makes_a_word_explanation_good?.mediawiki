@@ -38,6 +38,6 @@ I am focusing on [[word explanation]]s here, so ignoring things like spaced repe
 
 ==What links here==
 
-{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
 
 [[Category:Learning]]
