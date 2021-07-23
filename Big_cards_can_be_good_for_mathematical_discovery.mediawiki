@@ -2,6 +2,8 @@ I had an awful card about Wang coding from studying computability theory a few y
 
 Reflecting on why I was able to discover this, it seems like it's because I had this bad big card that worked for a few years but finally "broke" due to poor memory encoding. And that gave me a chance to think about it longer. What if I had just made a bunch of small cards from the beginning? Would I have discovered this same fact? Or would I have just kept answering the same easy questions, without questioning the reason why the encoding was set up this way? It seems like the "ugh" feeling is really important here -- it finally drove me to ''do the thing''.
 
+Perhaps another instance of [[creative forgetting]].
+
 ==See also==
 
 * [[Spaced proof review as a way to invent novel proofs]]
