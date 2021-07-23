@@ -1,0 +1,13 @@
+I had an awful card about Wang coding from studying computability theory a few years ago (I was just learning how to use Anki for math back then). No surprise then that I kept burying the card because I was like "ugh, I don't like this card, and I want to catch up on my reviews anyway". Well today I sat down and finally reviewed the card. As I was trying to answer it, I got confused again whether the left or right numeral had to be reversed. This got me thinking again about ''why'' we should bother reversing one of the numerals. And lo, I figured out a really good reason that was ''not'' even given in the textbook. It looks to me now like the explanation in the textbook is some kind of made-up post-hoc explanation... written by someone who did not spend the time to actually invent the encoding!
+
+Reflecting on why I was able to discover this, it seems like it's because I had this bad big card that worked for a few years but finally "broke" due to poor memory encoding. And that gave me a chance to think about it longer. What if I had just made a bunch of small cards from the beginning? Would I have discovered this same fact? Or would I have just kept answering the same easy questions, without questioning the reason why the encoding was set up this way? It seems like the "ugh" feeling is really important here -- it finally drove me to ''do the thing''.
+
+==See also==
+
+* [[Spaced proof review as a way to invent novel proofs]]
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
+[[Category:Spaced repetition]]
