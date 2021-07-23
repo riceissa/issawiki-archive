@@ -6,6 +6,7 @@ over time, i've come to make my math anki cards much bigger than a simple query,
 
 * [[Proof card]]
 * [[Integration card]]
+* [[Big cards can be good for mathematical discovery]]
 
 ==What links here==
 
