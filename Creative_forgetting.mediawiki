@@ -15,4 +15,8 @@ Andrew Wiles quote: "I really think it's bad to have too good a memory if you wa
 
 <references/>
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
 [[Category:Spaced repetition]]
