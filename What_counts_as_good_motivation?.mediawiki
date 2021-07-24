@@ -1,0 +1,11 @@
+* It helps solve some interesting problem
+* there is some kind of inherent beauty or something fascinating about the thing
+* it explains some great mystery that you have
+
+==See also==
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
+[[Category:Learning]]
