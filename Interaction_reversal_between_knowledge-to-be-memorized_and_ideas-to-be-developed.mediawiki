@@ -10,6 +10,8 @@ Related idea: so interestingly, if you want to implement like a SRS for note tak
 
 One idea is to use [[dual ratings for spaced inbox]].
 
+also related is https://github.com/andymatuschak/orbit/issues/168
+
 ==References==
 
 <references/>
