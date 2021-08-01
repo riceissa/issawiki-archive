@@ -4,7 +4,7 @@ I also want to use this term to mean that particular method of proof review I've
 
 ==Rationale==
 
-Four steps of insights leading to my current workflow of theorem cards:
+Four steps of insights leading to my current workflow of proof cards:
 
 # it's a good idea to store [[big card]]s in the first place, rather than just smaller cards — this lets you actually test your knowledge
 # separating big cards into their own deck is a good idea, because it prevents breaking your workflow/rhythm while reviewing small cards (see also [https://twitter.com/michael_nielsen/status/1204079374888128513 this tweet])
