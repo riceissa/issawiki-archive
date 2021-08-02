@@ -8,6 +8,8 @@ This is a list of men along with their number of sons, daughters, and wives. I f
 ! data-sort-type=number | Wives
 ! Sources
 |-
+| George R. Price || 0? || 2? || 2? || 1? || <ref>"They divorced in 1955, having had two daughters, Annamarie and Kathleen." https://en.wikipedia.org/wiki/George_R._Price#Early_life</ref>
+|-
 | Alexander Grothendieck || 4 || 1 || 5 || 2? || <ref>https://en.wikipedia.org/wiki/Alexander_Grothendieck#Family</ref><ref>https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Spirituality/Spirituality21.pdf -- So it looks like Serge with the landlady Aline Driquert; Johanna, Alexander, and Mathieu with Mireille Dufour; and Hans/John with Justine Skalba.</ref>
 |-
 | Richard Borcherds || ? || ? || 2 || 1? || <ref>https://youtu.be/xu15ZbxxnUQ?t=1825</ref>
