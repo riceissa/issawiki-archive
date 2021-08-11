@@ -1,3 +1,8 @@
-aka distributor of weipills
+'''Wei Dai''' is an AI safety researcher. In the technical AI safety community he is most well-known as the inventor of [[updateless decision theory]].
+
+Some ideas most associated with Wei Dai include:
+
+* [[human safety problem]]s
+* [[meta-ethical uncertainty]], [[value uncertainty]]
 
 [[Category:AI safety]]
