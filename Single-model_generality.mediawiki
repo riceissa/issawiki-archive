@@ -1,0 +1,9 @@
+In machine learning, '''single-model generality''' is the kind of generality where literally the same model (i.e. weights in a neural network, or whatever) can be used to solve many different problems. This contrasts to [[single-architecture generality]].
+
+==See also==
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
+[[Category:AI safety]]
