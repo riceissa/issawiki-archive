@@ -5,4 +5,10 @@ Some ideas most associated with Wei Dai include:
 * [[human safety problem]]s
 * [[meta-ethical uncertainty]], [[value uncertainty]]
 
+==See also==
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
 [[Category:AI safety]]
