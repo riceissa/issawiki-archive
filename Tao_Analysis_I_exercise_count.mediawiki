@@ -1,4 +1,4 @@
-I counted the number of exercises in each section in Tao's ''Analysis I'', to figure out how long I would be blogging at https://taoanalysis.wordpress.com/ given some number of exercises per day.
+For [https://taoanalysis.wordpress.com/ Tao Analysis Solutions], I counted the number of exercises in each section in Tao's ''Analysis I'', to figure out how long I would be blogging at https://taoanalysis.wordpress.com/ given some number of exercises per day.
 
 chapters 1-11:
 
