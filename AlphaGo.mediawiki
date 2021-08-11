@@ -43,4 +43,8 @@
 
 * [[AlphaGo as evidence of discontinuous takeoff]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
 [[Category:AI safety]]
