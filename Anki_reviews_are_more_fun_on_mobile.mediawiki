@@ -6,5 +6,7 @@ The one exception to this is [[proof card]]s: these require substantially more w
 
 Update: now I'm not finding it as fun, and having the mobile app around has not helped me clear through a backlog of cards. So maybe it was just a novelty effect.
 
+Update 2: I think part of the reason is that AnkiDroid got slower and this lag is actually annoying enough that it makes reviews less fun.
+
 [[Category:Spaced repetition]]
 [[Category:Claim]]
