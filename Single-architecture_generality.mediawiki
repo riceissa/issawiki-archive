@@ -1,0 +1,9 @@
+In machine learning, '''single-architecture generality''' (is there a standard term for this?) is the kind of generality where the same basic architecture can be trained separately to solve many different problems. So the training procedure and architecture are the same, even though the actual models/floating point numbers in weights are different. This contrasts to [[single-model generality]].
+
+==See also==
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
+[[Category:AI safety]]
