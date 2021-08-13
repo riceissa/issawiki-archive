@@ -10,6 +10,7 @@ Some learning tricks/techniques that Duolingo uses:
 * one clever phrase i encountered was "одно окно и две двери" (one window and two doors). the number and object are phonetically similar, and it seems like they are doing this to combat interference. once you learn that window is "okno", then you later learn the one is "odno", you might start confusing window and one, but by presenting them together in the same phrase, you are forced to distinguish the two, and it might even highlight for you that "huh, there are two words that sound very similar".
 ** another similar one was "Стол стоял около окна", which means "The table was standing near the window".
 * on problems where I need a phrase like "grandmother and grandfather", there are sometimes two endings, like -a and -u. i've noticed that duolingo actually does the -a and -u endings on ''both'' the grandmother word and grandfather word, so that you can't just guess the answer by selecting the ending that appears twice.
+* something i like about the reminder emails is that they get sent around the time you did your lessons on the previous day. so it automatically figures out your routine and tries to fit in with it.
 
 Above, I am not including "gamification"/achievements stuff that Duolingo does (e.g. badges, scores, leader board). I think these are dumb and I don't think I benefit from them (other than the streaks counter, which does motivate me to never miss a day).
 
