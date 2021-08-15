@@ -1,3 +1,7 @@
 There's [https://learning.subwiki.org/wiki/Examples_first examples first] and [https://learning.subwiki.org/wiki/Define_then_discuss define then discuss], but another principle might be '''definitions last''', which I got from [https://www.youtube.com/watch?v=ojjzXyQCzso this recent video] on [[3blue1brown]].
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
 [[Category:Learning]]
