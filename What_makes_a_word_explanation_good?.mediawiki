@@ -20,7 +20,7 @@ I am focusing on [[word explanation]]s here, so ignoring things like spaced repe
 * Gives good mental representations
 ** For example, when giving a definition in math, explains how people think about it in practice
 * Structured as [[discovery fiction]]
-** Opens with the motivation for studying the topic, the "so what" -- one way to state this is, if people come to learn about a topic just because it sounds vaguely cool or because everyone else is talking about it, then when they read the motivation in your explanation, they should get ''really'' excited about the topic; the motivation you give should enhance whatever motivation the learned comes in with, rather than being a kind of "throwaway" motivation like you see in many textbooks about "how important this subject is". This raises the question of [[What counts as good motivation?]]
+** Opens with the motivation for studying the topic, the "so what" -- one way to state this is, if people come to learn about a topic just because it sounds vaguely cool or because everyone else is talking about it, then when they read the motivation in your explanation, they should get ''really'' excited about the topic; the motivation you give should enhance whatever motivation the learned comes in with, rather than being a kind of "throwaway" motivation like you see in many textbooks about "how important this subject is". This raises the question of [[What counts as good motivation?]] This is actually a problem I see even in many pedagogically-inclined math exposition.
 ** Gives motivation for steps throughout
 ** Doesn't just give the crucial insight, but also the general heuristic one would use to discover such insights
 ** Mentions obvious but failed approaches to the topic/things that don't work
