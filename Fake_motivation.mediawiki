@@ -1,0 +1,7 @@
+Something that really bugs me about math exposition is when people attempt to give a motivation and believe they've succeeded when in fact the audience isn't really motivated. But the exposition might be moving too fast for the audience to see what is really happening, so they kind of just go along with it, or just feel confused and think they must not be up for math.
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
+[[Category:Learning]]
