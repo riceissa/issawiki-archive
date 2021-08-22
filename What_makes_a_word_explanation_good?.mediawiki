@@ -36,6 +36,7 @@ I am focusing on [[word explanation]]s here, so ignoring things like spaced repe
 
 * https://issarice.com/math-explanations
 * https://machinelearning.subwiki.org/wiki/User:IssaRice/Mental_representations_in_mathematics
+* https://jvns.ca/blog/confusing-explanations/ https://news.ycombinator.com/item?id=28254630
 
 ==What links here==
 
