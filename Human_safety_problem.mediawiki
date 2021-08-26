@@ -10,7 +10,7 @@ hmm speculative table, probably a dumb idea:
 |-
 | misalignment || principal-agent problem
 |-
-| reward hacking || Goodhart's law
+| reward hacking || Goodhart's law, drug addiction
 |}
 
 ==History==
