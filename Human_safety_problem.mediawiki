@@ -1,4 +1,4 @@
-'''Human safety problem'''
+A '''human safety problem''' is a counterpart to an AI safety problem that appears in humans. For instance, [[distributional shift]] is an AI safety problem where an AI trained in one environment will behave poorly when deployed in an unfamiliar environment (for example, a cleaning robot that was trained in an office environment may behave dangerously when it is used in a factory).<ref>https://arxiv.org/pdf/1606.06565.pdf#page=3</ref> The counterpart to this is 
 
 ==History==
 
