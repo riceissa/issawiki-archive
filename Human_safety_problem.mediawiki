@@ -16,4 +16,8 @@ https://www.alignmentforum.org/posts/HBGd34LKvXM9TxvNf/new-safety-research-agend
 
 https://www.alignmentforum.org/posts/HTgakSs6JpnogD6c2/two-neglected-problems-in-human-ai-safety
 
+==References==
+
+<references/>
+
 [[Category:AI safety]]
