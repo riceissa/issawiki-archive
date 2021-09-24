@@ -3,3 +3,7 @@ Some people ("socially well-adjusted people") fit into the default/mainstream so
 ==See also==
 
 * [[List of reasons something isn't popular or successful]]
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
