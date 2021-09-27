@@ -1,3 +1,4 @@
 * https://searchmysite.net/ -- search engine for personal/independent sites
 * https://wiby.me/ -- search engine for JavaScript-free/1990s-looking sites
 * https://search.marginalia.nu/ -- another search engine for text-heavy sites
+* https://hn.algolia.com/ -- search Hacker News
