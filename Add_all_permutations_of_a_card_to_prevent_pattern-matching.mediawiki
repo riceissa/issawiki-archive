@@ -19,5 +19,9 @@ I've also been experimenting with this trick to be able to add yes/no questions 
 
 * [[List of techniques for making small cards]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
 [[Category:Spaced repetition]]
 [[Category:Command]]
