@@ -1,0 +1,8 @@
+* Website: https://riceissa.github.io/tao-analysis-flashcards/
+* Announcement blog post: https://taoanalysis.wordpress.com/2021/07/31/announcing-tao-analysis-flashcards/
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
+[[Category:Spaced repetition]]
