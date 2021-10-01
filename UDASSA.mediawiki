@@ -58,6 +58,12 @@ UDASSA says that as long as we can "extract" the mind easily (i.e. using a short
 
 what does udassa say about a giant lookup table? Well, a giant lookup table is still a valid OM right? I don't see why we should disqualify it somehow. The problem is that maybe a giant lookup table has huge storage requirements, so that specifying its coordinates in space and time might cost more bits somehow?
 
+----
+
+so i actually think "ASSA" is incorrectly named? ASSA is doing the observer-moments version of SIA, so i think it should be called SSIA (in analogy with bostrom's SSSA) or renamed to ASIA.
+
+sleeping beauty already deals with observer moments, but we could make it more obvious by making the beauty live for two seconds in the tails world vs one second in the heads world, and that she has no short term/working memory so she doesn't know in the second second of the tails world that she has existed for one second already. then i think "ASSA" would act like SIA in sleeping beauty, rather than like SSA.
+
 ==Comparison to UDT==
 
 Does UDASSA give any different decisions from UDT? i think one example might be https://riceissa.github.io/everything-list-1998-2009/14037.html where UDT seems to give the intuitively-correct answer, but UDASSA doesn't.
