@@ -2,6 +2,8 @@ One thing I don't like about blog posts is that if you come across one that was 
 
 I'm interested in a system like, various people stake some piece of knowledge and commit to answering questions about it when people ask questions. I'd like to do something like this with [[Tao Analysis Solutions]], but it's hard to support even a single book (unless I've written all the solutions already).
 
+See also [https://www.greaterwrong.com/posts/DJk86FE29ad4vr5e9/riceissa-s-shortform/comment/W49udPvKRZB4B3snR my shortform post about Discord servers].
+
 ==See also==
 
 * [[There is room for something like RAISE]] -- see the tutoring network idea
