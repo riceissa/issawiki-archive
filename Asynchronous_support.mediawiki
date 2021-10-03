@@ -8,4 +8,8 @@ See also [https://www.greaterwrong.com/posts/DJk86FE29ad4vr5e9/riceissa-s-shortf
 
 * [[There is room for something like RAISE]] -- see the tutoring network idea
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
 [[Category:Intellectual progress]]
