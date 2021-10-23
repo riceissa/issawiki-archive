@@ -31,6 +31,12 @@ Unlike many products, one cannot just order any credit card and receive one. Ins
 
 One of my confusions was that credit card recommendation sites ([https://www.nerdwallet.com/best/credit-cards/no-foreign-transaction-fee example]) list credit score ranges that are good for each card (i.e. where you have a good chance of being accepted), but that I didn't even know my credit score or if I even had one. And the only way to find out for sure my credit score seems to be to get a credit card. From reading a bunch of threads on r/personalfinance it seemed like I should get an "easy" credit card for now, and then later switch to a better card once my credit score was higher.
 
+There are also pre-approval tools like [https://www.discovercard.com/application/prequal these] [https://www.capitalone.com/credit-cards/prequalify two] which can give you some indication of your credit score.
+
+And then there are tools like creditwise and credit karma that seem to give some estimate.
+
+I'm honestly not really sure how credit scores work and didn't try to investigate this deeply.
+
 ===Choosing a card===
 
 this tool was also somewhat helpful https://wallethub.com/credit-cards/no-credit-no-annual-fee-no-foreign-transaction-fee/
