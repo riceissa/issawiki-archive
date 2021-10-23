@@ -29,6 +29,14 @@ One of my confusions was that credit card recommendation sites list credit score
 
 Eventually, I found [https://www.discovercard.com/application/prequal these] [https://www.capitalone.com/credit-cards/prequalify two] pre-approval tools through [https://www.reddit.com/r/personalfinance/comments/9woszr/is_there_any_downside_to_applying_for_a_credit/e9m9dun/ this comment]. These tools seemed to confirm that I indeed had no credit score. So I went for the only card that seemed to meet all my requirements, which was the Capital One Platinum card.
 
+discover it only offered a secured credit card (i.e. one where you have to deposit some amount of money as collateral), but capital one offered their boring card with no benefits (capital one platinum) so i decided to go with that
+
+the card still has no foreign transaction fees, and discover it seems to have problems being accepted in some places (especially abroad) so this seems like an ok outcome to me
+
+i was automatically approved for capital one platinum, and the card was mailed to me after several days
+
+capital one's creditwise tool says "looks like you're still building credit" instead of giving me a score, so that seems to confirm that i have no score yet
+
 ==Utilization==
 
 [[Category:Finances]]
