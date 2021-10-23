@@ -25,6 +25,14 @@ In October 2021 I did some research on getting a credit card for the first time.
 
 One of my confusions was that credit card recommendation sites list credit score ranges that are good for each card (i.e. where you have a good chance of being accepted), but that I didn't even know my credit score or if I even had one. And the only way to find out my credit score seems to be to get a credit card. From reading a bunch of threads on r/personalfinance it seemed like I should get an "easy" credit card for now, and then later switch to a better card once my credit score was higher.
 
+this tool was also somewhat helpful https://wallethub.com/credit-cards/no-credit-no-annual-fee-no-foreign-transaction-fee/
+
+the only problem is that they don't have a filter for secured vs not secured, so you have to mentally filter it out at the end
+
+but you can see how capital one platinum was identified there
+
+the only other non-secured ones on there are petal and deserve, neither of which i have heard much about on reddit/other sites
+
 ===Final choice===
 
 Eventually, I found [https://www.discovercard.com/application/prequal these] [https://www.capitalone.com/credit-cards/prequalify two] pre-approval tools through [https://www.reddit.com/r/personalfinance/comments/9woszr/is_there_any_downside_to_applying_for_a_credit/e9m9dun/ this comment]. These tools seemed to confirm that I indeed had no credit score. So I went for the only card that seemed to meet all my requirements, which was the Capital One Platinum card.
