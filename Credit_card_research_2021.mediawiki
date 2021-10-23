@@ -12,8 +12,6 @@ In October 2021, I did some research on getting a credit card for the first time
 * Some travel plans I have meant I was expecting to make more purchases, and might benefit from some more of the benefits of a credit card
 * Building a credit score might be useful in the future (though at the moment I don't have any concrete plans to borrow any money)
 
-==General credit cards info==
-
 ==Choice of credit card==
 
 ===Factors that were important to me===
@@ -45,6 +43,8 @@ i was automatically approved for capital one platinum, and the card was mailed t
 
 capital one's creditwise tool says "looks like you're still building credit" instead of giving me a score, so that seems to confirm that i have no score yet
 
-==Utilization==
+==General credit cards info==
+
+===Utilization===
 
 [[Category:Finances]]
