@@ -2,6 +2,10 @@ What would a deliberate practice for math look like? Specifically, while self-st
 
 ==Some difficulties with applying deliberate practice in this setting==
 
+https://commoncog.com/blog/the-problems-with-deliberate-practice/ search "What problems exist for practice in fields where no good training methods exist?"
+
+"ill-defined sub skills" I think applies to math. What even are the separate skills in undergraduate math? ability to read a proof? ability to solve problems? those seem too broad as categories to me. maybe there's like "ability to solve a particular kind of problem". but textbook exercises don't come tagged with specific properties, so you can't really filter on these to improve your skill in particular ways.
+
 ==Parts of the definition of deliberate practice==
 
 https://www.lesswrong.com/tag/deliberate-practice
