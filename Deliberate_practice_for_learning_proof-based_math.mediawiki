@@ -8,7 +8,7 @@ https://commoncog.com/blog/the-problems-with-deliberate-practice/ search "What p
 
 undergrad proof problems are generally too long that you can't do drills like "get at least 95% correct on these problems" -- you can't run that many trials to practice.
 
-can we break skills up using the images [https://commoncog.com/blog/the-problems-with-deliberate-practice/ here] at "Kathy Sierra’s Badass: Making Users Awesome" (see in particular the [https://commoncog.com/blog/content/images/2019/01/photo_2019-01-23_17-46-21.b7175b8dcbd641019ce3afb87d90ec5d.jpg final image])
+can we break skills up using the images [https://commoncog.com/blog/the-problems-with-deliberate-practice/ here] at "Kathy Sierra’s Badass: Making Users Awesome" (see in particular the [https://commoncog.com/blog/content/images/2019/01/photo_2019-01-23_17-46-21.b7175b8dcbd641019ce3afb87d90ec5d.jpg final image]). so in a proof problem, i guess one thing that you could do (and that is commonly done) is to make the problem easier by relaxing some of the hypotheses, or proving it in a special case. this is a kind of thing that is already done though. another way to make it easier is to peek at the solution, and then try to solve it. that's also already done.
 
 "lack of feedback" -- this one also applies when self-studying math. the only ways to get feedback are by looking up solutions or by posting to something like math SE. book/subfield-specific discord servers might finally change this, but it will be slow. This is related to [[Feynman technique fails when existing explanations are bad]] (when existing explanations are bad, you can't even use techniques like Feynman technique to generate pseudo-feedback).
 
