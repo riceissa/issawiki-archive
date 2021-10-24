@@ -8,6 +8,8 @@ https://commoncog.com/blog/the-problems-with-deliberate-practice/ search "What p
 
 undergrad proof problems are generally too long that you can't do drills like "get at least 95% correct on these problems" -- you can't run that many trials to practice.
 
+can we break skills up using the images [https://commoncog.com/blog/the-problems-with-deliberate-practice/ here] at "Kathy Sierra’s Badass: Making Users Awesome" (see in particular the [https://commoncog.com/blog/content/images/2019/01/photo_2019-01-23_17-46-21.b7175b8dcbd641019ce3afb87d90ec5d.jpg final image])
+
 "lack of feedback" -- this one also applies when self-studying math. the only ways to get feedback are by looking up solutions or by posting to something like math SE. book/subfield-specific discord servers might finally change this, but it will be slow. This is related to [[Feynman technique fails when existing explanations are bad]] (when existing explanations are bad, you can't even use techniques like Feynman technique to generate pseudo-feedback).
 
 but there are things like [[Anki]] i guess.
