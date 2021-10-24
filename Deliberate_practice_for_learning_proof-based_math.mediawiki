@@ -25,6 +25,8 @@ let's look at the requirements:
 
 ==See also==
 
+* [[Spaced proof review]]
+
 ==External links==
 
 some links (that i didn't find very helpful, but this is all that i was able to find)
