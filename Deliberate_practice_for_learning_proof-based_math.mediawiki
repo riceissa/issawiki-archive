@@ -16,6 +16,14 @@ https://www.lesswrong.com/tag/deliberate-practice
 
 ==See also==
 
+==External links==
+
+some links (that i didn't find very helpful, but this is all that i was able to find)
+
+* https://news.ycombinator.com/item?id=2515455
+* https://www.reddit.com/r/math/comments/71saol/what_does_deliberate_practice_mean_for_math/
+* https://matheducators.stackexchange.com/questions/11104/how-can-i-implement-the-principles-of-deliberate-practise-in-my-mathematical-stu
+
 ==What links here==
 
 {{Special:WhatLinksHere/{{FULLPAGENAME}}}}
