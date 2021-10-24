@@ -31,6 +31,10 @@ let's look at the requirements:
 ** "involves getting out of one's comfort zone, practicing things on the edge of one's ability": i think this one is automatically satisfied. you don't solve problems that are obvious. you're always trying to solve problems that are new, that make you curious (i think one of the things curiosity tracks well is problems that are just at the edge of your ability, that seem "fun" because they are doable).
 * "informed by an understanding of how to do well" / "the presence of a theory of skill and practice guided by that theory": i'm pretty vague on what counts as a theory. like, i'm guessing "solve lots of problems and you'll eventually get good at math" isn't a theory (yikes, that sounds like naive practice!).
 
+==Goals==
+
+part of the thing to figure out here is ''why'' one wants to "get better at math"? what's the ultimate goal here? depending on this goal, i think the kinds of practice to do will be different.
+
 ==See also==
 
 * [[Spaced proof review]]
