@@ -6,7 +6,7 @@ https://commoncog.com/blog/the-problems-with-deliberate-practice/ search "What p
 
 "ill-defined sub skills" I think applies to math. What even are the separate skills in undergraduate math? ability to read a proof? ability to solve problems? those seem too broad as categories to me. maybe there's like "ability to solve a particular kind of problem". but textbook exercises don't come tagged with specific properties, so you can't really filter on these to improve your skill in particular ways.
 
-"lack of feedback" -- this one also applies when self-studying math. the only ways to get feedback are by looking up solutions or by posting to something like math SE. book/subfield-specific discord servers might finally change this, but it will be slow.
+"lack of feedback" -- this one also applies when self-studying math. the only ways to get feedback are by looking up solutions or by posting to something like math SE. book/subfield-specific discord servers might finally change this, but it will be slow. This is related to [[Feynman technique fails when existing explanations are bad]] (when existing explanations are bad, you can't even use techniques like Feynman technique to generate pseudo-feedback).
 
 ==Parts of the definition of deliberate practice==
 
