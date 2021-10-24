@@ -12,6 +12,8 @@ undergrad proof problems are generally too long that you can't do drills like "g
 
 but there are things like [[Anki]] i guess.
 
+to some extent, as you get better at math, the better you get at generating your own feedback / using the fact that the math does or doesn't work as feedback. but that's still not the kind of feedback that deliberate practice is talking about, i think.
+
 ==Parts of the definition of deliberate practice==
 
 https://www.lesswrong.com/tag/deliberate-practice
