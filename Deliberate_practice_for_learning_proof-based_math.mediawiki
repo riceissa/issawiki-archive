@@ -53,6 +53,11 @@ one of the things that seems different about how i learn math is that when i'm d
 
 another part of the difficulty is knowing what's an "expected" level of mastery, e.g. should one be able to just hear the name of any big theorem and be able to sit down and recite the proof? or is it ok if one struggles to prove it but manages to prove it eventually after like a few hours of work (taking cues from memory and also just one's general experience in solving problems)? [[The mathematics community has no clear standards for what a mathematician should know]].
 
+some goals for me:
+
+* i want to know why some things are the way they are. for this goal, it kind of depends on what you are satisfied with as an explanation.
+* ability to recognize when some piece of math is relevant to a situation and apply it.
+
 ==See also==
 
 ==References==
