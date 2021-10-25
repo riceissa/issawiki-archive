@@ -6,6 +6,8 @@ epistemic status stuff around deliberate practice: isn't ericsson's research sus
 
 both ericsson in Peak and cedric chin [https://commoncog.com/blog/the-problems-with-deliberate-practice/] claim that math is a field particularly suited to deliberate practice. but i just don't see how?? like, all the examples i've seen in the book are from tennis, memorizing digits, music, etc.
 
+i looked through all of Peak and there was some discussion of mathematicians and their traits and stuff, but nowhere in the book did he talk about techniques for learning math or describe what kind of "deliberate practice" mathematicians do.
+
 ==Some difficulties with applying deliberate practice in this setting==
 
 https://commoncog.com/blog/the-problems-with-deliberate-practice/ search "What problems exist for practice in fields where no good training methods exist?"
