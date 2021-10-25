@@ -35,6 +35,8 @@ let's look at the requirements:
 
 part of the thing to figure out here is ''why'' one wants to "get better at math"? what's the ultimate goal here? depending on this goal, i think the kinds of practice to do will be different.
 
+unlike something like competitive chess or swimming, there isn't a single obvious goal one is trying to optimize for (although even in e.g. swimming you could optimize for goals other than getting as fast as possible). so the question has to be asked in math.
+
 ==See also==
 
 * [[Spaced proof review]]
