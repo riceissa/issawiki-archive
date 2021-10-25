@@ -1,5 +1,7 @@
 What would a deliberate practice for math look like? Specifically, while self-studying undergraduate-level and graduate-level proof-based math. (So I'm excluding earlier stages of learning math, and also excluding research work. I'm interested in the latter, but that seems like a much more difficult problem to talk about.)
 
+epistemic status stuff around deliberate practice: isn't ericsson's research suspect? why should we trust it? my answer is basically: we don't have to trust it, and it doesn't matter much whether his research is right or wrong. what matters to me is whether it's plausible enough to take seriously and try to learn something from it. and then once we apply it to our own learning, we can ask "did we get a bunch better at this skill than before using some of the ideas around deliberate practice?" In other words, we're using ericsson's research as a hypothesis to entertain, than as a conclusion or belief we maintain.
+
 ==Some difficulties with applying deliberate practice in this setting==
 
 https://commoncog.com/blog/the-problems-with-deliberate-practice/ search "What problems exist for practice in fields where no good training methods exist?"
