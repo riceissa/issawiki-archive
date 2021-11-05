@@ -9,6 +9,8 @@ A narrow augmentation is more satisfying to use, but inventing it still takes a 
 
 The kind of visualization work that [[3blue1brown]] does feels like kind of a mix. On one hand, visualization itself feels like a broad augmentation. But on the other hand, Grant has to create a separate video for each thing he wants to explain. The audience doesn't know how to animate math concepts; they are just there to consume. So it's narrow too in that sense.
 
+[[Andy Matuschak]] talks about a similar distinction in "We can develop the mnemonic medium by writing about topics with only moderate domain expertise".<ref>https://notes.andymatuschak.org/z6LEquSV2snbPHMcZ1ViRNVpVqXUP6uJRq9sB</ref> In particular see quotes like, "If you’re developing an interface that gets its power by reifying deep ideas about a medium (like Logo), you need deep expertise in that medium to reify the right ideas. Papert didn’t have that. By contrast, the mnemonic medium primarily reifies ideas about memory, theory of knowledge, habits, etc—not ideas about quantum computing."
+
 ==See also==
 
 * [[Explorable explanation]] -- explorable explanations mainly focus on the narrow kind of augmentation
