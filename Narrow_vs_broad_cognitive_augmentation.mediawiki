@@ -19,4 +19,8 @@ The kind of visualization work that [[3blue1brown]] does feels like kind of a mi
 
 {{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
 
+==References==
+
+<references/>
+
 [[Category:Learning]]
