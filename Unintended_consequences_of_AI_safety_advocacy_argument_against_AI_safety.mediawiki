@@ -4,6 +4,8 @@ I first heard this argument made by [[Michael Nielsen]], that AI safety advocacy
 
 there was also that [[Dario]] quote on Facebook.
 
+In meme form: https://www.facebook.com/ozzie.gooen/posts/10165231537695363
+
 ==See also==
 
 * [[List of arguments against working on AI safety]]
