@@ -4,6 +4,16 @@ I think the term was originally used by [[MIRI]] to mean something like an AI th
 
 Then the idea was generalized by [[Paul Christiano]] to mean something like an AI assistant that is trying to be helpful to humans.
 
+==Types of corrigibility==
+
+There are at least three kinds of corrigibility that have been articulated:
+
+* act-based
+* instrumental
+* indifference (MIRI)
+
+Also, I don't understand the difference between [[Paul]]'s corrigibility and [[intent alignment]].
+
 ==See also==
 
 * [[Corrigibility may be undesirable]]
