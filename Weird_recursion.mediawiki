@@ -1,0 +1,9 @@
+"mistrust of weird recursions" (see [[Eliezer]]'s comment on [[Paul]] agenda FAQ)
+
+==See also==
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
+[[Category:AI safety]]
