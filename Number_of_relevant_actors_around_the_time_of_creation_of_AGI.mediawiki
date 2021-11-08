@@ -1,0 +1,10 @@
+* How many groups will plausibly be "in the running" to be the first to reach AGI?
+* This number has implications for ease of coordination.
+
+==See also==
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
+[[Category:AI safety]]
