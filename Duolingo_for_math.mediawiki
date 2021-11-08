@@ -1,4 +1,4 @@
-An idea I roll around in my head from time to time, not as an idea to be taken literally (i.e. not as something to implement literally), but as a tool to generate new ideas, is trying to imagine what a '''[[Duolingo]] for math''' would look like.
+An idea I roll around in my head from time to time, not as an idea to be taken literally (i.e. not as something to implement literally), but as a tool to generate new ideas, is trying to imagine what a '''[[Duolingo]] for math''' would look like. Specifically, the thing that's great about Duolingo for learning is that each task is very bite-sized (can be completed in under a minute). Can a series of such small tasks be deployed for math, in a way that leads to deep understanding?
 
 [[Tinkering in math requires loading the situation into working memory]]
 
