@@ -1,0 +1,11 @@
+I find that people besides [[Wei Dai]] seem to just sort of ignore this problem
+
+==See also==
+
+* [[Human safety problem]]
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
+[[Category:AI safety]]
