@@ -1,0 +1,9 @@
+With Braid, you learn actual things. And you can tell this because you can immediately re-solve puzzles you've solved before. Contrast this with [[Stephen's Sausage Roll]] or [[Jelly no Puzzle]] -- these have a way more "combinatorial" feel to them, such that you can "re-enjoy" the game more, but they are also less interesting to me on that account ([[Replay value correlates inversely with learning actual things]]) -- a game should teach you ''about'' its world, in a way that creates lasting insight.
+
+==See also==
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
+[[Category:Learning]]
