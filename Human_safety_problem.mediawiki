@@ -29,6 +29,8 @@ https://www.alignmentforum.org/posts/HBGd34LKvXM9TxvNf/new-safety-research-agend
 
 https://www.alignmentforum.org/posts/HTgakSs6JpnogD6c2/two-neglected-problems-in-human-ai-safety
 
+"Pessimistic thought: human friendliness is in large part instrumental, used for cooperating with other humans of similar power, and often breaks down when the human acquires a lot of power. So faithfully imitating typical human friendliness will lead to an AI that gets unfriendly as it acquires power. That can happen even if there’s no manipulation and no self-improvement." https://www.greaterwrong.com/posts/CpvyhFy9WvCNsifkY/discussion-with-eliezer-yudkowsky-on-agi-interventions/comment/sxnFQAaTQWBsnptBj
+
 ==References==
 
 <references/>
