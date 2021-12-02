@@ -28,7 +28,7 @@ vacation tier = I need more than a day or two of concentrated "good" time to foc
 * [[Judea Pearl|Pearl]] [[belief propagation]] guide (vacation tier)
 * Summarizing/distilling work that has been done in [[decision theory]] (vacation tier)
 * starting something like [[RAISE]]; see [[There is room for something like RAISE]] (vacation tier)
-* Doing something more like "tools for thought" research, with AI safety as the [[serious context of use]]
+* Doing something more like "tools for thought" or "[[explanation science]]" research, with AI safety as the [[serious context of use]]
 
 ==AI safety wiki==
 
