@@ -15,6 +15,8 @@ This is a '''list of arguments against working on AI safety'''. Personally I thi
 
 [[Buck]] lists a few more at https://eaforum.issarice.com/posts/53JxkvQ7RKAJ4nHc4/some-thoughts-on-deference-and-inside-view-models#Proofs_vs_proof_sketches but actually i don't think those are such good counter-arguments.
 
+TODO: add this [https://www.lesswrong.com/posts/kjmpq33kHg7YpeRYW/briefly-radvac-and-smtm-two-things-we-should-be-doing?commentId=Kvj2ZBuHDTDyHHnSy] (is it opportunity cost? or something separate like "ideas bottleneck"?)
+
 ==References==
 
 * Roman V. Yampolskiy. [https://arxiv.org/ftp/arxiv/papers/2105/2105.02704.pdf#page=6 "AI Risk Skepticism"]. 2021. -- This paper provides a taxonomy of reasons AI safety skeptics bring up. However, I don't really like the way the arguments are organized in this paper, and many of them are very similar (I think most of them fit under what I call [[safety by default argument against AI safety]]).
