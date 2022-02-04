@@ -45,7 +45,6 @@ vacation tier = I need more than a day or two of concentrated "good" time to foc
 
 * continue working out [[AI takeoff]] disagreements (vacation tier)
 * continue working out MIRI vs Paul (vacation tier)
-* HRAD paper with [[David Manheim]] (vacation tier)
 * concrete plausible scenarios for what could happen when AGI comes around (vacation tier)
 * deep dive into human evolution to figure out what the heck it might tell us about AI takeoff/AI timelines (vacation tier)
 * comparison of AI and nukes (vacation tier)
