@@ -26,6 +26,7 @@ vacation tier = I need more than a day or two of concentrated "good" time to foc
 
 * [[Solomonoff induction]] guide (I think I've already figured out things here that are not explained anywhere, so I think I could write the best guide on it, but it's not clear how important this is for people to understand) (vacation tier)
 * [[Judea Pearl|Pearl]] [[belief propagation]] guide (vacation tier)
+* reflective oracles might be another good option here
 * Summarizing/distilling work that has been done in [[decision theory]] (vacation tier)
 * starting something like [[RAISE]]; see [[There is room for something like RAISE]] (vacation tier)
 * Doing something more like "tools for thought" or "[[explanation science]]" research, with AI safety as the [[serious context of use]]
