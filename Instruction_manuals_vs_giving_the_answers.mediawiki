@@ -1,3 +1,11 @@
 something i've noticed that's odd about https://meditationbook.page/ is that it's written as an instruction manual (like "follow these steps") rather than giving the answers (in the way that the Sequences just give the answers), ''but'' it still makes reference to there being answers, rather than it all being an "each person has to find their own way" kind of thing. like, there is assumed to be some regularity in how people will solve problems around money, intimacy, belonging, whatever. (e.g. mark's comments about being a horny extravert and marrying the girl of your dreams and having babies and such.)
 
 this brings up a bit of a tension for this approach/document, i think. if the point is to get people to understand the answers, then why give them an instruction manual with which they must spend 10,000 hours? why not just...tell them the answers, and argue for them in detail the way the Sequences did?
+
+some related thoughts i had on [[2022-01-02]]:
+
+i think not enough people write down the answers they've found about their life, a sort of a "changelog" or "log book" of their meditative journey/insights in life. kind of like what i was doing with my "advice for young people" page, but a more full version, that's the end result of figuring more stuff out about life.
+
+mark's protocol is kind of an algorithm for generating change yourself, but it's too abstract, doesn't actually contain any of the answers. so i'd like to see a person's insights that they discover as they work through the protocol.
+
+kind of like the sequences, but eliezer "got lucky" or like, he "cheated" in some sense by doing something that other people couldn't replicate. he doesn't have answers for someone like me. i want to read a logbook of someone who succeeds in life in a fool-proof way (the way that microwavable meals are a fool-proof way to prepare food), a way that assumes a lot of "lucky" "miracles" never happen.
