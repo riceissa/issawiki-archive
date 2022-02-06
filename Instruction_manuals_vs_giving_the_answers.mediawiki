@@ -14,4 +14,8 @@ kind of like the sequences, but eliezer "got lucky" or like, he "cheated" in som
 
 * [[Well-adjusted people have no explicit life philosophy that makes sense]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
 [[Category:Therapy and meditation]]
