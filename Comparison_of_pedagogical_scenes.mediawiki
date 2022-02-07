@@ -2,7 +2,7 @@
 |-
 ! Name !! Medium !! Gets to deep stuff? !! Focus on explanation vs creating/doing? !! Focus on analyzing explanations? || Totally new stuff, or just "do more of the same, but faster and with more polish"?
 |-
-| Generic pedagogy || ||
+| Generic pedagogy, say "good" math books like Tao, Axler, Spivak || Text || Yes (but it's very difficult work!) || Explanation || No || same old
 |-
 | Tools for thought || The point is to create new mediums! || Yes? || Creating/doing || Yes || Totally new stuff!
 |-
