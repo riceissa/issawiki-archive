@@ -6,7 +6,7 @@
 |-
 | Tools for thought ||
 |-
-| Research distillation ||
+| Research distillation<ref>https://distill.pub/2017/research-debt/</ref> ||
 |-
 | [[Exporable explanation]]s
 |-
@@ -24,5 +24,9 @@
 ==What links here==
 
 {{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
+==References==
+
+<references/>
 
 [[Category:Learning]]
