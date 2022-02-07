@@ -5,6 +5,10 @@
 * [[List of reasons something isn't popular or successful]]
 * [[Is AI safety no longer a scenius?]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
 ==External links==
 
 * https://github.com/mnielsen/finding_scenius/blob/master/finding_scenius.md
