@@ -5,7 +5,7 @@
 ! Aiming to be comprehensive?<ref group=note>Is the material comprehensive, and can it be used as a standalone resource? Or is it more of an auxiliary thing to make the topic more entertaining?</ref>
 ! Gets to deep/hard stuff, and forces people to think?<ref group=note>Does the thing have exercises that really deepen understanding? Does it take [https://learning.subwiki.org/wiki/Importance_of_struggling_in_learning desirable difficulties] into account?</ref>
 ! Focus on explanation vs creating/doing?
-! Focus on analyzing explanations?<ref group=note>Does the field or scene see the ''analysis of explanations'' as itself a topic of the work? Or is it more just a thing that happens outside of the public view? Is a discussion of a new technique to explain things seen as a contribution to the scene?</ref>
+! Focus on analyzing explanations?<ref group=note>Does the field or scene see the ''analysis of explanations'' as itself a topic of the work? Or is it more just a thing that happens outside of the public view? Is a discussion of a new technique to explain things seen as a contribution to the scene? Is the scene open to "meta" things?</ref>
 ! Totally new stuff, or just "do more of the same, but faster and with more polish"?
 |-
 | Generic pedagogy, say "good" math books like Tao, Axler, Spivak || Text || Yes (but it's very difficult work!) || Yes || Explanation || No || same old
