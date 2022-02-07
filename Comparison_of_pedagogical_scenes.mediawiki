@@ -1,20 +1,20 @@
 {| class="sortable wikitable"
 |-
-! Name !! Medium !! Focus on explanation vs creating/doing? !! Focus on analyzing explanations?
+! Name !! Medium !! Gets to deep stuff? !! Focus on explanation vs creating/doing? !! Focus on analyzing explanations?
 |-
-| Generic pedagogy ||
+| Generic pedagogy || ||
 |-
-| Tools for thought || The point is to create new mediums! || Creating/doing || Yes
+| Tools for thought || The point is to create new mediums! || Yes? || Creating/doing || Yes
 |-
-| Research distillation<ref>https://distill.pub/2017/research-debt/</ref> || Mostly text, with some interactive widgets || Explanation || No, or at least not in public
+| Research distillation<ref>https://distill.pub/2017/research-debt/</ref> || Mostly text, with some interactive widgets || Kinda (aspirational, but most online essays are still not so deep) || Explanation || No, or at least not in public
 |-
-| [[Explorable explanation]]s || Interactive widgets || Explanation || No
+| [[Explorable explanation]]s || Interactive widgets || Not really || Explanation || No
 |-
-| [[3Blue1Brown]] || Non-interactive video with visualizations || Explanation || No
+| [[3Blue1Brown]] || Non-interactive video with visualizations || No || Explanation || No
 |-
-| Khan Academy || Tutor-like videos and text || Explanation || No
+| Khan Academy || Tutor-like videos and text || Explanation || Kinda, but it only targets "easy" topics || No
 |-
-| [[Explanation science]] || Mostly text? || Explanation || Yes
+| [[Explanation science]] || Mostly text? || Yes (aspirational) || Explanation || Yes
 |}
 
 ==See also==
