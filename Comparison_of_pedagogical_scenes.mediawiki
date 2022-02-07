@@ -1,0 +1,25 @@
+{| class="sortable wikitable"
+|-
+! Name !! Medium !! Focus on explanation vs creating/doing? !! Focus on analyzing explanations?
+|-
+| Generic pedagogy ||
+|-
+| Tools for thought ||
+|-
+| Research distillation ||
+|-
+| [[Exporable explanation]]s
+|-
+| [[3Blue1Brown]]
+|-
+| Khan Academy ||
+|-
+| [[Explanation science]] ||
+|}
+
+
+==See also==
+
+* [[Scenius]]
+
+[[Category:Learning]]
