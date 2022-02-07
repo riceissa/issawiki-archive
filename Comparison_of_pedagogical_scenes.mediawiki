@@ -8,7 +8,7 @@
 |-
 | Research distillation<ref>https://distill.pub/2017/research-debt/</ref> || Mostly text, with some interactive widgets || Explanation || No, or at least not in public
 |-
-| [[Exporable explanation]]s || Interactive widgets || Explanation || No
+| [[Explorable explanation]]s || Interactive widgets || Explanation || No
 |-
 | [[3Blue1Brown]] || Non-interactive video with visualizations || Explanation || No
 |-
