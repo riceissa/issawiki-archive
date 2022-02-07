@@ -14,6 +14,8 @@
 |-
 | Khan Academy || Tutor-like videos and text || Explanation || Kinda, but it only targets "easy" topics || No || just cover all the high school topics
 |-
+| [https://www.greaterwrong.com/posts/DJk86FE29ad4vr5e9/riceissa-s-shortform/comment/W49udPvKRZB4B3snR Asynchronous Discord severs] || Chatroom || Kinda (not in a comprehensive way, but people who are asking their questions are actually asking about the stuff they are struggling with) || Explanation || No || The concept itself is new (as described in my LW post) but once it's been created, there is no drive to make it even better; instead, the drive has been to expand to more and more textbooks/subfields of math
+|-
 | [[Explanation science]] || Mostly text? || Yes (aspirational) || Explanation || Yes || Totally new stuff!
 |}
 
