@@ -8,7 +8,7 @@
 ! Focus on analyzing explanations?<ref group=note>Does the field or scene see the ''analysis of explanations'' as itself a topic of the work? Or is it more just a thing that happens outside of the public view? Is a discussion of a new technique to explain things seen as a contribution to the scene? Is the scene open to "meta" things?</ref>
 ! Totally new stuff, or just "do more of the same, but faster and with more polish"?
 |-
-| Generic pedagogy, say "good" math books like Tao, Axler, Spivak || Text || Yes (but it's very difficult work!) || Yes || Explanation || No || same old
+| Generic pedagogy, say "good" math books like Tao, Axler, Spivak || Text || Yes || Yes (but it's very difficult work!) || Explanation || No || same old
 |-
 | Tools for thought || The point is to create new mediums! || Yes? || Yes? || Creating/doing || Yes || Totally new stuff!
 |-
