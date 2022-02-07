@@ -12,7 +12,7 @@
 |-
 | [[3Blue1Brown]] || Non-interactive video with visualizations || Explanation || No
 |-
-| Khan Academy ||
+| Khan Academy || Tutor-like videos and text || Explanation || No
 |-
 | [[Explanation science]] || Mostly text? || Explanation || Yes
 |}
