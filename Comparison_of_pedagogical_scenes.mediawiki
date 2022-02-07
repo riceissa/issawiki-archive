@@ -21,4 +21,8 @@
 
 * [[Scenius]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
 [[Category:Learning]]
