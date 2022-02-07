@@ -2,28 +2,29 @@
 |-
 ! Name
 ! Medium
-! Gets to deep stuff?<ref group=note>Is the material comprehensive, and can it be used as a standalone resource? Or is it more of an auxiliary thing to make the topic more entertaining? Does the thing have exercises that really deepen understanding? Does it take [https://learning.subwiki.org/wiki/Importance_of_struggling_in_learning desirable difficulties] into account?</ref>
+! Aiming to be comprehensive?<ref group=note>Is the material comprehensive, and can it be used as a standalone resource? Or is it more of an auxiliary thing to make the topic more entertaining?</ref>
+! Gets to deep/hard stuff, and forces people to think?<ref group=note>Does the thing have exercises that really deepen understanding? Does it take [https://learning.subwiki.org/wiki/Importance_of_struggling_in_learning desirable difficulties] into account?</ref>
 ! Focus on explanation vs creating/doing?
 ! Focus on analyzing explanations?<ref group=note>Does the field or scene see the ''analysis of explanations'' as itself a topic of the work? Or is it more just a thing that happens outside of the public view? Is a discussion of a new technique to explain things seen as a contribution to the scene?</ref>
 ! Totally new stuff, or just "do more of the same, but faster and with more polish"?
 |-
-| Generic pedagogy, say "good" math books like Tao, Axler, Spivak || Text || Yes (but it's very difficult work!) || Explanation || No || same old
+| Generic pedagogy, say "good" math books like Tao, Axler, Spivak || Text || Yes (but it's very difficult work!) || Yes || Explanation || No || same old
 |-
-| Tools for thought || The point is to create new mediums! || Yes? || Creating/doing || Yes || Totally new stuff!
+| Tools for thought || The point is to create new mediums! || Yes? || Yes? || Creating/doing || Yes || Totally new stuff!
 |-
-| Research distillation<ref>https://distill.pub/2017/research-debt/</ref> || Mostly text, with some interactive widgets || Kinda (aspirational, but most online essays are still not so deep) || Explanation || No, or at least not in public || faster/more polish
+| Research distillation<ref>https://distill.pub/2017/research-debt/</ref> || Mostly text, with some interactive widgets || No || Kinda (aspirational, but most online essays are still not so deep) || Explanation || No, or at least not in public || faster/more polish
 |-
-| [[Explorable explanation]]s || Interactive widgets || Not really || Explanation || No || mix of both
+| [[Explorable explanation]]s || Interactive widgets || Not || Not really || Explanation || No || mix of both
 |-
-| [[3Blue1Brown]] || Non-interactive video with visualizations || No || Explanation || No || mix of both
+| [[3Blue1Brown]] || Non-interactive video with visualizations || No || No || Explanation || No || mix of both
 |-
-| Khan Academy || Tutor-like videos and text || Explanation || Kinda, but it only targets "easy" topics || No || just cover all the high school topics
+| Khan Academy || Tutor-like videos and text || Explanation || Yes, but it only targets "easy" topics || Kinda, but it only targets "easy" topics || No || just cover all the high school topics
 |-
-| [[Spaced repetition]] and "learning how to learn" || Flashcards, notes || Yes || Creating/doing || Yes || Yes; people talk about how to write better prompts and come up with new learning techniques
+| [[Spaced repetition]] and "learning how to learn" || Flashcards, notes || Yes || Yes (but you do all the work!) || Creating/doing || Yes || Yes; people talk about how to write better prompts and come up with new learning techniques
 |-
-| [https://www.greaterwrong.com/posts/DJk86FE29ad4vr5e9/riceissa-s-shortform/comment/W49udPvKRZB4B3snR Asynchronous Discord severs] || Chatroom || Kinda (not in a comprehensive way, but people who are asking their questions are actually asking about the stuff they are struggling with) || Explanation || No || The concept itself is new (as described in my LW post) but once it's been created, there is no drive to make it even better; instead, the drive has been to expand to more and more textbooks/subfields of math
+| [https://www.greaterwrong.com/posts/DJk86FE29ad4vr5e9/riceissa-s-shortform/comment/W49udPvKRZB4B3snR Asynchronous Discord severs] || Chatroom || Kinda (not intended to be a standalone resource, but a good server will cover all the chapters and be able to help at any stage of learning) || Yes (people who are asking their questions are actually asking about the stuff they are struggling with) || Explanation || No || The concept itself is new (as described in my LW post) but once it's been created, there is no drive to make it even better; instead, the drive has been to expand to more and more textbooks/subfields of math
 |-
-| [[Explanation science]] || Mostly text? || Yes (aspirational) || Explanation || Yes || Totally new stuff!
+| [[Explanation science]] || Mostly text? || Yes (aspirational) || Yes || Explanation || Yes || Totally new stuff!
 |}
 
 ==See also==
