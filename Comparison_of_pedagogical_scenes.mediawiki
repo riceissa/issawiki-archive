@@ -1,6 +1,6 @@
 {| class="sortable wikitable"
 |-
-! Name !! Medium !! Gets to deep stuff?<ref class=note>a</ref> !! Focus on explanation vs creating/doing? !! Focus on analyzing explanations? || Totally new stuff, or just "do more of the same, but faster and with more polish"?
+! Name !! Medium !! Gets to deep stuff?<ref group=note>a</ref> !! Focus on explanation vs creating/doing? !! Focus on analyzing explanations? || Totally new stuff, or just "do more of the same, but faster and with more polish"?
 |-
 | Generic pedagogy, say "good" math books like Tao, Axler, Spivak || Text || Yes (but it's very difficult work!) || Explanation || No || same old
 |-
@@ -28,5 +28,9 @@
 ==References==
 
 <references/>
+
+==Notes==
+
+<references group=note/>
 
 [[Category:Learning]]
