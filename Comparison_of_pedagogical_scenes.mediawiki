@@ -6,7 +6,7 @@
 |-
 | Tools for thought || The point is to create new mediums! || Creating/doing || Yes
 |-
-| Research distillation<ref>https://distill.pub/2017/research-debt/</ref> ||
+| Research distillation<ref>https://distill.pub/2017/research-debt/</ref> || Mostly text, with some interactive widgets || Explanation || No, or at least not in public
 |-
 | [[Exporable explanation]]s
 |-
