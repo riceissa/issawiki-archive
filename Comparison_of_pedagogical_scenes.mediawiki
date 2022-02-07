@@ -4,17 +4,17 @@
 |-
 | Generic pedagogy ||
 |-
-| Tools for thought ||
+| Tools for thought || The point is to create new mediums! || Creating/doing || Yes
 |-
 | Research distillation<ref>https://distill.pub/2017/research-debt/</ref> ||
 |-
 | [[Exporable explanation]]s
 |-
-| [[3Blue1Brown]]
+| [[3Blue1Brown]] || Non-interactive video with visualizations || Explanation || No
 |-
 | Khan Academy ||
 |-
-| [[Explanation science]] ||
+| [[Explanation science]] || Mostly text? || Explanation || Yes
 |}
 
 ==See also==
