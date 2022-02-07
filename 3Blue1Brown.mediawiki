@@ -10,4 +10,8 @@ Here's my current (originally April 2020; updated March 2021) views on 3Blue1Bro
 
 """There's a flipside to this emotional connection, however. We've often heard people describe Sanderson's videos as about “teaching mathematics”. But in conversation he's told us he doesn't think more than a small fraction of viewers are taking away much detailed understanding of mathematics. We suspect this is generally true, that high affect videos usually do little to change people's detailed intellectual understanding. Rather, the extraordinary value of the videos lies in the emotional connection they create.""" https://numinous.productions/ttft/ -- I can't disagree with this. But do the ''viewers'' know this, or are they fooling themselves into thinking they are actually learning math? It's good that Sanderson himself is not deluded here, but I'm worried he is still deluding his viewers.
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
 [[Category:Learning]]
