@@ -2,6 +2,8 @@
 
 I think this page (which is written by me, admittedly) is a really good example of the kind of thing I am trying to point at with the phrase "explanation science": https://learning.subwiki.org/wiki/Examples_in_mathematics It examines the idea of "examples" closely and comes up with a typology, in such a way that someone who is writing an expository piece in math can use it to make sure they have all four kinds of examples.
 
+[[Comparison of pedagogical scenes|Compared to other approaches to pedagogy]], explanation science has more of an ethos of treating explanations as things we can get better at and discover new techniques in.
+
 ==See also==
 
 * [[We still don't know how to systematically write great word explanations]]
