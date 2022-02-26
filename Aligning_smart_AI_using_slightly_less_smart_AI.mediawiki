@@ -2,6 +2,7 @@ A strategy that some (who focus on [[machine learning safety]]) have cited for t
 
 ==External links==
 
+* [[Paul Christiano]] makes the argument [https://www.facebook.com/groups/aisafety/posts/920154224815359/?comment_id=920160664814715&reply_comment_id=920212811476167 here]
 * [[Richard Ngo]] brings up this argument in [https://www.lesswrong.com/posts/7im8at9PmhbT4JHsW/ngo-and-yudkowsky-on-alignment-difficulty#1_1__Deep_vs__shallow_problem_solving_patterns]
 
 ==What links here==
