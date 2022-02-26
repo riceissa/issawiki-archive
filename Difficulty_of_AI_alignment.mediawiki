@@ -1,5 +1,7 @@
 
 
+[[Aligning smart AI using slightly less smart AI]]
+
 ==What links here==
 
 {{Special:WhatLinksHere/{{FULLPAGENAME}}}}
