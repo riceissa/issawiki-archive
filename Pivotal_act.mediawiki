@@ -5,6 +5,7 @@ according to some views of [[AI takeoff]], a pivotal act is an important part of
 ==Examples==
 
 * "Build self-replicating open-air nanosystems and use them (only) to melt all GPUs."<ref>https://www.lesswrong.com/posts/7im8at9PmhbT4JHsW/ngo-and-yudkowsky-on-alignment-difficulty#1_1__Deep_vs__shallow_problem_solving_patterns</ref>
+* Make progress on the full (i.e. not restricted to a limited AI system or [[minimal AGI]]) alignment problem faster than humans can<ref>https://www.lesswrong.com/posts/7im8at9PmhbT4JHsW/ngo-and-yudkowsky-on-alignment-difficulty#1_1__Deep_vs__shallow_problem_solving_patterns</ref>
 
 ==Non-examples==
 
