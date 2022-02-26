@@ -9,6 +9,8 @@ according to some views of [[AI takeoff]], a pivotal act is an important part of
 
 ==Non-examples==
 
+* make dramatic progress in proving mathematical theorems (without explaining the results to humans) -- not a pivotal capability because it's unclear how to perform a pivotal act<ref>https://www.lesswrong.com/posts/7im8at9PmhbT4JHsW/ngo-and-yudkowsky-on-alignment-difficulty#1_1__Deep_vs__shallow_problem_solving_patterns</ref>
+
 ==External links==
 
 ==References==
