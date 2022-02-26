@@ -1,0 +1,12 @@
+A '''pivotal act''' is (putting down my guess here) something that allows a single entity (?) to take over the world? form a [[singleton]]? prevent others from taking over the world or forming a singleton or achieving AGI?
+
+according to some views of [[AI takeoff]], a pivotal act is an important part of the plan for preventing [[existential doom from AI]].
+
+
+==External links==
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
+[[Category:AI safety]]
