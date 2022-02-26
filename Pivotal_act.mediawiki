@@ -1,5 +1,7 @@
 A '''pivotal act''' is (putting down my guess here) something that allows a single entity (?) to take over the world? form a [[singleton]]? prevent others from taking over the world or forming a singleton or achieving AGI?
 
+things to clarify: is pivotal act only for "good" actors, or does it also include destroying the world? also pivotal capability vs pivotal act
+
 according to some views of [[AI takeoff]], a pivotal act is an important part of the plan for preventing [[existential doom from AI]].
 
 ==Examples==
