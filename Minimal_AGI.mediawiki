@@ -1,0 +1,16 @@
+
+
+the term "minimal aligned AGI" was used in https://intelligence.org/2017/12/01/miris-2017-fundraiser/
+
+
+==External links==
+
+==References==
+
+<references/>
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
+[[Category:AI safety]]
