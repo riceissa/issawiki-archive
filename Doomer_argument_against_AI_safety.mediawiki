@@ -1,0 +1,9 @@
+Example: https://www.facebook.com/ozzie.gooen/posts/10166018642385363
+
+==See also==
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}}}}
+
+[[Category:AI safety]]
