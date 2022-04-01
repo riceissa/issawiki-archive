@@ -1,0 +1,45 @@
+While the application of [[Functional decision theory|functional]]/[[Updateless decision theory|updateless]]/[[Timeless decision theory|timeless]] decision theory to decision-making computer programs (where copying, simulating, reading each other's source code, etc. is readily possible) is clear, it is sometimes discussed whether these decision theories have applications to everyday human life.
+
+==Table of opinions==
+
+{| class="sortable wikitable"
+! Person !! Work !! Opinion
+|-
+| [[Wei Dai]] || [https://www.greaterwrong.com/posts/4MYYr8YmN2fonASCi/you-re-in-newcomb-s-box/comment/fYsK79tprvAkHQiTH comment on LW] || "I don’t think UDT is applicable to most human decisions (or rather, it probably tells you to do the same things as standard decision theory), including things like voting or contributing to charity, or deciding whether to have children, because I think logical correlations between ordinary humans are probably pretty low. (That’s just an intuition though since I don’t know how to do the calculations.)" "If we apply UDT to humans, what does it actually say in various real-life situations like voting or contributing to x-risk reduction?"<ref>https://www.greaterwrong.com/posts/gX8fcAwk3HGkFyJgk/what-are-the-open-problems-in-human-rationality/answer/jmwunx3PP73GRtuxd</ref> "It feels to me like people in our community aren’t being skeptical enough or pushing back enough on the idea of acausal coordination for humans. I’m kind of confused about this because it seems like a weirder idea and has less good arguments for it than for example the importance of AI risk which does get substantial skepticism and push back."<ref>https://www.greaterwrong.com/posts/3iFzaDwoah35ri4aD/how-dangerous-is-it-to-ride-a-bicycle-without-a-helmet/comment/TsGKTyY3CzeuGyFPP</ref> "I sometimes see what I consider to be overly enthusiastic applications of UDT, and as the person most associated with UDT I feel an obligation to push against that."<ref>{{cite web |url=https://www.greaterwrong.com/posts/jBnX58P8J6HuTCz2g/a-proof-of-occam-s-razor/comment/dJiQxmEBZbBYpJDcL |title=Wei_Dai comments on A Proof of Occam's Razor - LessWrong 2.0 viewer |accessdate=October 3, 2019}}</ref> See also [https://www.greaterwrong.com/posts/Knc6wkW6yzD8o5L3c/is-requires-ought#d8afysbsnKtCdL8Rb this comment]. [https://lw2.issarice.com/posts/r5jMMbW2yN9GzWXcR/time-binders-1#XuMsdPKdgvnNfmnHE] [https://www.greaterwrong.com/posts/mQdTCKKB8p5mGaMfC/quarantine-preparations#comment-yQaGjN7r7a4QSrv9q]
+|-
+| [[Andrew Critch]] || "Deserving Trust / Grokking Newcomb's Problem",<ref>Andrew Critch. [http://acritch.com/deserving-trust/ "Deserving Trust / Grokking Newcomb's Problem"]. February 2, 2017.</ref> "Deserving Trust, II: It’s not about reputation",<ref>Andrew Critch. [http://acritch.com/deserving-trust-2/ "Deserving Trust, II: It’s not about reputation". May 20, 2017.]</ref> "What we're thinking about as we grow - ethics, oversight, and getting things done",<ref>Andrew Critch. [http://existence.org/growth "What we're thinking about as we grow - ethics, oversight, and getting things done"]. October 19, 2017.</ref> [http://lesswrong.com/lw/1zw/newcombs_problem_happened_to_me/] ||
+|-
+| Zvi Mowshowitz || "How I Lost 100 Pounds Using TDT"<ref>Zvi Mowshowitz. [http://lesswrong.com/lw/4sh/how_i_lost_100_pounds_using_tdt/ "How I Lost 100 Pounds Using TDT"]. ''LessWrong''. March 14, 2011.</ref> || Argues that reasoning like a TDT agent helped him lose weight.
+|-
+| Caspar Oesterheld || "Multiverse-wide Cooperation via Correlated Decision Making"<ref>Caspar Oesterheld. "Multiverse-wide Cooperation via Correlated Decision Making". ''Foundational Research Institute''. August 14, 2017.</ref> (see the section "Superrational cooperation on Earth") || Gives at least three separate arguments for why superrational cooperation isn't so relevant on Earth: (1) there are fewer agents on Earth so causal mechanisms dominate; (2) most humans don't reason superrationally; (3) causal cooperation is possible on Earth whenever superrational cooperation might have taken place.
+|-
+| Gary Drescher || ''Good and Real'' ||
+|-
+| Paul Almond || ||
+|-
+| Leslie || 1991 ||
+|-
+| Ahmed || 2014 ||
+|-
+| Nate Soares || "Causal decision theory is unsatisfactory",<ref>Nate Soares. [http://mindingourway.com/causal-reasoning-is-unsatisfactory/ "Causal decision theory is unsatisfactory"]. ''Minding our way''. September 7, 2014.</ref> "An introduction to Newcomblike problems",<ref>Nate Soares. [http://mindingourway.com/intro-to-newcomblike-problems/ "An introduction to Newcomblike problems"]. ''Minding our way''. September 12, 2014.</ref> "Newcomblike problems are the norm"<ref>Nate Soares. [http://mindingourway.com/newcomblike-problems-are-the-norm/ "Newcomblike problems are the norm"]. ''Minding our way''. September 24, 2014.</ref>
+|-
+| Vitalik Buterin || "Superrationality and DAOs"<ref>Vitalik Buterin. [https://blog.ethereum.org/2015/01/23/superrationality-daos/ "Superrationality and DAOs"]. January 23, 2015.</ref> || Explores the application of superrationality to [[Decentralized autonomous organization|decentralized autonomous organizations]].
+|-
+| Eliezer Yudkowsky? || [https://arbital.com/p/logical_dt/?l=5d6], [https://www.greaterwrong.com/posts/uG3ri4y3siWyC52bD/a-rationalist-argument-for-voting/comment/drhSHWrAaRGaTdkbv] || Mentions salary negotiation and voting as real-life applications
+|-
+| Paul Christiano || [https://sideways-view.com/2016/11/14/integrity-for-consequentialists/] || "Some of these considerations are only relevant because I make decisions using UDT rather than causal decision theory." I think some of Paul's other posts talk about decision theory applications too.
+|}
+
+[http://lesswrong.com/lw/16f/decision_theory_an_outline_of_some_upcoming_posts/] not sure if this sequence of posts talks about real-life applications (haven't read it yet)
+
+[http://lesswrong.com/lw/faq/does_my_vote_matter/7rgp?context=1] applications to voting
+
+https://www.greaterwrong.com/posts/PqMT9zGrNsGJNfiFR/alignment-research-field-guide#section-1 uses some logical decision theory-like reasoning.
+
+==See also==
+
+==References==
+
+<references/>
+
+==External links==
