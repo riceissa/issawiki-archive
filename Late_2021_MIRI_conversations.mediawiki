@@ -3,7 +3,8 @@ https://www.lesswrong.com/s/n945eovrA3oDueqtq
 {| class="wikitable"
 ! Title !! Summary !! Things that were interesting to me !! Further reading
 |-
-|
+| [https://www.lesswrong.com/s/n945eovrA3oDueqtq/p/gf9hhmSvpZfyfS34B Ngo's view on alignment difficulty]
+| [[Richard Ngo]] puts forth his own case about why he is more optimistic (compared to [[Eliezer Yudkowsky]]) about humanity handling the creation of [[AGI]] well.
 |}
 
 ==See also==
