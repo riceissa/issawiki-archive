@@ -1,3 +1,5 @@
+'''(This page has moved to https://learning.subwiki.org/wiki/Discovery_fiction)'''
+
 '''Discovery fiction''' is a style of pedagogy in which one presents a fictitious story about how someone could have invented an idea.
 
 [[Michael Nielsen]] often talks about this idea, and he may have independently come up with it. But I think [[Tim Gowers]] also independently came up with the idea:
