@@ -1,22 +1,7 @@
 '''(This page has moved to https://learning.subwiki.org/wiki/Discovery_fiction)'''
 
-'''Discovery fiction''' is a style of pedagogy in which one presents a fictitious story about how someone could have invented an idea.
-
-[[Michael Nielsen]] often talks about this idea, and he may have independently come up with it. But I think [[Tim Gowers]] also independently came up with the idea:
-
-<blockquote>However, there is another way of justifying the introduction of a new concept into mathematics. Instead of looking at the ''actual'' history of that concept, one can look at a ''fictitious'' history. If you can tell a plausible story about why a concept ''might have been'' invented, then that is sufficient to make it seem reasonable. It solves the mystery of how anyone could have thought of the concept, and it also shows that it was pretty well inevitable that the concept would have been introduced sooner or later.<ref>https://gowers.wordpress.com/2011/11/20/normal-subgroups-and-quotient-groups/</ref></blockquote>
-
-==Examples==
-
-* https://www.lesswrong.com/posts/rTC8MgPuYfXEw3WLp/discovery-fiction-for-the-pythagorean-theorem
-* https://gowers.wordpress.com/2011/11/20/normal-subgroups-and-quotient-groups/
-
 ==What links here==
 
 {{Special:WhatLinksHere/{{FULLPAGENAME}}}}
-
-==References==
-
-<references/>
 
 [[Category:Learning]]
