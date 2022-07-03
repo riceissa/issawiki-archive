@@ -6,6 +6,8 @@ Some claims I want to make/opinions I have:
 * Explorable explanations as doing the legwork of the kind of boring/tedious intellectual work that mathematicians have to do manually -- for example, setting up the proof, doing the low-level computations to make sure one has done a particular computation correctly, etc. I'm especially excited about using these tools was ways to practice choosing high-level proof tactics.
 * Few explorable explanations build up complicated concepts from simpler ones using a progression of puzzles. I can only think of video games that do this. I think this lack of "serial depth" makes explorable explanations seem gimmicky/not central to understanding a subject.
 
+twitter thread: https://twitter.com/sliminality/status/1495527059011289090
+
 ==See also==
 
 * [[Video games comparison to math]]
