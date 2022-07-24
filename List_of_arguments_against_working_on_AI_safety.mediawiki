@@ -20,6 +20,8 @@ TODO: add this [https://www.lesswrong.com/posts/kjmpq33kHg7YpeRYW/briefly-radvac
 
 TODO: go through this list https://forum.effectivealtruism.org/posts/8JazqnCNrkJtK2Bx4/why-eas-are-skeptical-about-ai-safety
 
+TODO: go through https://forum.effectivealtruism.org/posts/5hprBzprm7JjJTHNX/reasons-i-ve-been-hesitant-about-high-levels-of-near-ish-ai-1
+
 ==References==
 
 * Roman V. Yampolskiy. [https://arxiv.org/ftp/arxiv/papers/2105/2105.02704.pdf#page=6 "AI Risk Skepticism"]. 2021. -- This paper provides a taxonomy of reasons AI safety skeptics bring up. However, I don't really like the way the arguments are organized in this paper, and many of them are very similar (I think most of them fit under what I call [[safety by default argument against AI safety]]).
