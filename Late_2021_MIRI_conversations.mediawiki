@@ -4,8 +4,8 @@ https://www.lesswrong.com/s/n945eovrA3oDueqtq
 ! Title !! Summary !! My thoughts !! Further reading/keywords
 |-
 | [https://www.lesswrong.com/s/n945eovrA3oDueqtq/p/hwxj4gieR7FWNwYfa Ngo and Yudkowsky on AI capability gains]
-|
-|
+| This conversation jumps between a lot of different topics, including both object level points and meta points (about how one ought to reason in these kinds of situations).
+| I found this conversation frustrating to read.
 |
 |-
 | [https://www.lesswrong.com/s/n945eovrA3oDueqtq/p/gf9hhmSvpZfyfS34B Ngo's view on alignment difficulty]
