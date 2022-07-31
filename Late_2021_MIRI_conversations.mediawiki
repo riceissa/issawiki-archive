@@ -4,7 +4,7 @@ https://www.lesswrong.com/s/n945eovrA3oDueqtq
 ! Title !! Summary !! My thoughts !! Further reading/keywords
 |-
 | [https://www.lesswrong.com/s/n945eovrA3oDueqtq/p/hwxj4gieR7FWNwYfa Ngo and Yudkowsky on AI capability gains]
-| This conversation jumps between a lot of different topics, including both object level points and meta points (about how one ought to reason in these kinds of situations).
+| This conversation jumps between a lot of different topics, including both object level points and meta points (about how one ought to reason in these kinds of situations). Some of the main covered topics are: (1) recursive self-improvement and consequentialism (Eliezer defends the position that these are useful abstractions that apply to the real world, whereas Richard thinks they are wrong, or at least messier to apply to the real world than Eliezer believes or at the very least that the validity of these concepts has not been comprehensively argued for by Eliezer); 
 | I found this conversation frustrating to read.
 |
 |-
