@@ -1,5 +1,7 @@
 Some people like [[Eliezer Yudkowsky]] take [[AlphaGo]] to be evidence for a discontinuous takeoff.
 
+"First, there is a step not generally valid from supposing that because a previous AI is a technological precursor which has 19 out of 20 critical insights, it has 95% of the later AI's IQ, applied to similar domains. When you count stuff like "multiplying tensors by matrices" and "ReLUs" and "training using TPUs" then AlphaGo only contained a very small amount of innovation relative to previous AI technology, and yet it broke trends on Go performance. You could point to all kinds of incremental technological precursors to AlphaGo in terms of AI technology, but they wouldn't be smooth precursors on a graph of Go-playing ability."<ref>https://www.lesswrong.com/posts/vwLxd6hhFvPbvKmBH/yudkowsky-and-christiano-discuss-takeoff-speeds</ref>
+
 lw question: was there a discontinuity in Go capability within deepmind itself? if so, isn't that evidence for discontinuities in general? if not, what is the reason it is not evidence for a discontinuity?
 why aren't people asking things like "how many attempts did deepmind make to hit upon the alphago architecture?" in particular, how good was the second best attempt? If there are many architectures that were thrown away, you'd expect a more continuous improvement between different attempts.
 actually hanson doesn't care if there's a discontinuity here, even within deepmind. because his point is that Go is like a narrow tech, not like a city or country where you need to do well on lots of tasks. but others like paul might care?
@@ -12,5 +14,8 @@ This is similar to the project outlined here: """1.2.C Apply early software unde
 Using contemporary hardware and a 1970’s or 1980’s understanding of connectionism, observe the extent to which a modern AI researcher (or student) could replicate contemporary performance on benchmark AI problems. This project is relatively expensive, among those we are describing. It requires substantial time from collaborators with a historically accurate minimal understanding of AI. Students may satisfy this role well, if their education is incomplete in the right ways. One might compare to the work of similar students who had also learned about modern methods."""
 https://aiimpacts.org/research-topic-hardware-software-and-ai/
 
+==References==
+
+<references/>
 
 [[Category:AI safety]]
