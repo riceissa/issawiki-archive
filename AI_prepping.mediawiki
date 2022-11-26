@@ -11,6 +11,8 @@ usefulness of selfish actions for AI safety depends on how likely it is that ''s
 
 [[Jaan Tallinn]]: "We’re just like statues, standing in place, and not doing anything. But yeah, if you look around, if the universe is real, then almost all of the resources are outside of this planet. So, the reason why … I think AI’s almost entirely interested in the rest of the universe rather than the Earth. The big problem is that it will, by default, use as many resources as it can on this planet, in order to get to the rest of the resources out there."<ref>https://manifoldlearning.com/episode-042/</ref>
 
+Eliezer says "Killing all humans is the obvious, probably resource-minimal measure to prevent those humans from building another AGI inside the solar system, which could be genuinely problematic.  The cost of a few micrograms of botulinum per human is really not that high and you get to reuse the diamondoid bacteria afterwards." in response to Jaan Tallinn suggesting that an unaligned AGI might leave humans alive.<ref>https://www.lesswrong.com/s/n945eovrA3oDueqtq/p/oKYWbXioKaANATxKY</ref>
+
 https://ea.greaterwrong.com/posts/tDk57GhrdK54TWzPY/i-m-buck-shlegeris-i-do-research-and-outreach-at-miri-ama/comment/n6okR737HZGaouAds
 
 https://ea.greaterwrong.com/posts/7DhEnxBqP62jHmsAx/taking-ai-risk-seriously-thoughts-by-andrew-critch/comment/CgS7hKqzsfPrBRpA8
