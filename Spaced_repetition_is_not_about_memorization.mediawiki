@@ -12,6 +12,10 @@ Some of you may have expected a cynical Hansonian model when you saw the title, 
 
 * [[Spaced proof review is not about memorizing proofs]]
 
+==References==
+
+<references/>
+
 ==What links here==
 
 {{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
