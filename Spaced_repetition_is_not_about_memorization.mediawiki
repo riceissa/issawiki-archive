@@ -6,6 +6,8 @@ When I think of "memorization", I think of like a complacency at having accumula
 
 Some of you may have expected a cynical Hansonian model when you saw the title, and maybe there is something like that too: people use spaced repetition software with all kinds of social motives like trying to look smart, to feed some kind of tinkering urge, etc.
 
+[[Michael Nielsen]] makes a similar point: "Memory is not the point: The point of using memory systems is to make a better life, not memory in and of itself. To momentarily switch to a different type of tool, one common phenomenon with note-taking systems is that they become ends in themselves. I know people who can talk for hours about their note-taking system, but don't seem all that interested in using it to improve anything else in their life. I suppose it's a fun hobby, and that seems fine, but I do wonder at the motivation. Is it system building as self-soothing? This kind of thing seems less common with memory systems (so far), but it's easy to imagine happening."<ref>Michael Nielsen. "Building a better memory system". November 23, 2022. https://michaelnotebook.com/bbms/index.html</ref>
+
 ==See also==
 
 * [[Spaced proof review is not about memorizing proofs]]
