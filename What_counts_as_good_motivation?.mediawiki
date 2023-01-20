@@ -2,6 +2,8 @@
 * there is some kind of inherent beauty or something fascinating about the thing
 * it explains some great mystery that you have
 
+There are like two broad things people mean by "motivation" in math. One is like "why should I even care about this topic? what's it useful for? what makes it an interesting or cool or beautiful or neat idea?" The other is more like "how would I have discovered this myself? how would I have taken a step in that particular direction?" and is what [[Tim Gowers]] calls 'searching for a reasonable proof' (or something). The two ideas are not completely disconnected, because once you figure out how you would discover something fully, you'll probably know a lot about why you'd care about a topic! And similarly, if you care a lot about a topic and find it interesting, you're going to be thinking about it a lot and so will naturally re-discover the subject for yourself (hopefully).
+
 ==See also==
 
 ==What links here==
