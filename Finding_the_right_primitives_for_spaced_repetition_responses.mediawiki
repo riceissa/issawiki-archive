@@ -1,0 +1,18 @@
+[[incremental reading]] in SM doesn't distinguish between "i don't want to read this because i'm just not in a mathy mood right now" and "i don't want to read this because i've thought about it but don't have any thoughts on it". this means if you skip an item that you haven't seen in a ''long'' time, just because you happened to not be in the mood for it, you might not see the item for like 3 years or w/e.
+
+I've written similar things about spaced inbox. i don't think we "know the right primitives" yet when it comes to interacting with these notes/items.
+
+==See also==
+
+* [[Interaction reversal between knowledge-to-be-memorized and ideas-to-be-developed]]
+* [[Mapping mental motions to parts of a spaced repetition algorithm]]
+
+==References==
+
+<references/>
+
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
+[[Category:Spaced repetition]]
