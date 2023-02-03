@@ -15,6 +15,9 @@ responses".  For more, see these links:
 
 ==See also==
 
+* [[Interaction reversal between knowledge-to-be-memorized and ideas-to-be-developed]]
+* [[Mapping mental motions to parts of a spaced repetition algorithm]]
+
 ==References==
 
 <references/>
