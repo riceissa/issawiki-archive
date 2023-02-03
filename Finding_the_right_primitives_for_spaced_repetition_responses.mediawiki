@@ -12,6 +12,7 @@ Now the question is: does it make sense to treat these two differently? i think 
 
 * [[Interaction reversal between knowledge-to-be-memorized and ideas-to-be-developed]]
 * [[Mapping mental motions to parts of a spaced repetition algorithm]]
+* [[Spaced repetition response as chat message or chat reaction]]
 
 ==References==
 
