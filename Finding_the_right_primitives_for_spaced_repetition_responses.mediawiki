@@ -2,6 +2,12 @@
 
 I've written similar things about spaced inbox. i don't think we "know the right primitives" yet when it comes to interacting with these notes/items.
 
+----
+
+i feel like when incremental reading, or for my IR anki deck, there are two primitive operations you do while reading: (1) i think this is important/i want to remember it, and (2) i don't quite understand this, i want to come back to this. for (2), there is no sense that the thing is actually important; it might just be a dumb point but stated in a very confusing manner.
+
+Now the question is: does it make sense to treat these two differently? i think one way that makes sense is with the default initial interval. for (2), i think the interval can be much longer, because it might require quite a bit of time before you have enough new background knowledge to be able to understand something.
+
 ==See also==
 
 * [[Interaction reversal between knowledge-to-be-memorized and ideas-to-be-developed]]
