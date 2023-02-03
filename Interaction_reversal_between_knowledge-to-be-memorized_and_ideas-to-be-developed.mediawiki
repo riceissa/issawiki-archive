@@ -12,6 +12,10 @@ One idea is to use [[dual ratings for spaced inbox]].
 
 also related is https://github.com/andymatuschak/orbit/issues/168
 
+==See also==
+
+* [[Finding the right primitives for spaced repetition responses]]
+
 ==References==
 
 <references/>
