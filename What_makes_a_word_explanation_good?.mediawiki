@@ -39,6 +39,7 @@ I am focusing on [[word explanation]]s here, so ignoring things like spaced repe
 * https://jvns.ca/blog/confusing-explanations/ https://news.ycombinator.com/item?id=28254630
 * the video on this page also talks about some heuristics for making explanations good https://www.3blue1brown.com/blog/some1
 * [https://docs.google.com/document/d/e/2PACX-1vTkqKg5IxCmPbw7JqnAWxoypaYNFH3XJd4UgYw4PufP09zzzW6j3v-CYXZkpD83sVrzygvg7gLbjM_Q/pub Judging textbooks] by https://captchasamurai.github.io/homepage/index.html
+* https://www.lesswrong.com/posts/LockA5xWWn39fXQ5i/properties-of-good-textbooks
 
 ==What links here==
 
