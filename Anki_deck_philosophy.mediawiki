@@ -14,5 +14,7 @@ I think for most people, something like the following decks would be good:
 * Problems/proofs (for [[big card]]s)
 * Incremental reading (for read-only cards)
 
+One downside of this philosophy is that it's pretty inconvenient to share cards with other people (which is something I don't do very much, but occasionally do want to do). Right now Anki does not allow exporting by tag, so I have to move the cards I want to share to a single deck, then export.
+
 [[Category:Anki]]
 [[Category:Spaced repetition]]
