@@ -11,7 +11,7 @@ I now have four "math problems" decks (for doing [[spaced proof review]]). the f
 I think for most people, something like the following decks would be good:
 
 * Normal cards (for smaller cards)
-* Problems/proofs (for big cards)
+* Problems/proofs (for [[big card]]s)
 * Incremental reading (for read-only cards)
 
 [[Category:Anki]]
