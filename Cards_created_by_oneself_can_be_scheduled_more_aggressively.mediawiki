@@ -1,5 +1,7 @@
 A similar point was made by [[Andy Matuschak]] about [[Quantum Country]] cards: if you encounter a card as part of an article you're reading, you know/understand the facts well enough that cards can be more aggressively scheduled compared to, say, vocab cards for a foreign language. The same thing applies to cards you create yourself where you understand the material.
 
+Concretely, I've been doing 5 days -> 14 days as the two initial steps in Anki.
+
 ==See also==
 
 * [[Anki deck options]] -- for more thoughts on scheduling
