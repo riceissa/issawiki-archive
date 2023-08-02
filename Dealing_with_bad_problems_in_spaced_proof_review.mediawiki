@@ -10,4 +10,8 @@
 * if you keep burying it, suspend it using "@". Then later you can go examine it and decide what's wrong with it.
 * if a problem has lots of fiddly details that are hard to get right on the spot, one idea is to make a card which just asks for the main idea, or asks you to draw the right picture (instead of doing all the calculations). If at some point in the future you start to doubt that you can actually do the proof, then that should give you enough motivation to actually attempt the proof. If you get stuck, that stuck point is a good thing to use as the front side of a card; [[make new cards when you get stuck]].
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
