@@ -4,6 +4,7 @@
 * Reviewing a bunch of kanji cards (these felt easy and like I could do them at a rapid pace, and seeing the review count go up felt encouraging, even though I don't normally like to just "make the number go up" as that leads to Goodharting)
 * Making Anki more social -- making cards with other people (e.g. while working through a book together), reviewing their cards, making cards for other people
 * Using filtered decks to "grab" cards I was more interested in reviewing (this requires having some sensible tagging system/organization into decks, so that you ''can'' grab the more interesting cards)
+** This can work both positively and negatively: you can grab cards that are overdue so you don't encounter them (i.e. negatively: take away cards you don't want), and also grab cards by tag that you want to review (positively: grab cards that you want).
 * Committing to review a small number of cards per day (10 cards in my case)
 
 ==See also==
