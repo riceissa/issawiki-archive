@@ -5,5 +5,9 @@ When doing [[spaced proof review]] or even during normal Anki reviews, if you ge
 * [[Dealing with bad problems in spaced proof review]]
 * [[Make Anki cards based on feedback you receive]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
 [[Category:Command]]
