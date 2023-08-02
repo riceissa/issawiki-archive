@@ -1,7 +1,7 @@
 * [[Continually make new cards]]: Making new cards about things I was currently learning/excited about -- somehow, having some new cards makes the older "stale" cards more tolerable
 * [[Liberally suspend cards]]: Suspending a bunch of cards that felt too difficult (indicating my encoding of the material into prompts wasn't very good)
 * Reviewing a bunch of kanji cards (these felt easy and like I could do them at a rapid pace, and seeing the review count go up felt encouraging, even though I don't normally like to just "make the number go up" as that leads to Goodharting)
-* Making Anki more social -- making cards with other people, reviewing their cards, making cards for other people
+* Making Anki more social -- making cards with other people (e.g. while working through a book together), reviewing their cards, making cards for other people
 * Using filtered decks to "grab" cards I was more interested in reviewing (this requires having some sensible tagging system/organization into decks, so that you ''can'' grab the more interesting cards)
 * Committing to review a small number of cards per day (10 cards in my case)
 
