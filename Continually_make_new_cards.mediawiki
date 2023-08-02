@@ -7,5 +7,9 @@ In [[Anki]], having a fresh stream of new cards seems important for keeping up t
 * [[Dealing with bad problems in spaced proof review]]
 * [[Make Anki cards based on feedback you receive]]
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
+
 [[Category:Spaced repetition]]
 [[Category:Command]]
