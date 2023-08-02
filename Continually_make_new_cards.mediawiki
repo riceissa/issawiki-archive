@@ -6,6 +6,7 @@ In [[Anki]], having a fresh stream of new cards seems important for keeping up t
 
 * [[Dealing with bad problems in spaced proof review]]
 * [[Make Anki cards based on feedback you receive]]
+* [[Make new cards when you get stuck]]
 
 ==What links here==
 
