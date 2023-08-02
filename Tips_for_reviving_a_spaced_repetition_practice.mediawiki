@@ -15,5 +15,9 @@
 
 {{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirs=1}}
 
+==External links==
+
+* https://issarice.com/reflections-on-five-years-of-conceptual-anki
+
 [[Category:Spaced repetition]]
 [[Category:Command]]
