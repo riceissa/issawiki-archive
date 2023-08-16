@@ -2,7 +2,7 @@
 
 There's a [[Matt vs Japan]] video that says that [[Anki]] can mess up your internal sense of how frequent certain words are (especially if those words are very infrequent/rare versions) -- these rare words become more available to your mind due to SRS even if nobody uses them.
 
-I wonder how much this applies to SRS in other subjects. e.g. could it mess up a mathematician's intuitions for which theorems one could apply in a given situation?
+I wonder how much this applies to SRS in other subjects. e.g. could it mess up a mathematician's intuitions for which theorems one could apply in a given situation? This could be both good and bad (good because you might be able to see a solution that nobody else sees, bad because you'll possibly miss a lot of other solutions).
 
 does anki distort the "true frequency" of a piece of knowledge? because all cards are reviewed in the same way (uses the same spacing algorithm), you see "less useful" pieces of knowledge come up as frequently as more useful ones. so your mind might mistakenly make the inference that these less useful pieces of knowledge "come up naturally" more frequently than they actually do.
 
