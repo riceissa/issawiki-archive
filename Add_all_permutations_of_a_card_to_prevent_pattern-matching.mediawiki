@@ -1,4 +1,4 @@
-One of the common problems when writing cards (especially [[cloze deletion]] cards) is that the brain just pattern-matches the "shape" of a card without really processing the information on it, so that you can give the correct answer without really thinking. This happens because your brain knows which cards are in your Anki deck vs what isn't in there. One way to prevent such pattern matching is to add all the "permutations" of a card so that your brain must do some extra work to distinguish which of the cards is the one that just showed up.
+One of the common problems when writing cards (especially [[cloze deletion]] cards) is that the brain just pattern-matches the "shape" of a card without really processing the information on it, so that you can give the correct answer without really thinking. This happens because your brain knows which cards are in your Anki deck vs what isn't in there. One way to prevent such pattern matching is to add all the "permutations" of a card so that your brain must do some extra work to distinguish which of the cards is the one that just showed up. I've been calling this the '''permutation trick'''.
 
 Here's an example:
 
