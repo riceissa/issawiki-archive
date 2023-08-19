@@ -8,5 +8,9 @@ I'm not even talking about economies of scale here: like sure, if a single big e
 
 * [[Equivalence classes of prompts]] -- writing equivalence classes of prompts also becomes way easier when dividing the workload among multiple people
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Spaced repetition]]
 [[Category:Claim]]
