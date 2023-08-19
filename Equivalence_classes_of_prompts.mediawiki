@@ -2,4 +2,8 @@ In [[Anki]] each card has exactly one way it could appear in reviews. But instea
 
 The extreme view of this is that you should never see the same prompt twice; somehow or other the prompt should be at least slightly different each time. (I've seen a crude version of this mentioned on r/Anki where people randomly change the font size/font family, and I've been doing this too since it's so cheap to implement. But I'm thinking instead more things like the wording and organization of info. I suppose things like [[ChatGPT]] can do this quite well now, probably.)
 
+==What links here==
+
+{{Special:WhatLinksHere/{{FULLPAGENAME}} | hideredirects=1}}
+
 [[Category:Spaced repetition]]
