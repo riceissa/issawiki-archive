@@ -1,37 +1,47 @@
-Here are my deck options (as of 2021-04-07) for my [[small card]]s decks.
+Here are my deck options (as of 2023-10-30) for my [[small card]]s decks.
+
+Daily limits:
+
+* New cards/day: 5
+* Maximum reviews/day: 1000
 
 New Cards:
 
-* Steps: 10 7200
-* Order: Show new cards in order added
-* New cards/day: 6
-* Graduating interval: 13 days
-* Easy interval: 14 days
-* Starting ease: 250%
-* Bury related new cards until the next day: yes
-
-Reviews:
-
-* Maximum reviews/day: 100
-* Easy bonus: 130%
-* Interval modifier: 100%
-* Maximum interval: 36500 days
-* Bury related reviews until the next day: yes
+* Learning steps: 1d 5d
+* Graduating interval: 13 (days)
+* Easy interval: 14 (days)
+* Insertion order: Sequential (oldest cards first)
 
 Lapses:
 
-* Steps: 10
-* New interval: 70%
-* Minimum interval: 1 days
-* Leech threshold: 8 lapses
-* Leech action; Suspend Card
+* Relearning steps: 1d
+* Minimum interval: 1 (days)
+* Leech threshold: 4
+* Leech action: Suspend Card
 
-General:
+Timer:
 
-* Ignore answer times longer than 60 seconds
+* Maximum answer seconds: 60
 * Show answer timer: no
-* Automatically play audio: yes
-* Always include question side when replaying audio: yes
+
+Burying:
+
+* Bury new siblings: yes
+* Bury reviews siblings: yes
+
+Audio:
+
+* Don't play audio automatically: no
+* Skip question when replaying answer: no
+
+Advanced:
+
+* Maximum interval: 36500 (days)
+* Starting ease: 2.50
+* Easy bonus: 1.30
+* Interval modifier: 1.00
+* Hard interval: 1.20
+* New interval: 0.70
 
 ==See also==
 
