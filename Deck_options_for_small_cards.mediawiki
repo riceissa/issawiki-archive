@@ -1,4 +1,4 @@
-Here are my deck options (as of 2023-10-30) for my [[small card]]s decks. The order of the options follows Anki ⁨version 2.1.65.
+Here are my deck options (as of 2023-10-30) for my [[small card]]s decks, specifically conceptual cards (so not for things like memorizing foreign vocabulary or names of capitals). The order of the options follows Anki ⁨version 2.1.65.
 
 Daily limits:
 
