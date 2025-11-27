@@ -17,6 +17,10 @@ In Emacs, Emacs itself doesn't maintain its current directory, and instead all f
 
 Vim can do the Emacs thing with :set autochdir, but this is disabled by default.
 
+==Line-based vs character-based==
+
+Vim comes from a lineage of line-based editors.
+
 ==Multiple similar commands vs single repeated command==
 
 This one is a bit hard to explain, but there is a definite pattern where Vim prefers to give the user multiple similar commands, while Emacs prefers to give a single command that you can then repeat or use creatively. The best way to explain is to give a bunch of examples:
