@@ -1,0 +1,11 @@
+
+==Modal vs chording==
+
+==Session management: per project vs single instance==
+
+==Multiple similar commands vs single repeated command==
+
+This one is a bit hard to explain, but there is a definite pattern where Vim prefers to give the user multiple similar commands, while Emacs prefers to give a single command that you can then repeat or use creatively. The best way to explain is to give a bunch of examples:
+
+* Changing the screen view relative to cursor: Vim gives you zz to scroll so as to leave the cursor at the center of the screen, zt to scroll and put the cursor at the top, and zb to scroll and put the cursor at the bottom. Emacs just gives you a single command, Ctrl-l, which when repeatedly pressed, will cycle between all three views.
+* Moving cursor to top, middle, bottom: Vim gives you H to move cursor to the top of the screen, M to move to middle, and L to move to bottom. Emacs just gives you Alt-r, which will cycle between the three configurations.
