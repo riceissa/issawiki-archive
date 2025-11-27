@@ -3,6 +3,12 @@
 
 ==Session management: per project vs single instance==
 
+The "right way" to use Vim is to have one instance of Vim open per "project". Each Vim instance maintains its own current directory, so you can e.g. open files relative to that current directory.
+
+In Emacs, Emacs itself doesn't maintain its current directory, and instead all file-open actions are relative to the buffer's directory.
+
+Vim can do the Emacs thing with :set autochdir, but this is disabled by default.
+
 ==Multiple similar commands vs single repeated command==
 
 This one is a bit hard to explain, but there is a definite pattern where Vim prefers to give the user multiple similar commands, while Emacs prefers to give a single command that you can then repeat or use creatively. The best way to explain is to give a bunch of examples:
