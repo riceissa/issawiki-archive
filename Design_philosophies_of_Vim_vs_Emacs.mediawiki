@@ -7,7 +7,7 @@ Vim tries to just be a text editor, and tries to play nice with the other tools 
 
 ===...with some exceptions===
 
-Vim has a built-in spellchecker, whereas Emacs doesn't. (Emacs comes with tetris, an RPN calculator, an email client, etc., but not a spell-checker!)
+Vim has a built-in spellchecker, whereas Emacs doesn't (it does come with flyspell, which works with an external spellchecker like hunspell or aspell). (Emacs comes with tetris, an RPN calculator, an email client, etc., but not a spell-checker!)
 
 ==Session management: per project vs single instance==
 
