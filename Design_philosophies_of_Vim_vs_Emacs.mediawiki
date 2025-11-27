@@ -62,6 +62,10 @@ In Vim, defaults.vim sets scrolloff=5, which means that when the cursor is at th
 
 In Emacs, the default behavior is instead to jerk the screen to the center ''after'' you step off the edge.
 
+==Search and replace==
+
+Emacs automatically does all the case variants, e.g. if you search and replace foo -> bar, it also does Foo -> Bar, FOO -> Bar, etc. Vim doesn't do this.
+
 ==Documentation: graph/linear vs tree==
 
 Vim uses a wiki-like help system, where you can click on links to read the sections. It also contains a linear book under :help user-manual. Emacs has a GNU-like hierarchical tree documentation system.
