@@ -19,7 +19,11 @@ Vim can do the Emacs thing with :set autochdir, but this is disabled by default.
 
 ==Line-based vs character-based==
 
-Vim comes from a lineage of line-based editors.
+Vim comes from a lineage of line-based editors. Registers can be linewise or characterwise, which means that actions like pasting text can act on entire lines or on characters. Some commands, like :substitute or :global, only work linewise.
+
+Emacs is like most other text editors in that it has no concept of linewise.
+
+==Tree-based undo vs stack-based undo==
 
 ==Multiple similar commands vs single repeated command==
 
