@@ -64,7 +64,7 @@ In Emacs, the default behavior is instead to jerk the screen to the center ''aft
 
 ==Search and replace==
 
-Emacs automatically does all the case variants, e.g. if you search and replace foo -> bar, it also does Foo -> Bar, FOO -> Bar, etc. Vim doesn't do this.
+Emacs automatically does all the case variants, e.g. if you search and replace foo → bar, it also does Foo → Bar, FOO → Bar, etc. Vim doesn't do this.
 
 ==Documentation: graph/linear vs tree==
 
