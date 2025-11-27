@@ -56,6 +56,12 @@ Vim's word-based motions like w, b, and e always treat contiguous alphanumeric s
 
 Suppose you have something like: <code>"hello"</code> where the cursor is on the first quote. In Vim, w will move the cursor onto the h. In Emacs, Alt-f will move the cursor past the h onto the second quote.
 
+==Scrolling: scrolloff vs scroll-into-view==
+
+In Vim, defaults.vim sets scrolloff=5, which means that when the cursor is at the edge of the window, it will always show 5 lines of context. You can never "touch" the very edge of the screen, because the screen will scroll when you try to move to the edge.
+
+In Emacs, the default behavior is instead to jerk the screen to the center ''after'' you step off the edge.
+
 ==Documentation: graph/linear vs tree==
 
 Vim uses a wiki-like help system, where you can click on links to read the sections. It also contains a linear book under :help user-manual. Emacs has a GNU-like hierarchical tree documentation system.
