@@ -1,6 +1,8 @@
 
 ==Modal vs chording==
 
+==Unix as IDE vs Emacs as OS==
+
 ==Session management: per project vs single instance==
 
 The "right way" to use Vim is to have one instance of Vim open per "project". Each Vim instance maintains its own current directory, so you can e.g. open files relative to that current directory.
