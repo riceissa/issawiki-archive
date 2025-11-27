@@ -23,7 +23,7 @@ See [https://nullprogram.com/blog/2017/08/22/ this blog post] for more details.
 
 ==Line-based vs character-based==
 
-Vim comes from a lineage of line-based editors. Registers can be linewise or characterwise, which means that actions like pasting text can act on entire lines or on characters. Some commands, like :substitute or :global, only work linewise. This is even reflected in the motion to move up or down a line: by default, j and k move down or up by logical lines instead of screen lines.
+Vim comes from a lineage of line-based editors. Registers can be linewise or characterwise, which means that actions like pasting text can act on entire lines or on characters. Some commands, like :substitute or :global, only work linewise. This is even reflected in the motion to move up or down a line: by default, j and k move down or up by logical lines instead of screen lines. However, due to this lineage, Vim does not deal well with long lines of text. Recent version of Vim have :set smoothscroll, but this only partially works.
 
 Emacs is like most other text editors in that it has no concept of linewise. Ctrl-n and Ctrl-p move by screen-lines, not logical lines, which makes sense when you think of the buffer of text as a stream of characters rather than an array of lines.
 
