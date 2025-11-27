@@ -19,6 +19,8 @@ In Emacs, Emacs itself doesn't maintain its current directory, and instead all f
 
 Vim can do the Emacs thing with :set autochdir, but this is disabled by default.
 
+See [https://nullprogram.com/blog/2017/08/22/ this blog post] for more details.
+
 ==Line-based vs character-based==
 
 Vim comes from a lineage of line-based editors. Registers can be linewise or characterwise, which means that actions like pasting text can act on entire lines or on characters. Some commands, like :substitute or :global, only work linewise.
