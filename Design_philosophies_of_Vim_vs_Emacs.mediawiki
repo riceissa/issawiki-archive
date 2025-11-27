@@ -5,7 +5,7 @@
 
 Vim tries to just be a text editor, and tries to play nice with the other tools on your computer, using commands like <code>:!command</code> (runs external command) or <code>:w !command</code> (pipes text to external command via stdin) or <code>:r !command</code> (reads from external command via stdout).
 
-==...with some exceptions==
+===...with some exceptions===
 
 Vim has a built-in spellchecker, whereas Emacs doesn't. (Emacs comes with tetris, an RPN calculator, an email client, etc., but not a spell-checker!)
 
