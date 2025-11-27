@@ -84,3 +84,7 @@ Emacs often prompts the user.
 Vim uses a wiki-like help system, where you can click on links to read the sections. It also contains a linear book under :help user-manual. Emacs has a GNU-like hierarchical tree documentation system.
 
 Both have a way to look things up based on keystroke or command name though. Vim has a universal :help command, while Emacs has e.g. Ctrl-h k for keystrokes or Ctrl-h f for functions.
+
+==Selection endpoint==
+
+Vim includes the selection endpoint, whereas Emacs doesn't. The need to make this decision comes from both editors originating on the terminal with block cursors, rather than the more modern I-beam cursors.
