@@ -33,6 +33,12 @@ In Vim, commands like "copy text" don't have a "name"; they are simply the keyst
 
 In Emacs, every keystroke, even entering a single character, has a function that is associated with it. Emacs is simply an interpreter that runs the function associated with the keystroke. You can always do Ctrl-h k followed by the keystroke to find which function is bound to that particular keystroke.
 
+==Actions: commands vs keybindings==
+
+Vim often uses the command-line for even common actions, e.g. :w to save a file. Emacs relies more on keybindings, e.g. Ctrl-x Ctrl-s to save a file.
+
+But there are some exceptions. To open the file that the cursor is on, Vim has various keybindings, including <code>gf</code>, <code>gF</code>, Ctrl-w f, etc., but Emacs only has M-x ffap.
+
 ==Tree-based undo vs stack-based undo==
 
 ==Multiple similar commands vs single repeated command==
