@@ -27,6 +27,12 @@ Vim comes from a lineage of line-based editors. Registers can be linewise or cha
 
 Emacs is like most other text editors in that it has no concept of linewise.
 
+==Mappings: keystroke based vs function-based==
+
+In Vim, commands like "copy text" don't have a "name"; they are simply the keystroke that is used to perform that action. So if you want to "program" Vim to repeat some action, such as when defining a mapping, you simply tell Vim which keystrokes you want to repeat.
+
+In Emacs, every keystroke, even entering a single character, has a function that is associated with it. Emacs is simply an interpreter that runs the function associated with the keystroke. You can always do Ctrl-h k followed by the keystroke to find which function is bound to that particular keystroke.
+
 ==Tree-based undo vs stack-based undo==
 
 ==Multiple similar commands vs single repeated command==
