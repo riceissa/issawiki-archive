@@ -57,11 +57,13 @@ This one is a bit hard to explain, but there is a definite pattern where Vim pre
 
 In general, I feel that Vim requires more mental energy to use, in some sense. You need to pick the specific action you wanted to perform. You need to think ahead and decide which registers to use. This also comes from Vim's modal nature, but Vim gives you more decisions and a grammar, whereas Emacs gives you a way to quickly do the common thing. I think much of this may have been forced on the design of Vim by deciding to be keystroke-based, so that the only way to make some action available in normal mode was to assign some key to it. Whereas Emacs went more in the direction of being functions-first, and once you have functions, it is natural to pass arguments to the function to modify the behavior.
 
-==Word movement: predictable vs "do the common thing"==
+==Word movement: consistent vs "do the common thing"==
 
-Vim's word-based motions like w, b, and e always treat contiguous alphanumeric sequences as single words, and also treats contiguous symbols as single words. This leads to a pretty predictable word movement. Emacs does the thing that most other text editors do, which is that if the cursor is before a symbol, then moving forward by one word will not just jump to the end of the symbols, but will jump to the end of the alphanumeric sequence ''after'' the symbols.
+Vim's word-based motions like w, b, and e always treat contiguous alphanumeric sequences as single words, and also treats contiguous symbols as single words. This leads to a very consistent word movement, which means you will never have to backtrack.
 
-Suppose you have something like: <code>"hello"</code> where the cursor is on the first quote. In Vim, w will move the cursor onto the h. In Emacs, Alt-f will move the cursor past the h onto the second quote.
+Emacs does the thing that most other text editors do, which is that if the cursor is before/on a symbol, then moving forward by one word will not just jump to the end of the symbols, but will jump to the end of the alphanumeric sequence ''after'' the symbols. Emacs caters to the most common thing, and sometimes you need to backtrack.
+
+Suppose you have some text like: <code>Hello, world.</code> and the cursor is past the final period. You want to add the word <code>there</code> before the comma, to make it <code>Hello there, world.</code> In Vim, you press b a few times to move backwards by word, until the cursor is on the comma, at which point you can go into insert mode to type the "there". In Emacs, Alt-b will move the cursor back by word, but once the cursor is on the 'w', pressing Alt-b again will jump past the comma onto the 'H' -- in other words, it overshoots. So then you need to backtrack by pressing Alt-f to move forward by word.
 
 ==Scrolling: scrolloff vs scroll-into-view==
 
