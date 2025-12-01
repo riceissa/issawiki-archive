@@ -82,6 +82,8 @@ Emacs has more visual noise, e.g. the line continuation markers, incremental sea
 
 Of course, by modern standards of things like VS Code, Zed, JetBrains, etc., even Emacs will feel minimal! No line numbers, sidebar with a file tree, no minimap that shows a zoomed out view of the file, no tabs shown by default, no git gutter, no git blame next to every line as the cursor moves, no popups nagging you about updates or extensions to install, no breadcrumbs (path of nested scope at the top), no hover-over documentation.
 
+Both Vim and Emacs have prominent comment colors in their syntax highlighting by default (in Vim it's blue, in Emacs it's red), which I think says a lot. By making most things invisible but making comments stand out, it tells the user that comments are something worth paying attention to. They both come from a saner culture in which programmers were intelligent and comments meant something. Now modern editors have all this crap in your face, and not just that, they make comments ''grayed out'' so that they almost fade into the background.
+
 ==Prompting the user==
 
 For Vim, see [https://www.reddit.com/r/vim/comments/267vrv/i_am_tim_pope_crafter_of_plugins_ama/chojzsb/].
