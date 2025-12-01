@@ -68,7 +68,7 @@ Suppose you have some text like: <code>Hello, world.</code> and the cursor is pa
 
 ==Scrolling: scrolloff vs scroll-into-view==
 
-In Vim, defaults.vim sets scrolloff=5, which means that when the cursor is at the edge of the window, it will always show 5 lines of context. You can never "touch" the very edge of the screen, because the screen will scroll when you try to move to the edge.
+In Vim, defaults.vim sets scrolloff=5, which means that when the cursor is at the edge of the window, it will always show 5 lines of context. You can never "touch" the very edge of the screen, because the screen will scroll when you try to move to the edge. (But due to Vim's line-oriented heritage, this will scroll into view an entire logical line instead of just one visual line.)
 
 In Emacs, the default behavior is instead to jerk the screen to the center ''after'' you step off the edge.
 
