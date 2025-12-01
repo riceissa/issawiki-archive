@@ -80,7 +80,7 @@ Emacs automatically does all the case variants, e.g. if you search and replace f
 
 Emacs has more visual noise, e.g. the line continuation markers, incremental search by default, highlighting of all search matches as you type, a status bar. Vim comes from an environment where terminals were very slow so it tries by default to not draw to the screen very much. This means fewer things flash on the screen as you do things -- quite monastic vibes.
 
-Of course, by modern standards of things like VS Code, Zed, JetBrains, etc., even Emacs will feel minimal! No sidebar with a file tree, no minimap that shows a zoomed out view of the file, no tabs shown by default, no git gutter, no popups nagging you about updates or extensions to install, no breadcrumbs (path of nested scope at the top), no hover-over documentation.
+Of course, by modern standards of things like VS Code, Zed, JetBrains, etc., even Emacs will feel minimal! No sidebar with a file tree, no minimap that shows a zoomed out view of the file, no tabs shown by default, no git gutter, no git blame next to every line as the cursor moves, no popups nagging you about updates or extensions to install, no breadcrumbs (path of nested scope at the top), no hover-over documentation.
 
 ==Prompting the user==
 
