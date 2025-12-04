@@ -34,6 +34,8 @@ In Vim, commands like "copy text" don't have a "name"; they are simply the keyst
 
 In Emacs, every keystroke, even entering a single character, has a function that is associated with it. Emacs is simply an interpreter that runs the function associated with the keystroke. You can always do Ctrl-h k followed by the keystroke to find which function is bound to that particular keystroke.
 
+I think that being keystroke-based is one of the reasons Vim is so conservative about default keybindings, because if you change the default keybinding inside of the C source code, it actually breaks all user mappings and scripts that rely on replaying keystrokes. So then eventually Vim came up with defaults.vim, which is not implemented on the level of C, but instead implemented on the level of Vimscript. By implementing it in Vimscript, it functions like user configuration, so it doesn't change what the original keybindings mean. But doing this also means now you have to reason about multiple levels, the "base layer C keybindings" vs the "default keybindings that you actually interact with". And at that point you've kind of reinvented the thing that Emacs does.
+
 ==Actions: commands vs keybindings==
 
 Vim often uses the command-line for even common actions, e.g. :w to save a file [https://www.reddit.com/r/vim/comments/267vrv/i_am_tim_pope_crafter_of_plugins_ama/chojzsb/]. Emacs relies more on keybindings, e.g. Ctrl-x Ctrl-s to save a file.
