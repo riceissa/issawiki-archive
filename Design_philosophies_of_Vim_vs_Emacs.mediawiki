@@ -102,3 +102,5 @@ Both have a way to look things up based on keystroke or command name though. Vim
 ==Selection endpoint==
 
 Vim includes the selection endpoint, whereas Emacs doesn't. The need to make this decision comes from both editors originating on the terminal with block cursors, rather than the more modern I-beam cursors.
+
+[[Category:Design]]
