@@ -3,6 +3,7 @@ The main things that are going on here:
 * [[:Category:AI safety]] -- notes on AI safety strategy
 * [[:Category:Spaced repetition]] -- detailing my approach to using spaced repetition software
 * [[:Category:Learning]] -- pages about learning that aren't about spaced repetition
+* [[:Category:Design]] -- pages about UI/UX design
 
 For math, see [https://machinelearning.subwiki.org/wiki/User:IssaRice my ML Subwiki userspace pages].
 
