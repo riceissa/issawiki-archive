@@ -1,1 +1,1 @@
-Pages about design, mostly design of software.
+Pages about design, mostly design of software (in the UI/UX sense, not in the software architecture sense).
