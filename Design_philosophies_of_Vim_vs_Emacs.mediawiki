@@ -45,6 +45,8 @@ But there are some exceptions. To open the file that the cursor is on, Vim has v
 
 ==Tree-based undo vs stack-based undo==
 
+(I think the mark ring in Emacs is also stack-based.)
+
 ==Multiple similar commands vs single repeated command==
 
 This one is a bit hard to explain, but there is a definite pattern where Vim prefers to give the user multiple similar commands, while Emacs prefers to give a single command that you can then repeat or use creatively. The best way to explain is to give a bunch of examples:
