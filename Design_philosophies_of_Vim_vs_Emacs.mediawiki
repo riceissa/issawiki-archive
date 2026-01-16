@@ -107,4 +107,8 @@ Both have a way to look things up based on keystroke or command name though. Vim
 
 Vim includes the selection endpoint, whereas Emacs doesn't. The need to make this decision comes from both editors originating on the terminal with block cursors, rather than the more modern I-beam cursors.
 
+==Messages: clear as late as possible/explicitly vs clear as soon as possible==
+
+Vim only clears messages when the user does ctrl-l or does something that would redraw the screen somehow. Emacs clears as soon as the cursor is moved.
+
 [[Category:Design]]
